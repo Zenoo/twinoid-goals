@@ -1,0 +1,57 @@
+{
+  "parser": "@babel/eslint-parser",
+  "plugins": ["@typescript-eslint"],
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "extends": [
+    "eslint:recommended"
+  ],
+  "ignorePatterns": "dist/**/*",
+  "rules": {
+    "object-curly-newline": ["error", {
+      "ImportDeclaration": "never"
+    }],
+    "init-declarations": ["error", "always"],
+    "prefer-destructuring": ["error", {
+      "VariableDeclarator": {
+        "array": true,
+        "object": true
+      },
+      "AssignmentExpression": {
+        "array": true,
+        "object": false
+      }
+    }, {
+      "enforceForRenamedProperties": true
+    }],
+    "no-unused-vars":"error",
+    "no-undefined": "off",
+    "no-empty-function": [
+      "error",
+      {
+        "allow": ["arrowFunctions"]
+      }
+    ],
+    "prefer-named-capture-group": "error",
+    "no-underscore-dangle": "off",
+    "arrow-body-style": "off",
+    "comma-dangle": "off",
+    "no-implicit-coercion": "off",
+    "no-use-before-define": "error",
+    "import/no-named-default": "off",
+    "import/no-unresolved": "off",
+    "import/order": "off",
+    "jsx-a11y/anchor-is-valid": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/control-has-associated-label": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "no-console": "off",
+    "no-plusplus": "off",
+    "no-nested-ternary": "off",
+    "linebreak-style": 0,
+    "sort-imports": "off",
+    "space-infix-ops": "off"
+  }
+}
