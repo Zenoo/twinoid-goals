@@ -1,3 +1,3 @@
-import { TwinoidGoals } from './TwinoidGoals.ts';
+import TwinoidGoals from './TwinoidGoals.ts';
 
 export default TwinoidGoals;
