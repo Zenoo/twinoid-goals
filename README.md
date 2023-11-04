@@ -2,7 +2,7 @@
 
 A simple, straight-forward package containing everything you need to handle Twinoid goals.
 
-![](https://i.imgur.com/eEGWJnb.png)
+![](https://i.imgur.com/gL6Od52.png)
 
 ## Installation
 ```
