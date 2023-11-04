@@ -34,7 +34,9 @@ export type Language = typeof Languages[number];
 export interface Goal {
   id: string;
   name: Record<Language, string>;
-  rare: boolean;
+  description?: Record<Language, string>;
+  rare: number;
+  hidden?: true;
   unlocks: Unlock[];
 }
 
@@ -43,6 +45,8 @@ export interface Unlock {
   points: number;
   icon?: string;
   title?: Record<Language, string>;
+  prefix?: true;
+  suffix?: true;
 }
 
 /**
@@ -78,3 +82,22 @@ export const adjustGoals = <T extends string> (goals: Record<T, Goal>): Record<T
 
   return Object.fromEntries(adjustedGoals.map(goal => [goal.id, goal])) as Record<T, Goal>;
 };
+
+/**
+ * Get a goal by id
+ */
+export const getGoal = <T extends string> (goals: Record<T, Goal>) => (id: T): Goal | null => {
+  const goal = goals[id];
+  return goal ? goal : null;
+}
+
+/**
+ * Get the unlocked goals for a given number of points
+ */
+export const getUnlockedGoals = <T extends string> (goals: Record<T, Goal>) => (id: T, points: number): Unlock[] => {
+  const goal = getGoal(goals)(id);
+  if (!goal) return [];
+
+  const unlocked = goal.unlocks.filter(unlock => unlock.points <= points);
+  return unlocked;
+}

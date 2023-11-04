@@ -12,15 +12,25 @@ npm i twinoid-goals
 ## Usage
 
 ```ts
-import { TwinoidGoals } from 'twinoid-goals';
+import { alphabounce } from 'twinoid-goals';
 
-console.log(TwinoidGoals.alphabounce.totalPoints);
+const unlockedGoals = alphabounce.getUnlocked('planets', 6);
 ```
 
 ## More examples
 
-### xxx
+### Get all goals for a specific game
 
 ```ts
+import { alphabounce } from 'twinoid-goals';
 
+const { goals } = alphabounce;
+```
+
+### Get all unlockable goals for an ID
+
+```ts
+import { alphabounce } from 'twinoid-goals';
+
+const planets = alphabounce.get('planets');
 ```

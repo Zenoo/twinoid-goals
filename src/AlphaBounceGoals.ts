@@ -20,7 +20,7 @@ export const AlphaBounceGoals: Record<AlphaBounceGoalName, Goal> = {
       de: 'Erkundete Planeten',
       es: 'Planètes explorées',
     },
-    rare: false,
+    rare: 0,
     unlocks: [
       { count: 1, points: 10, icon: 'small_forum_read.gif' },
       { count: 2, points: 10 },
@@ -53,7 +53,7 @@ export const AlphaBounceGoals: Record<AlphaBounceGoalName, Goal> = {
       de: 'Wieder auf der Erde',
       es: 'Terre retrouvée',
     },
-    rare: false,
+    rare: 0,
     unlocks: [
       {
         count: 1,
@@ -76,7 +76,7 @@ export const AlphaBounceGoals: Record<AlphaBounceGoalName, Goal> = {
       de: 'Erledigte Missionen',
       es: 'missions accomplies',
     },
-    rare: true,
+    rare: 1,
     unlocks: [
       { count: 1, points: 10 },
       { count: 2, points: 10 },
@@ -126,7 +126,7 @@ export const AlphaBounceGoals: Record<AlphaBounceGoalName, Goal> = {
       de: 'Fortschritt',
       es: 'niveaux réussis',
     },
-    rare: false,
+    rare: 0,
     unlocks: [
       {
         count: 10,
@@ -188,7 +188,7 @@ export const AlphaBounceGoals: Record<AlphaBounceGoalName, Goal> = {
       de: 'Dienstgrad ESCORP',
       es: 'Grade ESCORP atteint',
     },
-    rare: true,
+    rare: 1,
     unlocks: [
       { count: 1, points: 5, icon: 'rank_1.gif' },
       { count: 2, points: 5, icon: 'rank_2.gif' },
@@ -212,7 +212,7 @@ export const AlphaBounceGoals: Record<AlphaBounceGoalName, Goal> = {
       de: 'Dienstgrad FURI',
       es: 'Grade FURI atteint',
     },
-    rare: true,
+    rare: 1,
     unlocks: [
       { count: 1, points: 5, icon: 'rank_furi_1.gif' },
       { count: 2, points: 5, icon: 'rank_furi_2.gif' },

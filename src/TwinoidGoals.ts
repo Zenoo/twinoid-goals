@@ -1,11 +1,14 @@
-import { AlphaBounceAdjustedGoals, AlphaBounceGoals } from "./AlphaBounceGoals";
-import { getTotalPoints } from "./common";
+import { AlphaBounceAdjustedGoals } from "./AlphaBounceGoals";
+import { DinoRpgAdjustedGoals } from "./DinoRpgGoals";
+import { Goal, getGoal, getUnlockedGoals } from "./common";
 
+const generateGameStructure = <T extends string> (goals: Record<T, Goal>) => ({
+  goals,
+  get: getGoal(goals),
+  getUnlocked: getUnlockedGoals(goals),
+});
 
-export const TwinoidGoals = {
-  alphabounce: {
-    goals: AlphaBounceGoals,
-    totalPoints: getTotalPoints(AlphaBounceGoals),
-    adjustedGoals: AlphaBounceAdjustedGoals,
-  },
+export default {
+  alphabounce: generateGameStructure(AlphaBounceAdjustedGoals),
+  dinorpg: generateGameStructure(DinoRpgAdjustedGoals),
 };

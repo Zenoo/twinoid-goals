@@ -58,10 +58,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "standard-version": {
-    "scripts": {
-      "prerelease": "npm run build && git add dist"
-    }
   }
 }
