@@ -1,6 +1,6 @@
 {
   "name": "twinoid-goals",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -24,8 +24,7 @@
   ],
   "author": "Zenoo",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/preset-env": "^7.16.4",
     "@babel/core": "^7.17.8",
