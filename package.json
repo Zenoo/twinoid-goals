@@ -30,6 +30,7 @@
     "@babel/preset-env": "^7.16.4",
     "@babel/preset-typescript": "^7.16.7",
     "@pgrabovets/json-view": "^2.7.5",
+    "@rollup/plugin-json": "^6.0.1",
     "@rollup/plugin-typescript": "^11.1.5",
     "@typescript-eslint/eslint-plugin": "^5.18.0",
     "@typescript-eslint/parser": "^5.18.0",
