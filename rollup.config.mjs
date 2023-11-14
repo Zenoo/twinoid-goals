@@ -1,15 +1,21 @@
-import typescript from '@rollup/plugin-typescript';
+import typescript from 'rollup-plugin-typescript2';
 import json from '@rollup/plugin-json';
 
 export default {
   input: 'src/TwinoidGoals.ts',
   output: {
     format: 'cjs',
-    file: 'dist/index.js'
+    dir: 'dist',
   },
-  plugins: [typescript({
-    exclude: ['exportXmlAsJson.ts', 'parseJson.ts'],
-    resolveJsonModule: true,
-    allowSyntheticDefaultImports: true,
-  }), json()]
+  plugins: [json(), typescript({
+    exclude: ['src/exportXmlAsJson.ts', 'src/parseJson.ts', 'test/**/*'],
+    tsconfigDefaults: {
+      compilerOptions: {
+        moduleResolution: 'node',
+        resolveJsonModule: true,
+        allowSyntheticDefaultImports: true,
+        declaration: true,
+      },
+    },
+  })]
 };

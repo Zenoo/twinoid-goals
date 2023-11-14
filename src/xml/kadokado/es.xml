@@ -744,37 +744,7 @@
 	</goal>
 	
 	
-					
-	<!-- IconoS CONSOMMABLES: les ID sont celles qui étaient utilisées dans l'ancienne table Icon -->
-	<goal id="1" 	name="Icono Aqua Splash" 		useIcon="aqua.gif" 			icon="aqua.gif"			></goal>
-	<goal id="2" 	name="Icono Atlanteine" 		useIcon="atl.gif"  			icon="atl.gif"			></goal>
-	<goal id="3" 	name="Icono Bactery" 			useIcon="bact.gif"			icon="bact.gif"			></goal>
-	<goal id="4" 	name="Icono Piou builder" 	 	useIcon="builder.gif"		icon="builder.gif"		></goal>
-	<goal id="5" 	name="Icono Cooking Lili" 	 	useIcon="cook.gif"			icon="cook.gif"			></goal>
-	<goal id="6" 	name="Icono Interwheel" 		useIcon="inter.gif"			icon="inter.gif"		></goal>
-	<goal id="7" 	name="Icono Iron Chouquette" 	useIcon="iron.gif"			icon="iron.gif"			></goal>
-	<goal id="8" 	name="Icono Kanji" 			 	useIcon="kanj.gif"			icon="kanj.gif"			></goal>
-	<goal id="9" 	name="Icono Kanji 2" 			useIcon="kanji2.gif"			icon="kanji2.gif"		></goal>
-	<goal id="10" 	name="Icono Lili" 			 	useIcon="lili2.gif"			icon="lili2.gif"		></goal>
-	<goal id="11" 	name="Icono Piou cute" 		 	useIcon="pioucute.gif"		icon="pioucute.gif"		></goal>
-	<goal id="12" 	name="Icono Piou sad" 		 	useIcon="piousad.gif"		icon="piousad.gif"		></goal>
-	<goal id="13" 	name="Icono Piou shy" 		 	useIcon="shy.gif"			icon="shy.gif"			></goal>
-	<goal id="14" 	name="Icono Piou smile" 		useIcon="smile_1.gif"		icon="smile_1.gif"		></goal>
-	<goal id="15" 	name="Icono Zipzap" 			useIcon="zap.gif"			icon="zap.gif"			></goal>
-	<goal id="16" 	name="Icono Bière" 			 	useIcon="beer.gif"			icon="beer.gif"			></goal>
-	<goal id="17" 	name="Icono Café" 			 	useIcoen="cafe.gif"			icon="cafe.gif"			></goal>
-	<goal id="18" 	name="Icono Cola" 				useIcon="cola.gif"			icon="cola.gif"			></goal>
-	<goal id="19" 	name="Icono Ice tea" 			useIcon="icet.gif"			icon="icet.gif"			></goal>
-	<goal id="20" 	name="Icono Orange" 			useIcon="orange.gif"			icon="orange.gif"		></goal>
-	<goal id="21" 	name="Icono Redcow" 			useIcon="redcow.gif"			icon="redcow.gif"		></goal>
-	<goal id="22" 	name="Icono Snow cool" 		 	useIcon="snow_cool.gif"		icon="snow_cool.gif"	></goal>
-	<goal id="23" 	name="Icono Snow hu" 			useIcon="snow_hu.gif"		icon="snow_hu.gif"		></goal>
-	<goal id="24" 	name="Icono Snow yeah" 		 	useIcon="snow_yeah.gif"		icon="snow_yeah.gif"	></goal>
-	<goal id="25" 	name="Icono cadeau" 			useIcon="item_present.png" 	icon="item_present.png"	></goal>
-	<goal id="26" 	name="Icono Amour en or" 		useIcon="small_fav.gif"		icon="small_fav.gif"	></goal>
-	<goal id="27" 	name="Icono Chrono" 			useIcon="small_chrono.gif"	icon="small_chrono.gif"	></goal>
-	
-	
+
 	
 	<!-- IconoS FORUM -->
 	<icons>
