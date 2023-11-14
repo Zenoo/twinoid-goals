@@ -1,0 +1,714 @@
+{
+  "mextra": {
+    "id": "mextra",
+    "name": {
+      "en": "Extraction of valuable files",
+      "fr": "Extraction de fichiers de valeur",
+      "de": "Extraction of valuable files",
+      "es": "Extraction of valuable files"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "",
+          "fr": "Super",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "File thief",
+          "fr": "Voleur de fichiers",
+          "de": "File thief",
+          "es": "File thief"
+        }
+      },
+      {
+        "count": 250,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Extractor",
+          "fr": "Extracteur",
+          "de": "Extractor",
+          "es": "Extractor"
+        }
+      },
+      {
+        "count": 500,
+        "points": 2,
+        "icon": "storage.png",
+        "title": {
+          "en": "File Extractor",
+          "fr": "Extracteur de fichiers",
+          "de": "File Extractor",
+          "es": "File Extractor"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "PACK-man",
+          "fr": "PACK-man",
+          "de": "PACK-man",
+          "es": "PACK-man"
+        }
+      }
+    ]
+  },
+  "eextra": {
+    "id": "eextra",
+    "name": {
+      "en": "Resource Extraction",
+      "fr": "Extraction de ressources",
+      "de": "Resource Extraction",
+      "es": "Resource Extraction"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Collector",
+          "fr": "Collecteur",
+          "de": "Collector",
+          "es": "Collector"
+        }
+      },
+      {
+        "count": 200,
+        "points": 5,
+        "icon": "mana.png",
+        "title": {
+          "en": "Mana mana! Pampam palala.",
+          "fr": "Mana mana ! Pampam palala.",
+          "de": "Mana mana! Pampam palala.",
+          "es": "Mana mana! Pampam palala."
+        }
+      },
+      {
+        "count": 250,
+        "points": 5,
+        "title": {
+          "en": "",
+          "fr": "Mana mana ! Pampam palala.",
+          "de": "",
+          "es": ""
+        }
+      }
+    ]
+  },
+  "av": {
+    "id": "av",
+    "name": {
+      "en": "Anti-Virus Deletion",
+      "fr": "Suppression d'anti-virus",
+      "de": "Anti-Virus Deletion",
+      "es": "Anti-Virus Deletion"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1000,
+        "points": 2,
+        "icon": "av.png",
+        "title": {
+          "en": "Anti-virus Assassin",
+          "fr": "Haine des anti-virus",
+          "de": "Anti-virus Assassin",
+          "es": "Anti-virus Assassin"
+        }
+      }
+    ]
+  },
+  "corrup": {
+    "id": "corrup",
+    "name": {
+      "en": "Systems corrupted",
+      "fr": "Systèmes corrompus",
+      "de": "Systems corrupted",
+      "es": "Systems corrupted"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Corrupteur",
+          "fr": "Corrupteur",
+          "de": "Corrupteur",
+          "es": "Corrupteur"
+        }
+      },
+      {
+        "count": 150,
+        "points": 5,
+        "icon": "uc.png",
+        "title": {
+          "en": "Corrupteur",
+          "fr": "Corrupteur",
+          "de": "Corrupteur",
+          "es": "Corrupteur"
+        }
+      }
+    ]
+  },
+  "crash": {
+    "id": "crash",
+    "name": {
+      "en": "Systèmes crashés",
+      "fr": "Systèmes crashés",
+      "de": "Systèmes crashés",
+      "es": "Systèmes crashés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Saboteur",
+          "fr": "Saboteur",
+          "de": "Saboteur",
+          "es": "Saboteur"
+        }
+      },
+      {
+        "count": 150,
+        "points": 5,
+        "icon": "guard.png",
+        "title": {
+          "en": "Saboteur",
+          "fr": "Saboteur",
+          "de": "Saboteur",
+          "es": "Saboteur"
+        }
+      }
+    ]
+  },
+  "win": {
+    "id": "win",
+    "name": {
+      "en": "Missions completed",
+      "fr": "Missions remplies",
+      "de": "Missions completed",
+      "es": "Missions completed"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "money.png",
+        "title": {
+          "en": "First contract",
+          "fr": "Premier contrat",
+          "de": "First contract",
+          "es": "First contract"
+        }
+      },
+      {
+        "count": 25,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Agent",
+          "fr": "Agent",
+          "de": "Agent",
+          "es": "Agent"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "id.png",
+        "title": {
+          "en": "Satisfied clients",
+          "fr": "Clients satisfaits",
+          "de": "Satisfied clients",
+          "es": "Satisfied clients"
+        }
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Hacker",
+          "fr": "Hacker",
+          "de": "Hacker",
+          "es": "Hacker"
+        }
+      },
+      {
+        "count": 300,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "H4ck3R",
+          "fr": "H4ck3R",
+          "de": "H4ck3R",
+          "es": "H4ck3R"
+        }
+      }
+    ]
+  },
+  "lwin": {
+    "id": "lwin",
+    "name": {
+      "en": "Uber-Eleet Missions",
+      "fr": "Missions Uber-Eleet",
+      "de": "Uber-Eleet Missions",
+      "es": "Uber-Eleet Missions"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": ": Elite Grade",
+          "fr": "élite",
+          "de": ": Elite Grade",
+          "es": ": Elite Grade"
+        }
+      },
+      {
+        "count": 20,
+        "points": 5,
+        "suffix": true,
+        "title": {
+          "en": ": 3l33t Grade",
+          "fr": "3l33t",
+          "de": ": 3l33t Grade",
+          "es": ": 3l33t Grade"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "suffix": true,
+        "title": {
+          "en": ": Terminal Grade",
+          "fr": "terminal",
+          "de": ": Terminal Grade",
+          "es": ": Terminal Grade"
+        }
+      },
+      {
+        "count": 100,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": ": M4tr1x Grade",
+          "fr": "Matrice",
+          "de": ": M4tr1x Grade",
+          "es": ": M4tr1x Grade"
+        }
+      }
+    ]
+  },
+  "pwin": {
+    "id": "pwin",
+    "name": {
+      "en": "Missions without fail",
+      "fr": "Missions sans échec",
+      "de": "Missions without fail",
+      "es": "Missions without fail"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "(high-precision)",
+          "fr": "haute-précision",
+          "de": "(high-precision)",
+          "es": "(high-precision)"
+        }
+      },
+      {
+        "count": 100,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "(from CyberSpace)",
+          "fr": "CyberSpace",
+          "de": "(from CyberSpace)",
+          "es": "(from CyberSpace)"
+        }
+      }
+    ]
+  },
+  "passwd": {
+    "id": "passwd",
+    "name": {
+      "en": "Passwords cracked",
+      "fr": "Mots de passe cassés",
+      "de": "Passwords cracked",
+      "es": "Passwords cracked"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2,
+        "icon": "screen.png",
+        "prefix": true,
+        "title": {
+          "en": "Scavenger",
+          "fr": "Fouineur",
+          "de": "Scavenger",
+          "es": "Scavenger"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "admin.png",
+        "prefix": true,
+        "title": {
+          "en": "Automaton",
+          "fr": "Astucieux",
+          "de": "Automaton",
+          "es": "Automaton"
+        }
+      }
+    ]
+  },
+  "log": {
+    "id": "log",
+    "name": {
+      "en": "All traces deleted",
+      "fr": "Traces effacées",
+      "de": "All traces deleted",
+      "es": "All traces deleted"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Cyber-Ninja",
+          "fr": "Cyber-Ninja",
+          "de": "Cyber-Ninja",
+          "es": "Cyber-Ninja"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Ghost",
+          "fr": "Ghost",
+          "de": "Ghost",
+          "es": "Ghost"
+        }
+      }
+    ]
+  },
+  "sale": {
+    "id": "sale",
+    "name": {
+      "en": "PACKs re-sold",
+      "fr": "PACKs revendus",
+      "de": "PACKs re-sold",
+      "es": "PACKs re-sold"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "of PACKs",
+          "fr": "PACKs",
+          "de": "of PACKs",
+          "es": "of PACKs"
+        }
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "icon": "pack.png",
+        "title": {
+          "en": "PACK collection",
+          "fr": "Collection de PACKs",
+          "de": "PACK collection",
+          "es": "PACK collection"
+        }
+      }
+    ]
+  },
+  "rsale": {
+    "id": "rsale",
+    "name": {
+      "en": "Rare PACKs re-sold",
+      "fr": "PACKs rares revendus",
+      "de": "Rare PACKs re-sold",
+      "es": "Rare PACKs re-sold"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "of PACK files",
+          "fr": "fichiers PACK",
+          "de": "of PACK files",
+          "es": "of PACK files"
+        }
+      },
+      {
+        "count": 30,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Dealer",
+          "fr": "Dealer",
+          "de": "Dealer",
+          "es": "Dealer"
+        }
+      }
+    ]
+  },
+  "ccard": {
+    "id": "ccard",
+    "name": {
+      "en": "Bank cards exploited",
+      "fr": "Cartes bancaires exploitées",
+      "de": "Bank cards exploited",
+      "es": "Bank cards exploited"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Broker",
+          "fr": "Courtier",
+          "de": "Broker",
+          "es": "Broker"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "calim.png",
+        "title": {
+          "en": "Do you take Theiva?",
+          "fr": "Kikavolémacébé ?",
+          "de": "Do you take Theiva?",
+          "es": "Do you take Theiva?"
+        }
+      },
+      {
+        "count": 100,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": " - paying with Bast**dcard",
+          "fr": "carte bancaire",
+          "de": " - paying with Bast**dcard",
+          "es": " - paying with Bast**dcard"
+        }
+      }
+    ]
+  },
+  "hl": {
+    "id": "hl",
+    "name": {
+      "en": "High-level Agent",
+      "fr": "Agent de haut niveau",
+      "de": "High-level Agent",
+      "es": "High-level Agent"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "suffix": true,
+        "title": {
+          "en": "(professional)",
+          "fr": "haut niveau",
+          "de": "(professional)",
+          "es": "(professional)"
+        }
+      }
+    ]
+  },
+  "lead3": {
+    "id": "lead3",
+    "name": {
+      "en": "Leader of the Platinum Challenge",
+      "fr": "Leader du Challenge Platine",
+      "de": "Leader of the Platinum Challenge",
+      "es": "Leader of the Platinum Challenge"
+    },
+    "rare": 3,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "lead3.png"
+      },
+      {
+        "count": 2,
+        "points": 10,
+        "icon": "lead3.png"
+      }
+    ]
+  },
+  "lead2": {
+    "id": "lead2",
+    "name": {
+      "en": "Leader of the Gold Challenge",
+      "fr": "Leader du Challenge Or",
+      "de": "Leader of the Gold Challenge",
+      "es": "Leader of the Gold Challenge"
+    },
+    "rare": 3,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "lead2.png"
+      }
+    ]
+  },
+  "lead1": {
+    "id": "lead1",
+    "name": {
+      "en": "Leader of the Silver Challenge",
+      "fr": "Leader du Challenge Argent",
+      "de": "Leader of the Silver Challenge",
+      "es": "Leader of the Silver Challenge"
+    },
+    "rare": 3,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "lead1.png"
+      }
+    ]
+  },
+  "rank3": {
+    "id": "rank3",
+    "name": {
+      "en": "Platinum Challenge Grade",
+      "fr": "Classé au Challenge Platine",
+      "de": "Platinum Challenge Grade",
+      "es": "Platinum Challenge Grade"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "ismiley_yeah.png"
+      },
+      {
+        "count": 2,
+        "points": 3,
+        "icon": "ismiley_eek.png"
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "icon": "ismiley_happy.png"
+      },
+      {
+        "count": 4,
+        "points": 3,
+        "icon": "ismiley_cool.png"
+      }
+    ]
+  },
+  "rank2": {
+    "id": "rank2",
+    "name": {
+      "en": "Gold Challenge Grade",
+      "fr": "Classé au Challenge Or",
+      "de": "Gold Challenge Grade",
+      "es": "Gold Challenge Grade"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "ismiley_pff.png"
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "icon": "ismiley_nooo.png"
+      },
+      {
+        "count": 3,
+        "points": 2,
+        "icon": "ismiley_huh.png"
+      }
+    ]
+  },
+  "rank1": {
+    "id": "rank1",
+    "name": {
+      "en": "Silver Challenge Grade",
+      "fr": "Classé au Challenge Argent",
+      "de": "Silver Challenge Grade",
+      "es": "Silver Challenge Grade"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ismiley_smile.png"
+      },
+      {
+        "count": 2,
+        "points": 1,
+        "icon": "ismiley_sad.png"
+      },
+      {
+        "count": 3,
+        "points": 1,
+        "icon": "ismiley_wink.png"
+      },
+      {
+        "count": 4,
+        "points": 1,
+        "icon": "ismiley_wink2.png"
+      }
+    ]
+  }
+}

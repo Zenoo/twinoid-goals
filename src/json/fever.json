@@ -1,0 +1,984 @@
+{
+  "fbetaa": {
+    "id": "fbetaa",
+    "name": {
+      "en": "GrandBeta",
+      "fr": "GrandBeta",
+      "de": "Große Beta",
+      "es": "GrandBeta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "EA_GrandBeta.gif"
+      }
+    ]
+  },
+  "fheart": {
+    "id": "fheart",
+    "name": {
+      "en": "Heart Collector",
+      "fr": "Ramassage de coeur",
+      "de": "Herzsammler",
+      "es": "Recolección de corazones"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 4,
+        "points": 5,
+        "icon": "rec/pheart.gif"
+      },
+      {
+        "count": 40,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "Full of life!",
+          "fr": "plein de vie !",
+          "de": "voller Energie!",
+          "es": "lleno de vida"
+        }
+      }
+    ]
+  },
+  "fchest": {
+    "id": "fchest",
+    "name": {
+      "en": "Chests Opened",
+      "fr": "Ouverture de coffres",
+      "de": "Truhenöffner",
+      "es": "Cofres abiertos"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 3,
+        "icon": "rec/chest_0.gif"
+      },
+      {
+        "count": 60,
+        "points": 2,
+        "icon": "rec/chest_1.gif"
+      },
+      {
+        "count": 600,
+        "points": 1,
+        "icon": "rec/chest_2.gif"
+      }
+    ]
+  },
+  "fmonst": {
+    "id": "fmonst",
+    "name": {
+      "en": "Monsters Defeated",
+      "fr": "Monstres vaincus",
+      "de": "Anzahl besiegter Monster",
+      "es": "Monstruos vencidos"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Penguin",
+          "fr": "Pingouin",
+          "de": "Pinguin",
+          "es": "Pingüino"
+        }
+      },
+      {
+        "count": 30,
+        "points": 1,
+        "icon": "rec/monster_0.gif"
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "rec/monster_1.gif"
+      },
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "rec/monster_2.gif"
+      },
+      {
+        "count": 1500,
+        "points": 1,
+        "icon": "rec/monster_3.gif"
+      },
+      {
+        "count": 3000,
+        "points": 1,
+        "icon": "rec/monster_4.gif"
+      },
+      {
+        "count": 6000,
+        "points": 1,
+        "icon": "rec/monster_5.gif"
+      },
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "rec/monster_6.gif"
+      },
+      {
+        "count": 16000,
+        "points": 1,
+        "icon": "rec/monster_7.gif"
+      },
+      {
+        "count": 24000,
+        "points": 1,
+        "icon": "rec/monster_8.gif"
+      },
+      {
+        "count": 34000,
+        "points": 1,
+        "icon": "rec/monster_9.gif"
+      },
+      {
+        "count": 46000,
+        "points": 1,
+        "icon": "rec/monster_10.gif"
+      },
+      {
+        "count": 60000,
+        "points": 1,
+        "icon": "rec/monster_11.gif"
+      },
+      {
+        "count": 120000,
+        "points": 1,
+        "icon": "rec/monster_12.gif"
+      },
+      {
+        "count": 200000,
+        "points": 1,
+        "icon": "rec/monster_13.gif"
+      }
+    ]
+  },
+  "fcoc": {
+    "id": "fcoc",
+    "name": {
+      "en": "Cocktail",
+      "fr": "Cocktail",
+      "de": "Cocktail",
+      "es": "Cóctel"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_0.gif"
+      }
+    ]
+  },
+  "fbook": {
+    "id": "fbook",
+    "name": {
+      "en": "Spell Book",
+      "fr": "Grimoire",
+      "de": "Zauberbuch",
+      "es": "Libro de hechizos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_1.gif"
+      }
+    ]
+  },
+  "fshoes": {
+    "id": "fshoes",
+    "name": {
+      "en": "Shoes",
+      "fr": "Chaussures",
+      "de": "Schuhe",
+      "es": "Zapatos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_2.gif"
+      }
+    ]
+  },
+  "fmir": {
+    "id": "fmir",
+    "name": {
+      "en": "Mirror",
+      "fr": "Miroir",
+      "de": "Spiegel",
+      "es": "Espejo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_3.gif"
+      }
+    ]
+  },
+  "fclov": {
+    "id": "fclov",
+    "name": {
+      "en": "Clover",
+      "fr": "Trèfle",
+      "de": "Kleeblatt",
+      "es": "Trébol"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_4.gif"
+      }
+    ]
+  },
+  "fdoll": {
+    "id": "fdoll",
+    "name": {
+      "en": "Voodoo Doll",
+      "fr": "Poupée vaudou",
+      "de": "Voodoo-Puppe",
+      "es": "Muñeco vudú"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_5.gif"
+      }
+    ]
+  },
+  "fmask": {
+    "id": "fmask",
+    "name": {
+      "en": "Voodoo Mask",
+      "fr": "Masque vaudou",
+      "de": "Voodoo-Maske",
+      "es": "Máscara vudú"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_6.gif"
+      }
+    ]
+  },
+  "fwand": {
+    "id": "fwand",
+    "name": {
+      "en": "Wand",
+      "fr": "Baguette",
+      "de": "Stab",
+      "es": "Varita"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_7.gif"
+      }
+    ]
+  },
+  "fgoog": {
+    "id": "fgoog",
+    "name": {
+      "en": "Lunettes",
+      "fr": "Lunettes",
+      "de": "Brille",
+      "es": "Gafas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_8.gif"
+      }
+    ]
+  },
+  "fradar": {
+    "id": "fradar",
+    "name": {
+      "en": "Radar",
+      "fr": "Radar",
+      "de": "Radar",
+      "es": "Radar"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_9.gif"
+      }
+    ]
+  },
+  "fprism": {
+    "id": "fprism",
+    "name": {
+      "en": "Prism",
+      "fr": "Prisme",
+      "de": "Prisma",
+      "es": "Prisma"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_10.gif"
+      }
+    ]
+  },
+  "ffx": {
+    "id": "ffx",
+    "name": {
+      "en": "FeverX",
+      "fr": "FeverX",
+      "de": "FeverX",
+      "es": "FeverX"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_11.gif"
+      }
+    ]
+  },
+  "fumb": {
+    "id": "fumb",
+    "name": {
+      "en": "Umbrella",
+      "fr": "Parapluie",
+      "de": "Regenschirm",
+      "es": "Paraguas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_12.gif"
+      }
+    ]
+  },
+  "fdice": {
+    "id": "fdice",
+    "name": {
+      "en": "Dice",
+      "fr": "Dé",
+      "de": "Würfel",
+      "es": "Dado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_13.gif"
+      }
+    ]
+  },
+  "fwind": {
+    "id": "fwind",
+    "name": {
+      "en": "Windmill",
+      "fr": "Moulin à vent",
+      "de": "Windmühle",
+      "es": "Molino"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_14.gif"
+      }
+    ]
+  },
+  "fice": {
+    "id": "fice",
+    "name": {
+      "en": "Ice Lolly",
+      "fr": "Glace chimique",
+      "de": "Kunsteis",
+      "es": "Helado químico"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_15.gif"
+      }
+    ]
+  },
+  "fhour": {
+    "id": "fhour",
+    "name": {
+      "en": "Hourglass",
+      "fr": "Sablier",
+      "de": "Sanduhr",
+      "es": "Reloj de arena"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_16.gif"
+      }
+    ]
+  },
+  "fchro": {
+    "id": "fchro",
+    "name": {
+      "en": "ChromaX",
+      "fr": "ChromaX",
+      "de": "ChromaX",
+      "es": "ChromaX"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_17.gif"
+      }
+    ]
+  },
+  "fring": {
+    "id": "fring",
+    "name": {
+      "en": "Magic Ring",
+      "fr": "Bague magique",
+      "de": "Zauberring",
+      "es": "Anillo mágico"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_18.gif"
+      }
+    ]
+  },
+  "ffork": {
+    "id": "ffork",
+    "name": {
+      "en": "Enchanted Fork",
+      "fr": "Fourchette enchantée",
+      "de": "Verzauberte Gabel",
+      "es": "Tenedor encantado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_19.gif"
+      }
+    ]
+  },
+  "ffil": {
+    "id": "ffil",
+    "name": {
+      "en": "Ariadne's Thread",
+      "fr": "Fil d'ariane",
+      "de": "Arianefaden",
+      "es": "Hilo de Ariadna"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "rec/item_20.gif"
+      }
+    ]
+  },
+  "fruna": {
+    "id": "fruna",
+    "name": {
+      "en": "Ini Rune",
+      "fr": "Rune Ini",
+      "de": "Ini-Rune",
+      "es": "Runa Ini"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "rec/rune_0.gif"
+      }
+    ]
+  },
+  "frunb": {
+    "id": "frunb",
+    "name": {
+      "en": "Sed Rune",
+      "fr": "Rune Sed",
+      "de": "Sed-Rune",
+      "es": "Runa Sed"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "rec/rune_1.gif"
+      }
+    ]
+  },
+  "frunc": {
+    "id": "frunc",
+    "name": {
+      "en": "Aarg Rune",
+      "fr": "Rune Aarg",
+      "de": "Aarg-Rune",
+      "es": "Runa Aarg"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "rec/rune_2.gif"
+      }
+    ]
+  },
+  "frund": {
+    "id": "frund",
+    "name": {
+      "en": "Olh Rune",
+      "fr": "Rune Olh",
+      "de": "Olh-Rune",
+      "es": "Runa Olh"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "rec/rune_3.gif"
+      }
+    ]
+  },
+  "frune": {
+    "id": "frune",
+    "name": {
+      "en": "Al Rune",
+      "fr": "Rune Al",
+      "de": "Al-Rune",
+      "es": "Runa Al"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "rec/rune_4.gif"
+      }
+    ]
+  },
+  "frunf": {
+    "id": "frunf",
+    "name": {
+      "en": "Laf Rune",
+      "fr": "Rune Laf",
+      "de": "Laf-Rune",
+      "es": "Runa Laf"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "rec/rune_5.gif"
+      }
+    ]
+  },
+  "frung": {
+    "id": "frung",
+    "name": {
+      "en": "Hep Rune",
+      "fr": "Rune Hep",
+      "de": "Hep-Rune",
+      "es": "Runa Hep"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "icon": "rec/rune_6.gif"
+      }
+    ]
+  },
+  "fcart": {
+    "id": "fcart",
+    "name": {
+      "en": "FeverX Cartridges",
+      "fr": "Cartouches de FeverX",
+      "de": "FeverX-Kassetten",
+      "es": "Cartuchos de FeverX"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 2,
+        "icon": "rec/cart.gif"
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Consoled",
+          "fr": "Consoleux",
+          "de": "Consolero",
+          "es": "Consolero"
+        }
+      }
+    ]
+  },
+  "frbow": {
+    "id": "frbow",
+    "name": {
+      "en": "Rainbows",
+      "fr": "Arcs-en-ciel",
+      "de": "Regenbogen",
+      "es": "Arco Iris"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "icon": "rec/rainbow.gif"
+      },
+      {
+        "count": 150,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Globe-trotter",
+          "fr": "Globe-trotter",
+          "de": "Globetrotter",
+          "es": "Trotamundos"
+        }
+      }
+    ]
+  },
+  "fworld": {
+    "id": "fworld",
+    "name": {
+      "en": "Islands Visited",
+      "fr": "Archipels traversés",
+      "de": "Bereiste Archipele",
+      "es": "Archipiélagos atravezados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "rec/pousty_0.gif",
+        "suffix": true,
+        "title": {
+          "en": "Feverous",
+          "fr": "fiévreux",
+          "de": "im Fieber",
+          "es": "Febril"
+        }
+      },
+      {
+        "count": 2,
+        "points": 1,
+        "icon": "rec/pousty_1.gif"
+      },
+      {
+        "count": 3,
+        "points": 1,
+        "icon": "rec/pousty_2.gif"
+      },
+      {
+        "count": 4,
+        "points": 1,
+        "icon": "rec/pousty_3.gif"
+      }
+    ]
+  },
+  "fbag": {
+    "id": "fbag",
+    "name": {
+      "en": "Inventory full",
+      "fr": "Objets trouvés",
+      "de": "Volles Inventar",
+      "es": "Inventario completado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 28,
+        "points": 2,
+        "icon": "rec/bag.gif"
+      }
+    ]
+  },
+  "fvolt": {
+    "id": "fvolt",
+    "name": {
+      "en": "Lightning used",
+      "fr": "Fulgo utilisés",
+      "de": "Verbrauchte Fulgos",
+      "es": "Rayos utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "Flash",
+          "fr": "foudroyant",
+          "de": "mit Blitzen",
+          "es": "Fulminante"
+        }
+      },
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "rec/element_0.gif"
+      }
+    ]
+  },
+  "ffire": {
+    "id": "ffire",
+    "name": {
+      "en": "Ignikits used",
+      "fr": "Ignik utilisés",
+      "de": "Verbrauchte Igniks",
+      "es": "Ignik utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "Boiler",
+          "fr": "bouillant",
+          "de": "aus Dampf",
+          "es": "Hirviente"
+        }
+      },
+      {
+        "count": 60,
+        "points": 2,
+        "icon": "rec/element_1.gif"
+      }
+    ]
+  },
+  "frasen": {
+    "id": "frasen",
+    "name": {
+      "en": "Rasen used",
+      "fr": "Rasen utilisés",
+      "de": "Gebrauchte Rasen",
+      "es": "Rasen utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "Volta",
+          "fr": "voltigeur",
+          "de": "Luftakrobat",
+          "es": "Acróbata"
+        }
+      },
+      {
+        "count": 85,
+        "points": 2,
+        "icon": "rec/element_2.gif"
+      }
+    ]
+  },
+  "fcam": {
+    "id": "fcam",
+    "name": {
+      "en": "Camemberks swallowed",
+      "fr": "Camembeurks avalés",
+      "de": "Geschluckte Camenwürgs",
+      "es": "Quesos tragados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 2,
+        "icon": "rec/bonus_0.gif"
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Dairyman",
+          "fr": "Crémier",
+          "de": "Milchhändler",
+          "es": "Quesero"
+        }
+      }
+    ]
+  },
+  "ffeuil": {
+    "id": "ffeuil",
+    "name": {
+      "en": "Vol-o-vents used",
+      "fr": "Vol-o-vent utilisés",
+      "de": "Gegessene Pasteten",
+      "es": "Volantines utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 2,
+        "icon": "rec/bonus_1.gif"
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "sylvestre",
+          "fr": "sylvestre",
+          "de": "Sylvester",
+          "es": "Silvestre"
+        }
+      }
+    ]
+  },
+  "fcut": {
+    "id": "fcut",
+    "name": {
+      "en": "Knives used",
+      "fr": "Burilames utilisés",
+      "de": "Verwendete Burilames",
+      "es": "Buriles utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 2,
+        "icon": "rec/bonus_2.gif"
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Knife Thrower",
+          "fr": "Lanceur de couteaux",
+          "de": "Messerwerfer",
+          "es": "Lanzacuchillos"
+        }
+      }
+    ]
+  },
+  "fisl": {
+    "id": "fisl",
+    "name": {
+      "en": "Clear Isles",
+      "fr": "Iles libérées",
+      "de": "Befreite Inseln",
+      "es": "Islas libres"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 3,
+        "prefix": true,
+        "title": {
+          "en": "Island Hopper",
+          "fr": "Palmipède",
+          "de": "Ruderfüßer",
+          "es": "Palmípedo"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 2,
+        "icon": "rec/island_1.gif"
+      }
+    ]
+  },
+  "fcube": {
+    "id": "fcube",
+    "name": {
+      "en": "Games found",
+      "fr": "Parties trouvées",
+      "de": "Gefundene Partien",
+      "es": "Partidas encontradas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Hibernatus",
+          "fr": "Hibernatus",
+          "de": "Hibernatus",
+          "es": "Hibernatus"
+        }
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "rec/ice_cube_0.gif"
+      },
+      {
+        "count": 2500,
+        "points": 1,
+        "icon": "rec/ice_cube_1.gif"
+      }
+    ]
+  }
+}

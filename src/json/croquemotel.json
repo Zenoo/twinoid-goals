@@ -1,0 +1,454 @@
+{
+  "hosted": {
+    "id": "hosted",
+    "name": {
+      "en": "Guests accommodated",
+      "fr": "Clients hébergés",
+      "de": "Beherbergte Gäste",
+      "es": "Clientes alojados"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Jailer",
+          "fr": "Geôlier",
+          "de": "Kerkermeister",
+          "es": "Anfitrión"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Slumlord",
+          "fr": "Tenancier",
+          "de": "Vermieter",
+          "es": "Buen Anfitrión"
+        }
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Innkeeper",
+          "fr": "Aubergiste",
+          "de": "Gastwirt",
+          "es": "Posadero"
+        }
+      },
+      {
+        "count": 500,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Host",
+          "fr": "Hôte",
+          "de": "Gastgeber",
+          "es": "Hotelero"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 20,
+        "prefix": true,
+        "title": {
+          "en": "Hotelier",
+          "fr": "Maître-aubergiste",
+          "de": "Hotelier",
+          "es": "Gran Hotelero"
+        }
+      }
+    ]
+  },
+  "okbase": {
+    "id": "okbase",
+    "name": {
+      "en": "Well-treated guests",
+      "fr": "Clients bien traités",
+      "de": "Gut versorgte Gäste",
+      "es": "Clientes satisfechos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "spec_happy.png"
+      },
+      {
+        "count": 25,
+        "points": 5,
+        "icon": "money.png"
+      }
+    ]
+  },
+  "okvip": {
+    "id": "okvip",
+    "name": {
+      "en": "Well-treated VIPs",
+      "fr": "VIP bien traités",
+      "de": "Gut versorgte VIPs",
+      "es": "VIP encantados"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "vip.png"
+      },
+      {
+        "count": 25,
+        "points": 15,
+        "icon": "fame.png"
+      },
+      {
+        "count": 50,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Hollywood",
+          "fr": "Star",
+          "de": "Hollywood",
+          "es": "Estrella"
+        }
+      }
+    ]
+  },
+  "okfrnd": {
+    "id": "okfrnd",
+    "name": {
+      "en": "Well-treated friends",
+      "fr": "Amis bien traités",
+      "de": "Gut versorgte Freunde",
+      "es": "Amigos complacidos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "item_present.png"
+      },
+      {
+        "count": 5,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Landlord",
+          "fr": "Logeur",
+          "de": "Grundbesitzer",
+          "es": "Generoso"
+        }
+      },
+      {
+        "count": 10,
+        "points": 2,
+        "icon": "item_mattress.png"
+      },
+      {
+        "count": 50,
+        "points": 2,
+        "icon": "item_present_xl.png"
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "icon": "item_friend.png"
+      }
+    ]
+  },
+  "star": {
+    "id": "star",
+    "name": {
+      "en": "Stars earned",
+      "fr": "Étoiles acquises",
+      "de": "Verdiente Sterne",
+      "es": "Estrellas ganadas"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Star",
+          "fr": "Étoile",
+          "de": "Star",
+          "es": "Conocido"
+        }
+      },
+      {
+        "count": 3,
+        "points": 5,
+        "suffix": true,
+        "title": {
+          "en": "of Luxury Hotels",
+          "fr": "Grand Hôtel",
+          "de": "Luxushotels",
+          "es": "Recomendable"
+        }
+      },
+      {
+        "count": 4,
+        "points": 10,
+        "icon": "item_wallet.png"
+      },
+      {
+        "count": 5,
+        "points": 20,
+        "icon": "star.png"
+      },
+      {
+        "count": 6,
+        "points": 20,
+        "title": {
+          "en": "Super-star",
+          "fr": "Super-star",
+          "de": "Superstar",
+          "es": "Prestigioso"
+        }
+      }
+    ]
+  },
+  "serv": {
+    "id": "serv",
+    "name": {
+      "en": "Guest services offered",
+      "fr": "Services rendus aux clients",
+      "de": "Zimmerservice!",
+      "es": "Servicios brindados a los clientes"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "item_buffet.png"
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "icon": "item_old_buffet.png"
+      }
+    ]
+  },
+  "room": {
+    "id": "room",
+    "name": {
+      "en": "Rooms constructed",
+      "fr": "Salles construites",
+      "de": "Gebaute Zimmer",
+      "es": "Salas construidas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "suffix": true,
+        "title": {
+          "en": "of buildings",
+          "fr": "bâtiment",
+          "de": "Baustelle",
+          "es": "construcción"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "more.png"
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Master Contractor",
+          "fr": "Maître d'oeuvre",
+          "de": "Bauunternehmer",
+          "es": "Maestro de obras"
+        }
+      },
+      {
+        "count": 150,
+        "points": 5,
+        "icon": "bluep.png"
+      },
+      {
+        "count": 300,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Master Architect",
+          "fr": "Grand bâtisseur",
+          "de": "Meisterarchitekt",
+          "es": "Gran Constructor"
+        }
+      }
+    ]
+  },
+  "sendc": {
+    "id": "sendc",
+    "name": {
+      "en": "Friends visited",
+      "fr": "Visites à ses amis",
+      "de": "Besuchte Freunde",
+      "es": "Visitas a amigos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Squatter",
+          "fr": "Squatteur",
+          "de": "Hausbesetzer",
+          "es": "Ocupante"
+        }
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Parasite",
+          "fr": "Parasite",
+          "de": "Parasit",
+          "es": "Parásito"
+        }
+      }
+    ]
+  },
+  "pick": {
+    "id": "pick",
+    "name": {
+      "en": "Objects stolen",
+      "fr": "Objets volés",
+      "de": "Einbehaltene Gegenstände",
+      "es": "Objetos recogidos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Thief",
+          "fr": "Chapardeur",
+          "de": "Dieb",
+          "es": "Cleptómano"
+        }
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Looter",
+          "fr": "Pilleur",
+          "de": "Räuber",
+          "es": "Saqueador"
+        }
+      },
+      {
+        "count": 250,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Crook",
+          "fr": "Truand",
+          "de": "Plünderer",
+          "es": "Mafioso"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Vagabond",
+          "fr": "Arsouille",
+          "de": "Fingerschmied",
+          "es": "Rufián"
+        }
+      }
+    ]
+  },
+  "advert": {
+    "id": "advert",
+    "name": {
+      "en": "Advertising Campaigns",
+      "fr": "Campagnes publicitaires",
+      "de": "Werbekampagnen",
+      "es": "Campañas publicitarias"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "noise.png"
+      },
+      {
+        "count": 10,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Publicist",
+          "fr": "Publicitaire",
+          "de": "Publizist",
+          "es": "Publicista"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "tv.png"
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "suffix": true,
+        "title": {
+          "en": "of marketing",
+          "fr": "marketing",
+          "de": "Marketing",
+          "es": "Mediático"
+        }
+      }
+    ]
+  },
+  "lab": {
+    "id": "lab",
+    "name": {
+      "en": "Monstrous experiments",
+      "fr": "Expérimentations monstrueuses",
+      "de": "Monströse Experimente",
+      "es": "Experimentos monstruosos"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "item_research.png"
+      },
+      {
+        "count": 30,
+        "points": 15,
+        "icon": "item_research_gold.png"
+      }
+    ]
+  }
+}

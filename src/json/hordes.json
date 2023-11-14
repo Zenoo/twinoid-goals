@@ -1,0 +1,6856 @@
+{
+  "killz": {
+    "id": "killz",
+    "name": {
+      "en": "Zombies eliminated",
+      "fr": "Zombies éliminés",
+      "de": "Getötete Zombies",
+      "es": "Zombies eliminados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 5,
+        "icon": "r_killz.gif",
+        "title": {
+          "en": "Mutilator",
+          "fr": "Grosse brute",
+          "de": "Brutalo",
+          "es": "Brutal"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Exterminator",
+          "fr": "Mutilateur",
+          "de": "Verstümmler",
+          "es": "Mutilador"
+        }
+      },
+      {
+        "count": 300,
+        "points": 15,
+        "title": {
+          "en": "Corpse Crusher",
+          "fr": "Exterminateur",
+          "de": "Killer",
+          "es": "Exterminador"
+        }
+      },
+      {
+        "count": 800,
+        "points": 20,
+        "title": {
+          "en": "The Hitman",
+          "fr": "Broyeur de cadavres",
+          "de": "Kadaverentsorger",
+          "es": "Descuartizador"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "The Peacemaker",
+          "fr": "Total annihilation",
+          "de": "Vernichter",
+          "es": "Aniquilador"
+        }
+      },
+      {
+        "count": 4000,
+        "points": 0,
+        "title": {
+          "en": "Chuck Norris",
+          "fr": "Le Tueur",
+          "de": "Schlächter",
+          "es": "Masacrador"
+        }
+      },
+      {
+        "count": 6000,
+        "points": 0,
+        "title": {
+          "en": "Jean Claude Van Damned",
+          "fr": "Le Pacificateur",
+          "de": "Friedensstifter",
+          "es": "Pacificador"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Go ahead, make my day!",
+          "fr": "J'aime les bandes décimées",
+          "de": "Alptraum der Traumlosen",
+          "es": "Mordedor de muertos"
+        }
+      }
+    ],
+    "description": {
+      "en": "Total number of the living-dead that you have sent back underground by whatever means.",
+      "fr": "Total de créatures mort-vivantes que vous avez renvoyées sous terre par n'importe quel moyen.",
+      "de": "Gesamtanzahl der von dir umgebrachten Zombies. Jede Tötungsmethode wird gezählt.",
+      "es": "Total de muertos vivientes que volviste a enviar bajo tierra de cualquier manera."
+    }
+  },
+  "dhang": {
+    "id": "dhang",
+    "name": {
+      "en": "Hangings",
+      "fr": "Pendaisons",
+      "de": "Hängungen",
+      "es": "Horcas"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Number of towns which, in the end, just couldn't put up with your crap anymore.",
+      "fr": "Nombre de villes au cours desquelles on ne pouvait plus vous supporter.",
+      "de": "Anzahl der Städte, die dich nicht länger ertragen oder leiden konnten.",
+      "es": "Cantidad de pueblos en los que fuiste considerado indeseable."
+    }
+  },
+  "dwater": {
+    "id": "dwater",
+    "name": {
+      "en": "Deaths by Dehydration",
+      "fr": "Morts par Déshydratation",
+      "de": "Dehydrationsstode",
+      "es": "Muertes por deshidratación"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Number of times you have died from dehydration. Yes indeed, it turns out water is important.",
+      "fr": "Nombre de morts par déshydratation terminale. Oui oui, l'eau, c'est important.",
+      "de": "Gibt die Anzahl der Dehydrationen an, an denen du gestorben bist. Doch, doch! Wasser ist wichtig.",
+      "es": "Cantidad de muertes por deshidratación terminal. Sí, el agua es importante."
+    }
+  },
+  "dinfec": {
+    "id": "dinfec",
+    "name": {
+      "en": "Deaths by Infection",
+      "fr": "Morts par Infection",
+      "de": "Tödliche Infektionen",
+      "es": "Muertes por infección"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 0,
+        "icon": "r_dinfec.gif",
+        "title": {
+          "en": "Partially Putrified",
+          "fr": "Partiellement putréfié",
+          "de": "Teilweise verrottet",
+          "es": "Me duele la panza..."
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "Infected with a poison",
+          "fr": "Porteur de la 'Maladie'",
+          "de": "Virenschleuder",
+          "es": "Portador del 'Mal'"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Blood 'n' Bile Spitter",
+          "fr": "Vomisseur de tripes",
+          "de": "Gedärmeauskotzer",
+          "es": "Vomitador de tripas"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Harbinger of the Plague",
+          "fr": "Annonciateur du fléau",
+          "de": "Seuchenherd",
+          "es": "Desahuciado"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "I've got a sore tummy...",
+          "fr": "J'ai mal au ventre...",
+          "de": "Ich habe Bauchschmerzen...",
+          "es": "Parcialmente putrefacto"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of deaths from generalised infection.",
+      "fr": "Nombre d'extinctions des suites d'une infection virulente.",
+      "de": "Anzahl der Infektionen, die dich das Leben gekostet haben.",
+      "es": "Cantidad de fallecimientos por infecciones."
+    }
+  },
+  "doutsd": {
+    "id": "doutsd",
+    "name": {
+      "en": "Nights in the desert",
+      "fr": "Nuits dans le désert",
+      "de": "Wüstenausflüge",
+      "es": "Noches en el desierto"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "r_doutsd.gif",
+        "title": {
+          "en": "Moonlight Stroller",
+          "fr": "Randonneur égaré",
+          "de": "Verirrter Ausflügler",
+          "es": "Caminante perdido"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Wild-eyed Wanderer",
+          "fr": "Flâneur nocturne",
+          "de": "Nächtlicher Spaziergänger",
+          "es": "Turista nocturno"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "Baby it's cold outside...",
+          "fr": "J'ai froid, dehors...",
+          "de": "Hier draußen ist es so kalt...",
+          "es": "Explorador incauto"
+        }
+      }
+    ],
+    "description": {
+      "en": "Little walks you took outside from which you never returned.",
+      "fr": "Petites promenades dehors dont vous n'êtes jamais revenu(e).",
+      "de": "Die Auszeichnung spiegelt die Anzahl der Wüstenausflüge wider, von denen du nicht mehr zurückgekehrt bist.",
+      "es": "Veces en las que saliste a pasear fuera del pueblo y nunca más volviste."
+    }
+  },
+  "dcity": {
+    "id": "dcity",
+    "name": {
+      "en": "Dead in your bed",
+      "fr": "Morts dans votre lit",
+      "de": "In deinem Bett gestorben",
+      "es": "Muertes en tu cama"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Grandma, what big teeth you have... GROAR!",
+      "fr": "Mère grand, comme vous avez de grandes dents... GROAR !",
+      "de": "Großmutter, was hast du für große Zähne... Grrrooooaaar!",
+      "es": "¡Si me muero, mejor que sea cómodamente!"
+    }
+  },
+  "ddrug": {
+    "id": "ddrug",
+    "name": {
+      "en": "Deaths from withdrawal",
+      "fr": "Morts par Manque",
+      "de": "Tod durch Entzug",
+      "es": "Muertes por abstinencia"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Nights you didn't see the other side of, due to lack of drugs...",
+      "fr": "Nuits que vous n'avez pas passées, par manque de drogue.",
+      "de": "So oft ist dein unfreiwilliger 'cold turkey' gescheitert...",
+      "es": "Veces que has muerto por falta de estimulantes."
+    }
+  },
+  "dnucl": {
+    "id": "dnucl",
+    "name": {
+      "en": "Atomic deaths",
+      "fr": "Morts par l'atome",
+      "de": "Tod durch Radioaktivität",
+      "es": "Muertes por el átomo"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_dnucl.gif",
+        "title": {
+          "en": "Smoke? What smoke?",
+          "fr": "De la fumée ? Quelle fumée ?",
+          "de": "Rauch? Was für Rauch?",
+          "es": "¿Humo? ¿Qué humo?"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Leak Plugger",
+          "fr": "Colmateur de fuite",
+          "de": "Geigerzähler",
+          "es": "Reparador de fugas"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Light in the darkness",
+          "fr": "Lumière dans la nuit",
+          "de": "Licht im Dunkeln",
+          "es": "Luz en la noche"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "RadioactiveMan",
+          "fr": "RadioactiveMan",
+          "de": "Radioactive Man",
+          "es": "Hombre radioactivo"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Shiny Citizen",
+          "fr": "Citoyen rayonnant",
+          "de": "",
+          "es": "Habitante brillante"
+        }
+      },
+      {
+        "count": 80,
+        "points": 0,
+        "title": {
+          "en": "Boom! When the reactor goes BOOM!!!",
+          "fr": "Boum ! Quand notre réacteur fait Boum !",
+          "de": "",
+          "es": "Booom! Cuando el reactor hace BOOOM!!!"
+        }
+      },
+      {
+        "count": 90,
+        "points": 0,
+        "title": {
+          "en": "Atomic mushroom muncher",
+          "fr": "Cueilleur de champignons atomiques ",
+          "de": "",
+          "es": "Espectador atómico"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Irradiated right to the soul",
+          "fr": "Irradié jusque dans l'âme",
+          "de": "",
+          "es": "Espíritu de gusiluz"
+        }
+      },
+      {
+        "count": 120,
+        "points": 0,
+        "title": {
+          "en": "I fricken love fission",
+          "fr": "La fission ça m'éclate ! ",
+          "de": "",
+          "es": "La palara es Nu-ce-lar"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Fiiii-ssion",
+          "fr": "Fiiii-ssion",
+          "de": "",
+          "es": "Nucelar"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of existences entirely vaporized by the all-powerful atom.",
+      "fr": "Nombre d'existences vaporisées par la toute puissance de l'atome.",
+      "de": "Gibt an, wie oft du unter dem Einfluß von Radioaktivität das Zeitliche gesegnet hast.",
+      "es": "Cantidad de muertes por el gran poder del átomo."
+    }
+  },
+  "wound": {
+    "id": "wound",
+    "name": {
+      "en": "Injuries",
+      "fr": "Blessures",
+      "de": "Schwere Verletzungen",
+      "es": "Magulladuras"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Number of mutilations or dismemberments which didn't quite cost you your life.",
+      "fr": "Nombre de mutilations ou démembrements qui ne vous ont pas coûté la vie.",
+      "de": "Anzahl der Verstümmlungen und Gliedabtrennungen, die du erlitten hast.",
+      "es": "Cantidad de mutilaciones o desarticulaciones que no te quitaron la vida."
+    }
+  },
+  "healed": {
+    "id": "healed",
+    "name": {
+      "en": "Patch-Ups",
+      "fr": "Rafistolages",
+      "de": "Heilungen",
+      "es": "Parches"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 30,
+        "points": 5,
+        "icon": "r_dnucl.gif",
+        "title": {
+          "en": "Hard-boiled",
+          "fr": "Dur à cuire",
+          "de": "Harter Brocken",
+          "es": "Duro de matar"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Survivor",
+          "fr": "Survivor",
+          "de": "Überlebenskünstler",
+          "es": "Survivor"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Rambo",
+          "fr": "Rambo",
+          "de": "Rambo",
+          "es": "Rambo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Illnesses or injuries which you have been saved from, in-extremis.",
+      "fr": "Maladies ou blessures dont vous avez été sauvé(e) in-extremis.",
+      "de": "Anzahl der Krankheiten und schweren Verwundungen, die du in letzter Sekunde überlebt hast.",
+      "es": "Enfermedades o heridas que casi te costaron la vida."
+    }
+  },
+  "cannib": {
+    "id": "cannib",
+    "name": {
+      "en": "Cannibalism",
+      "fr": "Cannibalisme",
+      "de": "Kannibalismus",
+      "es": "Canibalismo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_cannib.gif",
+        "title": {
+          "en": "Meat Muncher",
+          "fr": "Amateur de viande humaine",
+          "de": "Menschenfleischliebhaber",
+          "es": "Devorador de hombres"
+        }
+      },
+      {
+        "count": 40,
+        "points": 10,
+        "title": {
+          "en": "Dr Death's Dietician",
+          "fr": "Fan d'Hannibal",
+          "de": "Hannibalfan",
+          "es": "Fan de Hannibal"
+        }
+      },
+      {
+        "count": 80,
+        "points": 0,
+        "title": {
+          "en": "Check out my skin sombrero!",
+          "fr": "Dévoreur de citoyens",
+          "de": "Totmacher",
+          "es": "Carnívoro voraz"
+        }
+      },
+      {
+        "count": 120,
+        "points": 0,
+        "title": {
+          "en": "Lunches like Lecter",
+          "fr": "Croque morts",
+          "de": "Fido",
+          "es": "Muerde-gente"
+        }
+      },
+      {
+        "count": 180,
+        "points": 0,
+        "title": {
+          "en": "Wannabe Zombie...",
+          "fr": "Zombie en devenir",
+          "de": "Fast schon ein Zombie...",
+          "es": "Zombie hambriento"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "It's better when they scream.",
+          "fr": "C'est meilleur si ça hurle.",
+          "de": "Schmeckt am besten wenn's noch schreit!",
+          "es": "Sabe mejor si grita"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Full of protein.",
+          "fr": "Le plein de Protéines.",
+          "de": "Die Macht der Proteine.",
+          "es": "¿Y esos dientes tan grandes?"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Holocaust Cannibal",
+          "fr": "Cannibales Holocauste",
+          "de": "Fine young cannibal",
+          "es": "Canibal consagrado"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of times you have dined on human flesh...",
+      "fr": "Nombre de repas à base de viande humaine...",
+      "de": "Die Anzahl der Stücke Menschenfleisch, die von dir verzehrt wurden...",
+      "es": "Cantidad de veces que tragaste carne humana..."
+    }
+  },
+  "broken": {
+    "id": "broken",
+    "name": {
+      "en": "Breakages",
+      "fr": "Maladresses",
+      "de": "Schusseligkeiten",
+      "es": "Torpezas"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Number of objects you have broken through your own clumsiness.",
+      "fr": "Nombre d'objets que vous avez cassés au cours de vos expériences maladroites.",
+      "de": "Anzahl der Gegenstände, die du durch deine Tollpatschigkeit kaputt gemacht hast.",
+      "es": "Cantidad de objetos que has roto en tus experiencias fallidas."
+    }
+  },
+  "theft": {
+    "id": "theft",
+    "name": {
+      "en": "Thefts",
+      "fr": "Larcins",
+      "de": "Diebstähle",
+      "es": "Hurtos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_theft.gif",
+        "title": {
+          "en": "Tea Leaf",
+          "fr": "Petite frappe",
+          "de": "Maulheld",
+          "es": "Cleptómano"
+        }
+      },
+      {
+        "count": 30,
+        "points": 10,
+        "title": {
+          "en": "Artful Dodger",
+          "fr": "Fripouille",
+          "de": "Lump",
+          "es": "Bandido"
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "Chiseler",
+          "fr": "Crapule",
+          "de": "Schaumschläger",
+          "es": "Pillo"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Ali Baba",
+          "fr": "Monte-en-l'air",
+          "de": "Dieb",
+          "es": "Ratero"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Rusty Ryan",
+          "fr": "Voleur",
+          "de": "Fantomas",
+          "es": "Amante de lo ajeno"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Danny Ocean",
+          "fr": "Maître cambrioleur",
+          "de": "Ali Baba",
+          "es": "Chorizo temible"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Master Thief",
+          "fr": "Passe-muraille",
+          "de": "Meisterdieb",
+          "es": "Caco"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Cleptomaniac",
+          "fr": "Arsène Lupin du désert",
+          "de": "Kleptomane",
+          "es": "Saqueador"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Your home is my home",
+          "fr": "Ta maison est ma maison",
+          "de": "Dein Haus ist mein Haus",
+          "es": "Tu casa es mi casa"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of objects you have stolen from your fellow residents (alive).",
+      "fr": "Nombre d'objets volés chez vos voisins (en vie).",
+      "de": "Anzahl der Gegenstände, die du bei deinen (lebenden) Nachbarn geklaut hast.",
+      "es": "Cantidad de objetos robados a tus vecinos (en vida)."
+    }
+  },
+  "plundr": {
+    "id": "plundr",
+    "name": {
+      "en": "Pillages",
+      "fr": "Pillages de maison",
+      "de": "Häuserplünderungen",
+      "es": "Saqueos en casas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 30,
+        "points": 5,
+        "icon": "r_plundr.gif",
+        "title": {
+          "en": "Pillager",
+          "fr": "Pillard",
+          "de": "Plünderer",
+          "es": "Robamuertos"
+        }
+      },
+      {
+        "count": 60,
+        "points": 10,
+        "title": {
+          "en": "Plunderer",
+          "fr": "Vautour",
+          "de": "Aasgeier",
+          "es": "Buitre"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Viking",
+          "fr": "Charognard",
+          "de": "Hyäne",
+          "es": "Carroñero"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Post-mortem Pickpocket",
+          "fr": "Ecumeur post-mortem",
+          "de": "Wegelagerer post mortem",
+          "es": "Ladrón post-mortem"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "Hungry Jackal",
+          "fr": "Chacal affamé",
+          "de": "Hungriger Schakal",
+          "es": "Chacal"
+        }
+      },
+      {
+        "count": 600,
+        "points": 0,
+        "title": {
+          "en": "Fleet-footed Coyote",
+          "fr": "Coyote des steppes arides",
+          "de": "Kojote der kargen Steppen",
+          "es": "Canalla"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Solicitor of the World Beyond",
+          "fr": "Notaire de l'outre-monde",
+          "de": "Fingerschmied",
+          "es": "Rata Infame"
+        }
+      }
+    ],
+    "description": {
+      "en": "Objects prised from the still-warm clutches of your former friends.",
+      "fr": "Objets arrachés au corps encore chaud de vos anciens amis.",
+      "de": "Anzahl der Gegenstände, die du deinen verblichenen Freunden entrissen hast.",
+      "es": "Objetos arrancados del cuerpo aún tibio de tus vecinos."
+    }
+  },
+  "homeup": {
+    "id": "homeup",
+    "name": {
+      "en": "Home Improvements",
+      "fr": "Améliorations de maison",
+      "de": "Hausverbesserung",
+      "es": "Mejoras en casa"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Number of DIY projects succesfully completed around the house.",
+      "fr": "Nombre d'améliorations générales apportées à votre maison.",
+      "de": "Anzahl der Verbesserungen und Ausbauten, die du an deinem eigenen Haus vorgenommen hast.",
+      "es": "Cantidad de mejoras hechas a tu vivienda."
+    }
+  },
+  "heroac": {
+    "id": "heroac",
+    "name": {
+      "en": "Heroic actions",
+      "fr": "Actions héroïques",
+      "de": "Heldentaten",
+      "es": "Acciones heroicas"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 5,
+        "icon": "r_heroac.gif",
+        "title": {
+          "en": "Comic book fan",
+          "fr": "Fan des X-men",
+          "de": "X-Men Leser",
+          "es": "Fan de X-Men"
+        }
+      },
+      {
+        "count": 30,
+        "points": 10,
+        "title": {
+          "en": "Extraordinary citizen",
+          "fr": "Citoyen hors-norme",
+          "de": "Außergewöhnlicher Bürger",
+          "es": "Habitante fuera de serie"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Prodigy",
+          "fr": "Prodige",
+          "de": "Wunder",
+          "es": "Prodigio"
+        }
+      },
+      {
+        "count": 70,
+        "points": 0,
+        "title": {
+          "en": "Superhero in training",
+          "fr": "Super-Héros en devenir",
+          "de": "Künftiger Superheld",
+          "es": "Aspirante a superhéroe"
+        }
+      },
+      {
+        "count": 90,
+        "points": 0,
+        "title": {
+          "en": "Champion of the people",
+          "fr": "Héros du peuple",
+          "de": "Volksheld",
+          "es": "Héroe popular"
+        }
+      },
+      {
+        "count": 120,
+        "points": 0,
+        "title": {
+          "en": "I'm Batman",
+          "fr": "L'incroyable citoyen",
+          "de": "Neo",
+          "es": "Soy una leyenda"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Saviour of Citizenkind",
+          "fr": "Sauveur de l'humanité",
+          "de": "Erlöser der Menschheit",
+          "es": "Salvador de la humanidad"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Legend of the World Beyond",
+          "fr": "Légende de l'Outre-Monde",
+          "de": "Außenweltlegende",
+          "es": "Superhéroe"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Lost World Messiah",
+          "fr": "Messie du monde perdu",
+          "de": "Messie der verlorenen Welt",
+          "es": "El Mesías"
+        }
+      },
+      {
+        "count": 850,
+        "points": 0,
+        "title": {
+          "en": "My name is nobody",
+          "fr": "Mon nom est personne",
+          "de": "",
+          "es": "Soy tu ídolo y lo sabes"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "They named a constellation after me",
+          "fr": "J'ai donné mon nom à une constellation",
+          "de": "",
+          "es": "Arrodíllate a mis pies"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of truly extraordinary things you've done.",
+      "fr": "Nombre de choses vraiment hors du commun que vous avez faites.",
+      "de": "Anzahl deiner wirklich außergewöhnlichen Heldentaten.",
+      "es": "Cantidad de acciones extraordinarias que has realizado."
+    }
+  },
+  "explor": {
+    "id": "explor",
+    "name": {
+      "en": "Distant Discoveries",
+      "fr": "Explorations avancées",
+      "de": "Komplexe Expeditionen",
+      "es": "Exploraciones avanzadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 5,
+        "icon": "r_explor.gif",
+        "title": {
+          "en": "Dora the Explorer",
+          "fr": "Explorateur impétueux",
+          "de": "Stürmischer Kundschafter",
+          "es": "Explorador Impetuoso"
+        }
+      },
+      {
+        "count": 30,
+        "points": 10,
+        "title": {
+          "en": "Fearless adventurer",
+          "fr": "Aventurier sans peur",
+          "de": "Furchtloser Abenteurer",
+          "es": "Viajero sin miedo"
+        }
+      },
+      {
+        "count": 70,
+        "points": 0,
+        "title": {
+          "en": "Guide to the World Beyond",
+          "fr": "Guide de l'Outre-Monde",
+          "de": "Wagemutiger Trapper",
+          "es": "Guía del Ultramundo"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Brave Prospector",
+          "fr": "Prospecteur courageux",
+          "de": "Wikinger",
+          "es": "Aventurero Temerario"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Tenzing Norgay",
+          "fr": "L'outre-monde est mon bac à sable",
+          "de": "Außenweltreiseführer",
+          "es": "Dora la Exploradora"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "I've been round the world... Twice!",
+          "fr": "J'ai fait le tour du monde... 2 fois !",
+          "de": "",
+          "es": "J'ai fait le tour du monde... 2 fois !"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Internet Explorer",
+          "fr": "Internet Explorer",
+          "de": "",
+          "es": "Internet Explorer"
+        }
+      },
+      {
+        "count": 350,
+        "points": 0,
+        "title": {
+          "en": "I've even dug through a public toilet!",
+          "fr": "J'ai même fouillé les WC !",
+          "de": "",
+          "es": "J'ai même fouillé les WC !"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "Are we there yet?",
+          "fr": "Quand est ce qu'on arrive ?",
+          "de": "",
+          "es": "Quand est ce qu'on arrive ?"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of buildings you have explored in far-flung zones.",
+      "fr": "Nombre de bâtiments dans des zones éloignées que vous avez explorés.",
+      "de": "Anzahl der entfernten Gebäude, die von dir erkundet wurden.",
+      "es": "Cantidad de edificios en zonas alejadas que has explorado."
+    }
+  },
+  "explo2": {
+    "id": "explo2",
+    "name": {
+      "en": "Expert Expeditions",
+      "fr": "Explorations très lointaines",
+      "de": "Expertenexpeditionen",
+      "es": "Exploraciones muy lejanas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 5,
+        "icon": "r_explo2.gif",
+        "title": {
+          "en": "Extreme Explorer",
+          "fr": "Explorateur vraiment impétueux",
+          "de": "Lebensmüder Kundschafter",
+          "es": "Caminante del Horizonte"
+        }
+      },
+      {
+        "count": 15,
+        "points": 10,
+        "title": {
+          "en": "Expedition Expert",
+          "fr": "Expéditionnaire au long cours",
+          "de": "Draufgängerischer Expeditionsreisender",
+          "es": "Explorador impetuosísimo"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Horizon traveller",
+          "fr": "Au-delà du réel",
+          "de": "Nervenkitzelsucher",
+          "es": "Expedicionario"
+        }
+      },
+      {
+        "count": 70,
+        "points": 0,
+        "title": {
+          "en": "Desert Shackleton",
+          "fr": "Champollion du désert",
+          "de": "Christopher Kolumbus",
+          "es": "Excursionista del desierto"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "To infinity and beyond!",
+          "fr": "Vers l'infini et au-delà !",
+          "de": "Neil Armstrong der Außenwelt",
+          "es": "Peregrino del Más Allá"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Indiana Jones and the ruins of the World Beyond",
+          "fr": "Indiana jones et les ruines de l'outre-monde",
+          "de": "Indiana Jones und die Ruinen der Außenwelt",
+          "es": "Indiana Jones del Ultramundo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of buildings explored in EXTREMELY far away places.",
+      "fr": "Nombre de bâtiments dans des zones éloignées que vous avez explorés.",
+      "de": "Anzahl SEHR WEIT entfernter Gebäude, die von dir erkundet wurden.",
+      "es": "Cantidad de edificios que has explorado en zonas REALMENTE muy alejadas."
+    }
+  },
+  "jrangr": {
+    "id": "jrangr",
+    "name": {
+      "en": "Professional Scout",
+      "fr": "Métier Éclaireur",
+      "de": "Beruf: Aufklärer",
+      "es": "Oficio Explorador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_jrangr.gif",
+        "title": {
+          "en": "The Sneak",
+          "fr": "Furtif",
+          "de": "Pfadfinder",
+          "es": "Furtivo"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Shadow Master",
+          "fr": "Maître des ombres",
+          "de": "Ninja",
+          "es": "Maestro de la oscuridad"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Dune Ranger",
+          "fr": "Ranger du risque",
+          "de": "Green Beret",
+          "es": "Amante del riesgo"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Sand Phantom",
+          "fr": "Fantôme des sables",
+          "de": "Schattenmann",
+          "es": "Fantasma de las arenas"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Taught Sam Fisher everything he knows!",
+          "fr": "Plus fort que Sam Fisher",
+          "de": "Wüstenphantom",
+          "es": "Discípulo de Sam Fisher"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "I think you are underestimating the sneakiness...",
+          "fr": "Disciple de Garrett",
+          "de": "Solid Snake war gestern...",
+          "es": "Discípulo de Garrett"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "The Invisible Man",
+          "fr": "Lady in Red",
+          "de": "Der unsichtbare Mann",
+          "es": "El Hombre Invisible"
+        }
+      }
+    ],
+    "description": {
+      "en": "Days spent in the shadows as a Scout.",
+      "fr": "Jours passés dans les ombres en tant qu'Éclaireur.",
+      "de": "Anzahl der Tage, die du als Aufklärer gespielt hast.",
+      "es": "Días pasados en la oscuridad como Explorador."
+    }
+  },
+  "jguard": {
+    "id": "jguard",
+    "name": {
+      "en": "Professional Guardian",
+      "fr": "Métier Gardien",
+      "de": "Beruf: Wächter",
+      "es": "Oficio Guardián"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_jguard.gif",
+        "title": {
+          "en": "Defender",
+          "fr": "Défenseur",
+          "de": "Die Mauer",
+          "es": "Defensor"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Master Guardian",
+          "fr": "Maître gardien",
+          "de": "Höllenwächter",
+          "es": "Gran Guardián"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Wandering Knight",
+          "fr": "Paladin",
+          "de": "Kerberos",
+          "es": "Paladín"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Last Bastion",
+          "fr": "Dernier rempart",
+          "de": "Letzte Verteidigungslinie",
+          "es": "Último escudero"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "You... shall... not...PASS!",
+          "fr": "Vous.. ne.. passerez.. PAS !",
+          "de": "Du kommst hier NICHT durch!",
+          "es": "¡Usted no entra!"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "Insurmountable citizen",
+          "fr": "Citoyen infranchissable",
+          "de": "Hekatoncheir",
+          "es": "Watchman"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Steel curtain",
+          "fr": "Holy F***ing Iceberg",
+          "de": "Mr. Unüberwindbar",
+          "es": "Muralla Humana"
+        }
+      }
+    ],
+    "description": {
+      "en": "Days spent shepherding the weak through the valleys of darkness and finding lost children!",
+      "fr": "Jours passés avec votre bouclier en tant que Gardien.",
+      "de": "Anzahl der Tage, die du als Wächter gespielt hast.",
+      "es": "Días pasados con tu escudo como Guardián."
+    }
+  },
+  "jcolle": {
+    "id": "jcolle",
+    "name": {
+      "en": "Professional Scavenger",
+      "fr": "Métier Fouineur",
+      "de": "Beruf: Buddler",
+      "es": "Oficio Excavador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_jcolle.gif",
+        "title": {
+          "en": "Seeker",
+          "fr": "Trouveur",
+          "de": "Sandarbeiter",
+          "es": "Husmeador"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Master Scavenger",
+          "fr": "Maître Dénicheur",
+          "de": "Wüstenspringmaus",
+          "es": "Descubridor"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Check out my knick-knacks",
+          "fr": "Exhumeur de babioles",
+          "de": "Großer Ameisenbär",
+          "es": "Jefe Excavador"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Ultra Scavenger",
+          "fr": "Trouveur en chef",
+          "de": "Wüstenfuchs",
+          "es": "Maestro Excavador"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "I don't miss anything.",
+          "fr": "Rien ne m'échappe.",
+          "de": "Ich sehe alles!",
+          "es": "Nada se me escapa"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "I've got everything you need.",
+          "fr": "Une BMW ? Pas de p'oblème !",
+          "de": "Mehr brauch ich nicht.",
+          "es": "Radar Humano"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "A BMW M3? Too easy!",
+          "fr": "Où est Larchi ?",
+          "de": "Ein BMW? Kein Problem!",
+          "es": "Descubridor de tesoros"
+        }
+      }
+    ],
+    "description": {
+      "en": "Days spent as a scavenger, foraging around.",
+      "fr": "Jours passés à gratter le sol en tant que Fouineur.",
+      "de": "Anzahl der Tage, die du als Buddler gespielt hast.",
+      "es": "Días pasados escarbando el suelo como Excavador."
+    }
+  },
+  "jermit": {
+    "id": "jermit",
+    "name": {
+      "en": "Professional Survivalist",
+      "fr": "Métier Ermite",
+      "de": "Beruf: Einsiedler",
+      "es": "Oficio Ermitaño"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_jermit.gif",
+        "title": {
+          "en": "Wormfinder General",
+          "fr": "Dégoteur de vers",
+          "de": "Wurmfresser",
+          "es": "Comegusanos"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Master Rootfinder",
+          "fr": "Maître dégoteur",
+          "de": "Meister im Würmerfinden",
+          "es": "Degustador"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Insatiable Citizen",
+          "fr": "Insatiable citoyen",
+          "de": "Gefräßiger Bürger",
+          "es": "Paladar insaciable"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Rat Roaster",
+          "fr": "Grand Mange-vermines",
+          "de": "Wüstenwurmzüchter",
+          "es": "Devorador de insectos"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Friends? Who needs 'em!",
+          "fr": "Hermitamor",
+          "de": "Ich brauche niemanden!",
+          "es": "Omnívoro"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "Lonely...I'm so lonely",
+          "fr": "I'm a poor lonesome hermit...",
+          "de": "Heraklit der Außenwelt",
+          "es": "Ermitaño sin ascos"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Hardened Hermit",
+          "fr": "Cocodile dundee",
+          "de": "Gepanzerter Fakir",
+          "es": "Ermitaño Fakir"
+        }
+      }
+    ],
+    "description": {
+      "en": "Days spent as a survivalist, eating roots, worms and other such delicacies.",
+      "fr": "Jours passés à manger n'importe quoi en tant qu'Ermite.",
+      "de": "Anzahl der Tage, an denen du dich mit irgendetwas aus der Wüste ernährt hast.",
+      "es": "Días pasados comiendo cualquier cosa como Ermitaño."
+    }
+  },
+  "jtamer": {
+    "id": "jtamer",
+    "name": {
+      "en": "Professional Tamer",
+      "fr": "Métier Apprivoiseur",
+      "de": "Beruf: Dompteur",
+      "es": "Oficio Domador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_jtamer.gif",
+        "title": {
+          "en": "Talks to the animals",
+          "fr": "Ami des bêtes",
+          "de": "Tierliebhaber",
+          "es": "Amigo de los Animales"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Legend of Labradoodle",
+          "fr": "Maître-bichon",
+          "de": "Malteserzüchter",
+          "es": "Maestro Domador"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Wild Beast Tamer",
+          "fr": "Dresseur de bêtes sauvages",
+          "de": "Ich bändige Bestien",
+          "es": "Domador de Bestias"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Not without my dog!",
+          "fr": "Jamais sans mon chien !",
+          "de": "Nie ohne meinen Hund!",
+          "es": "Manimal"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Dog food doesn't taste so bad",
+          "fr": "La patée, c'est pas si mauvais",
+          "de": "Hundewurst schmeckt gar nicht schlecht!",
+          "es": "Aroma de Animal"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "Homosapien / Labradoodle cross",
+          "fr": "Bichon-Garou susceptible",
+          "de": "Meser (halb Mensch, halb Malteser)",
+          "es": "Zoo-sapiens"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Certified Were-doodle",
+          "fr": "Titre à personnaliser",
+          "de": "Der Große Fido",
+          "es": "Animal Planet"
+        }
+      }
+    ],
+    "description": {
+      "en": "Days spent as a Tamer, torturing Labradoodles.",
+      "fr": "Jours passés à torturer des bichons maltais.",
+      "de": "Anzahl der Tage, an denen du kleine Malteserhunde malträtiert hast.",
+      "es": "Días pasados torturando perritos."
+    }
+  },
+  "jtech": {
+    "id": "jtech",
+    "name": {
+      "en": "Professional Technician",
+      "fr": "Métier Technicien",
+      "de": "Beruf: Techniker",
+      "es": "Maestro técnico"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_jtech.gif",
+        "title": {
+          "en": "I'll let myself in...",
+          "fr": "Bricol' girl travesti",
+          "de": "Yo, wir schaffen das!",
+          "es": "Bricoloco"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "The BRD Screwdriver Combo",
+          "fr": "Amateur du PMV tournevis",
+          "de": "Kleiner Schraubendreher",
+          "es": "Destornillador Humano"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Spanners and Bump keys",
+          "fr": "Nuchuk à molette",
+          "de": "Schweizer Taschenmesser",
+          "es": "Mascafierros"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Tireless tumbler tickler",
+          "fr": "Constructeur increvable",
+          "de": "Unermüdlicher Schrauber",
+          "es": "Técnico Inagotable"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "TechnicoMecanoMegalo",
+          "fr": "TechnicoMecanoMegalo",
+          "de": "Seele des Handwerks",
+          "es": "Genio de la Mecánica"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "Solo So-low professional",
+          "fr": "Ame du professionnel",
+          "de": "Wüsten-Scotty",
+          "es": "Mago de la llave inglesa"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Every day is open-doors day!",
+          "fr": "Titre à personnaliser",
+          "de": "Mâitre de Baustelle",
+          "es": "McGiver de Zombinoia"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of days you've spent jiggling and fiddling with pointy tools.",
+      "fr": "Jours passés à jouer avec des outils pointus.",
+      "de": "Anzahl der Tage, die du als Techniker gespielt hast.",
+      "es": "Días pasados jugando con herramientas."
+    }
+  },
+  "jsham": {
+    "id": "jsham",
+    "name": {
+      "en": "Professional Shaman",
+      "fr": "Métier Chaman",
+      "de": "Beruf: Schamane",
+      "es": "Oficio Chamán"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_jsham.gif",
+        "title": {
+          "en": "Certified Charlatan",
+          "fr": "Aborigène curieux",
+          "de": "Diplomierter Scharlatan",
+          "es": "Aborigen curioso"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Accursed Soothsayer",
+          "fr": "Charlatan diplômé",
+          "de": "Schlimmer Finger",
+          "es": "Charlatán Amateur"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Soul Recycler",
+          "fr": "Aruspice maudit",
+          "de": "Seelenverwerter",
+          "es": "Charlatán Profesional"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Divine Mystic",
+          "fr": "Recycleur d'âmes",
+          "de": "Mystischer Seher",
+          "es": "Reciclador de Almas"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Voodoo Sorceror",
+          "fr": "Devin mystique",
+          "de": "Voodoopriester",
+          "es": "Místico"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "Omniscient Shaman",
+          "fr": "Guide des âmes perdues",
+          "de": "Allwissender Schamane",
+          "es": "Brujo"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Guide of lost souls",
+          "fr": "Titre à personnaliser",
+          "de": "Anführer der verlorenen Seelen",
+          "es": "Manipulador de Almas"
+        }
+      }
+    ],
+    "description": {
+      "en": "Days spent trafficking the souls of the dead.",
+      "fr": "Jours passés à trafiquer l'âme des morts.",
+      "de": "Anzahl der Tage, die du als Schamane gespielt hast.",
+      "es": "Días pasados jugando con almas de muertos."
+    }
+  },
+  "chstxl": {
+    "id": "chstxl",
+    "name": {
+      "en": "Luck",
+      "fr": "Chanceux",
+      "de": "Glückspilz",
+      "es": "Suertudo"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 5,
+        "icon": "r_chstxl.gif",
+        "title": {
+          "en": "The name's Nate Fortu",
+          "fr": "Spécialiste en aubaine",
+          "de": "Hans im Glück",
+          "es": "Golpe de Suerte"
+        }
+      },
+      {
+        "count": 10,
+        "points": 10,
+        "title": {
+          "en": "Do you feel lucky, punk?",
+          "fr": "Maître du coup de bol",
+          "de": "Vierklettriges Kleeblatt",
+          "es": "Maestro del Azar"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Windfall Catcher",
+          "fr": "Grand Veinard en chef",
+          "de": "Fortuna",
+          "es": "Pata de Conejo"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Jack Pott",
+          "fr": "Gontran Bonheur",
+          "de": "Gustav Gans",
+          "es": "Ganador de ganadores"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Lucky 7",
+          "fr": "Lucky 7",
+          "de": "Lucky 7",
+          "es": "Lucky 7"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Money for Nothing",
+          "fr": "Money for Nothing",
+          "de": "",
+          "es": ""
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of large metal chests you have found in the World Beyond.",
+      "fr": "Nombre de gros coffres en métal que vous avez dégotés dans l'Outre-Monde.",
+      "de": "Anzahl der Großen Metallkoffer, die du in der Außenwelt ausgegraben hast.",
+      "es": "Cantidad de grandes cofres de metal que has encontrado en el Ultramundo."
+    }
+  },
+  "tronco": {
+    "id": "tronco",
+    "name": {
+      "en": "Chainsaws",
+      "fr": "Tronçonneuses",
+      "de": "Kettensägen",
+      "es": "Sierras elécticas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "icon": "r_tronco.gif",
+        "title": {
+          "en": "Chainsaw Massacre",
+          "fr": "Massacre à la tronçonneuse",
+          "de": "Kettensägenmassaker",
+          "es": "Masacre Mecánica"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "There ain't nothing I can't take this chainsaw to...",
+          "fr": "Débiteur de viande",
+          "de": "Kanadischer Waldarbeiter",
+          "es": "Carnicero"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Bruce Campbell",
+          "fr": "Bruce Campbell",
+          "de": "Bruce Campbell",
+          "es": "Monstruo mecánico"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of chainsaws you have built.",
+      "fr": "Nombre de tronçonneuses que vous avez assemblées.",
+      "de": "Anzahl der Kettensägen, die du zusammengebaut hast.",
+      "es": "Cantidad de sierras eléctricas que has armado."
+    }
+  },
+  "watgun": {
+    "id": "watgun",
+    "name": {
+      "en": "Water Guns",
+      "fr": "Canons à eau",
+      "de": "Wasserkanonen",
+      "es": "Cañones de agua"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_watgun.gif",
+        "title": {
+          "en": "Super Soaker",
+          "fr": "Pistolereau",
+          "de": "Super Soaker",
+          "es": "Pistolero de agua"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "H2Operative",
+          "fr": "Spécialiste en pistolets à eau",
+          "de": "Wasserpistolenspezialist",
+          "es": "Plomero guerrillero"
+        }
+      },
+      {
+        "count": 35,
+        "points": 0,
+        "title": {
+          "en": "Hydraulics Engineer",
+          "fr": "Ingénierie hydraulique",
+          "de": "Hydraulik-Ingenieur",
+          "es": "Ingeniero hidráulico"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Atlantean Ancestry",
+          "fr": "Descendant des atlantes",
+          "de": "Nachfahre von Atlantis",
+          "es": "Tsunami mortal"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of water-based toys you have built.",
+      "fr": "Nombre de gros jouets à base d'eau que vous avez fabriqués.",
+      "de": "Anzahl an großen Wasserwaffen, die du gebaut hast.",
+      "es": "Cantidad de grandes juguetes de agua que has fabricado."
+    }
+  },
+  "batgun": {
+    "id": "batgun",
+    "name": {
+      "en": "Battery Launcher Builder",
+      "fr": "Super lance-piles",
+      "de": "Batteriewerferfabrikant",
+      "es": "Super lanzapilas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 0,
+        "icon": "r_batgun.gif",
+        "title": {
+          "en": "There's a battery with your name on it...",
+          "fr": "Gardien de la Pile",
+          "de": "Durazell",
+          "es": "Lanzador de Pilas"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Zen-ergizer",
+          "fr": "Détenteur de la Pile Sacrée",
+          "de": "Hüter der Heiligen Batterie",
+          "es": "Cañón de Pilas"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "The batterinator.",
+          "fr": "C'était pas ma guerre",
+          "de": "",
+          "es": "C'était pas ma guerre"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Is it a bird? Is it a plane? No, it's the super battery launcher!",
+          "fr": "C'est un oiseau, c'est un avion? Non c'est super lance pile",
+          "de": "",
+          "es": "C'est un oiseau, c'est un avion? Non c'est super lance pile"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Amped up and ready to roll",
+          "fr": "Ampère et contre tous",
+          "de": "",
+          "es": "Ampère et contre tous"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Hey hey, wanna see my... Battery?",
+          "fr": "Coucou! Tu veux voir ma pile ?",
+          "de": "",
+          "es": "Coucou! Tu veux voir ma pile ?"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of Battery Launchers you have built.",
+      "fr": "Nombre de puissants lance-piles que vous avez fabriqués.",
+      "de": "Anzahl der Batteriewerfer, die du gebaut hast.",
+      "es": "Cantidad de lanza-pilas que has fabricado."
+    }
+  },
+  "repair": {
+    "id": "repair",
+    "name": {
+      "en": "Repairs",
+      "fr": "Réparations",
+      "de": "Reparaturen",
+      "es": "Reparaciones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 0,
+        "icon": "r_repair.gif",
+        "title": {
+          "en": "Home Depot Regular",
+          "fr": "Bricoleur du dimanche",
+          "de": "Hobby-Heimwerker",
+          "es": "Reparador Dominguero"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Fitter",
+          "fr": "Technicien",
+          "de": "Techniker",
+          "es": "Técnico Post-Venta"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Technician",
+          "fr": "Maître ingénieur",
+          "de": "Meisterbastler",
+          "es": "Manitas hábiles"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Craftsman",
+          "fr": "Ré-assembleur de choses",
+          "de": "Sowas wirft man doch nicht weg!",
+          "es": "Ingeniero Espacial"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "MacGyver of the World beyond",
+          "fr": "Mac Gyver de l'Outre-Monde",
+          "de": "Mac Gyver der Außenwelt",
+          "es": "Reparador Supremo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of broken items that you've repaired.",
+      "fr": "Objets cassés que vous avez remis en état de marche.",
+      "de": "Anzahl kaputter Gegenstände, die du wieder repariert hast.",
+      "es": "Objetos rotos que has reparado."
+    }
+  },
+  "cobaye": {
+    "id": "cobaye",
+    "name": {
+      "en": "Drug Tests",
+      "fr": "Expérimentations",
+      "de": "Drogenerfahrungen",
+      "es": "Experimentaciones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 0,
+        "icon": "r_cobaye.gif",
+        "title": {
+          "en": "Guinea Pig",
+          "fr": "Cobaye de laboratoire",
+          "de": "Medikamentetester",
+          "es": "Conejillo de Indias"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Lab Rat",
+          "fr": "Expérience dangereuse",
+          "de": "Laborratte",
+          "es": "Sin miedo"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Product Tester!",
+          "fr": "Testeur de produits",
+          "de": "Pille palle, 3 Tage wach!",
+          "es": "Probador de productos"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "What do you mean these ain't skittles",
+          "fr": "Je n'aurais pas dû gober ça.",
+          "de": "Timothy Leary",
+          "es": "No debí probar eso"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "The sky is falling!!!",
+          "fr": "Je vois une Vallée Bleuûuue !",
+          "de": "Schamane",
+          "es": "¡Elefantes rosados!"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of times you have tested dangerous drugs... on yourself.",
+      "fr": "Drogues aux effets dangereux que vous avez avalées.",
+      "de": "Anzahl der gefährlichen Drogen, die du genommen hast.",
+      "es": "Estimulantes con efectos peligrosos que has probado."
+    }
+  },
+  "ebuild": {
+    "id": "ebuild",
+    "name": {
+      "en": "Wonder Constructions",
+      "fr": "Construction de Merveilles",
+      "de": "Wunderwerke",
+      "es": "Construcción de Maravillas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "r_ebuild.gif",
+        "title": {
+          "en": "Nonsense builder",
+          "fr": "Bâtisseur du non-sens",
+          "de": "Bauherr ohne Sinn und Verstand",
+          "es": "Albañil Dominguero"
+        }
+      },
+      {
+        "count": 3,
+        "points": 10,
+        "title": {
+          "en": "Founder of Timewasting",
+          "fr": "Fondateur du temps perdu",
+          "de": "Erbauer der verlorenen Zeit",
+          "es": "Obrero Amateur"
+        }
+      },
+      {
+        "count": 7,
+        "points": 0,
+        "title": {
+          "en": "Enlightened Builder",
+          "fr": "Édificateur illuminé",
+          "de": "Erleuchteter Baumeister",
+          "es": "Obrero Iluminado"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Soul Mason",
+          "fr": "Maçon du coeur",
+          "de": "Maurer aus Leidenschaft",
+          "es": "Obrero Optimista"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Chief DIY",
+          "fr": "Joindre l'inutile à l'agréable ",
+          "de": "",
+          "es": "Top Chef"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Visionary Architect",
+          "fr": "Architecte visionnaire fou",
+          "de": "Visionärer Architekt der Schrägen",
+          "es": "Arquitecto Visionario"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "I have a plan",
+          "fr": "J'ai un plan ",
+          "de": "",
+          "es": "Tengo un plan"
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "Demented Master Builder",
+          "fr": "Maître d'oeuvre dément",
+          "de": "Meister des schwachsinnigen Schaffens",
+          "es": "Ingeniero Demente"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Master of futility",
+          "fr": "Maître de l'inutilité",
+          "de": "",
+          "es": "Maestro de la inutilidad"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Fruit Loop Engineer",
+          "fr": "Ingénieur complètement givré",
+          "de": "Komplett vereister Ingenieur",
+          "es": "Constructor Obsesionado"
+        }
+      },
+      {
+        "count": 80,
+        "points": 0,
+        "title": {
+          "en": "Marvelously useless",
+          "fr": "Merveilleusement futile",
+          "de": "",
+          "es": "Maravillosamente inútil"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Bruce Lee of the trowel",
+          "fr": "Le Bruce Lee de la truelle",
+          "de": "Bruce Lee der Maurerkelle",
+          "es": "Constructor Megalómano"
+        }
+      },
+      {
+        "count": 120,
+        "points": 0,
+        "title": {
+          "en": "The age of cathedrals is upon us",
+          "fr": "Il est venu le temps des cathédrales",
+          "de": "",
+          "es": "La edad de la catedral es como la nuestra"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Ain't y'all got nothin' else t'do?",
+          "fr": "Z'avez pas mieux à faire ?",
+          "de": "",
+          "es": "¿No tenéis nada mejor que hacer?"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "High Priestess of the temple of the Sun",
+          "fr": "Grande prêtresse du temple du soleil",
+          "de": "",
+          "es": "Sacerdotisa del templo del Sol"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of wonders you have constructed.",
+      "fr": "Nombre de Merveilles que vous avez réussi à construire.",
+      "de": "Anzahl der Wunderwerke, an deren Bau du mitgewirkt hast.",
+      "es": "Cantidad de maravillas que has logrado construir."
+    }
+  },
+  "ebcrow": {
+    "id": "ebcrow",
+    "name": {
+      "en": "Wonder: Statue of the Crow",
+      "fr": "Merveille : Statue du Corbeau",
+      "de": "Wunderwerk: Statue des Raben",
+      "es": "Maravilla: Estatua del Cuervo"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "icon": "r_ebcrow.gif",
+        "title": {
+          "en": "Glory to the Crow!",
+          "fr": "Gloire au Corbeau !",
+          "de": "Huldigt den Raben!",
+          "es": "¡Gloria al Cuervo!"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Pigeon from the outer world.",
+          "fr": "Pigeon de l'Outre-Monde",
+          "de": "",
+          "es": "Mensajero del otro mundo."
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Spécialiste ès corvidés",
+          "fr": "Spécialiste ès corvidés",
+          "de": "",
+          "es": "Especialista en córvidos"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Phoenix of the desert",
+          "fr": "Phoenix des hôtes de ces bois",
+          "de": "",
+          "es": "Fénix del desierto"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Edit Piaf",
+          "fr": "Edit Piaf",
+          "de": "",
+          "es": "La vié en rose"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Bird of ill omen",
+          "fr": "Oiseau de mauvais augure",
+          "de": "",
+          "es": "Pájaro de mal agüero"
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "Crôôôaa !",
+          "fr": "Crôôôaa !",
+          "de": "",
+          "es": "¡Croooar!"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Once upon a time",
+          "fr": "Il était un foie...",
+          "de": "",
+          "es": "Érase una vez"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "John Snow",
+          "fr": "John Snow",
+          "de": "",
+          "es": "You know nothing..."
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "The crowinator",
+          "fr": "Le Corbeausier",
+          "de": "",
+          "es": "Hasta la vista, croooar"
+        }
+      }
+    ],
+    "description": {
+      "en": "The Crow is good, the Crow is all-powerful. [edited by the Crow]",
+      "fr": "Le Corbeau est bon, le Corbeau est bienfaisant. [édité par Corbilla Fortuna]",
+      "de": "Der Rabe ist gut, der Rabe ist ein Segen für die Stadt. [editiert vom Raben]",
+      "es": "El Cuervo es un tipazo, el Cuervo es bondadoso. [Firmado: El Cuervo]"
+    }
+  },
+  "ebgros": {
+    "id": "ebgros",
+    "name": {
+      "en": "Wonder: Fearfulness Wheel",
+      "fr": "Merveille : Roue de Grostas",
+      "de": "Wunderwerk: Rad des Schreckens",
+      "es": "Maravilla: La Rueda del Miedo"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "icon": "r_ebgros.gif",
+        "title": {
+          "en": "I can see the zeds from here!",
+          "fr": "Oh on voit les zombies d'ici",
+          "de": "Ich sehe von hier oben die Zombies",
+          "es": "Oh, desde aquí puedo ver muchos zombies"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Happy hampster",
+          "fr": "Hamster jovial",
+          "de": "",
+          "es": "Roedor feliz"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Desert showman!",
+          "fr": "Forain de l'Outre Monde !",
+          "de": "",
+          "es": "¡Muñeco de arena!"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Third wheel",
+          "fr": "5e roue du carrosse",
+          "de": "",
+          "es": "Sujetavelas"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "I think i've got vertigo",
+          "fr": "J'ai le vertige",
+          "de": "",
+          "es": "Creo que tengo vertigo"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "On high",
+          "fr": "La-haut",
+          "de": "",
+          "es": "Colocado"
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "Eye of the desert",
+          "fr": "L'oeil du désert",
+          "de": "",
+          "es": "Ojo del desierto"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "There's gotta be 400 zombies salivating over us out there",
+          "fr": "4000 zombies nous contemplent",
+          "de": "",
+          "es": "Van a haber 400 zombies lamiéndonos ahí fuera"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Freewheeling",
+          "fr": "En roue libre",
+          "de": "",
+          "es": "Cicloturismo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Look, I can see the zeds from up here!",
+      "fr": "Regardez, on voit les zombies de là haut !",
+      "de": "Sieh nur, man kann von da oben die Zombies sehen!",
+      "es": "Increíble, ¡desde aquí los zombies se ven como hormiguitas!"
+    }
+  },
+  "ebpmv": {
+    "id": "ebpmv",
+    "name": {
+      "en": "Wonder: Giant BRD",
+      "fr": "Merveille : PMV géant",
+      "de": "Wunderwerk: Riesiger KVF",
+      "es": "Maravilla: COSA gigante"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "icon": "r_ebpmv.gif",
+        "title": {
+          "en": "BRDs for everyone! The people demand BRDs",
+          "fr": "Gloire au PMV !",
+          "de": "Huldigt den riesigen KVF!",
+          "es": "¡Gloria a la COSA!"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Modern obelisk!",
+          "fr": "Obélisque des temps modernes !",
+          "de": "",
+          "es": "¡Obelisco moderno!"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Standing ovation",
+          "fr": "Vibrant hommage",
+          "de": "",
+          "es": "Esperando ovación"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "One for the books",
+          "fr": "Restera dans les annales",
+          "de": "",
+          "es": "Uno con los libros"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Extra large love",
+          "fr": "L'amour extra large",
+          "de": "",
+          "es": "Amor extra-largo"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "It was smaller in the pictures",
+          "fr": "Ca faisait plus petit sur le catalogue",
+          "de": "",
+          "es": "Se veía más pequeño en la foto"
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "Happiness over 9000",
+          "fr": "Bonheur de magnitude 8 ",
+          "de": "",
+          "es": "Felicidad por encima de 9000"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Gardians of pleasure",
+          "fr": "Gardien des plaisirs",
+          "de": "",
+          "es": "Guardianes del placer"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "A little closer to the stars",
+          "fr": "Un peu plus près des étoiles",
+          "de": "",
+          "es": "Un poco más cerca de las estrellas"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Heavens! What will the neighbours say?",
+          "fr": "Ciel ! Que vont dire les voisins ?",
+          "de": "",
+          "es": "¡Demonios! ¿Qué dirán los vecinos?"
+        }
+      }
+    ],
+    "description": {
+      "en": "BRDs for everyone! The people demand BRDs",
+      "fr": "Gloire au PMV géant !",
+      "de": "Huldigt den riesigen KVF!",
+      "es": "¡Gloria la COSA gigante!"
+    }
+  },
+  "ebcstl": {
+    "id": "ebcstl",
+    "name": {
+      "en": "Wonder: Sandcastle",
+      "fr": "Merveille : Château de sable",
+      "de": "Wunderwerk: Sandschloss",
+      "es": "Maravilla: Castillo de arena"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "icon": "r_ebcstl.gif",
+        "title": {
+          "en": "Epitomy of uselessness!",
+          "fr": "Summum de l'inutile",
+          "de": "Gipfel des Nutzlosen",
+          "es": "Lo más inútil que se haya visto"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Guard of the seals",
+          "fr": "Garde des seaux",
+          "de": "",
+          "es": "Guardián de las costas"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Snake oil salesman",
+          "fr": "Marchand de sable",
+          "de": "",
+          "es": "Vendedor de aceite solar"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Beach martian",
+          "fr": "Martine à la plage",
+          "de": "",
+          "es": "Marciano playero"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Now that's a sand... Wait, what?",
+          "fr": "Un vrai jeu d'enfants !",
+          "de": "",
+          "es": "Eso sí es una duna... ¿¡Qué demonios!?"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Permanant member of the sand club",
+          "fr": "Membre permanent du club mickey",
+          "de": "",
+          "es": "Nunca hables del Club de la Arena"
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "Never without my trowl",
+          "fr": "Jamais sans mon seau",
+          "de": "",
+          "es": "¡No sin mi buzo!"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "I've got sand in places I didn't even know I had!",
+          "fr": "Je sais, j'ai un grain",
+          "de": "",
+          "es": "¡Tengo arena en sitios que ni sabía que tenía!"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Mister Sandman ♫♪",
+          "fr": "Mister Sandman ♫♪",
+          "de": "",
+          "es": "Enter Sandman"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Exploit the ephemeral",
+          "fr": "Exploit de l'éphèmère",
+          "de": "",
+          "es": "Explota lo efímero"
+        }
+      }
+    ],
+    "description": {
+      "en": "You really built that?",
+      "fr": "Vous avez vraiment construit ça ?",
+      "de": "Das hast du nicht wirklich gebaut?",
+      "es": "¿Realmente has construido eso?"
+    }
+  },
+  "drug": {
+    "id": "drug",
+    "name": {
+      "en": "Drugs",
+      "fr": "Drogues",
+      "de": "Drogen",
+      "es": "Estimulantes"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "The number of funny little pills you have swallowed (or hidden elsewhere...).",
+      "fr": "Nombre de petits cachets rigolos que vous avez avalés (ou placés ailleurs...).",
+      "de": "Anzahl kleiner lustiger Pillen, die du geschluckt oder sonstwie eingenommen hast.",
+      "es": "Cantidad de pequeñas pildoritas de colores que has tragado (o colocado en otra parte...)"
+    }
+  },
+  "alcool": {
+    "id": "alcool",
+    "name": {
+      "en": "Alcohol",
+      "fr": "Alcools",
+      "de": "Alkohol",
+      "es": "Alcoholes"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Just one finger!",
+          "fr": "Juste un doigt !",
+          "de": "",
+          "es": "Juste un doigt !"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Pilager of the liquor store.",
+          "fr": "Pilier de comptoir",
+          "de": "",
+          "es": "Pilier de comptoir"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Hennessy Highwayman",
+          "fr": "Routier du rhum",
+          "de": "",
+          "es": "Routier du rhum"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Barney Gumble of the world beyond",
+          "fr": "Barney Gumble de l'Outre-Monde",
+          "de": "",
+          "es": "Barney Gumble de l'Outre-Monde"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "Absinthe from drinking next time eh?!",
+          "fr": "Absinthe toi la prochaine fois",
+          "de": "",
+          "es": "Absinthe toi la prochaine fois"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Gimme a drink or the dog gets it! ",
+          "fr": "A boire ou j'tue le chien ! ",
+          "de": "",
+          "es": "A boire ou j'tue le chien ! "
+        }
+      },
+      {
+        "count": 600,
+        "points": 0,
+        "title": {
+          "en": "If it's under 55 proof it's water!",
+          "fr": "Avant 55°, c'est de l'eau",
+          "de": "",
+          "es": "Avant 55°, c'est de l'eau"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "Dialysis",
+          "fr": "Sans Foie ni Loi",
+          "de": "",
+          "es": "Sans Foie ni Loi"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of litres of home-made alcoholic substances you have consumed.",
+      "fr": "Litres de substances alcoolisées artisanales que vous avez avalés.",
+      "de": "Anzahl der Liter selbstgebrannten Alkohols, den du gesoffen hast.",
+      "es": "Litros de bebidas alcohólicas artesanales que has ingerido."
+    }
+  },
+  "forum": {
+    "id": "forum",
+    "name": {
+      "en": "Messages",
+      "fr": "Messages",
+      "de": "Nachrichten",
+      "es": "Mensajes"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "The number of worthwhile (or otherwise) messages you have left on the town forums.",
+      "fr": "Quantité de messages utiles (ou pas) que vous avez laissés sur le forum de ville.",
+      "de": "Anzahl der sinnvollen (oder sinnlosen...) Nachrichten, die du im Stadtforum geschrieben hast.",
+      "es": "Cantidad de mensajes útiles (o no) que has publicado en el foro del pueblo."
+    }
+  },
+  "maso": {
+    "id": "maso",
+    "name": {
+      "en": "Masochism",
+      "fr": "Masochisme",
+      "de": "Masochismus",
+      "es": "Masoquismo"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "r_maso.gif",
+        "title": {
+          "en": "Casual S+M Enthusiast",
+          "fr": "Adepte SM",
+          "de": "SM-Anhänger",
+          "es": "Adepto del SM"
+        }
+      },
+      {
+        "count": 40,
+        "points": 10,
+        "title": {
+          "en": "Whip me harder!",
+          "fr": "Maître du PMV",
+          "de": "SM-Spezialist",
+          "es": "Amo de la COSA"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Attach the testicle clamps!",
+          "fr": "Appelez-moi Maîtresse",
+          "de": "Nenn mich Herrin",
+          "es": "Llámame como quieras"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Bring out the gimp!",
+          "fr": "Fais de moi ton objet",
+          "de": "Ich möchte dein Objekt sein.",
+          "es": "Tócame, soy real"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of joyous moments in all this suffering.",
+      "fr": "Moments de bonheur dans la souffrance la plus totale.",
+      "de": "Anzahl der Glücksmomente, die du leidend oder schmerzgeplagt genossen hast.",
+      "es": "Momentos de felicidad en el sufrimiento más profundo."
+    }
+  },
+  "animal": {
+    "id": "animal",
+    "name": {
+      "en": "Butcher",
+      "fr": "Boucherie",
+      "de": "Metzger",
+      "es": "Carnicería"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 30,
+        "points": 5,
+        "icon": "r_animal.gif",
+        "title": {
+          "en": "Local Butcher",
+          "fr": "30 millions d'ennemis",
+          "de": "Stadtmetzger",
+          "es": "Amigo de los animales"
+        }
+      },
+      {
+        "count": 60,
+        "points": 10,
+        "title": {
+          "en": "Anyone for a fat-cat-kebab?",
+          "fr": "Responsable d'extinctions",
+          "de": "Spezialität: Hundesteaks",
+          "es": "Encargado de extinciones"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Scourge of the animal kingdom...",
+          "fr": "Fléau du monde animal",
+          "de": "Miezi? Jaaaa, komm her...",
+          "es": "Amenaza del mundo animal"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "If we're meant to eat vegetables, why are animals so tasty?",
+          "fr": "Spécialité : steak de chaton",
+          "de": "Fleisch ist mein Gemüse",
+          "es": "Especialidad: Puré de gato"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of animals you have exterminated (by hand, with a mixer, with a saniflow macerator...).",
+      "fr": "Nombre d'animaux que vous avez exterminés (à la main, au mixer, au sani-broyeur...).",
+      "de": "Anzahl der Tiere, die du umgebracht hast (mit deinen Händen, im Mixer, in der Fäkalienhebeanlage...).",
+      "es": "Cantidad de animales que has exterminado (con las manos, con un machete, con una batidora...)"
+    }
+  },
+  "deco": {
+    "id": "deco",
+    "name": {
+      "en": "Decoration",
+      "fr": "Décoration",
+      "de": "Hauseinrichtung",
+      "es": "Decoración"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 5,
+        "icon": "r_deco.gif",
+        "title": {
+          "en": "Coquette",
+          "fr": "Coquet",
+          "de": "Ästhet",
+          "es": "Detallista"
+        }
+      },
+      {
+        "count": 250,
+        "points": 10,
+        "title": {
+          "en": "Good taste personified",
+          "fr": "Citoyen de bon goût",
+          "de": "Schaufenstergestalter",
+          "es": "Habitante con buen gusto"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Interior designer",
+          "fr": "Architecte d'intérieur",
+          "de": "Innenarchitekt",
+          "es": "Decorador de interiores"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Marquee Master",
+          "fr": "Maître-décorateur de tentes",
+          "de": "Möbelgourmet",
+          "es": "Decorador con estilo"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Aesthetics Expert",
+          "fr": "Maître Es-thète",
+          "de": "Ordnung muss sein!",
+          "es": "Maestro de la estética"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Style is eternal...",
+          "fr": "Plus belle la vie !",
+          "de": "E-KEA Süchtling",
+          "es": "¡Envidia mi mansión!"
+        }
+      },
+      {
+        "count": 2500,
+        "points": 0,
+        "title": {
+          "en": "Welcome to the palace.",
+          "fr": "Grand Catalogue Kiela",
+          "de": "Anankastische Person",
+          "es": "Feria del Hogar"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of decoration points you have taken the trouble to add to your dwelling place.",
+      "fr": "Nombre de points de décoration que vous avez pris la peine d'ajouter à votre habitat.",
+      "de": "Anzahl der Punkte, die du durch sinnlose Einrichtungsverschönerungen gewonnen hast.",
+      "es": "Cantidad de puntos de decoración que has agregado a tu hogar."
+    }
+  },
+  "digger": {
+    "id": "digger",
+    "name": {
+      "en": "Excavations",
+      "fr": "Déblaiement",
+      "de": "Ausgrabungsarbeiten",
+      "es": "Desmonte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "r_digger.gif",
+        "title": {
+          "en": "Archaeologist",
+          "fr": "Forçat du désert",
+          "de": "Archäologielehrling",
+          "es": "Fuerzudo del desierto"
+        }
+      },
+      {
+        "count": 300,
+        "points": 10,
+        "title": {
+          "en": "Sand Shifter",
+          "fr": "Ouvrier des sables",
+          "de": "Archäologe",
+          "es": "Conan de las arenas"
+        }
+      },
+      {
+        "count": 750,
+        "points": 0,
+        "title": {
+          "en": "Ruin Restorer",
+          "fr": "Découvreur de bâtiments",
+          "de": "Grabungsleiter",
+          "es": "Hombre Caterpillar"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Indiana Jones",
+          "fr": "Creuseur de grands trous",
+          "de": "Maulwurf Grabowski",
+          "es": "Máquina de desmonte"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Desert Rat",
+          "fr": "Taupe géante",
+          "de": "Schliemann",
+          "es": "Topo biónico"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of action points you have invested in excavating ruins in the World Beyond.",
+      "fr": "points d'action investis dans le déblaiement d'un bâtiment dans l'Outre-Monde.",
+      "de": "Anzahl der Aktionspunkte, die du verbraucht hast, um eine Gebäuderuine in der Außenwelt freizulegen.",
+      "es": "Puntos de acción invertidos en despejar un edificio en el Ultramundo."
+    }
+  },
+  "buildr": {
+    "id": "buildr",
+    "name": {
+      "en": "Constructions",
+      "fr": "Chantiers",
+      "de": "Baustellen",
+      "es": "Construcciones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 5,
+        "icon": "r_buildr.gif",
+        "title": {
+          "en": "Labourer",
+          "fr": "Ouvrier",
+          "de": "Maurerlehrling",
+          "es": "Obrero"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Builder",
+          "fr": "Bâtisseur",
+          "de": "Maurer",
+          "es": "Urbanista"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "Site Manager",
+          "fr": "Chef de chantier",
+          "de": "Polier",
+          "es": "Jefe de construcción"
+        }
+      },
+      {
+        "count": 700,
+        "points": 0,
+        "title": {
+          "en": "Architect",
+          "fr": "Architecte",
+          "de": "Baustellenleiter",
+          "es": "Maestro constructor"
+        }
+      },
+      {
+        "count": 1300,
+        "points": 0,
+        "title": {
+          "en": "Master Architect",
+          "fr": "Maître-architecte",
+          "de": "Architekt",
+          "es": "Mecenas de la construcción"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Town Planner",
+          "fr": "Créateur de villes",
+          "de": "Meisterarchitekt",
+          "es": "Magnate del ladrillo"
+        }
+      },
+      {
+        "count": 3000,
+        "points": 0,
+        "title": {
+          "en": "Bob the builder",
+          "fr": "Captain Parpaing",
+          "de": "Oscar Niemeyer",
+          "es": "Ramsés del siglo XXI"
+        }
+      },
+      {
+        "count": 4000,
+        "points": 0,
+        "title": {
+          "en": "Cement & Garfunkle",
+          "fr": "Ciment & Garfunkel",
+          "de": "",
+          "es": "Ciment & Garfunkel"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 0,
+        "title": {
+          "en": "The human ant",
+          "fr": "Colonie de fourmis humaine",
+          "de": "",
+          "es": "Colonie de fourmis humaine"
+        }
+      },
+      {
+        "count": 6000,
+        "points": 0,
+        "title": {
+          "en": "The Great Wall of what?",
+          "fr": "Chapeau moellon et bottes de cuivre",
+          "de": "",
+          "es": "Chapeau moellon et bottes de cuivre"
+        }
+      },
+      {
+        "count": 8000,
+        "points": 0,
+        "title": {
+          "en": "Pyramid shmyramid",
+          "fr": "Le travail, c'est la santé",
+          "de": "",
+          "es": "Le travail, c'est la santé"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "I'm working on the Sagrada",
+          "fr": "L'abbé Tonière",
+          "de": "",
+          "es": "L'abbé Tonière"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of action / construction points you have invested in the construction projects in town.",
+      "fr": "points d'action et/ou de chantier investis dans l'avancement d'un chantier en ville.",
+      "de": "Anzahl der Aktionspunkte, die du für den Bau neuer Konstruktionen und Stadtgebäude verwendet hast.",
+      "es": "Puntos de acción o de construcción invertidos en el avance de una obra en el pueblo."
+    }
+  },
+  "wondrs": {
+    "id": "wondrs",
+    "name": {
+      "en": "Extreme Projects",
+      "fr": "Projets insensés",
+      "de": "Absurde Projekte",
+      "es": "Proyectos delirantes"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "r_wondrs.gif",
+        "title": {
+          "en": "Master Builder",
+          "fr": "Grand bâtisseur",
+          "de": "Großer Baumeister",
+          "es": "Constructor idealista"
+        }
+      },
+      {
+        "count": 50,
+        "points": 10,
+        "title": {
+          "en": "Great Architect",
+          "fr": "Grand architecte",
+          "de": "Großer Architekt",
+          "es": "Constructor visionario"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Great Mason",
+          "fr": "Franc-maçon",
+          "de": "Freimauer",
+          "es": "Arquitecto estrambótico"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Terraforming Specialist",
+          "fr": "Spécialiste en terraformation",
+          "de": "Terraformingspezialist",
+          "es": "Gaudí de Zombinoia"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Great, benevolent, all-powerful creator",
+          "fr": "Grand créateur tout-puissant",
+          "de": "Allmächtiger Schöpfer",
+          "es": "Faraón del siglo XXI"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "I can recite pi to infinity!",
+          "fr": "Archi-maid illustrateur de Pi",
+          "de": "",
+          "es": "Archi-maid illustrateur de Pi"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Three rivers dam... That's adorable.",
+          "fr": "Muad'Dib",
+          "de": "",
+          "es": "Muad'Dib"
+        }
+      },
+      {
+        "count": 350,
+        "points": 0,
+        "title": {
+          "en": "And on the 7th day, he did not rest!",
+          "fr": "Le 7ème jour, il créa la cage à viande",
+          "de": "",
+          "es": "Le 7ème jour, il créa la cage à viande"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of extreme projects you have carried out.",
+      "fr": "Nombre de projets insensés achevés de votre vivant.",
+      "de": "Anzahl der Absurden Projekte, deren Fertigstellung du noch erlebt hast.",
+      "es": "Cantidad de proyectos delirantes terminados durante tu triste vida."
+    }
+  },
+  "wondr2": {
+    "id": "wondr2",
+    "name": {
+      "en": "Truly ludicrous projects",
+      "fr": "Projets vraiment absurdes",
+      "de": "Lächerliche Projekte",
+      "es": "Proyectos realmente absurdos"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "r_wondr2.gif",
+        "title": {
+          "en": "Grand Planner",
+          "fr": "Grand Ordonnateur",
+          "de": "Großer Organisator",
+          "es": "Creatividad demencial"
+        }
+      },
+      {
+        "count": 50,
+        "points": 10,
+        "title": {
+          "en": "Creator of Marvels",
+          "fr": "Créateur de merveilles",
+          "de": "Wunderarchitekt",
+          "es": "Hacedor de maravillas"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Illuminato",
+          "fr": "Illuminati",
+          "de": "Illuminato",
+          "es": "Arquitecto chiflado"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Great Pharaoh",
+          "fr": "Grand Pharaon",
+          "de": "Großer Pharao",
+          "es": "Faraón incomprendido"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Hand of God",
+          "fr": "Main de dieu",
+          "de": "Schöpferhand",
+          "es": "Gran inconsciente"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of truly ludicrous projects you've carried out.",
+      "fr": "Nombre de projets vraiment absurdes achevés de votre vivant.",
+      "de": "Anzahl der Lächerlichen Projekte, deren Fertigstellung du noch erlebt hast.",
+      "es": "Cantidad de construcciones sin ningún sentido que realizaste en tu vida."
+    }
+  },
+  "beta": {
+    "id": "beta",
+    "name": {
+      "en": "In with the bricks",
+      "fr": "Ancien bêta-testeur",
+      "de": "Ehemaliger BETA-Tester",
+      "es": "Beta-tester"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_beta.gif",
+        "title": {
+          "en": "In with the bricks",
+          "fr": "Grand ancien",
+          "de": "Alter Hase",
+          "es": "Beta-tester"
+        }
+      }
+    ],
+    "description": {
+      "en": "An extremely rare distinction, awarded only to the very earliest citizens of Die2Nite.",
+      "fr": "Distinction rarissime réservée aux tout premiers citoyens de Hordes.",
+      "de": "Dies ist eine äußerst seltene Auszeichnung, die den ersten Spielern von 'Die Verdammten' vorbehalten ist.",
+      "es": "Distinción rarísima otorgada a quienes participaron en la fase Beta, los primeros jugadores de Zombinoia."
+    }
+  },
+  "cgarb": {
+    "id": "cgarb",
+    "name": {
+      "en": "Removals",
+      "fr": "Sorteur",
+      "de": "Leichenentsorger",
+      "es": "Lanzamuertos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 60,
+        "points": 0,
+        "icon": "r_cgarb.gif",
+        "title": {
+          "en": "Corpse Cop",
+          "fr": "Eboueur",
+          "de": "Müllmann",
+          "es": "Basurero"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Body Bouncer",
+          "fr": "Sorteur en chef",
+          "de": "Erfahrener Müllmann",
+          "es": "Lanzador de cadáveres"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Stiff Shifter",
+          "fr": "Expulseur de cadavres",
+          "de": "Entsorgungsfachmann",
+          "es": "Cañón lanzamuertos"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Apocalyptic Garbageman",
+          "fr": "Refouleur de macchabées",
+          "de": "Mülldeponiechef",
+          "es": "Lanzamuertos Ultra 2000"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of dead friends you've dragged out of the town.",
+      "fr": "Nombre d'amis morts que vous avez tirés hors de la ville.",
+      "de": "Anzahl deiner toten Freunde, die du außerhalb der Stadt entsorgt hast.",
+      "es": "Cantidad de amigos muertos que has tirado fuera del pueblo."
+    }
+  },
+  "cwater": {
+    "id": "cwater",
+    "name": {
+      "en": "Sprinkler",
+      "fr": "Arroseur",
+      "de": "Leichenwäscher",
+      "es": "Mojador de muertos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 0,
+        "icon": "r_cwater.gif",
+        "title": {
+          "en": "Silver Showerer",
+          "fr": "Grand arroseur",
+          "de": "Nein, das Ding fasse ich nicht an.",
+          "es": "Regador Ocasional"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Golden Showerer",
+          "fr": "Mouilleur de cadavres",
+          "de": "Leichenhygieniker",
+          "es": "¿Un chorrito más señor?"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Platinum Showerer",
+          "fr": "Pasteur du village",
+          "de": "Ich liebe den Geruch von gewaschenen Leichen am Morgen.",
+          "es": "Mojador de la Muerte"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of ceremonial showers given to corpses of citizens to ensure their non-return.",
+      "fr": "Cérémonies d'arrosage pratiquées sur des cadavres de citoyens.",
+      "de": "Anzahl der Leichenwaschzeremonien, die du mit den Körpern deiner verstorbenen Mitbürger durchgeführt hast.",
+      "es": "Veces que has regado con agua los cadáveres del pueblo."
+    }
+  },
+  "wrestl": {
+    "id": "wrestl",
+    "name": {
+      "en": "Fights of despair",
+      "fr": "Combats désespérés",
+      "de": "Kämpfe um Leben und Tod",
+      "es": "Combates mortales"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 0,
+        "icon": "r_wrestl.gif",
+        "title": {
+          "en": "Ultimate Fighter",
+          "fr": "Promeneur désespéré",
+          "de": "Ultimate Fighter",
+          "es": "Golpeador de zombies"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Wild Beast",
+          "fr": "Bête sauvage",
+          "de": "Wilde Bestie",
+          "es": "Destrozador de zombies"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Son of Rambo",
+          "fr": "Ancêtre de Rambo",
+          "de": "Rambos Nachfahre",
+          "es": "Destripador"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "Fear? What's that then?",
+          "fr": "Même pas peur !",
+          "de": "Angst? Was ist das?",
+          "es": "Arrancador de cabezas"
+        }
+      },
+      {
+        "count": 600,
+        "points": 0,
+        "title": {
+          "en": "Throwing zombies around like Strippers' bras!",
+          "fr": "Etripeur à mains nues",
+          "de": "Zombies Ausweiden macht Spaß!",
+          "es": "El Undertaker de Zombinoia"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of zombies you have killed with your bare hands, using no weapons or special abilities. Wow!",
+      "fr": "Zombies éliminés de vos propres mains, sans arme ni capacité spéciale. Wahou.",
+      "de": "Anzahl der Zombies, die du mit den bloßen Händen umgebracht hast. Wow!",
+      "es": "Zombies que mataste con tus propias manos, sin armas ni competencias especiales. ¡Eso macho!"
+    }
+  },
+  "ban": {
+    "id": "ban",
+    "name": {
+      "en": "Banishments",
+      "fr": "Bannissements",
+      "de": "Verbannungen",
+      "es": "Destierros"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "The number of times you have been run out of town by a lynch mob.",
+      "fr": "Nombre d'exclusions définitives de la communauté.",
+      "de": "Anzahl der Stadtverbannungen.",
+      "es": "Cantidad de veces que fuiste expulsado de la comunidad."
+    }
+  },
+  "surlst": {
+    "id": "surlst",
+    "name": {
+      "en": "Last Man Standing",
+      "fr": "Mort Ultime !",
+      "de": "Letzter Toter",
+      "es": "¡El Último Habitante!"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_surlst.gif",
+        "title": {
+          "en": "Zombie favourite",
+          "fr": "Favori des zombies",
+          "de": "Zombieliebling",
+          "es": "Salvado por la campana"
+        }
+      },
+      {
+        "count": 15,
+        "points": 10,
+        "title": {
+          "en": "Last Boy Scout",
+          "fr": "Last man standing",
+          "de": "Last man standing",
+          "es": "Amigo de los zombies"
+        }
+      },
+      {
+        "count": 30,
+        "points": 15,
+        "title": {
+          "en": "Dances with Hordes",
+          "fr": "Increvable",
+          "de": "Der mit den Zombies tanzt",
+          "es": "¡El muerto eres tú!"
+        }
+      },
+      {
+        "count": 50,
+        "points": 20,
+        "title": {
+          "en": "Me vs. the Horde!",
+          "fr": "Seul(e) contre les Hordes",
+          "de": "I will survive!",
+          "es": "Duro de matar"
+        }
+      },
+      {
+        "count": 100,
+        "points": 25,
+        "title": {
+          "en": "Chuck Norris Mk.2",
+          "fr": "Égal de Chuck Norris",
+          "de": "Du = Chuck Norris",
+          "es": "Vencedor de la muerte"
+        }
+      }
+    ],
+    "description": {
+      "en": "You were the last to die! Very few citizens have accomplished this feat!",
+      "fr": "Vous êtes le ou la dernière à mourir ! Très peu de citoyens ont réalisé cet exploit !",
+      "de": "Du bist der oder die Letzte, die draufgeht. Diese Ehre wird nur ganz wenigen Bürgern zuteil.",
+      "es": "Fuiste el último en morir en tu pueblo. ¡Muy pocos jugadores han logrado esta hazaña!"
+    }
+  },
+  "suhard": {
+    "id": "suhard",
+    "name": {
+      "en": "Last Man Standing - Hardcore!",
+      "fr": "Mort Ultime du Pandémonium !",
+      "de": "Letzter Toter Pandämoniumsstadt!",
+      "es": "El Último Superviviente en Pandemonio"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 5,
+        "icon": "r_suhard.gif",
+        "title": {
+          "en": "Hell is a walk in the park.",
+          "fr": "L'enfer, c'est mon quotidien.",
+          "de": "Ich bin in der Hölle aufgewachsen.",
+          "es": "El infierno es mi hogar"
+        }
+      },
+      {
+        "count": 10,
+        "points": 10,
+        "title": {
+          "en": "It's just too easy.",
+          "fr": "C'était vraiment trop facile.",
+          "de": "Viel zu einfach...",
+          "es": "¿No había algo más difícil?"
+        }
+      },
+      {
+        "count": 20,
+        "points": 15,
+        "title": {
+          "en": "I eat nails and sh*t bullets!",
+          "fr": "Je mâche le silex !",
+          "de": "Ich fresse Granit zum Frühstück!",
+          "es": "Yo como asufre puro"
+        }
+      },
+      {
+        "count": 40,
+        "points": 20,
+        "title": {
+          "en": "Hardcore? Candy from babies...",
+          "fr": "Le Pandémonium ? Pff. Easy.",
+          "de": "Pandämonium? Kinderkram!.",
+          "es": "¿Pande..qué? Ah, no fue nada"
+        }
+      },
+      {
+        "count": 100,
+        "points": 25,
+        "title": {
+          "en": "Hardcore Apostle",
+          "fr": "Apôtre du Pandémonium",
+          "de": "Apostel des Pandämoniums",
+          "es": "Terror del Pandemonio"
+        }
+      }
+    ],
+    "description": {
+      "en": "You were the last to bite the bullet in a Hardcore town!",
+      "fr": "Vous êtes le ou la dernière à mourir au cours d'une ville du Pandémonium !",
+      "de": "Du bist der oder die Letzte, die in einer Pandämoniumsstadt draufgeht!",
+      "es": "¡Fuiste el último en morir en un pueblo del Pandemonio!"
+    }
+  },
+  "surgrp": {
+    "id": "surgrp",
+    "name": {
+      "en": "Last line of defence",
+      "fr": "Dernière ligne",
+      "de": "Letzte Verteidigungslinie",
+      "es": "Última línea"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Eternally second",
+          "fr": "Éternel second",
+          "de": "",
+          "es": "Éternel second"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "The guard may perish, but he never gives up!",
+          "fr": "La garde meurt, mais ne se rend pas !",
+          "de": "",
+          "es": "La garde meurt, mais ne se rend pas !"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "The second last of the Mohicans",
+          "fr": "L'avant-dernier des Mohicans",
+          "de": "",
+          "es": "L'avant-dernier des Mohicans"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Allllllmooooooost, ah nope, damn it!",
+          "fr": "Eeeeeeeet ben non",
+          "de": "",
+          "es": "Eeeeeeeet ben non"
+        }
+      },
+      {
+        "count": 40,
+        "points": 0,
+        "title": {
+          "en": "All the way to the end and a bit further",
+          "fr": "Jusqu'au bout, et même un peu moins loin",
+          "de": "",
+          "es": "Jusqu'au bout, et même un peu moins loin"
+        }
+      },
+      {
+        "count": 60,
+        "points": 0,
+        "title": {
+          "en": "Close ranks and hold on!",
+          "fr": "Serrez les rangs... et les fesses...",
+          "de": "",
+          "es": "Serrez les rangs... et les fesses..."
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Hello... Is there anybody out there?",
+          "fr": "Vous êtes là les copains?",
+          "de": "",
+          "es": "Vous êtes là les copains?"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Hold your positions men!",
+          "fr": "Tenez vos positions !",
+          "de": "",
+          "es": "Tenez vos positions !"
+        }
+      }
+    ],
+    "description": {
+      "en": "You were one of the last people to see the Hordes descend on the town...",
+      "fr": "Vous faites partie des derniers à avoir vu les Hordes déferler sur la ville... ",
+      "de": "Du gehörst zu den letzten Bürgern der Stadt, die die Zombiehorde 'empfangen' hat...",
+      "es": "Fuiste uno de los últimos en ver las hordas de zombies invadir el pueblo."
+    }
+  },
+  "cooked": {
+    "id": "cooked",
+    "name": {
+      "en": "Extreme BBQ Chef",
+      "fr": "Cuisine exotique",
+      "de": "Grillmeister",
+      "es": "Cocina exótica"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "The number of former friends and fellow residents you have cooked and eaten.",
+      "fr": "Anciens amis que vous avez cuisinés au Cremato-cue.",
+      "de": "Anzahl deiner alten Freunde, die du im Kremato-Cue gegrillt hast.",
+      "es": "Viejos amigos a los que has cocinado en el Cremato-bar."
+    }
+  },
+  "refine": {
+    "id": "refine",
+    "name": {
+      "en": "Craftsman",
+      "fr": "Artisanat",
+      "de": "Handwerk",
+      "es": "Artesano"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "The number of objects you have assembled or dismantled at the workshop.",
+      "fr": "Nombre de petits objets bricolés ou démolis à l'atelier.",
+      "de": "Anzahl der Gegenstände, die du in der Werkstatt zusammengebaut oder zerstört hast.",
+      "es": "Cantidad de cachivaches armados o destruidos en el taller."
+    }
+  },
+  "rp": {
+    "id": "rp",
+    "name": {
+      "en": "Roleplayer",
+      "fr": "Rôliste",
+      "de": "Textsammler",
+      "es": "Rolista"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 5,
+        "icon": "r_rp.gif",
+        "title": {
+          "en": "Curious reader",
+          "fr": "Lecteur curieux",
+          "de": "Neugieriger Leser",
+          "es": "Lector curioso"
+        }
+      },
+      {
+        "count": 10,
+        "points": 10,
+        "title": {
+          "en": "Storyteller",
+          "fr": "Conteur d'histoires",
+          "de": "Eifriger Leser",
+          "es": "Cuentacuentos"
+        }
+      },
+      {
+        "count": 20,
+        "points": 15,
+        "title": {
+          "en": "Desert Historian",
+          "fr": "Historien du désert",
+          "de": "Wüstenhistoriker",
+          "es": "Historiador del desierto"
+        }
+      },
+      {
+        "count": 30,
+        "points": 20,
+        "title": {
+          "en": "Librarian",
+          "fr": "Gardien des archives",
+          "de": "Bibliothekar",
+          "es": "Guardián de los archivos"
+        }
+      },
+      {
+        "count": 40,
+        "points": 25,
+        "title": {
+          "en": "Archivist",
+          "fr": "Maitre rôliste",
+          "de": "Archivar",
+          "es": "Maestro Rolista"
+        }
+      },
+      {
+        "count": 60,
+        "points": 30,
+        "title": {
+          "en": "Souvenir Collector",
+          "fr": "Porteur du Souvenir",
+          "de": "Das Gedächtnis",
+          "es": "Portador de memorias"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Memoirs of a Civilization",
+          "fr": "Mémoire de la civilisation",
+          "de": "Memoires of a lost civilisation",
+          "es": "Memoria de la Humanidad"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of documents and other uncovered 'roleplay' items.",
+      "fr": "Documents et autres découvertes 'roleplay'.",
+      "de": "Anzahl der Dokumente und Texte, die du in der Wüste gefunden hast.",
+      "es": "Documentos y otros descubrimientos en el juego de rol."
+    }
+  },
+  "hbuild": {
+    "id": "hbuild",
+    "name": {
+      "en": "Homemaker",
+      "fr": "Travaux chez soi",
+      "de": "Hausarbeiten",
+      "es": "Trabajador hogareño"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Number of upgrades you have made to your place (improvements).",
+      "fr": "Nombre de petits travaux effectués dans votre maison.",
+      "de": "Anzahl der Ausbauten, die du an deinem Haus vorgenommen hast.",
+      "es": "Cantidad de pequeños trabajos hechos en casa."
+    }
+  },
+  "drgmkr": {
+    "id": "drgmkr",
+    "name": {
+      "en": "Lab Rat",
+      "fr": "Laborantin",
+      "de": "Laborant",
+      "es": "Laboratorio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_drgmkr.gif",
+        "title": {
+          "en": "Amateur Lab Rat",
+          "fr": "Laborantin amateur",
+          "de": "Amateur-Laborratte",
+          "es": "Laboratorista amateur"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Potion Preparer",
+          "fr": "Petit préparateur",
+          "de": "Kleiner Präparator",
+          "es": "Laboratorista autodidacta"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Corner Chemist",
+          "fr": "Chimiste du coin",
+          "de": "Chemiker von um die Ecke",
+          "es": "Químico de barrio"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Product Tester",
+          "fr": "Orfèvre gobeur",
+          "de": "Produkttester",
+          "es": "Alquimista"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "Local Dealer",
+          "fr": "Dealer du village",
+          "de": "Wüstenstadt-Dealer",
+          "es": "Dealer del pueblo"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Better living through Twinoid",
+          "fr": "Je goûte tous mes produits",
+          "de": "Besser leben dank Twinoid",
+          "es": "De la pura, purita"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "You smoke that? I made it.",
+          "fr": "Ça se fume ? c'est de moi.",
+          "de": "Was du da rauchst? Das ist von mir.",
+          "es": "Lo mio es lo bueno"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Official Supplier of AP",
+          "fr": "Fournisseur officiel de PA",
+          "de": "Offizieller Sponsor von AP",
+          "es": "Proveedor seguro"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of little pills created in your personal laboratory.",
+      "fr": "Cachets de Twinoïd produits dans votre Laboratoire personnel.",
+      "de": "Anzahl der kleinen bunten Pillen aus deinem  privaten Labor.",
+      "es": "Pastillas de Twinoid elaboradas en tu laboratorio personal."
+    }
+  },
+  "cookr": {
+    "id": "cookr",
+    "name": {
+      "en": "Tasty Dishes",
+      "fr": "Bons p'tits plats",
+      "de": "Hausmannskost",
+      "es": "Delicias"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_cookr.gif",
+        "title": {
+          "en": "Cantine Cook",
+          "fr": "Cuistot de cantine",
+          "de": "Kantinenkoch",
+          "es": "Ayudante de cocina"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Commis Chef",
+          "fr": "Petit chef cuistot",
+          "de": "Kleiner Küchenchef",
+          "es": "Cocinerillo"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Demi Chef de Partie",
+          "fr": "Cordon bleu du village",
+          "de": "Meister Eintopf",
+          "es": "Cordon bleu del barrio"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Mama's Finest",
+          "fr": "Grand pâtissier du désert",
+          "de": "Großer Wüstenkonditor",
+          "es": "Cordon bleu del pueblo"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "Sous Chef",
+          "fr": "Maître pâtissier du désert",
+          "de": "Begnadeter Wüstenkonditor",
+          "es": "Cuchara-brava"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Master Chef",
+          "fr": "Cooking-mama",
+          "de": "Cooking Mama",
+          "es": "Cooking-mama"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Pukka Chef",
+          "fr": "Expert de la cuillère",
+          "de": "Meisterhafter Kochlöffelschwinger",
+          "es": "Ferran Adrià de Zombinoia"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Marco Pierre Die2Nite",
+          "fr": "Top-Chef de l'outre-monde",
+          "de": "Tim Mälzer der Außenwelt",
+          "es": "Top-Chef del Ultramundo"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of delicious meals you have prepared from dubious ingredients.",
+      "fr": "Délicieux mets que vous avez concoctés avec des ingrédients douteux.",
+      "de": "Anzahl köstlicher Speisen, die du in der Küche gezaubert hast.",
+      "es": "Platillos preparados con ingredientes de procedencia dudosa."
+    }
+  },
+  "fjv": {
+    "id": "fjv",
+    "name": {
+      "en": "Chair à canon du FJV'08",
+      "fr": "Chair à canon du FJV'08",
+      "de": "Chair à canon du FJV'08",
+      "es": "Chair à canon du FJV'08"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_fjv.gif",
+        "title": {
+          "en": "Chair à canon du FJV'08",
+          "fr": "Chair à canon du FJV'08",
+          "de": "Chair à canon du FJV'08",
+          "es": "Chair à canon du FJV'08"
+        }
+      }
+    ],
+    "description": {
+      "en": "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008.",
+      "fr": "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008.",
+      "de": "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008.",
+      "es": "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008."
+    }
+  },
+  "fjvani": {
+    "id": "fjvani",
+    "name": {
+      "en": "Geek Tracker",
+      "fr": "Traqueur de geeks",
+      "de": "Verdammt in Saarbrücken",
+      "es": "Traqueur de geeks"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_fjvani.gif",
+        "title": {
+          "en": "Traqueur de geeks",
+          "fr": "Traqueur de geeks",
+          "de": "Verdammt in Saarbrücken",
+          "es": "Traqueur de geeks"
+        }
+      }
+    ],
+    "description": {
+      "en": "A rare distinction reserved for organisers of the Video Games festival 2008 who were at the Motion Twin stand!",
+      "fr": "Marque rarissime réservée aux animateurs présents au stand Motion Twin du Festival du Jeu Vidéo 2008 à Paris !",
+      "de": "Teilnehmer beim Community-Treffen in Saarbrücken am 6. November 2011",
+      "es": "Marque rarissime réservée aux animateurs présents au stand Motion Twin du Festival du Jeu Vidéo 2008 à Paris !"
+    }
+  },
+  "armag": {
+    "id": "armag",
+    "name": {
+      "en": "Armageddon Witness",
+      "fr": "Témoin de l'Armageddon",
+      "de": "Zeuge des Armageddon",
+      "es": "Testigo del Armagedón"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_armag.gif",
+        "title": {
+          "en": "Armageddon Witness",
+          "fr": "Témoin de l'Armageddon",
+          "de": "Zeuge des Armageddon",
+          "es": "Testigo del Armagedón"
+        }
+      }
+    ],
+    "description": {
+      "en": "A rare distinction only awarded to thos citizens who experienced the Armageddon!",
+      "fr": "Marque rarissime réservée aux âmes qui ont vécu le grand Armageddon de l'univers de Hordes !",
+      "de": "Eine seltene Auszeichnung für jene, die den Armageddon erlebt haben!",
+      "es": "¡Distinción rarísima reservada a las almas que han vivido el gran Armagedón en Zombionoia!"
+    }
+  },
+  "ginfec": {
+    "id": "ginfec",
+    "name": {
+      "en": "",
+      "fr": "Témoin de la Grande Contamination",
+      "de": "",
+      "es": ""
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_ginfec.gif",
+        "title": {
+          "en": "",
+          "fr": "Témoin de la Grande Contamination",
+          "de": "",
+          "es": ""
+        }
+      }
+    ],
+    "description": {
+      "en": "",
+      "fr": "Marque rarissime réservée aux âmes qui ont vécu la Grande Contamination Hordienne !",
+      "de": "",
+      "es": ""
+    }
+  },
+  "solban": {
+    "id": "solban",
+    "name": {
+      "en": "Emancipation of the Shunned",
+      "fr": "Banni émancipé",
+      "de": "Autarker Verbannter",
+      "es": "Desterrado emancipado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 0,
+        "icon": "r_solban.gif",
+        "title": {
+          "en": "Bin Raker",
+          "fr": "Fouineur de décharge",
+          "de": "Abstauber",
+          "es": "Buscatesoros"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Dumpster Diver",
+          "fr": "Enquiquineur débrouillard",
+          "de": "Müllkind",
+          "es": "Pelmazo astuto"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Recycling Addict",
+          "fr": "Indésirable autonome",
+          "de": "Recyclingfan",
+          "es": "Indeseable autónomo"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Shunned Parasite",
+          "fr": "Citoyen libre !",
+          "de": "Autonomer Parasit",
+          "es": "¡Ciudadano libre!"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "Solitary Dissident",
+          "fr": "Tout pour ma gueule",
+          "de": "Ich brauche nicht viel zum Leben",
+          "es": "¡Yo mismo soy!"
+        }
+      },
+      {
+        "count": 550,
+        "points": 0,
+        "title": {
+          "en": "I don't need nobody",
+          "fr": "Je n'ai besoin de personne",
+          "de": "Allesverwerter",
+          "es": "No necesito a nadie"
+        }
+      },
+      {
+        "count": 700,
+        "points": 0,
+        "title": {
+          "en": "Solo Survivalist",
+          "fr": "Grand Ermite indépendant",
+          "de": "Freier Bürger",
+          "es": "Ermitaño independientista"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Che Guevara of the World Beyond",
+          "fr": "Che Guevara du désert",
+          "de": "Wüsten-Che Guevara",
+          "es": "Rebelde del desierto"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of lucky finds you have stumbled across while rummaging in the town's garbage. You must be shunned to earn this distinction.",
+      "fr": "Nombre d'objets de fortune confectionnés à partir de débris trouvés dans les poubelles de la ville. Il faut être banni(e) pour recevoir cette distinction.",
+      "de": "Anzahl noch brauchbarer Gegenstände, die du in der Mülldeponie vor der Stadt gefunden hast. Nur Verbannte können diese Auszeichnung erhalten.",
+      "es": "Cantidad de objetos de fortuna fabricado con desechos encontrados en la basura del pueblo. Solo los desterrados pueden recibir este reconocimiento."
+    }
+  },
+  "share": {
+    "id": "share",
+    "name": {
+      "en": "Generosity",
+      "fr": "Générosité",
+      "de": "Großzügigkeit",
+      "es": "Generosidad"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_share.gif",
+        "title": {
+          "en": "Noble Heart",
+          "fr": "Ame noble",
+          "de": "Nobler Spender",
+          "es": "Buena gente"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Charitable Soul",
+          "fr": "Donateur universel",
+          "de": "Immer zur Stelle",
+          "es": "Alma noble"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Social Support",
+          "fr": "Assistant social",
+          "de": "Samariter",
+          "es": "Misericordioso"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Samaritan",
+          "fr": "Citoyen qui tombe à pic",
+          "de": "Mäzen",
+          "es": "Habitante altruista"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "All you need is love... and Hero days",
+          "fr": "Messie",
+          "de": "Messie",
+          "es": "Gran Corazón"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of Hero days that you have given to another citizen in need.",
+      "fr": "Nombre de jours de mode héros que vous avez offert à un autre citoyen dans le besoin.",
+      "de": "Anzahl der Heldentage, die du einem anderem Bürger in Not geschenkt hast.",
+      "es": "Cantidad de días de Modo Héroe que regalaste a otro habitante necesitado."
+    }
+  },
+  "nodrug": {
+    "id": "nodrug",
+    "name": {
+      "en": "Clean",
+      "fr": "Clean",
+      "de": "Clean",
+      "es": "Limpio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "r_nodrug.gif",
+        "title": {
+          "en": "Twinoid is taboo",
+          "fr": "La twinoïde, c'est tabou",
+          "de": "Twinoid ist tabu",
+          "es": "Me siento bien"
+        }
+      },
+      {
+        "count": 75,
+        "points": 10,
+        "title": {
+          "en": "Happy as Larry",
+          "fr": "Bien dans sa peau",
+          "de": "Keine Macht den Drogen",
+          "es": "Me basto y me sobro"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Never touch the stuff, me.",
+          "fr": "Je touche pas à ça, MOI.",
+          "de": "Sowas fasse ICH nicht an.",
+          "es": "Limpio de polvo y paja"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Just Say No!",
+          "fr": "Exemple pour la jeunesse",
+          "de": "Vorbild für die Jugend",
+          "es": "Yo sé cuidar mi cuerpo"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Winners don't use drugs!",
+          "fr": "Winners don't use drugs !",
+          "de": "Champions nehmen keine Drogen!",
+          "es": "Ejemplo para los jóvenes"
+        }
+      }
+    ],
+    "description": {
+      "en": "Your capacity to stay clean (take no drugs) during a lifetime",
+      "fr": "Capacité à rester Clair(e) (aucune drogue consommée) au cours de toute une vie.",
+      "de": "Anzahl der Punkte, die du erworben hast, indem du in einer Stadt komplett clean geblieben bist.",
+      "es": "Capacidad de rechazar el consumo de todo estimulante en tu vida."
+    }
+  },
+  "santac": {
+    "id": "santac",
+    "name": {
+      "en": "Father Christmas is a little sh*t",
+      "fr": "Le Père Noël est une ordure",
+      "de": "Den Weihnachtsmann gibt es nicht",
+      "es": "Maldito Papá Noel"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_santac.gif",
+        "title": {
+          "en": "Father Christmas is a little rascal",
+          "fr": "Le Père Noël est un coquin",
+          "de": "Der Weihnachtsmann ist ein Schlawiner",
+          "es": "Papá Noel no existe"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Santa is a crook",
+          "fr": "Le Père Noël est un filou",
+          "de": "Der Weihnachtsmann ist ein Gauner",
+          "es": "Papá Noel es un ladrón"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Old Saint Nick is a little **it",
+          "fr": "Le Père Noël est une ordure",
+          "de": "Der Weihnachtsmann ist ein Scheißkerl",
+          "es": "Papá Noel es un delincuente"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Santa Claus is a thieving b*****d",
+          "fr": "Le Père Noël est une raclure",
+          "de": "Der Weihnachtsmann ist ein Lügner und Betrüger",
+          "es": "Papá Noel, ¡te odio!"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Prepare the gallows - we're hanging Santa!",
+          "fr": "Pendez le Père Noël !",
+          "de": "Hängt den Weihnachtsmann!",
+          "es": "¡Papá Noel, a la horca!"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of presents you have stolen from your friends.",
+      "fr": "Nombre de cadeaux volés à vos amis.",
+      "de": "Anzahl der Geschenke, die du deinen Freunden geklaut hast.",
+      "es": "Cantidad de regalos robados a amigos"
+    }
+  },
+  "lepre": {
+    "id": "lepre",
+    "name": {
+      "en": "The leprechaun got you good",
+      "fr": "Le Père Noël est une ordure",
+      "de": "Le Père Noël est une ordure",
+      "es": "Duendecillo"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_lepre.gif",
+        "title": {
+          "en": "Irish pockets are bulging!",
+          "fr": "Le Père Noël est un coquin",
+          "de": "Le Père Noël est un coquin",
+          "es": "Gnomo"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Where's my pot of gold, thieving pikey!",
+          "fr": "Le Père Noël est un filou",
+          "de": "Le Père Noël est un filou",
+          "es": "Elfo"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "This leprechaun is unstoppable.",
+          "fr": "Le Père Noël est une ordure",
+          "de": "Le Père Noël est une ordure",
+          "es": "Pobre duende"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Burn him, see if his ashes turn green!",
+          "fr": "Le Père Noël est une raclure",
+          "de": "Le Père Noël est une raclure",
+          "es": "Maldito duende"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "A caravan with no wheels???",
+          "fr": "Pendez le Père Noël !",
+          "de": "Pendez le Père Noël !",
+          "es": "Leprechaun"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of your friends' items you have stolen.",
+      "fr": "Nombre de cadeaux volés à vos amis.",
+      "de": "Nombre de cadeaux volés à vos amis.",
+      "es": "Parece que le has robado algo a un amigo."
+    }
+  },
+  "camp": {
+    "id": "camp",
+    "name": {
+      "en": "Daredevil Camper",
+      "fr": "Campeur téméraire",
+      "de": "Mutiger Camper",
+      "es": "Campista temerario"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_camp.gif",
+        "title": {
+          "en": "Suicide Sleeper",
+          "fr": "Dormeur suicidaire",
+          "de": "Außenweltschläfer",
+          "es": "Campista suicida"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Alone in the Dark",
+          "fr": "Seul(e) au monde",
+          "de": "Allein in dieser Welt",
+          "es": "Carpa diem"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Dances with zombies",
+          "fr": "Danse avec les zombies",
+          "de": "Der mit den Zombies tanzt",
+          "es": "Carnada para zombies"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "I see dead people - everywhere!",
+          "fr": "Je vois des morts partout",
+          "de": "Ich sehe überall Tote!",
+          "es": "Challenge Accepted!"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Don't wait up...",
+          "fr": "Je ne rentrerai pas ce soir...",
+          "de": "Ich komme heute Nacht nicht heim...",
+          "es": "Todo terreno"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Man vs World Beyond",
+          "fr": "Une fois, au stage d'été...",
+          "de": "Ein Mann gegen die Außenwelt",
+          "es": "¡Fuera de mi camino!"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "I'm allergic to something in town.",
+          "fr": "Allergique à la ville",
+          "de": "",
+          "es": "Allergique à la ville"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "So I guess we're not waiting for Bob?",
+          "fr": "Bah alors on n'attend pas Patrick ?",
+          "de": "",
+          "es": "Bah alors on n'attend pas Patrick ?"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Bear Grylls",
+          "fr": "Michel Fugueur",
+          "de": "",
+          "es": "Michel Fugueur"
+        }
+      },
+      {
+        "count": 350,
+        "points": 0,
+        "title": {
+          "en": "Without a roof or a tooth.",
+          "fr": "Sans toit ni foie",
+          "de": "",
+          "es": "Sans toit ni foie"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of nights you have spent in the World Beyond... and survived!",
+      "fr": "Nombre de nuits passées dehors et auxquelles vous avez survécu.",
+      "de": "Anzahl der Nächte, die du draußen geschlafen und überlebt hast.",
+      "es": "Cantidad de noches pasadas fuera del pueblo y que has sobrevivido."
+    }
+  },
+  "cmplst": {
+    "id": "cmplst",
+    "name": {
+      "en": "Zen Camper",
+      "fr": "Campeur de l'au-delà",
+      "de": "Camper im Jenseits",
+      "es": "Campista del Más Allá"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 5,
+        "icon": "r_cmplst.gif",
+        "title": {
+          "en": "Unshakeable Camper",
+          "fr": "Campeur inébranlable",
+          "de": "Furchtloser Camper",
+          "es": "Campista inquebrantable"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10,
+        "title": {
+          "en": "Desert Orphant",
+          "fr": "Orphelin du désert",
+          "de": "Waisenkind der Wüste",
+          "es": "Huérfano del desierto"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Incredible determination",
+          "fr": "Incroyable détermination",
+          "de": "Unglaubliche Entschlossenheit",
+          "es": "Voluntad de hierro"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "The Last Survivor",
+          "fr": "Le dernier survivant",
+          "de": "Der letzte Überlebende",
+          "es": "El último superviviente"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "I walk alone.",
+          "fr": "Je marche seul.",
+          "de": "Die Wüste ist mein Zuhause.",
+          "es": "Complejo de Adán"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Neil Armstrong of the World Beyond",
+          "fr": "Neil Armstrong de l'Outre Monde",
+          "de": "Ich überlebe alleine",
+          "es": "Neil Armstrong del Ultramundo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of nights survived after the town has been devastated!",
+      "fr": "Nombre de nuits survécues tandis que la ville était dévastée !",
+      "de": "Anzahl der Nächte, die du draußen überlebt hast als die Stadt schon zerstört war!",
+      "es": "Cantidad de noches sobrevividas mientras que el pueblo estaba devastado."
+    }
+  },
+  "kohlmb": {
+    "id": "kohlmb",
+    "name": {
+      "en": "Koh-Lambda Citizen",
+      "fr": "Citoyen Koh-Lambdais",
+      "de": "Citoyen Koh-Lambdais",
+      "es": "Habitante avanturero"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_kohlmb.gif",
+        "title": {
+          "en": "Koh-Lambda Citizen",
+          "fr": "Citoyen Koh-Lambdais",
+          "de": "Citoyen Koh-Lambdais",
+          "es": "Aventurero Zombinoiano"
+        }
+      },
+      {
+        "count": 2,
+        "points": 0,
+        "title": {
+          "en": "Koh-Lambda Hero",
+          "fr": "Héros Koh-Lambdais",
+          "de": "Héros Koh-Lambdais",
+          "es": "Héroe Zombinoiano"
+        }
+      },
+      {
+        "count": 3,
+        "points": 0,
+        "title": {
+          "en": "Koh-Lambda Veteran",
+          "fr": "Vétéran Koh-Lambdais",
+          "de": "Vétéran Koh-Lambdais",
+          "es": "Veterano Zombinoiano"
+        }
+      },
+      {
+        "count": 4,
+        "points": 0,
+        "title": {
+          "en": "Koh-Lambda Grandmaster",
+          "fr": "Grand Maître Koh-Lambdais",
+          "de": "Grand Maître Koh-Lambdais",
+          "es": "Maestro Zombinoiano"
+        }
+      }
+    ],
+    "description": {
+      "en": "This citizen was involved in the Reunification (last round) of the Koh-Lambda tournament!",
+      "fr": "Ce citoyen était présent lors de la Réunification (dernier round) du Koh-Lambda !",
+      "de": "Ce citoyen était présent lors de la Réunification (dernier round) du Koh-Lambda !",
+      "es": "Premio en evento especial"
+    }
+  },
+  "rrefer": {
+    "id": "rrefer",
+    "name": {
+      "en": "Golden Child",
+      "fr": "Riche gourou",
+      "de": "Reicher Guru",
+      "es": "Embaucador"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_rrefer.gif",
+        "title": {
+          "en": "Fund re-allocation specialist",
+          "fr": "Détourneur de fonds",
+          "de": "Kleiner Guru",
+          "es": "Engañador"
+        }
+      },
+      {
+        "count": 3,
+        "points": 0,
+        "title": {
+          "en": "Citizen trafficker",
+          "fr": "Trafiquant de citoyens",
+          "de": "Überzeugender Guru",
+          "es": "Timador astuto"
+        }
+      },
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Fresh flesh peddler",
+          "fr": "Négociant en chair fraîche",
+          "de": "Frischfleischhändler",
+          "es": "Timador profsional"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Soul salesman",
+          "fr": "Marchand d'âmes",
+          "de": "Seelenhändler",
+          "es": "Seductor de almas"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Persuasive sponsor",
+          "fr": "Parrain très convaincant",
+          "de": "Erfolgreicher Seelenhändler",
+          "es": "Poder de convencimiento"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Desert speculator",
+          "fr": "Spéculateur du désert",
+          "de": "Seelenspekulant",
+          "es": "Negociante de desierto"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Top trader",
+          "fr": "Trader très efficace",
+          "de": "Seelentrader",
+          "es": "Traficante de almas"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Persuadotron",
+          "fr": "Persuadotron-powa",
+          "de": "Scientologe",
+          "es": "Maestro de la persuación"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Come to the dark side!",
+          "fr": "Come to the dark side !",
+          "de": "Komm auf die dunkle Seite der Macht!",
+          "es": "Encantador de serpientes"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Golden Glaoui",
+          "fr": "Golden Glaouis",
+          "de": "Warren Buffet der Außenwelt",
+          "es": "Rasputín de Zombinoia"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of new citizens you have convinced to come to die2nite.com AND to pay for the privilege.",
+      "fr": "Nombre de nouveaux citoyens que vous avez convaincu de mourir ET de payer pour ça.",
+      "de": "Anzahl der Bürger, die du dazu bringen konntest, bei 'Die Verdammten' zu sterben UND dafür zu bezahlen.",
+      "es": "Cantidad de nuevos habitantes a los que has convencido de morir y han pagado por ello."
+    }
+  },
+  "fjv2": {
+    "id": "fjv2",
+    "name": {
+      "en": "Video Game Festival 2010",
+      "fr": "Festival du Jeu Vidéo 2010",
+      "de": "Festival 'Jeu Vidéo 2010'",
+      "es": "Festival du Jeu Vidéo 2010"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_fjv2.gif",
+        "title": {
+          "en": "Motivated Hordian Festivalgoer",
+          "fr": "Festivalier hordien motivé",
+          "de": "Motivierter Messebesucher",
+          "es": "Festivalier hordien motivé"
+        }
+      }
+    ],
+    "description": {
+      "en": "You were at the Paris Video Game festival 2010: Thanks!",
+      "fr": "Vous étiez présent(e) au Festival du Jeu Vidéo à Paris en 2010 : merci !",
+      "de": "Du hast uns 2010 auf dem 'Festival du Jeu Vidéo' in Paris besucht - Vielen Dank!",
+      "es": "Vous étiez présent(e) au Festival du Jeu Vidéo à Paris en 2010 : merci !"
+    }
+  },
+  "winthi": {
+    "id": "winthi",
+    "name": {
+      "en": "Competing Towns",
+      "fr": "Ville participante",
+      "de": "",
+      "es": ""
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 2,
+        "points": 0,
+        "icon": "r_winthi.gif",
+        "title": {
+          "en": "Cadavre débutant",
+          "fr": "Cadavre débutant",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "A crows best friend",
+          "fr": "Copain des corbeaux",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Devil of dehydration",
+          "fr": "Concitoyen déshydraté",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Sansexplorer",
+          "fr": "Aventurier des sables",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "A regular amatuer",
+          "fr": "Amateur régulier",
+          "de": "",
+          "es": ""
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of towns ranked in the top 35 of a previous season.",
+      "fr": "Nombre de villes présentes dans le classement top 35 d'une saison précédente.",
+      "de": "",
+      "es": ""
+    }
+  },
+  "winbas": {
+    "id": "winbas",
+    "name": {
+      "en": "Ranked Towns",
+      "fr": "Ville classée",
+      "de": "Gerankte Stadt",
+      "es": "Habitante prestigioso"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 2,
+        "points": 20,
+        "icon": "r_winbas.gif",
+        "title": {
+          "en": "Trusted Neighbour",
+          "fr": "Concitoyen de confiance",
+          "de": "Vertrauenswürdiger Bürger",
+          "es": "Compañero de confianza"
+        }
+      },
+      {
+        "count": 5,
+        "points": 30,
+        "title": {
+          "en": "Inspiration for the people",
+          "fr": "Inspiration pour le peuple",
+          "de": "Sehr erfahrener Bürger",
+          "es": "Inspiración para el pueblo"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Highly experienced player",
+          "fr": "Joueur très expérimenté",
+          "de": "Vorbild für das Volk",
+          "es": "Jugador experimentado"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Pillar of the community",
+          "fr": "Référence communautaire",
+          "de": "Richtwert der Gemeinschaft",
+          "es": "Modelo para la comunidad"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Decorated Veteran",
+          "fr": "Illustre vétéran",
+          "de": "Berühmter Veteran",
+          "es": "Ilustre veterano"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of towns which figured in last season's rankings.",
+      "fr": "Nombre de villes présentes dans le classement top 15 d'une saison précédente.",
+      "de": "Anzahl der Städte, in denen Du mitgespielt hast und die es in einer vergangenen Saison ins Ranking geschafft haben.",
+      "es": "Cantidad de veces en que has participado en pueblos presentes en una clasificación anterior."
+    }
+  },
+  "wintop": {
+    "id": "wintop",
+    "name": {
+      "en": "Legendary Towns!",
+      "fr": "Ville légendaire !",
+      "de": "Legendäre Stadt!",
+      "es": "Ciudadano legendario"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 30,
+        "icon": "r_wintop.gif",
+        "title": {
+          "en": "Myth in the making",
+          "fr": "Mythe vivant",
+          "de": "Lebender Mythos",
+          "es": "Héroe urbano"
+        }
+      },
+      {
+        "count": 2,
+        "points": 0,
+        "title": {
+          "en": "I am legend.",
+          "fr": "Je suis une légende.",
+          "de": "Ich bin eine Legende.",
+          "es": "El Salvador del Pueblo"
+        }
+      },
+      {
+        "count": 3,
+        "points": 0,
+        "title": {
+          "en": "If you want to live... Follow me!",
+          "fr": "Suis-moi si tu veux vivre",
+          "de": "Hör auf mich, wenn du überleben möchtest",
+          "es": "Sígueme si quieres sobrevivir"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of towns which made the number one spot from previous seasons.",
+      "fr": "Nombre de villes arrivées en première place du classement d'une saison précédente.",
+      "de": "Anzahl der Städte, in denen Du mitgespielt hast und die in einer vergangenen Saison als Erste abgeschnitten haben.",
+      "es": "Cantidad de pueblos colocados en el primer lugar en una clasificación anterior."
+    }
+  },
+  "sandb": {
+    "id": "sandb",
+    "name": {
+      "en": "Sand balls!",
+      "fr": "Boules de sable !",
+      "de": "Sandbälle! Yeah!",
+      "es": "Bolas de arena"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_sandb.gif",
+        "title": {
+          "en": "Sandman",
+          "fr": "Ensableur",
+          "de": "Passionierter Sandballwerfer",
+          "es": "Lanzador de arena"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Desert Marksman",
+          "fr": "Franc-tireur sablonneux",
+          "de": "Freischärler der Außenwelt",
+          "es": "Francotirador de arena"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Christmas Stonings... over here!",
+          "fr": "Lapidations de Noël",
+          "de": "Sandsteiniger",
+          "es": "Enterrador en arena"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "Sandstorm Sniper",
+          "fr": "Sniper des bacs à sable",
+          "de": "Sandkasten-Scharfschütze",
+          "es": "Tormenta de arena"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of sand balls successfully thrown at another citizen's chevy chase.",
+      "fr": "Nombre de boules de sable envoyées au visage d'autres joueurs.",
+      "de": "Anzahl der Sandbälle, die du deinen Mitspielern ins Gesicht geworfen hast. Kicher, kicher...",
+      "es": "Cantidad de bolas de arena lanzadas a la cara de otros jugadores."
+    }
+  },
+  "brep": {
+    "id": "brep",
+    "name": {
+      "en": "Building Repairs",
+      "fr": "Réparations de chantiers",
+      "de": "Gebäudereparaturen",
+      "es": "Reparación de construcciones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 0,
+        "icon": "r_brep.gif",
+        "title": {
+          "en": "Town plasterer",
+          "fr": "Plâtrier de la ville",
+          "de": "Spachtler",
+          "es": "Manitas hábiles"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "All-round Handyman",
+          "fr": "Briqueteur conscienceux",
+          "de": "Gewissenhafter Maurer",
+          "es": "Reparador aficionado"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Masterpieces in Peril",
+          "fr": "Chef d'oeuvre en péril",
+          "de": "Meisterwerke in Gefahr",
+          "es": "Reparador arriesgado"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Get some Duct Tape in there.",
+          "fr": "Une rustine et ça repart.",
+          "de": "Ein Flicken und alles ist wie neu",
+          "es": "Reparador obstinado"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "The Fixer",
+          "fr": "Redresseur de Pise",
+          "de": "Der Ausbesserer",
+          "es": "Reparador conocido"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Renovator to the stars",
+          "fr": "Grand rénovateur",
+          "de": "Großrenovierer",
+          "es": "Renovador recomendado"
+        }
+      },
+      {
+        "count": 2500,
+        "points": 0,
+        "title": {
+          "en": "Patch-up Specialist",
+          "fr": "Patch-day, no-play",
+          "de": "Patch-day, no-play",
+          "es": "Reparador exitoso"
+        }
+      },
+      {
+        "count": 3000,
+        "points": 0,
+        "title": {
+          "en": "A crack? What crack?",
+          "fr": "Une fissure ? Quelle fissure ?",
+          "de": "Ein Riss? Was für ein Riss?",
+          "es": "Reparator Pro"
+        }
+      },
+      {
+        "count": 3500,
+        "points": 0,
+        "title": {
+          "en": "That'll last another 10 years!",
+          "fr": "Ça tiendra encore 10 ans !",
+          "de": "Das wird noch 10 Jahre halten!",
+          "es": "Reparador garantizado"
+        }
+      }
+    ],
+    "description": {
+      "en": "Action Points invested in the ongoing repairs of buildings.",
+      "fr": "points d'action investis dans les réparations sans fin des chantiers.",
+      "de": "Anzahl der Aktionspunkte, die du in Reparaturen auf der Baustelle gesteckt hast.",
+      "es": "Puntos de acción invertidos en reparaciones interminables."
+    }
+  },
+  "bgum": {
+    "id": "bgum",
+    "name": {
+      "en": "Community Awards",
+      "fr": "Médailles communautaires",
+      "de": "Event-Auszeichnungen",
+      "es": "Medallas comunitarias"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_bgum.gif",
+        "title": {
+          "en": "Community Companion",
+          "fr": "Compagnon de la communauté",
+          "de": "Jedes Los gewinnt",
+          "es": "Ganador"
+        }
+      },
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Community Spirit",
+          "fr": "Animé de bonnes intentions",
+          "de": "Zinker",
+          "es": "Amigo de la comunidad"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Social Animal",
+          "fr": "Animal social",
+          "de": "Bingo",
+          "es": "Participante ocasional"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Animated Corpse",
+          "fr": "Défunt animé",
+          "de": "Sudoku ist anders",
+          "es": "Participante entusiasta"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Community Über-Activist",
+          "fr": "Hyper-activiste communautaire",
+          "de": "Siebenseitiger Würfel",
+          "es": "Participante carismático"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Soul Winner!",
+          "fr": "Gagnant dans l'âme !",
+          "de": "Einarmiger Bandit",
+          "es": "Espíritu ganador"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Community Soul Feeder",
+          "fr": "Guide des âmes communautaires",
+          "de": "Im Rausch der Spiele",
+          "es": "Activista comunitario"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Charismatic Prophet",
+          "fr": "Prophète charismatique",
+          "de": "Spielsüchtiger",
+          "es": "Ganador seguro"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Crow's Favourite",
+          "fr": "Favori du Corbeau",
+          "de": "Las Vegas!",
+          "es": "Preferido del Cuervo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Rewards earned through working with the community.",
+      "fr": "Récompenses obtenues dans le cadre d'animations communautaires.",
+      "de": "Auszeichnung für die Teilnahme an Events bei 'Die Verdammten'.",
+      "es": "Recompensas obtenidas en los eventos comunitarios."
+    }
+  },
+  "paques": {
+    "id": "paques",
+    "name": {
+      "en": "Crucifiction",
+      "fr": "Crucifixion",
+      "de": "Kreuzigung",
+      "es": "Crucificción"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_paques.gif",
+        "title": {
+          "en": "Red Cross Supporter",
+          "fr": "Membre de la Croix Rouge",
+          "de": "Mitglied des Roten Kreuzes",
+          "es": "Crucificator"
+        }
+      }
+    ],
+    "description": {
+      "en": "Rejoice! You don't need to walk any more.",
+      "fr": "Réjouissez vous, vous n'aurez pas eu à marcher.",
+      "de": "Freut euch, ihr braucht nie wieder zu Fuß gehen!",
+      "es": "No te quejes, desde allí tienes una buena vista."
+    }
+  },
+  "door": {
+    "id": "door",
+    "name": {
+      "en": "Covert Concierge",
+      "fr": "Ouverture de porte",
+      "de": "Geöffnete Tür",
+      "es": "Apertura de puertas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "r_door.gif",
+        "title": {
+          "en": "Key hee hee!",
+          "fr": "Un p'tit Bricard ?",
+          "de": "Wo klemmt's?",
+          "es": "Ganzúa"
+        }
+      },
+      {
+        "count": 5,
+        "points": 10,
+        "title": {
+          "en": "How about some Chubb-ly?",
+          "fr": "Une petite tranche de Vachette ?",
+          "de": "Dietrich",
+          "es": "Hijo de cerrajero"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Sesame, shift your A...",
+          "fr": "Sésame, bouge ton c...",
+          "de": "Sesam, öffne dich...",
+          "es": "Con o sin llaves, yo entro"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Deadbolt Dick",
+          "fr": "Dentiste serrurier",
+          "de": "Türöffner",
+          "es": "Ábrete Sésamo"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Gentleman Robber",
+          "fr": "Gentleman Cambrioleur",
+          "de": "Gentleman-Einbrecher",
+          "es": "Abridor de puertas"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Capitaine Crochet",
+          "fr": "Capitaine Crochet",
+          "de": "Schlüsseldienst",
+          "es": "Terror de las puertas"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Shim Surgeon",
+          "fr": "Cerbère de la porte",
+          "de": "Zerberus",
+          "es": "Llave maestra"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Grand Key Master",
+          "fr": "Maître des clés",
+          "de": "Schlüsselmeister",
+          "es": "Amo Cerrajero"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of doors you've unlocked while exploring ruins.",
+      "fr": "Nombre de portes dévérouillées par vos soins dans les ruines.",
+      "de": "Anzahl der verschlossenen Türen, die du in verlassenen Gebäuden geöffnet hast",
+      "es": "Cantidad de puertas abiertas en las ruinas."
+    }
+  },
+  "ruine": {
+    "id": "ruine",
+    "name": {
+      "en": "Ruin Explorations",
+      "fr": "Exploration de ruine",
+      "de": "Gebäude erkunden",
+      "es": "Exploración de ruinas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 5,
+        "icon": "r_ruine.gif",
+        "title": {
+          "en": "Sneaky Voyager",
+          "fr": "Si j'aurais su, j'aurais po v'nu",
+          "de": "Wenn ich das nur vorher gewusst hätte...",
+          "es": "¡Mamá, no me dejes aquí!"
+        }
+      },
+      {
+        "count": 10,
+        "points": 10,
+        "title": {
+          "en": "Tunnel Visionary",
+          "fr": "Voyageur téméraire",
+          "de": "Verwegener Wanderer",
+          "es": "Explorador por accidente"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Regularly A-mazed!",
+          "fr": "Apnéiste confirmé",
+          "de": "Tunnelblicker",
+          "es": "Explorador de ruinas"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Compass Included",
+          "fr": "J'ai la dé-dale !",
+          "de": "Im Irrgarten",
+          "es": "Ruina Man"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Buried Voluntarily",
+          "fr": "Boussole sur patte",
+          "de": "Inklusive Kompass",
+          "es": "Brújula andante"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Tombstone Toppler",
+          "fr": "Enterré volontaire",
+          "de": "Kanalratte",
+          "es": "Saqueador de tumbas"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Gollum of the Labyrinths",
+          "fr": "Pilleur de tombeau",
+          "de": "Grabräuber",
+          "es": "Pilleur de tombeau"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "Labyrinth Master PhD",
+          "fr": "Gollum des labyrinthes",
+          "de": "Gollum der Labyrinthe",
+          "es": "Profanador de ruinas"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "Don't call me Junior",
+          "fr": "Labyrinthe master MB",
+          "de": "Labyrinth-Meister",
+          "es": "Maestro de los laberintos"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of times you've dared to go inside an abandoned ruin.",
+      "fr": "Nombre de fois où vous avez osé pénétrer dans une ruine abandonnée.",
+      "de": "Anzahl der verlassenen Gebäude, die du untersucht hast",
+      "es": "Cantidad de veces que has osado entrar en una ruina abandonada"
+    }
+  },
+  "guide": {
+    "id": "guide",
+    "name": {
+      "en": "Spiritual Guide",
+      "fr": "Guide Spirituel",
+      "de": "Spiritueller Führer",
+      "es": "Guía Espiritual"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 300,
+        "points": 5,
+        "icon": "r_guide.gif",
+        "title": {
+          "en": "Daylight Lantern",
+          "fr": "Lanterne de jour",
+          "de": "Laterne des Tages",
+          "es": "Linterna mental"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 10,
+        "title": {
+          "en": "Pocket Companion",
+          "fr": "Compagnon de poche",
+          "de": "Taschenführer",
+          "es": "Compañero de camino"
+        }
+      },
+      {
+        "count": 2500,
+        "points": 0,
+        "title": {
+          "en": "Illuminated Guide",
+          "fr": "Guide éclairé",
+          "de": "Strahlender Anführer",
+          "es": "Mente iluminada"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 0,
+        "title": {
+          "en": "Enlightened Preacher",
+          "fr": "Prêcheur illuminé",
+          "de": "Erleuchtetet Moralprediger",
+          "es": "Predicador"
+        }
+      },
+      {
+        "count": 8000,
+        "points": 0,
+        "title": {
+          "en": "Love Guru",
+          "fr": "Love Gourou",
+          "de": "Love Guru",
+          "es": "Gurú"
+        }
+      },
+      {
+        "count": 15000,
+        "points": 0,
+        "title": {
+          "en": "Hear my voice",
+          "fr": "Ecoutez ma voix",
+          "de": "Höret meine Stimme",
+          "es": "La voz"
+        }
+      },
+      {
+        "count": 30000,
+        "points": 0,
+        "title": {
+          "en": "Mr Motivator",
+          "fr": "Inspirateur universel",
+          "de": "Universelle Muse",
+          "es": "Inspirador Universal"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of days spent shepherding the newbs through the valleys of small maps and finding lost children.",
+      "fr": "Jours passés en tant que guide pour les noobs en Région non éloignée.",
+      "de": "Anzahl der Tage, die du als Führer von Anfängern in den Kleinen Regionen verbracht hast",
+      "es": "Días pasados como guía en las regiones amateur."
+    }
+  },
+  "collec": {
+    "id": "collec",
+    "name": {
+      "en": "Soul Collector",
+      "fr": "Collecteur d'âmes",
+      "de": "Seelensammler",
+      "es": "Recolector de Almas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 2,
+        "points": 0,
+        "icon": "r_collec.gif",
+        "title": {
+          "en": "Type 4 Encounter",
+          "fr": "Rencontre du 4ème type",
+          "de": "Treffen der 4. Art",
+          "es": "Encuentros de otro mundo"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Have you got a light?",
+          "fr": "Vous avez du feu ?",
+          "de": "Hast du mal Feuer?",
+          "es": "¿Tienes fuego?"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Psychic for rent",
+          "fr": "Médium au rabais",
+          "de": "Medium mit Preisnachlass",
+          "es": "Medium principiante"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Amophilis psychotropia",
+          "fr": "Amophilis psychotropes",
+          "de": "Amophilis psychotropes",
+          "es": "Medium profesional"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Blue Fire-breather",
+          "fr": "Cracheur de flamme bleue",
+          "de": "Blauer Feuerspucker",
+          "es": "Pescador de Almas"
+        }
+      },
+      {
+        "count": 80,
+        "points": 0,
+        "title": {
+          "en": "I see dead people 0_0",
+          "fr": "I see dead people 0_0",
+          "de": "I see dead people 0_0",
+          "es": "Veo gente muerta"
+        }
+      },
+      {
+        "count": 120,
+        "points": 0,
+        "title": {
+          "en": "Who you gonna call?",
+          "fr": "Aspi-rituel",
+          "de": "Soul Man",
+          "es": "Aspirador de espíritus"
+        }
+      },
+      {
+        "count": 180,
+        "points": 0,
+        "title": {
+          "en": "Don't cross the streams",
+          "fr": "Collectionneur de vie",
+          "de": "Lebenssammler",
+          "es": "Coleccionista de Almas"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "I ain't afraid of no ghost",
+          "fr": "Faucheur de l'outre-monde",
+          "de": "Schnitter der Außenwelt",
+          "es": "Amo de los Espíritus"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of dead citizens' souls collected in the World Beyond",
+      "fr": "Nombres d'âmes de citoyens décédés collectées dans l'outre-monde",
+      "de": "Anzahl der in der Außenwelt gesammelten Seelen verschiedener Einwohner",
+      "es": "Cantidad de almas recolectadas de habitantes fallecidos en el Ultramundo"
+    }
+  },
+  "mystic": {
+    "id": "mystic",
+    "name": {
+      "en": "Mystic Points",
+      "fr": "Mysticisme",
+      "de": "Mystikpunkte",
+      "es": "Puntos de Misticismo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "icon": "r_mystic.gif",
+        "title": {
+          "en": "Keen Sceptic",
+          "fr": "Septicis-mite aïgu",
+          "de": "Verrückter Skeptiker",
+          "es": "Capataz"
+        }
+      },
+      {
+        "count": 25,
+        "points": 0,
+        "title": {
+          "en": "Soul Calipers",
+          "fr": "Agnos-tic",
+          "de": "Seelenknipser",
+          "es": "Capataz Espiritista"
+        }
+      },
+      {
+        "count": 75,
+        "points": 0,
+        "title": {
+          "en": "Watches with Scouts",
+          "fr": "Veille avec les Scouts",
+          "de": "Wächter der Seelen",
+          "es": "Dirigente espiritual"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "The truth is elsewhere",
+          "fr": "La vérité est ailleurs",
+          "de": "Die Wahrheit ist irgendwo da draußen",
+          "es": "Explotador de Almas"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "I'm a believer",
+          "fr": "I'm a believer",
+          "de": "I'm a believer",
+          "es": "Creador de esperanza"
+        }
+      },
+      {
+        "count": 800,
+        "points": 0,
+        "title": {
+          "en": "Sect Member",
+          "fr": "Membre de la secte",
+          "de": "Sektenmitglied",
+          "es": "Líder de secta"
+        }
+      },
+      {
+        "count": 1500,
+        "points": 0,
+        "title": {
+          "en": "Cosmic Sponsor",
+          "fr": "Parrain cosmique",
+          "de": "Kosmischer Pate",
+          "es": "Capataz cósmico"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of souls your town has managed to recycle",
+      "fr": "Nombre d'âmes que votre ville a pu libérer",
+      "de": "Anzahl der Seelen, die deine Stadt auf der Baustelle umwandeln konnte.",
+      "es": "Cantidad de almas que tu pueblo pudo reciclar en las construcciones"
+    }
+  },
+  "ptame": {
+    "id": "ptame",
+    "name": {
+      "en": "Soul Value",
+      "fr": "Valeur de l'âme",
+      "de": "Seelenpunkte",
+      "es": "Valor del Alma"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 20,
+        "icon": "r_ptame.gif",
+        "title": {
+          "en": "O Soul-e Mio",
+          "fr": "Leerd'âmeur nauséabond",
+          "de": "Bei meiner Seel",
+          "es": "Carne débil"
+        }
+      },
+      {
+        "count": 500,
+        "points": 50,
+        "title": {
+          "en": "Tin-soul town",
+          "fr": "Fan-tomme rapé",
+          "de": "Für immer und seelich",
+          "es": "Simple mortal"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 100,
+        "title": {
+          "en": "Noble Soul",
+          "fr": "Ame digne",
+          "de": "Noble Seele",
+          "es": "Alma digna"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 200,
+        "title": {
+          "en": "Soul-dier",
+          "fr": "Spider-Ame",
+          "de": "Beseelt",
+          "es": "Alma fuerte"
+        }
+      },
+      {
+        "count": 3000,
+        "points": 300,
+        "title": {
+          "en": "Reincarnator",
+          "fr": "Réincarnator",
+          "de": "Reinkarnator",
+          "es": "Reencarnator X"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 0,
+        "title": {
+          "en": "Divine Soul",
+          "fr": "Ame divine",
+          "de": "Göttliche Seele",
+          "es": "Alma Divina"
+        }
+      },
+      {
+        "count": 7000,
+        "points": 0,
+        "title": {
+          "en": "Open-chakra",
+          "fr": "Open-chakra",
+          "de": "Open-chakra",
+          "es": "Chakra-Man"
+        }
+      },
+      {
+        "count": 9000,
+        "points": 0,
+        "title": {
+          "en": "Thousand I-lived",
+          "fr": "Mille et une vie",
+          "de": "Tausend-und-ein-Leben",
+          "es": "Mil y Una Vidas"
+        }
+      },
+      {
+        "count": 12000,
+        "points": 0,
+        "title": {
+          "en": "Buddha",
+          "fr": "Bouddha",
+          "de": "Buddha",
+          "es": "El Inmortal"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of soul points you have accumulated in the course of your many lives.",
+      "fr": "Nombres de points d'âme que vous avez obtenu au cours de vos incarnations.",
+      "de": "Anzahl der Seelenpunkte, die du durch deine Inkarnationen erhalten hast.",
+      "es": "Cantidad de Puntos de Alma que has ganado en tus reencarnaciones."
+    }
+  },
+  "guard": {
+    "id": "guard",
+    "name": {
+      "en": "Watchman",
+      "fr": "Veilleur",
+      "de": "Stadtwächter",
+      "es": "Centinela"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "r_guard.gif",
+        "title": {
+          "en": "One Eye Open",
+          "fr": "Un Oeil ouvert",
+          "de": "Immer ein Auge offen",
+          "es": "Un ojo abierto"
+        }
+      },
+      {
+        "count": 40,
+        "points": 10,
+        "title": {
+          "en": "Both Eyes Open",
+          "fr": "Deux yeux ouverts",
+          "de": "Mit offenen Augen schlafen? Kein Problem!",
+          "es": "Dos ojos abiertos"
+        }
+      },
+      {
+        "count": 80,
+        "points": 0,
+        "title": {
+          "en": "Long-sighted",
+          "fr": "Longue Vue",
+          "de": "Immer alles im Blick",
+          "es": "Largavista"
+        }
+      },
+      {
+        "count": 120,
+        "points": 0,
+        "title": {
+          "en": "Uber-Aware",
+          "fr": "Aware",
+          "de": "Aufgepasst!",
+          "es": "Halcón humano"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Paranoid and Proud",
+          "fr": "Parano",
+          "de": "Paranoid",
+          "es": "Paranóico"
+        }
+      },
+      {
+        "count": 400,
+        "points": 0,
+        "title": {
+          "en": "The Raven!",
+          "fr": "Le Roc !",
+          "de": "Dir entgeht nichts",
+          "es": "Súper Centinela"
+        }
+      },
+      {
+        "count": 600,
+        "points": 0,
+        "title": {
+          "en": "Impenetrable Fortress",
+          "fr": "Forteresse imprenable",
+          "de": "Uneinnehmbare Festung",
+          "es": "Centinela Supremo"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of nights survived as a watchman.",
+      "fr": "Nombre de nuits survécues en tant que Veilleur.",
+      "de": "Anzahl der Nächte, die du als Stadtwächter überlebt hast.",
+      "es": "Cantidad de noches que sobreviviste como Centinela."
+    }
+  },
+  "cdh": {
+    "id": "cdh",
+    "name": {
+      "en": "Choc des héros",
+      "fr": "Choc des héros",
+      "de": "Choc des héros",
+      "es": "Choque de Héroes"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Honorary Reward given to those involved in Hero Clash in January 2010 !",
+      "fr": "Récompense honorifique pour une participation au Choc des Héros !",
+      "de": "Récompense honorifique pour une participation au Choc des Héros !",
+      "es": "Recompensa honorífica por la participación en Choque de Héroes"
+    }
+  },
+  "cdhwin": {
+    "id": "cdhwin",
+    "name": {
+      "en": "Fouineur gagnant du CDH",
+      "fr": "Fouineur gagnant du CDH",
+      "de": "Fouineur gagnant du CDH",
+      "es": "Excavador legendario"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_cdhwin.gif",
+        "title": {
+          "en": "Chief Shovelmaster",
+          "fr": "Chef-Pelleteur",
+          "de": "Chef-Pelleteur",
+          "es": "¡Nada me detiene!"
+        }
+      }
+    ],
+    "description": {
+      "en": "This award was given to the Scavengers who won the Hero Clash event in january 2010!",
+      "fr": "Victoire en tant que Fouineur lors du Choc des Héros !",
+      "de": "Victoire en tant que Fouineur lors du Choc des Héros !",
+      "es": "Distinción entregada a los miembros del pueblo de Excavadores que ganó el Choque de Héroes."
+    }
+  },
+  "ermwin": {
+    "id": "ermwin",
+    "name": {
+      "en": "Clash Champion",
+      "fr": "Champion du Choc des héros",
+      "de": "Triumphator",
+      "es": "Ermitaño legendario"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_ermwin.gif",
+        "title": {
+          "en": "I am a god! I will live forever!",
+          "fr": "Chef-Ascète",
+          "de": "Ich bin ein Gott! Ich werde ewig leben!",
+          "es": "¡Aquí mando yo!"
+        }
+      }
+    ],
+    "description": {
+      "en": "Gewinner des Clash Of The Titans: Survivalist",
+      "fr": "Victoire en tant qu'Ermite lors du Choc des Héros !",
+      "de": "Diese seltene Auszeichnung wurde den Einsiedlern verliehen, die mit ihrer Stadt die Schlacht der Berufe gewonnen haben. Respekt!",
+      "es": "Distinción entregada a los miembros del pueblo de Ermitaños que ganó el Choque de Héroes."
+    }
+  },
+  "shawin": {
+    "id": "shawin",
+    "name": {
+      "en": "Clash Champion",
+      "fr": "Champion du Choc des héros",
+      "de": "Triumphator",
+      "es": "Champion du Choc des héros"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_shawin.gif",
+        "title": {
+          "en": "Voodoo Chief",
+          "fr": "Chef-Vaudou",
+          "de": "Voodoo Chief",
+          "es": "Chef-Vaudou"
+        }
+      }
+    ],
+    "description": {
+      "en": "Gewinner des Clash Of The Titans: Shaman!",
+      "fr": "Victoire en tant que Chaman lors du Choc des Héros !",
+      "de": "Gewinner des Clash Of The Titans: Schamane !",
+      "es": "Victoire en tant que Chaman lors du Choc des Héros !"
+    }
+  },
+  "tecwin": {
+    "id": "tecwin",
+    "name": {
+      "en": "Clash Champion",
+      "fr": "Champion du Choc des héros",
+      "de": "Triumphator",
+      "es": "Champion du Choc des héros"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_tecwin.gif",
+        "title": {
+          "en": "Tech Wizard",
+          "fr": "Chef-Ouvrier",
+          "de": "Tech Wizard",
+          "es": "Chef-Ouvrier"
+        }
+      }
+    ],
+    "description": {
+      "en": "Gewinner des Clash Of The Titans: Technician!",
+      "fr": "Victoire en tant que Technicien lors du Choc des Héros !",
+      "de": "Gewinner des Clash Of The Titans: Techniker!",
+      "es": "Victoire en tant que Technicien lors du Choc des Héros !"
+    }
+  },
+  "defwin": {
+    "id": "defwin",
+    "name": {
+      "en": "Clash Champion",
+      "fr": "Champion du Choc des héros",
+      "de": "Triumphator",
+      "es": "Champion du Choc des héros"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_defwin.gif",
+        "title": {
+          "en": "Guardian Chief",
+          "fr": "Chef-Rempart",
+          "de": "Guardian Chief",
+          "es": "Chef-Rempart"
+        }
+      }
+    ],
+    "description": {
+      "en": "Gewinner des Clash Of The Titans: Guardian!",
+      "fr": "Victoire en tant que Gardien lors du Choc des Héros !",
+      "de": "Gewinner des Clash Of The Titans: Wächter!",
+      "es": "Victoire en tant que Gardien lors du Choc des Héros !"
+    }
+  },
+  "rngwin": {
+    "id": "rngwin",
+    "name": {
+      "en": "Clash Champion",
+      "fr": "Champion du Choc des héros",
+      "de": "Triumphator",
+      "es": "Champion du Choc des héros"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_rngwin.gif",
+        "title": {
+          "en": "Scout Master",
+          "fr": "Chef-Capuche",
+          "de": "Scout Master",
+          "es": "Chef-Capuche"
+        }
+      }
+    ],
+    "description": {
+      "en": "Gewinner des Clash Of The Titans: Scout!",
+      "fr": "Victoire en tant qu'Eclaireur lors du Choc des Héros !",
+      "de": "Gewinner des Clash Of The Titans: Aufklärer!",
+      "es": "Victoire en tant qu'Eclaireur lors du Choc des Héros !"
+    }
+  },
+  "tamwin": {
+    "id": "tamwin",
+    "name": {
+      "en": "Clash Champion",
+      "fr": "Champion du Choc des héros",
+      "de": "Triumphator",
+      "es": "Domador legendario"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_tamwin.gif",
+        "title": {
+          "en": "Chief Tamer",
+          "fr": "Chef-Bêbête",
+          "de": "Chief Tamer",
+          "es": "¡Soy una fiera!"
+        }
+      }
+    ],
+    "description": {
+      "en": "Gewinner des Clash Of The Titans: Tamer!",
+      "fr": "Victoire en tant qu'Apprivoiseur lors du Choc des Héros !",
+      "de": "Gewinner des Clash Of The Titans: Dompteur!",
+      "es": "Distinción entregada a los miembros del pueblo domador que ganó el Choque de Héroes."
+    }
+  },
+  "derwin": {
+    "id": "derwin",
+    "name": {
+      "en": "Clash Colossus",
+      "fr": "Mort Ultime du Choc",
+      "de": "Schlachtenlegende",
+      "es": "Héroe de Leyenda"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_derwin.gif",
+        "title": {
+          "en": "It is death that should be afraid of me!",
+          "fr": "La mort a peur de moi !",
+          "de": "Angst vor dem Tod? Der Sensenmann sollte MICH fürchten!",
+          "es": "¡No le temo a nada!"
+        }
+      }
+    ],
+    "description": {
+      "en": "This distinction was awarded only to only one man. A man who did what he was trained to do, what he was bred to do, what he was born to do. The last man standing out of the hundreds who participated in the first Clash of the Titans: the one and only cjmUK",
+      "fr": "Distinction du plus grand héros ayant survécu le plus longtemps lors du choc des héros, vous faîtes désormais parti de la légende de l'outre-monde !",
+      "de": "Nur ein Bürger besitzt diese Auszeichnung. Und zwar jene verdammte Seele, die als letzer Überlebender in der Stadt die Zombiehorden in der Schlacht der Berufe empfangen hat. Eine Legende!",
+      "es": "Esta distinción es entregada a un solo hombre, aquel que cumplió con su destino legendario y mantuvo a la muerte fuera de su camino en el Choque de Héroes."
+    }
+  },
+  "comu": {
+    "id": "comu",
+    "name": {
+      "en": "Clash Team",
+      "fr": "Organisation du Choc",
+      "de": "Community-Auszeichnung",
+      "es": "Organisation du Choc"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_comu.gif",
+        "title": {
+          "en": "In at the deep end!",
+          "fr": "Dedans jusqu'au cou !",
+          "de": "Held der Community!",
+          "es": "Dedans jusqu'au cou !"
+        }
+      }
+    ],
+    "description": {
+      "en": "Awarded for being part of the event team in the Clash of the Titans. Reporters, Video Makers, Town Leaders, we salute you.",
+      "fr": "Votre organisation sans faille lors du choc des héros a permis de créer un évènement dont on parlera encore longtemps !",
+      "de": "Auszeichnung für außergewöhnliche Verdienste um die Community von 'Die Verdammten.",
+      "es": "Votre organisation sans faille lors du choc des héros a permis de créer un évènement dont on parlera encore longtemps !"
+    }
+  },
+  "ufc": {
+    "id": "ufc",
+    "name": {
+      "en": "UFC",
+      "fr": "UFC",
+      "de": "",
+      "es": "UFC"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Honourary prize for participation in the UFC!",
+      "fr": "Récompense honorifique pour une participation à l'UFC !",
+      "de": "",
+      "es": "¡Premio honorario por defender la causa UFC!"
+    }
+  },
+  "ufcwin": {
+    "id": "ufcwin",
+    "name": {
+      "en": "Champion of the UFC",
+      "fr": "Champion de l'UFC",
+      "de": "",
+      "es": "Campeón del UFC"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_wufc.gif",
+        "title": {
+          "en": "UFC",
+          "fr": "UFC",
+          "de": "",
+          "es": "UFC"
+        }
+      }
+    ],
+    "description": {
+      "en": "Victory in the UFC!",
+      "fr": "Victoire lors de l'UFC !",
+      "de": "",
+      "es": "¡Campeón del UFC!"
+    }
+  },
+  "cott": {
+    "id": "cott",
+    "name": {
+      "en": "Clash Titan",
+      "fr": "Clash Titan",
+      "de": "Schlachtenbummler",
+      "es": "Héroe de todos"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_cott.gif",
+        "title": {
+          "en": "One town to rule them all!",
+          "fr": "One town to rule them all!",
+          "de": "Eine Stadt sie zu knechten!",
+          "es": "Mi vida, mi pueblo"
+        }
+      }
+    ],
+    "description": {
+      "en": "A very rare distinction, awarded only to the intrepid few who participated in the very first Clash of the Titans.",
+      "fr": "A very rare distinction, awarded only to the intrepid few who participated in the very first Clash of the Titans.",
+      "de": "Diese seltene Auszeichnung haben nur jene Verdammten erhalten, die an der Schlacht der Berufe teilgenommen haben.",
+      "es": "Una distinción muy rara, entregada a los pocos intrépidos participantes en el primer Choque de Héroes."
+    }
+  },
+  "comu2": {
+    "id": "comu2",
+    "name": {
+      "en": "Clash CEO",
+      "fr": "Clash CEO",
+      "de": "Clash CEO",
+      "es": "Clash CEO"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_comu2.gif",
+        "title": {
+          "en": "Making things happen!",
+          "fr": "Making things happen!",
+          "de": "Making things happen!",
+          "es": "Making things happen!"
+        }
+      }
+    ],
+    "description": {
+      "en": "Awarded for being one of the community organizers or developers in the Clash of the Titans. Our community thanks you!",
+      "fr": "Awarded for being one of the community organizers or developers in the Clash of the Titans. Our community thanks you!",
+      "de": "Awarded for being one of the community organizers or developers in the Clash of the Titans. Our community thanks you!",
+      "es": "Awarded for being one of the community organizers or developers in the Clash of the Titans. Our community thanks you!"
+    }
+  },
+  "goodg": {
+    "id": "goodg",
+    "name": {
+      "en": "Good Guy",
+      "fr": "Good Guy",
+      "de": "Good Guy",
+      "es": "Good Guy"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "r_goodg.gif",
+        "title": {
+          "en": "Good guy",
+          "fr": "Good guy",
+          "de": "Good Guy",
+          "es": "Good guy"
+        }
+      }
+    ],
+    "description": {
+      "en": "You are one of the most involved players in Die2Nite. For you, fair-play is more than a theory, it's a state of mind.",
+      "fr": "Vous faites partis des joueurs les plus intégres de Hordes, le fair-play, plus qu'un principe, c'est un état d'esprit.",
+      "de": "You are amongst the most upstanding players in Die2Nite. For you, fair-play is more than a theory, it's a state of mind.",
+      "es": "Vous faites partis des joueurs les plus intégres de Hordes, le fair-play, plus qu'un principe, c'est un état d'esprit."
+    }
+  },
+  "pande": {
+    "id": "pande",
+    "name": {
+      "en": "",
+      "fr": "Survivant de l'enfer !",
+      "de": "",
+      "es": ""
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 0,
+        "icon": "r_pande.gif",
+        "title": {
+          "en": "",
+          "fr": "L'enfer, j'en mange un peu chaque matin",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "",
+          "fr": "Abonné au sauna du pandémonium",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "",
+          "fr": "Pandémonium mon amour!",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "",
+          "fr": "Partenaire de danse de Lucifer",
+          "de": "",
+          "es": ""
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "",
+          "fr": "Ultime explorateur Hordien",
+          "de": "",
+          "es": ""
+        }
+      }
+    ],
+    "description": {
+      "en": "",
+      "fr": "Vous êtes un vrai survivant de l'enfer",
+      "de": "",
+      "es": ""
+    }
+  }
+}

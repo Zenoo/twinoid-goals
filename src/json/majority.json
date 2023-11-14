@@ -1,0 +1,277 @@
+{
+  "plays": {
+    "id": "plays",
+    "name": {
+      "en": "Parties Jouées",
+      "fr": "Parties Jouées",
+      "de": "Parties Jouées",
+      "es": "Parties Jouées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 200,
+        "points": 5,
+        "icon": "a2.png"
+      }
+    ]
+  },
+  "wins": {
+    "id": "wins",
+    "name": {
+      "en": "Victoires",
+      "fr": "Victoires",
+      "de": "Victoires",
+      "es": "Victoires"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "bronze.png"
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "icon": "gold.png"
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "prefix": true,
+        "title": {
+          "en": "Mouton",
+          "fr": "Mouton",
+          "de": "Mouton",
+          "es": "Mouton"
+        }
+      }
+    ]
+  },
+  "pchelm": {
+    "id": "pchelm",
+    "name": {
+      "en": "Petit Chelem",
+      "fr": "Petit Chelem",
+      "de": "Petit Chelem",
+      "es": "Petit Chelem"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "a1.png"
+      }
+    ]
+  },
+  "chelem": {
+    "id": "chelem",
+    "name": {
+      "en": "Grand Chelem",
+      "fr": "Grand Chelem",
+      "de": "Grand Chelem",
+      "es": "Grand Chelem"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "a0.png"
+      },
+      {
+        "count": 30,
+        "points": 5,
+        "icon": "sheep.png"
+      }
+    ]
+  },
+  "good": {
+    "id": "good",
+    "name": {
+      "en": "Majorités",
+      "fr": "Majorités",
+      "de": "Majorités",
+      "es": "Majorités"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 0,
+        "suffix": true,
+        "title": {
+          "en": "majoritaire",
+          "fr": "majoritaire",
+          "de": "majoritaire",
+          "es": "majoritaire"
+        }
+      }
+    ]
+  },
+  "bad": {
+    "id": "bad",
+    "name": {
+      "en": "Minorités",
+      "fr": "Minorités",
+      "de": "Minorités",
+      "es": "Minorités"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 2000,
+        "points": 5,
+        "suffix": true,
+        "title": {
+          "en": "minoritaire",
+          "fr": "minoritaire",
+          "de": "minoritaire",
+          "es": "minoritaire"
+        }
+      }
+    ]
+  },
+  "unani1": {
+    "id": "unani1",
+    "name": {
+      "en": "Unanimité à 10",
+      "fr": "Unanimité à 10",
+      "de": "Unanimité à 10",
+      "es": "Unanimité à 10"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "unani2": {
+    "id": "unani2",
+    "name": {
+      "en": "Unanimité à 20",
+      "fr": "Unanimité à 20",
+      "de": "Unanimité à 20",
+      "es": "Unanimité à 20"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "unani3": {
+    "id": "unani3",
+    "name": {
+      "en": "Mégunanimité",
+      "fr": "Mégunanimité",
+      "de": "Mégunanimité",
+      "es": "Mégunanimité"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "leader.png"
+      }
+    ]
+  },
+  "eq": {
+    "id": "eq",
+    "name": {
+      "en": "Egalités",
+      "fr": "Egalités",
+      "de": "Egalités",
+      "es": "Egalités"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "égalitaire",
+          "fr": "égalitaire",
+          "de": "égalitaire",
+          "es": "égalitaire"
+        }
+      }
+    ]
+  },
+  "mdr1": {
+    "id": "mdr1",
+    "name": {
+      "en": "S'amuse tout seul",
+      "fr": "S'amuse tout seul",
+      "de": "S'amuse tout seul",
+      "es": "S'amuse tout seul"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "mdr2": {
+    "id": "mdr2",
+    "name": {
+      "en": "Amusant",
+      "fr": "Amusant",
+      "de": "Amusant",
+      "es": "Amusant"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "mdr3": {
+    "id": "mdr3",
+    "name": {
+      "en": "Rire général",
+      "fr": "Rire général",
+      "de": "Rire général",
+      "es": "Rire général"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "mdr.png"
+      }
+    ]
+  },
+  "ten": {
+    "id": "ten",
+    "name": {
+      "en": "Seul contre Dix",
+      "fr": "Seul contre Dix",
+      "de": "Seul contre Dix",
+      "es": "Seul contre Dix"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "twenty": {
+    "id": "twenty",
+    "name": {
+      "en": "Seul contre Vingt",
+      "fr": "Seul contre Vingt",
+      "de": "Seul contre Vingt",
+      "es": "Seul contre Vingt"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "alone": {
+    "id": "alone",
+    "name": {
+      "en": "Seul contre Tous",
+      "fr": "Seul contre Tous",
+      "de": "Seul contre Tous",
+      "es": "Seul contre Tous"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "alone.png"
+      }
+    ]
+  }
+}

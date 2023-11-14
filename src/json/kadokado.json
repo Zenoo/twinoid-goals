@@ -1,0 +1,7103 @@
+{
+  "1": {
+    "id": "1",
+    "name": {
+      "en": "Aqua Splash Icon",
+      "fr": "Icône Aqua Splash",
+      "de": "Icon Aqua Splash",
+      "es": "Icono Aqua Splash"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "2": {
+    "id": "2",
+    "name": {
+      "en": "Atlanteine Icon",
+      "fr": "Icône Atlanteine",
+      "de": "Icon Atlanteine",
+      "es": "Icono Atlanteine"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "3": {
+    "id": "3",
+    "name": {
+      "en": "Bactery Icon",
+      "fr": "Icône Bactery",
+      "de": "Icon Bactery",
+      "es": "Icono Bactery"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "4": {
+    "id": "4",
+    "name": {
+      "en": "Piou builder Icon",
+      "fr": "Icône Piou builder",
+      "de": "Icon Piou builder",
+      "es": "Icono Piou builder"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "5": {
+    "id": "5",
+    "name": {
+      "en": "Cooking Lili Icon",
+      "fr": "Icône Cooking Lili",
+      "de": "Icon Cooking Lili",
+      "es": "Icono Cooking Lili"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "6": {
+    "id": "6",
+    "name": {
+      "en": "Interwheel Icon",
+      "fr": "Icône Interwheel",
+      "de": "Icon Interwheel",
+      "es": "Icono Interwheel"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "7": {
+    "id": "7",
+    "name": {
+      "en": "Iron Chouquette Icon",
+      "fr": "Icône Iron Chouquette",
+      "de": "Icon Iron Chouquette",
+      "es": "Icono Iron Chouquette"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "8": {
+    "id": "8",
+    "name": {
+      "en": "Kanji Icon",
+      "fr": "Icône Kanji",
+      "de": "Icon Kanji",
+      "es": "Icono Kanji"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "9": {
+    "id": "9",
+    "name": {
+      "en": "Kanji 2 Icon",
+      "fr": "Icône Kanji 2",
+      "de": "Icon Kanji 2",
+      "es": "Icono Kanji 2"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "10": {
+    "id": "10",
+    "name": {
+      "en": "Lili Icon",
+      "fr": "Icône Lili",
+      "de": "Icon Lili",
+      "es": "Icono Lili"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "11": {
+    "id": "11",
+    "name": {
+      "en": "Piou cute Icon",
+      "fr": "Icône Piou cute",
+      "de": "Icon Piou cute",
+      "es": "Icono Piou cute"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "12": {
+    "id": "12",
+    "name": {
+      "en": "Piou sad Icon",
+      "fr": "Icône Piou sad",
+      "de": "Icon Piou sad",
+      "es": "Icono Piou sad"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "13": {
+    "id": "13",
+    "name": {
+      "en": "Piou shy Icon",
+      "fr": "Icône Piou shy",
+      "de": "Icon Piou shy",
+      "es": "Icono Piou shy"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "14": {
+    "id": "14",
+    "name": {
+      "en": "Piou smile Icon",
+      "fr": "Icône Piou smile",
+      "de": "Icon Piou smile",
+      "es": "Icono Piou smile"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "15": {
+    "id": "15",
+    "name": {
+      "en": "Zipzap Icon",
+      "fr": "Icône Zipzap",
+      "de": "Icon Zipzap",
+      "es": "Icono Zipzap"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "16": {
+    "id": "16",
+    "name": {
+      "en": "Beer Icon",
+      "fr": "Icône Bière",
+      "de": "Icon Bier",
+      "es": "Icono Bière"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "17": {
+    "id": "17",
+    "name": {
+      "en": "Coffee Icon",
+      "fr": "Icône Café",
+      "de": "Icon Cafe",
+      "es": "Icono Café"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "18": {
+    "id": "18",
+    "name": {
+      "en": "Cola Icon",
+      "fr": "Icône Cola",
+      "de": "Icon Cola",
+      "es": "Icono Cola"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "19": {
+    "id": "19",
+    "name": {
+      "en": "Ice tea Icon",
+      "fr": "Icône Ice tea",
+      "de": "Icon Ice tea",
+      "es": "Icono Ice tea"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "20": {
+    "id": "20",
+    "name": {
+      "en": "Orange Icon",
+      "fr": "Icône Orange",
+      "de": "Icon Orange",
+      "es": "Icono Orange"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "21": {
+    "id": "21",
+    "name": {
+      "en": "Redcow Icon",
+      "fr": "Icône Redcow",
+      "de": "Icon Redcow",
+      "es": "Icono Redcow"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "22": {
+    "id": "22",
+    "name": {
+      "en": "Snow cool Icon",
+      "fr": "Icône Snow cool",
+      "de": "Icon Snow cool",
+      "es": "Icono Snow cool"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "23": {
+    "id": "23",
+    "name": {
+      "en": "Snow hu Icon",
+      "fr": "Icône Snow hu",
+      "de": "Icon Snow hu",
+      "es": "Icono Snow hu"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "24": {
+    "id": "24",
+    "name": {
+      "en": "Snow yeah Icon",
+      "fr": "Icône Snow yeah",
+      "de": "Icon Snow yeah",
+      "es": "Icono Snow yeah"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "25": {
+    "id": "25",
+    "name": {
+      "en": "Kado gift Icon",
+      "fr": "Icône cadeau",
+      "de": "Icon Geschenk",
+      "es": "Icono cadeau"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "26": {
+    "id": "26",
+    "name": {
+      "en": "Golden Heart Icon",
+      "fr": "Icône Amour en or",
+      "de": "Icon Herz aus Gold",
+      "es": "Icono Amour en or"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "27": {
+    "id": "27",
+    "name": {
+      "en": "Chrono Icon",
+      "fr": "Icône Chrono",
+      "de": "Icon Chrono",
+      "es": "Icono Chrono"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "unlockedGames": {
+    "id": "unlockedGames",
+    "name": {
+      "en": "Unlocked Games",
+      "fr": "Jeux débloqués",
+      "de": "Freigeschaltete Spiele",
+      "es": "Juegos liberados"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "wonGift": {
+    "id": "wonGift",
+    "name": {
+      "en": "Kado Prize Winner",
+      "fr": "Gagnant de cheque(s) Kado",
+      "de": "Gewinner Kado-Preis",
+      "es": "Ganador de cheques regalo"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "missionSteps": {
+    "id": "missionSteps",
+    "name": {
+      "en": "Mission Steps",
+      "fr": "Etapes de mission",
+      "de": "Missionsschritte",
+      "es": "Etapas de misión"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "joinedClan": {
+    "id": "joinedClan",
+    "name": {
+      "en": "Clan Member",
+      "fr": "Membre d'un clan",
+      "de": "Klanmitglied",
+      "es": "Miembro de clan"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "createdClan": {
+    "id": "createdClan",
+    "name": {
+      "en": "Clan Founder",
+      "fr": "Fondateur de clan",
+      "de": "Klangründer",
+      "es": "Fundador de clan"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "wing": {
+    "id": "wing",
+    "name": {
+      "en": "Piouz Wing",
+      "fr": "Aile de piouz",
+      "de": "Piouzflügel",
+      "es": "Ala de Piou"
+    },
+    "rare": 1,
+    "unlocks": []
+  },
+  "clanDefense": {
+    "id": "clanDefense",
+    "name": {
+      "en": "Clan Defences",
+      "fr": "Défenses de clan",
+      "de": "Klanverteidigungen",
+      "es": "Defensas de clan"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "clanAttack": {
+    "id": "clanAttack",
+    "name": {
+      "en": "Clan Attacks",
+      "fr": "Attaques de clan",
+      "de": "Klanangriffe",
+      "es": "Ataques de clan"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "game1": {
+    "id": "game1",
+    "name": {
+      "en": "Safari Level",
+      "fr": "Niveau Safari",
+      "de": "Level bei Safari",
+      "es": "Nivel Safari"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Safari : Confirmed Level",
+          "fr": "Safari : Niveau Confirmé",
+          "de": "Safari: Level Weiß",
+          "es": "Safari: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Safari : Green Level",
+          "fr": "Safari : Niveau Vert",
+          "de": "Safari: Level Grün",
+          "es": "Safari: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Safari : Orange Level",
+          "fr": "Safari : Niveau Orange",
+          "de": "Safari: Level Orange",
+          "es": "Safari: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Safari : Red Level",
+          "fr": "Safari : Niveau Rouge",
+          "de": "Safari: Level Rot",
+          "es": "Safari: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Safari : Bronze Level",
+          "fr": "Safari : Niveau Bronze",
+          "de": "Safari: Level Bronze",
+          "es": "Safari: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Safari : Silver Level",
+          "fr": "Safari : Niveau Argent",
+          "de": "Safari: Level Silber",
+          "es": "Safari: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Safari : Gold Level",
+          "fr": "Safari : Niveau Or",
+          "de": "Safari: Level Gold",
+          "es": "Safari: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Safari : Paradise Level",
+          "fr": "Safari : Niveau Paradis",
+          "de": "Safari: Level Paradies",
+          "es": "Safari: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game2": {
+    "id": "game2",
+    "name": {
+      "en": "ABC Revolution Level",
+      "fr": "Niveau ABC Revolution",
+      "de": "Level bei ABC Revolution",
+      "es": "Nivel ABC Revolution"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "ABC Revolution : Confirmed Level",
+          "fr": "ABC Revolution : Niveau Confirmé",
+          "de": "ABC Revolution: Level Weiß",
+          "es": "ABC Revolution: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "ABC Revolution : Green Level",
+          "fr": "ABC Revolution : Niveau Vert",
+          "de": "ABC Revolution: Level Grün",
+          "es": "ABC Revolution: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "ABC Revolution : Orange Level",
+          "fr": "ABC Revolution : Niveau Orange",
+          "de": "ABC Revolution: Level Orange",
+          "es": "ABC Revolution: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "ABC Revolution : Red Level",
+          "fr": "ABC Revolution : Niveau Rouge",
+          "de": "ABC Revolution: Level Rot",
+          "es": "ABC Revolution: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "ABC Revolution : Bronze Level",
+          "fr": "ABC Revolution : Niveau Bronze",
+          "de": "ABC Revolution: Level Bronze",
+          "es": "ABC Revolution: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "ABC Revolution : Silver Level",
+          "fr": "ABC Revolution : Niveau Argent",
+          "de": "ABC Revolution: Level Silber",
+          "es": "ABC Revolution: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "ABC Revolution : Gold Level",
+          "fr": "ABC Revolution : Niveau Or",
+          "de": "ABC Revolution: Level Gold",
+          "es": "ABC Revolution: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "ABC Revolution : Paradise Level",
+          "fr": "ABC Revolution : Niveau Paradis",
+          "de": "ABC Revolution: Level Paradies",
+          "es": "ABC Revolution: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game3": {
+    "id": "game3",
+    "name": {
+      "en": "F1 Champion Level",
+      "fr": "Niveau F1 Champion",
+      "de": "Level bei F1 Champion",
+      "es": "Nivel F1 Champion"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "F1 Champion : Confirmed Level",
+          "fr": "F1 Champion : Niveau Confirmé",
+          "de": "F1 Champion: Level Weiß",
+          "es": "F1 Champion: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "F1 Champion : Green Level",
+          "fr": "F1 Champion : Niveau Vert",
+          "de": "F1 Champion: Level Grün",
+          "es": "F1 Champion: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "F1 Champion : Orange Level",
+          "fr": "F1 Champion : Niveau Orange",
+          "de": "F1 Champion: Level Orange",
+          "es": "F1 Champion: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "F1 Champion : Red Level",
+          "fr": "F1 Champion : Niveau Rouge",
+          "de": "F1 Champion: Level Rot",
+          "es": "F1 Champion: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "F1 Champion : Bronze Level",
+          "fr": "F1 Champion : Niveau Bronze",
+          "de": "F1 Champion: Level Bronze",
+          "es": "F1 Champion: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "F1 Champion : Silver Level",
+          "fr": "F1 Champion : Niveau Argent",
+          "de": "F1 Champion: Level Silber",
+          "es": "F1 Champion: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "F1 Champion : Gold Level",
+          "fr": "F1 Champion : Niveau Or",
+          "de": "F1 Champion: Level Gold",
+          "es": "F1 Champion: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "F1 Champion : Paradise Level",
+          "fr": "F1 Champion : Niveau Paradis",
+          "de": "F1 Champion: Level Paradies",
+          "es": "F1 Champion: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game4": {
+    "id": "game4",
+    "name": {
+      "en": "Memo-Psy Level",
+      "fr": "Niveau Memo-Psy",
+      "de": "Level bei Memo-Psy",
+      "es": ""
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Memo-Psy : Confirmed Level",
+          "fr": "Memo-Psy : Niveau Confirmé",
+          "de": "Memo-Psy: Level Weiß",
+          "es": ""
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Memo-Psy : Green Level",
+          "fr": "Memo-Psy : Niveau Vert",
+          "de": "Memo-Psy: Level Grün",
+          "es": ""
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Memo-Psy : Orange Level",
+          "fr": "Memo-Psy : Niveau Orange",
+          "de": "Memo-Psy: Level Orange",
+          "es": ""
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Memo-Psy : Red Level",
+          "fr": "Memo-Psy : Niveau Rouge",
+          "de": "Memo-Psy: Level Rot",
+          "es": ""
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Memo-Psy : Bronze Level",
+          "fr": "Memo-Psy : Niveau Bronze",
+          "de": "Memo-Psy: Level Bronze",
+          "es": ""
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Memo-Psy : Silver Level",
+          "fr": "Memo-Psy : Niveau Argent",
+          "de": "Memo-Psy: Level Silber",
+          "es": ""
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Memo-Psy : Gold Level",
+          "fr": "Memo-Psy : Niveau Or",
+          "de": "Memo-Psy: Level Gold",
+          "es": ""
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Memo-Psy : Paradise Level",
+          "fr": "Memo-Psy : Niveau Paradis",
+          "de": "Memo-Psy: Level Paradies",
+          "es": ""
+        }
+      }
+    ]
+  },
+  "game5": {
+    "id": "game5",
+    "name": {
+      "en": "Xian-Xiang Level",
+      "fr": "Niveau Xian-Xiang",
+      "de": "Level bei Xian-Xiang",
+      "es": "Nivel Xian-Xiang"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Xian-Xiang : Confirmed Level",
+          "fr": "Xian-Xiang : Niveau Confirmé",
+          "de": "Xian-Xiang: Level Weiß",
+          "es": "Xian-Xiang: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Xian-Xiang : Green Level",
+          "fr": "Xian-Xiang : Niveau Vert",
+          "de": "Xian-Xiang: Level Grün",
+          "es": "Xian-Xiang: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Xian-Xiang : Orange Level",
+          "fr": "Xian-Xiang : Niveau Orange",
+          "de": "Xian-Xiang: Level Orange",
+          "es": "Xian-Xiang: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Xian-Xiang : Red Level",
+          "fr": "Xian-Xiang : Niveau Rouge",
+          "de": "Xian-Xiang: Level Rot",
+          "es": "Xian-Xiang: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Xian-Xiang : Bronze Level",
+          "fr": "Xian-Xiang : Niveau Bronze",
+          "de": "Xian-Xiang: Level Bronze",
+          "es": "Xian-Xiang: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Xian-Xiang : Silver Level",
+          "fr": "Xian-Xiang : Niveau Argent",
+          "de": "Xian-Xiang: Level Silber",
+          "es": "Xian-Xiang: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Xian-Xiang : Gold Level",
+          "fr": "Xian-Xiang : Niveau Or",
+          "de": "Xian-Xiang: Level Gold",
+          "es": "Xian-Xiang: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Xian-Xiang : Paradise Level",
+          "fr": "Xian-Xiang : Niveau Paradis",
+          "de": "Xian-Xiang: Level Paradies",
+          "es": "Xian-Xiang: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game6": {
+    "id": "game6",
+    "name": {
+      "en": "Manda Level",
+      "fr": "Niveau Manda",
+      "de": "Level bei Manda",
+      "es": "Nivel Manda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Manda : Confirmed Level",
+          "fr": "Manda : Niveau Confirmé",
+          "de": "Manda: Level Weiß",
+          "es": "Manda: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Manda : Green Level",
+          "fr": "Manda : Niveau Vert",
+          "de": "Manda: Level Grün",
+          "es": "Manda: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Manda : Orange Level",
+          "fr": "Manda : Niveau Orange",
+          "de": "Manda: Level Orange",
+          "es": "Manda: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Manda : Red Level",
+          "fr": "Manda : Niveau Rouge",
+          "de": "Manda: Level Rot",
+          "es": "Manda: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Manda : Bronze Level",
+          "fr": "Manda : Niveau Bronze",
+          "de": "Manda: Level Bronze",
+          "es": "Manda: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Manda : Silver Level",
+          "fr": "Manda : Niveau Argent",
+          "de": "Manda: Level Silber",
+          "es": "Manda: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Manda : Gold Level",
+          "fr": "Manda : Niveau Or",
+          "de": "Manda: Level Gold",
+          "es": "Manda: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Manda : Paradise Level",
+          "fr": "Manda : Niveau Paradis",
+          "de": "Manda: Level Paradies",
+          "es": "Manda: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game7": {
+    "id": "game7",
+    "name": {
+      "en": "Piou-Piou Level",
+      "fr": "Niveau Piou-Piou",
+      "de": "Level bei Piou-Piou",
+      "es": "Nivel Piou-Piou"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Piou-Piou : Confirmed Level",
+          "fr": "Piou-Piou : Niveau Confirmé",
+          "de": "Piou-Piou: Level Weiß",
+          "es": "Piou-Piou: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Piou-Piou : Green Level",
+          "fr": "Piou-Piou : Niveau Vert",
+          "de": "Piou-Piou: Level Grün",
+          "es": "Piou-Piou: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Piou-Piou : Orange Level",
+          "fr": "Piou-Piou : Niveau Orange",
+          "de": "Piou-Piou: Level Orange",
+          "es": "Piou-Piou: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Piou-Piou : Red Level",
+          "fr": "Piou-Piou : Niveau Rouge",
+          "de": "Piou-Piou: Level Rot",
+          "es": "Piou-Piou: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Piou-Piou : Bronze Level",
+          "fr": "Piou-Piou : Niveau Bronze",
+          "de": "Piou-Piou: Level Bronze",
+          "es": "Piou-Piou: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Piou-Piou : Silver Level",
+          "fr": "Piou-Piou : Niveau Argent",
+          "de": "Piou-Piou: Level Silber",
+          "es": "Piou-Piou: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Piou-Piou : Gold Level",
+          "fr": "Piou-Piou : Niveau Or",
+          "de": "Piou-Piou: Level Gold",
+          "es": "Piou-Piou: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Piou-Piou : Paradise Level",
+          "fr": "Piou-Piou : Niveau Paradis",
+          "de": "Piou-Piou: Level Paradies",
+          "es": "Piou-Piou: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game8": {
+    "id": "game8",
+    "name": {
+      "en": "Flushee Level",
+      "fr": "Niveau Flushee",
+      "de": "Level bei Flushee",
+      "es": "Nivel Flushee"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Flushee : Confirmed Level",
+          "fr": "Flushee : Niveau Confirmé",
+          "de": "Flushee: Level Weiß",
+          "es": "Flushee: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Flushee : Green Level",
+          "fr": "Flushee : Niveau Vert",
+          "de": "Flushee: Level Grün",
+          "es": "Flushee: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Flushee : Orange Level",
+          "fr": "Flushee : Niveau Orange",
+          "de": "Flushee: Level Orange",
+          "es": "Flushee: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Flushee : Red Level",
+          "fr": "Flushee : Niveau Rouge",
+          "de": "Flushee: Level Rot",
+          "es": "Flushee: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Flushee : Bronze Level",
+          "fr": "Flushee : Niveau Bronze",
+          "de": "Flushee: Level Bronze",
+          "es": "Flushee: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Flushee : Silver Level",
+          "fr": "Flushee : Niveau Argent",
+          "de": "Flushee: Level Silber",
+          "es": "Flushee: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Flushee : Gold Level",
+          "fr": "Flushee : Niveau Or",
+          "de": "Flushee: Level Gold",
+          "es": "Flushee: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Flushee : Paradise Level",
+          "fr": "Flushee : Niveau Paradis",
+          "de": "Flushee: Level Paradies",
+          "es": "Flushee: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game9": {
+    "id": "game9",
+    "name": {
+      "en": "QuadriKolor Level",
+      "fr": "Niveau QuadriKolor",
+      "de": "Level bei QuadriKolor",
+      "es": "Nivel QuadriKolor"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "QuadriKolor : Confirmed Level",
+          "fr": "QuadriKolor : Niveau Confirmé",
+          "de": "QuadriKolor: Level Weiß",
+          "es": "QuadriKolor: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "QuadriKolor : Green Level",
+          "fr": "QuadriKolor : Niveau Vert",
+          "de": "QuadriKolor: Level Grün",
+          "es": "QuadriKolor: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "QuadriKolor : Orange Level",
+          "fr": "QuadriKolor : Niveau Orange",
+          "de": "QuadriKolor: Level Orange",
+          "es": "QuadriKolor: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "QuadriKolor : Red Level",
+          "fr": "QuadriKolor : Niveau Rouge",
+          "de": "QuadriKolor: Level Rot",
+          "es": "QuadriKolor: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "QuadriKolor : Bronze Level",
+          "fr": "QuadriKolor : Niveau Bronze",
+          "de": "QuadriKolor: Level Bronze",
+          "es": "QuadriKolor: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "QuadriKolor : Silver Level",
+          "fr": "QuadriKolor : Niveau Argent",
+          "de": "QuadriKolor: Level Silber",
+          "es": "QuadriKolor: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "QuadriKolor : Gold Level",
+          "fr": "QuadriKolor : Niveau Or",
+          "de": "QuadriKolor: Level Gold",
+          "es": "QuadriKolor: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "QuadriKolor : Paradise Level",
+          "fr": "QuadriKolor : Niveau Paradis",
+          "de": "QuadriKolor: Level Paradies",
+          "es": "QuadriKolor: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game10": {
+    "id": "game10",
+    "name": {
+      "en": "Toy Maniak Level",
+      "fr": "Niveau Toy Maniak",
+      "de": "Level bei Toy Maniak",
+      "es": "Nivel Toy Maniak"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Toy Maniak : Confirmed Level",
+          "fr": "Toy Maniak : Niveau Confirmé",
+          "de": "Toy Maniak: Level Weiß",
+          "es": "Toy Maniak: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Toy Maniak : Green Level",
+          "fr": "Toy Maniak : Niveau Vert",
+          "de": "Toy Maniak: Level Grün",
+          "es": "Toy Maniak: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Toy Maniak : Orange Level",
+          "fr": "Toy Maniak : Niveau Orange",
+          "de": "Toy Maniak: Level Orange",
+          "es": "Toy Maniak: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Toy Maniak : Red Level",
+          "fr": "Toy Maniak : Niveau Rouge",
+          "de": "Toy Maniak: Level Rot",
+          "es": "Toy Maniak: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Toy Maniak : Bronze Level",
+          "fr": "Toy Maniak : Niveau Bronze",
+          "de": "Toy Maniak: Level Bronze",
+          "es": "Toy Maniak: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Toy Maniak : Silver Level",
+          "fr": "Toy Maniak : Niveau Argent",
+          "de": "Toy Maniak: Level Silber",
+          "es": "Toy Maniak: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Toy Maniak : Gold Level",
+          "fr": "Toy Maniak : Niveau Or",
+          "de": "Toy Maniak: Level Gold",
+          "es": "Toy Maniak: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Toy Maniak : Paradise Level",
+          "fr": "Toy Maniak : Niveau Paradis",
+          "de": "Toy Maniak: Level Paradies",
+          "es": "Toy Maniak: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game11": {
+    "id": "game11",
+    "name": {
+      "en": "Kanji Level",
+      "fr": "Niveau Kanji",
+      "de": "Level bei Kanji",
+      "es": "Nivel Kanji"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Kanji : Confirmed Level",
+          "fr": "Kanji : Niveau Confirmé",
+          "de": "Kanji: Level Weiß",
+          "es": "Kanji: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Kanji : Green Level",
+          "fr": "Kanji : Niveau Vert",
+          "de": "Kanji: Level Grün",
+          "es": "Kanji: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Kanji : Orange Level",
+          "fr": "Kanji : Niveau Orange",
+          "de": "Kanji: Level Orange",
+          "es": "Kanji: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Kanji : Red Level",
+          "fr": "Kanji : Niveau Rouge",
+          "de": "Kanji: Level Rot",
+          "es": "Kanji: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Kanji : Bronze Level",
+          "fr": "Kanji : Niveau Bronze",
+          "de": "Kanji: Level Bronze",
+          "es": "Kanji: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Kanji : Silver Level",
+          "fr": "Kanji : Niveau Argent",
+          "de": "Kanji: Level Silber",
+          "es": "Kanji: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Kanji : Gold Level",
+          "fr": "Kanji : Niveau Or",
+          "de": "Kanji: Level Gold",
+          "es": "Kanji: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Kanji : Paradise Level",
+          "fr": "Kanji : Niveau Paradis",
+          "de": "Kanji: Level Paradies",
+          "es": "Kanji: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game12": {
+    "id": "game12",
+    "name": {
+      "en": "Kill Bulle Level",
+      "fr": "Niveau Kill Bulle",
+      "de": "Level bei Kill Bulle",
+      "es": "Nivel Kill Bulle"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Kill Bulle : Confirmed Level",
+          "fr": "Kill Bulle : Niveau Confirmé",
+          "de": "Kill Bulle: Level Weiß",
+          "es": "Kill Bulle: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Kill Bulle : Green Level",
+          "fr": "Kill Bulle : Niveau Vert",
+          "de": "Kill Bulle: Level Grün",
+          "es": "Kill Bulle: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Kill Bulle : Orange Level",
+          "fr": "Kill Bulle : Niveau Orange",
+          "de": "Kill Bulle: Level Orange",
+          "es": "Kill Bulle: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Kill Bulle : Red Level",
+          "fr": "Kill Bulle : Niveau Rouge",
+          "de": "Kill Bulle: Level Rot",
+          "es": "Kill Bulle: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Kill Bulle : Bronze Level",
+          "fr": "Kill Bulle : Niveau Bronze",
+          "de": "Kill Bulle: Level Bronze",
+          "es": "Kill Bulle: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Kill Bulle : Silver Level",
+          "fr": "Kill Bulle : Niveau Argent",
+          "de": "Kill Bulle: Level Silber",
+          "es": "Kill Bulle: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Kill Bulle : Gold Level",
+          "fr": "Kill Bulle : Niveau Or",
+          "de": "Kill Bulle: Level Gold",
+          "es": "Kill Bulle: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Kill Bulle : Paradise Level",
+          "fr": "Kill Bulle : Niveau Paradis",
+          "de": "Kill Bulle: Level Paradies",
+          "es": "Kill Bulle: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game13": {
+    "id": "game13",
+    "name": {
+      "en": "Kavern Level",
+      "fr": "Niveau Kavern",
+      "de": "Level bei Kavern",
+      "es": "Nivel Kavern"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Kavern : Confirmed Level",
+          "fr": "Kavern : Niveau Confirmé",
+          "de": "Kavern: Level Weiß",
+          "es": "Kavern: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Kavern : Green Level",
+          "fr": "Kavern : Niveau Vert",
+          "de": "Kavern: Level Grün",
+          "es": "Kavern: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Kavern : Orange Level",
+          "fr": "Kavern : Niveau Orange",
+          "de": "Kavern: Level Orange",
+          "es": "Kavern: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Kavern : Red Level",
+          "fr": "Kavern : Niveau Rouge",
+          "de": "Kavern: Level Rot",
+          "es": "Kavern: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Kavern : Bronze Level",
+          "fr": "Kavern : Niveau Bronze",
+          "de": "Kavern: Level Bronze",
+          "es": "Kavern: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Kavern : Silver Level",
+          "fr": "Kavern : Niveau Argent",
+          "de": "Kavern: Level Silber",
+          "es": "Kavern: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Kavern : Gold Level",
+          "fr": "Kavern : Niveau Or",
+          "de": "Kavern: Level Gold",
+          "es": "Kavern: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Kavern : Paradise Level",
+          "fr": "Kavern : Niveau Paradis",
+          "de": "Kavern: Level Paradies",
+          "es": "Kavern: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game14": {
+    "id": "game14",
+    "name": {
+      "en": "Bactery Level",
+      "fr": "Niveau Bactery",
+      "de": "Level bei Bactery",
+      "es": "Nivel Bactery"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Bactery : Confirmed Level",
+          "fr": "Bactery : Niveau Confirmé",
+          "de": "Bactery: Level Weiß",
+          "es": "Bactery: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Bactery : Green Level",
+          "fr": "Bactery : Niveau Vert",
+          "de": "Bactery: Level Grün",
+          "es": "Bactery: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Bactery : Orange Level",
+          "fr": "Bactery : Niveau Orange",
+          "de": "Bactery: Level Orange",
+          "es": "Bactery: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Bactery : Red Level",
+          "fr": "Bactery : Niveau Rouge",
+          "de": "Bactery: Level Rot",
+          "es": "Bactery: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Bactery : Bronze Level",
+          "fr": "Bactery : Niveau Bronze",
+          "de": "Bactery: Level Bronze",
+          "es": "Bactery: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Bactery : Silver Level",
+          "fr": "Bactery : Niveau Argent",
+          "de": "Bactery: Level Silber",
+          "es": "Bactery: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Bactery : Gold Level",
+          "fr": "Bactery : Niveau Or",
+          "de": "Bactery: Level Gold",
+          "es": "Bactery: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Bactery : Paradise Level",
+          "fr": "Bactery : Niveau Paradis",
+          "de": "Bactery: Level Paradies",
+          "es": "Bactery: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game15": {
+    "id": "game15",
+    "name": {
+      "en": "Julianus Level",
+      "fr": "Niveau Julianus",
+      "de": "Level bei Julianus",
+      "es": "Nivel Julianus"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Julianus : Confirmed Level",
+          "fr": "Julianus : Niveau Confirmé",
+          "de": "Julianus: Level Weiß",
+          "es": "Julianus: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Julianus : Green Level",
+          "fr": "Julianus : Niveau Vert",
+          "de": "Julianus: Level Grün",
+          "es": "Julianus: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Julianus : Orange Level",
+          "fr": "Julianus : Niveau Orange",
+          "de": "Julianus: Level Orange",
+          "es": "Julianus: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Julianus : Red Level",
+          "fr": "Julianus : Niveau Rouge",
+          "de": "Julianus: Level Rot",
+          "es": "Julianus: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Julianus : Bronze Level",
+          "fr": "Julianus : Niveau Bronze",
+          "de": "Julianus: Level Bronze",
+          "es": "Julianus: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Julianus : Silver Level",
+          "fr": "Julianus : Niveau Argent",
+          "de": "Julianus: Level Silber",
+          "es": "Julianus: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Julianus : Gold Level",
+          "fr": "Julianus : Niveau Or",
+          "de": "Julianus: Level Gold",
+          "es": "Julianus: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Julianus : Paradise Level",
+          "fr": "Julianus : Niveau Paradis",
+          "de": "Julianus: Level Paradies",
+          "es": "Julianus: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game16": {
+    "id": "game16",
+    "name": {
+      "en": "Magmax Level",
+      "fr": "Niveau Magmax",
+      "de": "Level bei Magmax",
+      "es": "Nivel Magmax"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Magmax : Confirmed Level",
+          "fr": "Magmax : Niveau Confirmé",
+          "de": "Magmax: Level Weiß",
+          "es": "Magmax: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Magmax : Green Level",
+          "fr": "Magmax : Niveau Vert",
+          "de": "Magmax: Level Grün",
+          "es": "Magmax: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Magmax : Orange Level",
+          "fr": "Magmax : Niveau Orange",
+          "de": "Magmax: Level Orange",
+          "es": "Magmax: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Magmax : Red Level",
+          "fr": "Magmax : Niveau Rouge",
+          "de": "Magmax: Level Rot",
+          "es": "Magmax: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Magmax : Bronze Level",
+          "fr": "Magmax : Niveau Bronze",
+          "de": "Magmax: Level Bronze",
+          "es": "Magmax: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Magmax : Silver Level",
+          "fr": "Magmax : Niveau Argent",
+          "de": "Magmax: Level Silber",
+          "es": "Magmax: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Magmax : Gold Level",
+          "fr": "Magmax : Niveau Or",
+          "de": "Magmax: Level Gold",
+          "es": "Magmax: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Magmax : Paradise Level",
+          "fr": "Magmax : Niveau Paradis",
+          "de": "Magmax: Level Paradies",
+          "es": "Magmax: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game17": {
+    "id": "game17",
+    "name": {
+      "en": "ZipZap Level",
+      "fr": "Niveau ZipZap",
+      "de": "Level bei ZipZap",
+      "es": "Nivel ZipZap"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "ZipZap : Confirmed Level",
+          "fr": "ZipZap : Niveau Confirmé",
+          "de": "ZipZap: Level Weiß",
+          "es": "ZipZap: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "ZipZap : Green Level",
+          "fr": "ZipZap : Niveau Vert",
+          "de": "ZipZap: Level Grün",
+          "es": "ZipZap: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "ZipZap : Orange Level",
+          "fr": "ZipZap : Niveau Orange",
+          "de": "ZipZap: Level Orange",
+          "es": "ZipZap: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "ZipZap : Red Level",
+          "fr": "ZipZap : Niveau Rouge",
+          "de": "ZipZap: Level Rot",
+          "es": "ZipZap: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "ZipZap : Bronze Level",
+          "fr": "ZipZap : Niveau Bronze",
+          "de": "ZipZap: Level Bronze",
+          "es": "ZipZap: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "ZipZap : Silver Level",
+          "fr": "ZipZap : Niveau Argent",
+          "de": "ZipZap: Level Silber",
+          "es": "ZipZap: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "ZipZap : Gold Level",
+          "fr": "ZipZap : Niveau Or",
+          "de": "ZipZap: Level Gold",
+          "es": "ZipZap: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "ZipZap : Paradise Level",
+          "fr": "ZipZap : Niveau Paradis",
+          "de": "ZipZap: Level Paradies",
+          "es": "ZipZap: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game18": {
+    "id": "game18",
+    "name": {
+      "en": "Cereal Punk Level",
+      "fr": "Niveau Cereal Punk",
+      "de": "Level bei Cereal Punk",
+      "es": "Nivel Cereal Punk"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Cereal Punk : Confirmed Level",
+          "fr": "Cereal Punk : Niveau Confirmé",
+          "de": "Cereal Punk: Level Weiß",
+          "es": "Cereal Punk: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Cereal Punk : Green Level",
+          "fr": "Cereal Punk : Niveau Vert",
+          "de": "Cereal Punk: Level Grün",
+          "es": "Cereal Punk: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Cereal Punk : Orange Level",
+          "fr": "Cereal Punk : Niveau Orange",
+          "de": "Cereal Punk: Level Orange",
+          "es": "Cereal Punk: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Cereal Punk : Red Level",
+          "fr": "Cereal Punk : Niveau Rouge",
+          "de": "Cereal Punk: Level Rot",
+          "es": "Cereal Punk: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Cereal Punk : Bronze Level",
+          "fr": "Cereal Punk : Niveau Bronze",
+          "de": "Cereal Punk: Level Bronze",
+          "es": "Cereal Punk: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Cereal Punk : Silver Level",
+          "fr": "Cereal Punk : Niveau Argent",
+          "de": "Cereal Punk: Level Silber",
+          "es": "Cereal Punk: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Cereal Punk : Gold Level",
+          "fr": "Cereal Punk : Niveau Or",
+          "de": "Cereal Punk: Level Gold",
+          "es": "Cereal Punk: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Cereal Punk : Paradise Level",
+          "fr": "Cereal Punk : Niveau Paradis",
+          "de": "Cereal Punk: Level Paradies",
+          "es": "Cereal Punk: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game19": {
+    "id": "game19",
+    "name": {
+      "en": "Hypercube Level",
+      "fr": "Niveau Hypercube",
+      "de": "Level bei Hypercube",
+      "es": "Nivel Hypercube"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Hypercube : Confirmed Level",
+          "fr": "Hypercube : Niveau Confirmé",
+          "de": "Hypercube: Level Weiß",
+          "es": "Hypercube: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Hypercube : Green Level",
+          "fr": "Hypercube : Niveau Vert",
+          "de": "Hypercube: Level Grün",
+          "es": "Hypercube: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Hypercube : Orange Level",
+          "fr": "Hypercube : Niveau Orange",
+          "de": "Hypercube: Level Orange",
+          "es": "Hypercube: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Hypercube : Red Level",
+          "fr": "Hypercube : Niveau Rouge",
+          "de": "Hypercube: Level Rot",
+          "es": "Hypercube: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Hypercube : Bronze Level",
+          "fr": "Hypercube : Niveau Bronze",
+          "de": "Hypercube: Level Bronze",
+          "es": "Hypercube: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Hypercube : Silver Level",
+          "fr": "Hypercube : Niveau Argent",
+          "de": "Hypercube: Level Silber",
+          "es": "Hypercube: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Hypercube : Gold Level",
+          "fr": "Hypercube : Niveau Or",
+          "de": "Hypercube: Level Gold",
+          "es": "Hypercube: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Hypercube : Paradise Level",
+          "fr": "Hypercube : Niveau Paradis",
+          "de": "Hypercube: Level Paradies",
+          "es": "Hypercube: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game20": {
+    "id": "game20",
+    "name": {
+      "en": "K-Slash! Level",
+      "fr": "Niveau K-Slash !",
+      "de": "Level bei K-Slash !",
+      "es": "Nivel K-Slash !"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "K-Slash ! : Confirmed Level",
+          "fr": "K-Slash ! : Niveau Confirmé",
+          "de": "K-Slash !: Level Weiß",
+          "es": "K-Slash !: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "K-Slash ! : Green Level",
+          "fr": "K-Slash ! : Niveau Vert",
+          "de": "K-Slash !: Level Grün",
+          "es": "K-Slash !: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "K-Slash ! : Orange Level",
+          "fr": "K-Slash ! : Niveau Orange",
+          "de": "K-Slash !: Level Orange",
+          "es": "K-Slash !: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "K-Slash ! : Red Level",
+          "fr": "K-Slash ! : Niveau Rouge",
+          "de": "K-Slash !: Level Rot",
+          "es": "K-Slash !: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "K-Slash ! : Bronze Level",
+          "fr": "K-Slash ! : Niveau Bronze",
+          "de": "K-Slash !: Level Bronze",
+          "es": "K-Slash !: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "K-Slash ! : Silver Level",
+          "fr": "K-Slash ! : Niveau Argent",
+          "de": "K-Slash !: Level Silber",
+          "es": "K-Slash !: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "K-Slash ! : Gold Level",
+          "fr": "K-Slash ! : Niveau Or",
+          "de": "K-Slash !: Level Gold",
+          "es": "K-Slash !: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "K-Slash ! : Paradise Level",
+          "fr": "K-Slash ! : Niveau Paradis",
+          "de": "K-Slash !: Level Paradies",
+          "es": "K-Slash !: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game21": {
+    "id": "game21",
+    "name": {
+      "en": "Ellon In The Dark Level",
+      "fr": "Niveau Ellon In The Dark",
+      "de": "Level bei Ellon In The Dark",
+      "es": "Nivel Ellon In The Dark"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Ellon In The Dark : Confirmed Level",
+          "fr": "Ellon In The Dark : Niveau Confirmé",
+          "de": "Ellon In The Dark: Level Weiß",
+          "es": "Ellon In The Dark: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Ellon In The Dark : Green Level",
+          "fr": "Ellon In The Dark : Niveau Vert",
+          "de": "Ellon In The Dark: Level Grün",
+          "es": "Ellon In The Dark: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Ellon In The Dark : Orange Level",
+          "fr": "Ellon In The Dark : Niveau Orange",
+          "de": "Ellon In The Dark: Level Orange",
+          "es": "Ellon In The Dark: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Ellon In The Dark : Red Level",
+          "fr": "Ellon In The Dark : Niveau Rouge",
+          "de": "Ellon In The Dark: Level Rot",
+          "es": "Ellon In The Dark: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Ellon In The Dark : Bronze Level",
+          "fr": "Ellon In The Dark : Niveau Bronze",
+          "de": "Ellon In The Dark: Level Bronze",
+          "es": "Ellon In The Dark: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Ellon In The Dark : Silver Level",
+          "fr": "Ellon In The Dark : Niveau Argent",
+          "de": "Ellon In The Dark: Level Silber",
+          "es": "Ellon In The Dark: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Ellon In The Dark : Gold Level",
+          "fr": "Ellon In The Dark : Niveau Or",
+          "de": "Ellon In The Dark: Level Gold",
+          "es": "Ellon In The Dark: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Ellon In The Dark : Paradise Level",
+          "fr": "Ellon In The Dark : Niveau Paradis",
+          "de": "Ellon In The Dark: Level Paradies",
+          "es": "Ellon In The Dark: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game22": {
+    "id": "game22",
+    "name": {
+      "en": "Kaskade 2 Level",
+      "fr": "Niveau Kaskade 2",
+      "de": "Level bei Kaskade 2",
+      "es": "Nivel Kaskade 2"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Kaskade 2 : Confirmed Level",
+          "fr": "Kaskade 2 : Niveau Confirmé",
+          "de": "Kaskade 2: Level Weiß",
+          "es": "Kaskade 2: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Kaskade 2 : Green Level",
+          "fr": "Kaskade 2 : Niveau Vert",
+          "de": "Kaskade 2: Level Grün",
+          "es": "Kaskade 2: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Kaskade 2 : Orange Level",
+          "fr": "Kaskade 2 : Niveau Orange",
+          "de": "Kaskade 2: Level Orange",
+          "es": "Kaskade 2: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Kaskade 2 : Red Level",
+          "fr": "Kaskade 2 : Niveau Rouge",
+          "de": "Kaskade 2: Level Rot",
+          "es": "Kaskade 2: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Kaskade 2 : Bronze Level",
+          "fr": "Kaskade 2 : Niveau Bronze",
+          "de": "Kaskade 2: Level Bronze",
+          "es": "Kaskade 2: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Kaskade 2 : Silver Level",
+          "fr": "Kaskade 2 : Niveau Argent",
+          "de": "Kaskade 2: Level Silber",
+          "es": "Kaskade 2: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Kaskade 2 : Gold Level",
+          "fr": "Kaskade 2 : Niveau Or",
+          "de": "Kaskade 2: Level Gold",
+          "es": "Kaskade 2: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Kaskade 2 : Paradise Level",
+          "fr": "Kaskade 2 : Niveau Paradis",
+          "de": "Kaskade 2: Level Paradies",
+          "es": "Kaskade 2: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game23": {
+    "id": "game23",
+    "name": {
+      "en": "Paradice Level",
+      "fr": "Niveau Paradice",
+      "de": "Level bei Paradice",
+      "es": "Nivel Paradice"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Paradice : Confirmed Level",
+          "fr": "Paradice : Niveau Confirmé",
+          "de": "Paradice: Level Weiß",
+          "es": "Paradice: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Paradice : Green Level",
+          "fr": "Paradice : Niveau Vert",
+          "de": "Paradice: Level Grün",
+          "es": "Paradice: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Paradice : Orange Level",
+          "fr": "Paradice : Niveau Orange",
+          "de": "Paradice: Level Orange",
+          "es": "Paradice: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Paradice : Red Level",
+          "fr": "Paradice : Niveau Rouge",
+          "de": "Paradice: Level Rot",
+          "es": "Paradice: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Paradice : Bronze Level",
+          "fr": "Paradice : Niveau Bronze",
+          "de": "Paradice: Level Bronze",
+          "es": "Paradice: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Paradice : Silver Level",
+          "fr": "Paradice : Niveau Argent",
+          "de": "Paradice: Level Silber",
+          "es": "Paradice: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Paradice : Gold Level",
+          "fr": "Paradice : Niveau Or",
+          "de": "Paradice: Level Gold",
+          "es": "Paradice: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Paradice : Paradise Level",
+          "fr": "Paradice : Niveau Paradis",
+          "de": "Paradice: Level Paradies",
+          "es": "Paradice: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game24": {
+    "id": "game24",
+    "name": {
+      "en": "Starfang Level",
+      "fr": "Niveau Starfang",
+      "de": "Level bei Starfang",
+      "es": "Nivel Starfang"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Starfang : Confirmed Level",
+          "fr": "Starfang : Niveau Confirmé",
+          "de": "Starfang: Level Weiß",
+          "es": "Starfang: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Starfang : Green Level",
+          "fr": "Starfang : Niveau Vert",
+          "de": "Starfang: Level Grün",
+          "es": "Starfang: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Starfang : Orange Level",
+          "fr": "Starfang : Niveau Orange",
+          "de": "Starfang: Level Orange",
+          "es": "Starfang: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Starfang : Red Level",
+          "fr": "Starfang : Niveau Rouge",
+          "de": "Starfang: Level Rot",
+          "es": "Starfang: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Starfang : Bronze Level",
+          "fr": "Starfang : Niveau Bronze",
+          "de": "Starfang: Level Bronze",
+          "es": "Starfang: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Starfang : Silver Level",
+          "fr": "Starfang : Niveau Argent",
+          "de": "Starfang: Level Silber",
+          "es": "Starfang: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Starfang : Gold Level",
+          "fr": "Starfang : Niveau Or",
+          "de": "Starfang: Level Gold",
+          "es": "Starfang: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Starfang : Paradise Level",
+          "fr": "Starfang : Niveau Paradis",
+          "de": "Starfang: Level Paradies",
+          "es": "Starfang: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game25": {
+    "id": "game25",
+    "name": {
+      "en": "Drakhan Level",
+      "fr": "Niveau Drakhan",
+      "de": "Level bei Drakhan",
+      "es": "Nivel Drakhan"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Drakhan : Confirmed Level",
+          "fr": "Drakhan : Niveau Confirmé",
+          "de": "Drakhan: Level Weiß",
+          "es": "Drakhan: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Drakhan : Green Level",
+          "fr": "Drakhan : Niveau Vert",
+          "de": "Drakhan: Level Grün",
+          "es": "Drakhan: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Drakhan : Orange Level",
+          "fr": "Drakhan : Niveau Orange",
+          "de": "Drakhan: Level Orange",
+          "es": "Drakhan: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Drakhan : Red Level",
+          "fr": "Drakhan : Niveau Rouge",
+          "de": "Drakhan: Level Rot",
+          "es": "Drakhan: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Drakhan : Bronze Level",
+          "fr": "Drakhan : Niveau Bronze",
+          "de": "Drakhan: Level Bronze",
+          "es": "Drakhan: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Drakhan : Silver Level",
+          "fr": "Drakhan : Niveau Argent",
+          "de": "Drakhan: Level Silber",
+          "es": "Drakhan: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Drakhan : Gold Level",
+          "fr": "Drakhan : Niveau Or",
+          "de": "Drakhan: Level Gold",
+          "es": "Drakhan: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Drakhan : Paradise Level",
+          "fr": "Drakhan : Niveau Paradis",
+          "de": "Drakhan: Level Paradies",
+          "es": "Drakhan: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game26": {
+    "id": "game26",
+    "name": {
+      "en": "Red Raid Level",
+      "fr": "Niveau Red Raid",
+      "de": "Level bei Red Raid",
+      "es": "Nivel Red Raid"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Red Raid : Confirmed Level",
+          "fr": "Red Raid : Niveau Confirmé",
+          "de": "Red Raid: Level Weiß",
+          "es": "Red Raid: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Red Raid : Green Level",
+          "fr": "Red Raid : Niveau Vert",
+          "de": "Red Raid: Level Grün",
+          "es": "Red Raid: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Red Raid : Orange Level",
+          "fr": "Red Raid : Niveau Orange",
+          "de": "Red Raid: Level Orange",
+          "es": "Red Raid: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Red Raid : Red Level",
+          "fr": "Red Raid : Niveau Rouge",
+          "de": "Red Raid: Level Rot",
+          "es": "Red Raid: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Red Raid : Bronze Level",
+          "fr": "Red Raid : Niveau Bronze",
+          "de": "Red Raid: Level Bronze",
+          "es": "Red Raid: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Red Raid : Silver Level",
+          "fr": "Red Raid : Niveau Argent",
+          "de": "Red Raid: Level Silber",
+          "es": "Red Raid: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Red Raid : Gold Level",
+          "fr": "Red Raid : Niveau Or",
+          "de": "Red Raid: Level Gold",
+          "es": "Red Raid: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Red Raid : Paradise Level",
+          "fr": "Red Raid : Niveau Paradis",
+          "de": "Red Raid: Level Paradies",
+          "es": "Red Raid: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game27": {
+    "id": "game27",
+    "name": {
+      "en": "Opalus Level",
+      "fr": "Niveau Opalus",
+      "de": "Level bei Opalus",
+      "es": "Nivel Opalus"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Opalus : Confirmed Level",
+          "fr": "Opalus : Niveau Confirmé",
+          "de": "Opalus: Level Weiß",
+          "es": "Opalus: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Opalus : Green Level",
+          "fr": "Opalus : Niveau Vert",
+          "de": "Opalus: Level Grün",
+          "es": "Opalus: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Opalus : Orange Level",
+          "fr": "Opalus : Niveau Orange",
+          "de": "Opalus: Level Orange",
+          "es": "Opalus: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Opalus : Red Level",
+          "fr": "Opalus : Niveau Rouge",
+          "de": "Opalus: Level Rot",
+          "es": "Opalus: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Opalus : Bronze Level",
+          "fr": "Opalus : Niveau Bronze",
+          "de": "Opalus: Level Bronze",
+          "es": "Opalus: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Opalus : Silver Level",
+          "fr": "Opalus : Niveau Argent",
+          "de": "Opalus: Level Silber",
+          "es": "Opalus: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Opalus : Gold Level",
+          "fr": "Opalus : Niveau Or",
+          "de": "Opalus: Level Gold",
+          "es": "Opalus: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Opalus : Paradise Level",
+          "fr": "Opalus : Niveau Paradis",
+          "de": "Opalus: Level Paradies",
+          "es": "Opalus: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game28": {
+    "id": "game28",
+    "name": {
+      "en": "Interwheel Level",
+      "fr": "Niveau Interwheel",
+      "de": "Level bei Interwheel",
+      "es": "Nivel Interwheel"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Interwheel : Confirmed Level",
+          "fr": "Interwheel : Niveau Confirmé",
+          "de": "Interwheel: Level Weiß",
+          "es": "Interwheel: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Interwheel : Green Level",
+          "fr": "Interwheel : Niveau Vert",
+          "de": "Interwheel: Level Grün",
+          "es": "Interwheel: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Interwheel : Orange Level",
+          "fr": "Interwheel : Niveau Orange",
+          "de": "Interwheel: Level Orange",
+          "es": "Interwheel: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Interwheel : Red Level",
+          "fr": "Interwheel : Niveau Rouge",
+          "de": "Interwheel: Level Rot",
+          "es": "Interwheel: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Interwheel : Bronze Level",
+          "fr": "Interwheel : Niveau Bronze",
+          "de": "Interwheel: Level Bronze",
+          "es": "Interwheel: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Interwheel : Silver Level",
+          "fr": "Interwheel : Niveau Argent",
+          "de": "Interwheel: Level Silber",
+          "es": "Interwheel: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Interwheel : Gold Level",
+          "fr": "Interwheel : Niveau Or",
+          "de": "Interwheel: Level Gold",
+          "es": "Interwheel: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Interwheel : Paradise Level",
+          "fr": "Interwheel : Niveau Paradis",
+          "de": "Interwheel: Level Paradies",
+          "es": "Interwheel: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game29": {
+    "id": "game29",
+    "name": {
+      "en": "Cyclopean Level",
+      "fr": "Niveau Cyclopean",
+      "de": "Level bei Cyclopean",
+      "es": "Nivel Cyclopean"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Cyclopean : Confirmed Level",
+          "fr": "Cyclopean : Niveau Confirmé",
+          "de": "Cyclopean: Level Weiß",
+          "es": "Cyclopean: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Cyclopean : Green Level",
+          "fr": "Cyclopean : Niveau Vert",
+          "de": "Cyclopean: Level Grün",
+          "es": "Cyclopean: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Cyclopean : Orange Level",
+          "fr": "Cyclopean : Niveau Orange",
+          "de": "Cyclopean: Level Orange",
+          "es": "Cyclopean: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Cyclopean : Red Level",
+          "fr": "Cyclopean : Niveau Rouge",
+          "de": "Cyclopean: Level Rot",
+          "es": "Cyclopean: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Cyclopean : Bronze Level",
+          "fr": "Cyclopean : Niveau Bronze",
+          "de": "Cyclopean: Level Bronze",
+          "es": "Cyclopean: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Cyclopean : Silver Level",
+          "fr": "Cyclopean : Niveau Argent",
+          "de": "Cyclopean: Level Silber",
+          "es": "Cyclopean: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Cyclopean : Gold Level",
+          "fr": "Cyclopean : Niveau Or",
+          "de": "Cyclopean: Level Gold",
+          "es": "Cyclopean: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Cyclopean : Paradise Level",
+          "fr": "Cyclopean : Niveau Paradis",
+          "de": "Cyclopean: Level Paradies",
+          "es": "Cyclopean: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game30": {
+    "id": "game30",
+    "name": {
+      "en": "Popcorn Level",
+      "fr": "Niveau Popcorn",
+      "de": "Level bei Popcorn",
+      "es": "Nivel Popcorn"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Popcorn : Confirmed Level",
+          "fr": "Popcorn : Niveau Confirmé",
+          "de": "Popcorn: Level Weiß",
+          "es": "Popcorn: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Popcorn : Green Level",
+          "fr": "Popcorn : Niveau Vert",
+          "de": "Popcorn: Level Grün",
+          "es": "Popcorn: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Popcorn : Orange Level",
+          "fr": "Popcorn : Niveau Orange",
+          "de": "Popcorn: Level Orange",
+          "es": "Popcorn: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Popcorn : Red Level",
+          "fr": "Popcorn : Niveau Rouge",
+          "de": "Popcorn: Level Rot",
+          "es": "Popcorn: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Popcorn : Bronze Level",
+          "fr": "Popcorn : Niveau Bronze",
+          "de": "Popcorn: Level Bronze",
+          "es": "Popcorn: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Popcorn : Silver Level",
+          "fr": "Popcorn : Niveau Argent",
+          "de": "Popcorn: Level Silber",
+          "es": "Popcorn: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Popcorn : Gold Level",
+          "fr": "Popcorn : Niveau Or",
+          "de": "Popcorn: Level Gold",
+          "es": "Popcorn: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Popcorn : Paradise Level",
+          "fr": "Popcorn : Niveau Paradis",
+          "de": "Popcorn: Level Paradies",
+          "es": "Popcorn: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game31": {
+    "id": "game31",
+    "name": {
+      "en": "Invasion Level",
+      "fr": "Niveau Invasion",
+      "de": "Level bei Invasion",
+      "es": "Nivel Invasion"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Invasion : Confirmed Level",
+          "fr": "Invasion : Niveau Confirmé",
+          "de": "Invasion: Level Weiß",
+          "es": "Invasion: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Invasion : Green Level",
+          "fr": "Invasion : Niveau Vert",
+          "de": "Invasion: Level Grün",
+          "es": "Invasion: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Invasion : Orange Level",
+          "fr": "Invasion : Niveau Orange",
+          "de": "Invasion: Level Orange",
+          "es": "Invasion: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Invasion : Red Level",
+          "fr": "Invasion : Niveau Rouge",
+          "de": "Invasion: Level Rot",
+          "es": "Invasion: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Invasion : Bronze Level",
+          "fr": "Invasion : Niveau Bronze",
+          "de": "Invasion: Level Bronze",
+          "es": "Invasion: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Invasion : Silver Level",
+          "fr": "Invasion : Niveau Argent",
+          "de": "Invasion: Level Silber",
+          "es": "Invasion: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Invasion : Gold Level",
+          "fr": "Invasion : Niveau Or",
+          "de": "Invasion: Level Gold",
+          "es": "Invasion: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Invasion : Paradise Level",
+          "fr": "Invasion : Niveau Paradis",
+          "de": "Invasion: Level Paradies",
+          "es": "Invasion: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game32": {
+    "id": "game32",
+    "name": {
+      "en": "Pioutch Level",
+      "fr": "Niveau Pioutch",
+      "de": "Level bei Pioutch",
+      "es": "Nivel Pioutch"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Pioutch : Confirmed Level",
+          "fr": "Pioutch : Niveau Confirmé",
+          "de": "Pioutch: Level Weiß",
+          "es": "Pioutch: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Pioutch : Green Level",
+          "fr": "Pioutch : Niveau Vert",
+          "de": "Pioutch: Level Grün",
+          "es": "Pioutch: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Pioutch : Orange Level",
+          "fr": "Pioutch : Niveau Orange",
+          "de": "Pioutch: Level Orange",
+          "es": "Pioutch: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Pioutch : Red Level",
+          "fr": "Pioutch : Niveau Rouge",
+          "de": "Pioutch: Level Rot",
+          "es": "Pioutch: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Pioutch : Bronze Level",
+          "fr": "Pioutch : Niveau Bronze",
+          "de": "Pioutch: Level Bronze",
+          "es": "Pioutch: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Pioutch : Silver Level",
+          "fr": "Pioutch : Niveau Argent",
+          "de": "Pioutch: Level Silber",
+          "es": "Pioutch: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Pioutch : Gold Level",
+          "fr": "Pioutch : Niveau Or",
+          "de": "Pioutch: Level Gold",
+          "es": "Pioutch: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Pioutch : Paradise Level",
+          "fr": "Pioutch : Niveau Paradis",
+          "de": "Pioutch: Level Paradies",
+          "es": "Pioutch: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game33": {
+    "id": "game33",
+    "name": {
+      "en": "Iron Chouquette Level",
+      "fr": "Niveau Iron Chouquette",
+      "de": "Level bei Iron Chouquette",
+      "es": "Nivel Iron Chouquette"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Iron Chouquette : Confirmed Level",
+          "fr": "Iron Chouquette : Niveau Confirmé",
+          "de": "Iron Chouquette: Level Weiß",
+          "es": "Iron Chouquette: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Iron Chouquette : Green Level",
+          "fr": "Iron Chouquette : Niveau Vert",
+          "de": "Iron Chouquette: Level Grün",
+          "es": "Iron Chouquette: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Iron Chouquette : Orange Level",
+          "fr": "Iron Chouquette : Niveau Orange",
+          "de": "Iron Chouquette: Level Orange",
+          "es": "Iron Chouquette: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Iron Chouquette : Red Level",
+          "fr": "Iron Chouquette : Niveau Rouge",
+          "de": "Iron Chouquette: Level Rot",
+          "es": "Iron Chouquette: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Iron Chouquette : Bronze Level",
+          "fr": "Iron Chouquette : Niveau Bronze",
+          "de": "Iron Chouquette: Level Bronze",
+          "es": "Iron Chouquette: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Iron Chouquette : Silver Level",
+          "fr": "Iron Chouquette : Niveau Argent",
+          "de": "Iron Chouquette: Level Silber",
+          "es": "Iron Chouquette: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Iron Chouquette : Gold Level",
+          "fr": "Iron Chouquette : Niveau Or",
+          "de": "Iron Chouquette: Level Gold",
+          "es": "Iron Chouquette: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Iron Chouquette : Paradise Level",
+          "fr": "Iron Chouquette : Niveau Paradis",
+          "de": "Iron Chouquette: Level Paradies",
+          "es": "Iron Chouquette: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game34": {
+    "id": "game34",
+    "name": {
+      "en": "Oursouinvader Level",
+      "fr": "Niveau Oursouinvader",
+      "de": "Level bei Oursouinvader",
+      "es": "Nivel Oursouinvader"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Oursouinvader : Confirmed Level",
+          "fr": "Oursouinvader : Niveau Confirmé",
+          "de": "Oursouinvader: Level Weiß",
+          "es": "Oursouinvader: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Oursouinvader : Green Level",
+          "fr": "Oursouinvader : Niveau Vert",
+          "de": "Oursouinvader: Level Grün",
+          "es": "Oursouinvader: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Oursouinvader : Orange Level",
+          "fr": "Oursouinvader : Niveau Orange",
+          "de": "Oursouinvader: Level Orange",
+          "es": "Oursouinvader: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Oursouinvader : Red Level",
+          "fr": "Oursouinvader : Niveau Rouge",
+          "de": "Oursouinvader: Level Rot",
+          "es": "Oursouinvader: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Oursouinvader : Bronze Level",
+          "fr": "Oursouinvader : Niveau Bronze",
+          "de": "Oursouinvader: Level Bronze",
+          "es": "Oursouinvader: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Oursouinvader : Silver Level",
+          "fr": "Oursouinvader : Niveau Argent",
+          "de": "Oursouinvader: Level Silber",
+          "es": "Oursouinvader: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Oursouinvader : Gold Level",
+          "fr": "Oursouinvader : Niveau Or",
+          "de": "Oursouinvader: Level Gold",
+          "es": "Oursouinvader: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Oursouinvader : Paradise Level",
+          "fr": "Oursouinvader : Niveau Paradis",
+          "de": "Oursouinvader: Level Paradies",
+          "es": "Oursouinvader: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game35": {
+    "id": "game35",
+    "name": {
+      "en": "Puzzle-Manda Level",
+      "fr": "Niveau Puzzle-Manda",
+      "de": "Level bei Puzzle-Manda",
+      "es": "Nivel Puzzle-Manda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Puzzle-Manda : Confirmed Level",
+          "fr": "Puzzle-Manda : Niveau Confirmé",
+          "de": "Puzzle-Manda: Level Weiß",
+          "es": "Puzzle-Manda: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Puzzle-Manda : Green Level",
+          "fr": "Puzzle-Manda : Niveau Vert",
+          "de": "Puzzle-Manda: Level Grün",
+          "es": "Puzzle-Manda: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Puzzle-Manda : Orange Level",
+          "fr": "Puzzle-Manda : Niveau Orange",
+          "de": "Puzzle-Manda: Level Orange",
+          "es": "Puzzle-Manda: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Puzzle-Manda : Red Level",
+          "fr": "Puzzle-Manda : Niveau Rouge",
+          "de": "Puzzle-Manda: Level Rot",
+          "es": "Puzzle-Manda: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Puzzle-Manda : Bronze Level",
+          "fr": "Puzzle-Manda : Niveau Bronze",
+          "de": "Puzzle-Manda: Level Bronze",
+          "es": "Puzzle-Manda: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Puzzle-Manda : Silver Level",
+          "fr": "Puzzle-Manda : Niveau Argent",
+          "de": "Puzzle-Manda: Level Silber",
+          "es": "Puzzle-Manda: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Puzzle-Manda : Gold Level",
+          "fr": "Puzzle-Manda : Niveau Or",
+          "de": "Puzzle-Manda: Level Gold",
+          "es": "Puzzle-Manda: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Puzzle-Manda : Paradise Level",
+          "fr": "Puzzle-Manda : Niveau Paradis",
+          "de": "Puzzle-Manda: Level Paradies",
+          "es": "Puzzle-Manda: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game36": {
+    "id": "game36",
+    "name": {
+      "en": "Kanji's Nightmare Level",
+      "fr": "Niveau Kanji's Nightmare",
+      "de": "Level bei Kanji's Nightmare",
+      "es": "Nivel Kanji's Nightmare"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Kanji's Nightmare : Confirmed Level",
+          "fr": "Kanji's Nightmare : Niveau Confirmé",
+          "de": "Kanji's Nightmare: Level Weiß",
+          "es": "Kanji's Nightmare: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Kanji's Nightmare : Green Level",
+          "fr": "Kanji's Nightmare : Niveau Vert",
+          "de": "Kanji's Nightmare: Level Grün",
+          "es": "Kanji's Nightmare: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Kanji's Nightmare : Orange Level",
+          "fr": "Kanji's Nightmare : Niveau Orange",
+          "de": "Kanji's Nightmare: Level Orange",
+          "es": "Kanji's Nightmare: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Kanji's Nightmare : Red Level",
+          "fr": "Kanji's Nightmare : Niveau Rouge",
+          "de": "Kanji's Nightmare: Level Rot",
+          "es": "Kanji's Nightmare: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Kanji's Nightmare : Bronze Level",
+          "fr": "Kanji's Nightmare : Niveau Bronze",
+          "de": "Kanji's Nightmare: Level Bronze",
+          "es": "Kanji's Nightmare: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Kanji's Nightmare : Silver Level",
+          "fr": "Kanji's Nightmare : Niveau Argent",
+          "de": "Kanji's Nightmare: Level Silber",
+          "es": "Kanji's Nightmare: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Kanji's Nightmare : Gold Level",
+          "fr": "Kanji's Nightmare : Niveau Or",
+          "de": "Kanji's Nightmare: Level Gold",
+          "es": "Kanji's Nightmare: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Kanji's Nightmare : Paradise Level",
+          "fr": "Kanji's Nightmare : Niveau Paradis",
+          "de": "Kanji's Nightmare: Level Paradies",
+          "es": "Kanji's Nightmare: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game37": {
+    "id": "game37",
+    "name": {
+      "en": "Autrement Level",
+      "fr": "Niveau Autrement",
+      "de": "Level bei Autrement",
+      "es": "Nivel Autrement"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Autrement : Confirmed Level",
+          "fr": "Autrement : Niveau Confirmé",
+          "de": "Autrement: Level Weiß",
+          "es": "Autrement: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Autrement : Green Level",
+          "fr": "Autrement : Niveau Vert",
+          "de": "Autrement: Level Grün",
+          "es": "Autrement: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Autrement : Orange Level",
+          "fr": "Autrement : Niveau Orange",
+          "de": "Autrement: Level Orange",
+          "es": "Autrement: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Autrement : Red Level",
+          "fr": "Autrement : Niveau Rouge",
+          "de": "Autrement: Level Rot",
+          "es": "Autrement: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Autrement : Bronze Level",
+          "fr": "Autrement : Niveau Bronze",
+          "de": "Autrement: Level Bronze",
+          "es": "Autrement: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Autrement : Silver Level",
+          "fr": "Autrement : Niveau Argent",
+          "de": "Autrement: Level Silber",
+          "es": "Autrement: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Autrement : Gold Level",
+          "fr": "Autrement : Niveau Or",
+          "de": "Autrement: Level Gold",
+          "es": "Autrement: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Autrement : Paradise Level",
+          "fr": "Autrement : Niveau Paradis",
+          "de": "Autrement: Level Paradies",
+          "es": "Autrement: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game38": {
+    "id": "game38",
+    "name": {
+      "en": "Atlanteine Level",
+      "fr": "Niveau Atlanteine",
+      "de": "Level bei Atlanteine",
+      "es": "Nivel Atlanteine"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Atlanteine : Confirmed Level",
+          "fr": "Atlanteine : Niveau Confirmé",
+          "de": "Atlanteine: Level Weiß",
+          "es": "Atlanteine: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Atlanteine : Green Level",
+          "fr": "Atlanteine : Niveau Vert",
+          "de": "Atlanteine: Level Grün",
+          "es": "Atlanteine: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Atlanteine : Orange Level",
+          "fr": "Atlanteine : Niveau Orange",
+          "de": "Atlanteine: Level Orange",
+          "es": "Atlanteine: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Atlanteine : Red Level",
+          "fr": "Atlanteine : Niveau Rouge",
+          "de": "Atlanteine: Level Rot",
+          "es": "Atlanteine: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Atlanteine : Bronze Level",
+          "fr": "Atlanteine : Niveau Bronze",
+          "de": "Atlanteine: Level Bronze",
+          "es": "Atlanteine: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Atlanteine : Silver Level",
+          "fr": "Atlanteine : Niveau Argent",
+          "de": "Atlanteine: Level Silber",
+          "es": "Atlanteine: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Atlanteine : Gold Level",
+          "fr": "Atlanteine : Niveau Or",
+          "de": "Atlanteine: Level Gold",
+          "es": "Atlanteine: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Atlanteine : Paradise Level",
+          "fr": "Atlanteine : Niveau Paradis",
+          "de": "Atlanteine: Level Paradies",
+          "es": "Atlanteine: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game39": {
+    "id": "game39",
+    "name": {
+      "en": "Klinker Surprise Level",
+      "fr": "Niveau Klinker Surprise",
+      "de": "Level bei Klinker Surprise",
+      "es": "Nivel Klinker Surprise"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Klinker Surprise : Confirmed Level",
+          "fr": "Klinker Surprise : Niveau Confirmé",
+          "de": "Klinker Surprise: Level Weiß",
+          "es": "Klinker Surprise: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Klinker Surprise : Green Level",
+          "fr": "Klinker Surprise : Niveau Vert",
+          "de": "Klinker Surprise: Level Grün",
+          "es": "Klinker Surprise: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Klinker Surprise : Orange Level",
+          "fr": "Klinker Surprise : Niveau Orange",
+          "de": "Klinker Surprise: Level Orange",
+          "es": "Klinker Surprise: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Klinker Surprise : Red Level",
+          "fr": "Klinker Surprise : Niveau Rouge",
+          "de": "Klinker Surprise: Level Rot",
+          "es": "Klinker Surprise: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Klinker Surprise : Bronze Level",
+          "fr": "Klinker Surprise : Niveau Bronze",
+          "de": "Klinker Surprise: Level Bronze",
+          "es": "Klinker Surprise: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Klinker Surprise : Silver Level",
+          "fr": "Klinker Surprise : Niveau Argent",
+          "de": "Klinker Surprise: Level Silber",
+          "es": "Klinker Surprise: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Klinker Surprise : Gold Level",
+          "fr": "Klinker Surprise : Niveau Or",
+          "de": "Klinker Surprise: Level Gold",
+          "es": "Klinker Surprise: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Klinker Surprise : Paradise Level",
+          "fr": "Klinker Surprise : Niveau Paradis",
+          "de": "Klinker Surprise: Level Paradies",
+          "es": "Klinker Surprise: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game40": {
+    "id": "game40",
+    "name": {
+      "en": "Alphabounce Level",
+      "fr": "Niveau Alphabounce",
+      "de": "Level bei Alphabounce",
+      "es": "Nivel Alphabounce"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Alphabounce : Confirmed Level",
+          "fr": "Alphabounce : Niveau Confirmé",
+          "de": "Alphabounce: Level Weiß",
+          "es": "Alphabounce: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Alphabounce : Green Level",
+          "fr": "Alphabounce : Niveau Vert",
+          "de": "Alphabounce: Level Grün",
+          "es": "Alphabounce: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Alphabounce : Orange Level",
+          "fr": "Alphabounce : Niveau Orange",
+          "de": "Alphabounce: Level Orange",
+          "es": "Alphabounce: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Alphabounce : Red Level",
+          "fr": "Alphabounce : Niveau Rouge",
+          "de": "Alphabounce: Level Rot",
+          "es": "Alphabounce: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Alphabounce : Bronze Level",
+          "fr": "Alphabounce : Niveau Bronze",
+          "de": "Alphabounce: Level Bronze",
+          "es": "Alphabounce: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Alphabounce : Silver Level",
+          "fr": "Alphabounce : Niveau Argent",
+          "de": "Alphabounce: Level Silber",
+          "es": "Alphabounce: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Alphabounce : Gold Level",
+          "fr": "Alphabounce : Niveau Or",
+          "de": "Alphabounce: Level Gold",
+          "es": "Alphabounce: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Alphabounce : Paradise Level",
+          "fr": "Alphabounce : Niveau Paradis",
+          "de": "Alphabounce: Level Paradies",
+          "es": "Alphabounce: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game41": {
+    "id": "game41",
+    "name": {
+      "en": "Mini-Race Level",
+      "fr": "Niveau Mini-Race",
+      "de": "Level bei Mini-Race",
+      "es": "Nivel Mini-Race"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Mini-Race : Confirmed Level",
+          "fr": "Mini-Race : Niveau Confirmé",
+          "de": "Mini-Race: Level Weiß",
+          "es": "Mini-Race: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Mini-Race : Green Level",
+          "fr": "Mini-Race : Niveau Vert",
+          "de": "Mini-Race: Level Grün",
+          "es": "Mini-Race: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Mini-Race : Orange Level",
+          "fr": "Mini-Race : Niveau Orange",
+          "de": "Mini-Race: Level Orange",
+          "es": "Mini-Race: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Mini-Race : Red Level",
+          "fr": "Mini-Race : Niveau Rouge",
+          "de": "Mini-Race: Level Rot",
+          "es": "Mini-Race: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Mini-Race : Bronze Level",
+          "fr": "Mini-Race : Niveau Bronze",
+          "de": "Mini-Race: Level Bronze",
+          "es": "Mini-Race: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Mini-Race : Silver Level",
+          "fr": "Mini-Race : Niveau Argent",
+          "de": "Mini-Race: Level Silber",
+          "es": "Mini-Race: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Mini-Race : Gold Level",
+          "fr": "Mini-Race : Niveau Or",
+          "de": "Mini-Race: Level Gold",
+          "es": "Mini-Race: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Mini-Race : Paradise Level",
+          "fr": "Mini-Race : Niveau Paradis",
+          "de": "Mini-Race: Level Paradies",
+          "es": "Mini-Race: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game42": {
+    "id": "game42",
+    "name": {
+      "en": "Travoltax Level",
+      "fr": "Niveau Travoltax",
+      "de": "Level bei Travoltax",
+      "es": "Nivel Travoltax"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Travoltax : Confirmed Level",
+          "fr": "Travoltax : Niveau Confirmé",
+          "de": "Travoltax: Level Weiß",
+          "es": "Travoltax: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Travoltax : Green Level",
+          "fr": "Travoltax : Niveau Vert",
+          "de": "Travoltax: Level Grün",
+          "es": "Travoltax: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Travoltax : Orange Level",
+          "fr": "Travoltax : Niveau Orange",
+          "de": "Travoltax: Level Orange",
+          "es": "Travoltax: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Travoltax : Red Level",
+          "fr": "Travoltax : Niveau Rouge",
+          "de": "Travoltax: Level Rot",
+          "es": "Travoltax: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Travoltax : Bronze Level",
+          "fr": "Travoltax : Niveau Bronze",
+          "de": "Travoltax: Level Bronze",
+          "es": "Travoltax: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Travoltax : Silver Level",
+          "fr": "Travoltax : Niveau Argent",
+          "de": "Travoltax: Level Silber",
+          "es": "Travoltax: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Travoltax : Gold Level",
+          "fr": "Travoltax : Niveau Or",
+          "de": "Travoltax: Level Gold",
+          "es": "Travoltax: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Travoltax : Paradise Level",
+          "fr": "Travoltax : Niveau Paradis",
+          "de": "Travoltax: Level Paradies",
+          "es": "Travoltax: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game43": {
+    "id": "game43",
+    "name": {
+      "en": "Schizo Fuzz Level",
+      "fr": "Niveau Schizo Fuzz",
+      "de": "Level bei Schizo Fuzz",
+      "es": "Nivel Schizo Fuzz"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Schizo Fuzz : Confirmed Level",
+          "fr": "Schizo Fuzz : Niveau Confirmé",
+          "de": "Schizo Fuzz: Level Weiß",
+          "es": "Schizo Fuzz: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Schizo Fuzz : Green Level",
+          "fr": "Schizo Fuzz : Niveau Vert",
+          "de": "Schizo Fuzz: Level Grün",
+          "es": "Schizo Fuzz: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Schizo Fuzz : Orange Level",
+          "fr": "Schizo Fuzz : Niveau Orange",
+          "de": "Schizo Fuzz: Level Orange",
+          "es": "Schizo Fuzz: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Schizo Fuzz : Red Level",
+          "fr": "Schizo Fuzz : Niveau Rouge",
+          "de": "Schizo Fuzz: Level Rot",
+          "es": "Schizo Fuzz: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Schizo Fuzz : Bronze Level",
+          "fr": "Schizo Fuzz : Niveau Bronze",
+          "de": "Schizo Fuzz: Level Bronze",
+          "es": "Schizo Fuzz: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Schizo Fuzz : Silver Level",
+          "fr": "Schizo Fuzz : Niveau Argent",
+          "de": "Schizo Fuzz: Level Silber",
+          "es": "Schizo Fuzz: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Schizo Fuzz : Gold Level",
+          "fr": "Schizo Fuzz : Niveau Or",
+          "de": "Schizo Fuzz: Level Gold",
+          "es": "Schizo Fuzz: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Schizo Fuzz : Paradise Level",
+          "fr": "Schizo Fuzz : Niveau Paradis",
+          "de": "Schizo Fuzz: Level Paradies",
+          "es": "Schizo Fuzz: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game44": {
+    "id": "game44",
+    "name": {
+      "en": "Punch-In!  Level",
+      "fr": "Niveau Punch-In !",
+      "de": "Level bei Punch-In !",
+      "es": "Nivel Punch-In !"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Punch-In! : Confirmed Level",
+          "fr": "Punch-In ! : Niveau Confirmé",
+          "de": "Punch-In !: Level Weiß",
+          "es": "Punch-In !: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Punch-In! : Green Level",
+          "fr": "Punch-In ! : Niveau Vert",
+          "de": "Punch-In !: Level Grün",
+          "es": "Punch-In !: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Punch-In! : Orange Level",
+          "fr": "Punch-In ! : Niveau Orange",
+          "de": "Punch-In !: Level Orange",
+          "es": "Punch-In !: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Punch-In! : Red Level",
+          "fr": "Punch-In ! : Niveau Rouge",
+          "de": "Punch-In !: Level Rot",
+          "es": "Punch-In !: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Punch-In! : Bronze Level",
+          "fr": "Punch-In ! : Niveau Bronze",
+          "de": "Punch-In !: Level Bronze",
+          "es": "Punch-In !: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Punch-In! : Silver Level",
+          "fr": "Punch-In ! : Niveau Argent",
+          "de": "Punch-In !: Level Silber",
+          "es": "Punch-In !: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Punch-In! : Gold Level",
+          "fr": "Punch-In ! : Niveau Or",
+          "de": "Punch-In !: Level Gold",
+          "es": "Punch-In !: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Punch-In! : Paradise Level",
+          "fr": "Punch-In ! : Niveau Paradis",
+          "de": "Punch-In !: Level Paradies",
+          "es": "Punch-In !: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game45": {
+    "id": "game45",
+    "name": {
+      "en": "Tubulo Level",
+      "fr": "Niveau Tubulo",
+      "de": "Level bei Tubulo",
+      "es": ""
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Tubulo : Confirmed Level",
+          "fr": "Tubulo : Niveau Confirmé",
+          "de": "Tubulo: Level Weiß",
+          "es": ""
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Tubulo : Green Level",
+          "fr": "Tubulo : Niveau Vert",
+          "de": "Tubulo: Level Grün",
+          "es": ""
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Tubulo : Orange Level",
+          "fr": "Tubulo : Niveau Orange",
+          "de": "Tubulo: Level Orange",
+          "es": ""
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Tubulo : Red Level",
+          "fr": "Tubulo : Niveau Rouge",
+          "de": "Tubulo: Level Rot",
+          "es": ""
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Tubulo : Bronze Level",
+          "fr": "Tubulo : Niveau Bronze",
+          "de": "Tubulo: Level Bronze",
+          "es": ""
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Tubulo : Silver Level",
+          "fr": "Tubulo : Niveau Argent",
+          "de": "Tubulo: Level Silber",
+          "es": ""
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Tubulo : Gold Level",
+          "fr": "Tubulo : Niveau Or",
+          "de": "Tubulo: Level Gold",
+          "es": ""
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Tubulo : Paradise Level",
+          "fr": "Tubulo : Niveau Paradis",
+          "de": "Tubulo: Level Paradies",
+          "es": ""
+        }
+      }
+    ]
+  },
+  "game46": {
+    "id": "game46",
+    "name": {
+      "en": "Logic'O Level",
+      "fr": "Niveau Logic'O",
+      "de": "Level bei Logic'O",
+      "es": "Nivel Logic'O"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Logic'O : Confirmed Level",
+          "fr": "Logic'O : Niveau Confirmé",
+          "de": "Logic'O: Level Weiß",
+          "es": "Logic'O: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Logic'O : Green Level",
+          "fr": "Logic'O : Niveau Vert",
+          "de": "Logic'O: Level Grün",
+          "es": "Logic'O: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Logic'O : Orange Level",
+          "fr": "Logic'O : Niveau Orange",
+          "de": "Logic'O: Level Orange",
+          "es": "Logic'O: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Logic'O : Red Level",
+          "fr": "Logic'O : Niveau Rouge",
+          "de": "Logic'O: Level Rot",
+          "es": "Logic'O: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Logic'O : Bronze Level",
+          "fr": "Logic'O : Niveau Bronze",
+          "de": "Logic'O: Level Bronze",
+          "es": "Logic'O: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Logic'O : Silver Level",
+          "fr": "Logic'O : Niveau Argent",
+          "de": "Logic'O: Level Silber",
+          "es": "Logic'O: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Logic'O : Gold Level",
+          "fr": "Logic'O : Niveau Or",
+          "de": "Logic'O: Level Gold",
+          "es": "Logic'O: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Logic'O : Paradise Level",
+          "fr": "Logic'O : Niveau Paradis",
+          "de": "Logic'O: Level Paradies",
+          "es": "Logic'O: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game47": {
+    "id": "game47",
+    "name": {
+      "en": "Crepuscud Level",
+      "fr": "Niveau Crepuscud",
+      "de": "Level bei Crepuscud",
+      "es": "Nivel Crepuscud"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Crepuscud : Confirmed Level",
+          "fr": "Crepuscud : Niveau Confirmé",
+          "de": "Crepuscud: Level Weiß",
+          "es": "Crepuscud: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Crepuscud : Green Level",
+          "fr": "Crepuscud : Niveau Vert",
+          "de": "Crepuscud: Level Grün",
+          "es": "Crepuscud: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Crepuscud : Orange Level",
+          "fr": "Crepuscud : Niveau Orange",
+          "de": "Crepuscud: Level Orange",
+          "es": "Crepuscud: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Crepuscud : Red Level",
+          "fr": "Crepuscud : Niveau Rouge",
+          "de": "Crepuscud: Level Rot",
+          "es": "Crepuscud: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Crepuscud : Bronze Level",
+          "fr": "Crepuscud : Niveau Bronze",
+          "de": "Crepuscud: Level Bronze",
+          "es": "Crepuscud: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Crepuscud : Silver Level",
+          "fr": "Crepuscud : Niveau Argent",
+          "de": "Crepuscud: Level Silber",
+          "es": "Crepuscud: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Crepuscud : Gold Level",
+          "fr": "Crepuscud : Niveau Or",
+          "de": "Crepuscud: Level Gold",
+          "es": "Crepuscud: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Crepuscud : Paradise Level",
+          "fr": "Crepuscud : Niveau Paradis",
+          "de": "Crepuscud: Level Paradies",
+          "es": "Crepuscud: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game48": {
+    "id": "game48",
+    "name": {
+      "en": "Electrolink Level",
+      "fr": "Niveau Electrolink",
+      "de": "Level bei Electrolink",
+      "es": "Nivel Electrolink"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Electrolink : Confirmed Level",
+          "fr": "Electrolink : Niveau Confirmé",
+          "de": "Electrolink: Level Weiß",
+          "es": "Electrolink: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Electrolink : Green Level",
+          "fr": "Electrolink : Niveau Vert",
+          "de": "Electrolink: Level Grün",
+          "es": "Electrolink: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Electrolink : Orange Level",
+          "fr": "Electrolink : Niveau Orange",
+          "de": "Electrolink: Level Orange",
+          "es": "Electrolink: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Electrolink : Red Level",
+          "fr": "Electrolink : Niveau Rouge",
+          "de": "Electrolink: Level Rot",
+          "es": "Electrolink: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Electrolink : Bronze Level",
+          "fr": "Electrolink : Niveau Bronze",
+          "de": "Electrolink: Level Bronze",
+          "es": "Electrolink: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Electrolink : Silver Level",
+          "fr": "Electrolink : Niveau Argent",
+          "de": "Electrolink: Level Silber",
+          "es": "Electrolink: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Electrolink : Gold Level",
+          "fr": "Electrolink : Niveau Or",
+          "de": "Electrolink: Level Gold",
+          "es": "Electrolink: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Electrolink : Paradise Level",
+          "fr": "Electrolink : Niveau Paradis",
+          "de": "Electrolink: Level Paradies",
+          "es": "Electrolink: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game49": {
+    "id": "game49",
+    "name": {
+      "en": "Cooking Lili Level",
+      "fr": "Niveau Cooking Lili",
+      "de": "Level bei Cooking Lili",
+      "es": "Nivel Cooking Lili"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Cooking Lili : Confirmed Level",
+          "fr": "Cooking Lili : Niveau Confirmé",
+          "de": "Cooking Lili: Level Weiß",
+          "es": "Cooking Lili: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Cooking Lili : Green Level",
+          "fr": "Cooking Lili : Niveau Vert",
+          "de": "Cooking Lili: Level Grün",
+          "es": "Cooking Lili: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Cooking Lili : Orange Level",
+          "fr": "Cooking Lili : Niveau Orange",
+          "de": "Cooking Lili: Level Orange",
+          "es": "Cooking Lili: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Cooking Lili : Red Level",
+          "fr": "Cooking Lili : Niveau Rouge",
+          "de": "Cooking Lili: Level Rot",
+          "es": "Cooking Lili: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Cooking Lili : Bronze Level",
+          "fr": "Cooking Lili : Niveau Bronze",
+          "de": "Cooking Lili: Level Bronze",
+          "es": "Cooking Lili: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Cooking Lili : Silver Level",
+          "fr": "Cooking Lili : Niveau Argent",
+          "de": "Cooking Lili: Level Silber",
+          "es": "Cooking Lili: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Cooking Lili : Gold Level",
+          "fr": "Cooking Lili : Niveau Or",
+          "de": "Cooking Lili: Level Gold",
+          "es": "Cooking Lili: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Cooking Lili : Paradise Level",
+          "fr": "Cooking Lili : Niveau Paradis",
+          "de": "Cooking Lili: Level Paradies",
+          "es": "Cooking Lili: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game53": {
+    "id": "game53",
+    "name": {
+      "en": "Choco-Mouche Level",
+      "fr": "Niveau Choco-Mouche",
+      "de": "Level bei Choco-Mouche",
+      "es": "Nivel Choco-Mouche"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Choco-Mouche : Confirmed Level",
+          "fr": "Choco-Mouche : Niveau Confirmé",
+          "de": "Choco-Mouche: Level Weiß",
+          "es": "Choco-Mouche: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Choco-Mouche : Green Level",
+          "fr": "Choco-Mouche : Niveau Vert",
+          "de": "Choco-Mouche: Level Grün",
+          "es": "Choco-Mouche: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Choco-Mouche : Orange Level",
+          "fr": "Choco-Mouche : Niveau Orange",
+          "de": "Choco-Mouche: Level Orange",
+          "es": "Choco-Mouche: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Choco-Mouche : Red Level",
+          "fr": "Choco-Mouche : Niveau Rouge",
+          "de": "Choco-Mouche: Level Rot",
+          "es": "Choco-Mouche: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Choco-Mouche : Bronze Level",
+          "fr": "Choco-Mouche : Niveau Bronze",
+          "de": "Choco-Mouche: Level Bronze",
+          "es": "Choco-Mouche: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Choco-Mouche : Silver Level",
+          "fr": "Choco-Mouche : Niveau Argent",
+          "de": "Choco-Mouche: Level Silber",
+          "es": "Choco-Mouche: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Choco-Mouche : Gold Level",
+          "fr": "Choco-Mouche : Niveau Or",
+          "de": "Choco-Mouche: Level Gold",
+          "es": "Choco-Mouche: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Choco-Mouche : Paradise Level",
+          "fr": "Choco-Mouche : Niveau Paradis",
+          "de": "Choco-Mouche: Level Paradies",
+          "es": "Choco-Mouche: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game55": {
+    "id": "game55",
+    "name": {
+      "en": "Aqua Splash Level",
+      "fr": "Niveau Aqua Splash",
+      "de": "Level bei Aqua Splash",
+      "es": "Nivel Aqua Splash"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Aqua Splash : Confirmed Level",
+          "fr": "Aqua Splash : Niveau Confirmé",
+          "de": "Aqua Splash: Level Weiß",
+          "es": "Aqua Splash: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Aqua Splash : Green Level",
+          "fr": "Aqua Splash : Niveau Vert",
+          "de": "Aqua Splash: Level Grün",
+          "es": "Aqua Splash: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Aqua Splash : Orange Level",
+          "fr": "Aqua Splash : Niveau Orange",
+          "de": "Aqua Splash: Level Orange",
+          "es": "Aqua Splash: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Aqua Splash : Red Level",
+          "fr": "Aqua Splash : Niveau Rouge",
+          "de": "Aqua Splash: Level Rot",
+          "es": "Aqua Splash: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Aqua Splash : Bronze Level",
+          "fr": "Aqua Splash : Niveau Bronze",
+          "de": "Aqua Splash: Level Bronze",
+          "es": "Aqua Splash: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Aqua Splash : Silver Level",
+          "fr": "Aqua Splash : Niveau Argent",
+          "de": "Aqua Splash: Level Silber",
+          "es": "Aqua Splash: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Aqua Splash : Gold Level",
+          "fr": "Aqua Splash : Niveau Or",
+          "de": "Aqua Splash: Level Gold",
+          "es": "Aqua Splash: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Aqua Splash : Paradise Level",
+          "fr": "Aqua Splash : Niveau Paradis",
+          "de": "Aqua Splash: Level Paradies",
+          "es": "Aqua Splash: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game56": {
+    "id": "game56",
+    "name": {
+      "en": "Tout-Caen Level",
+      "fr": "Niveau Tout-Caen",
+      "de": "Level bei Tout-Caen",
+      "es": "Nivel Tout-Caen"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Tout-Caen : Confirmed Level",
+          "fr": "Tout-Caen : Niveau Confirmé",
+          "de": "Tout-Caen: Level Weiß",
+          "es": "Tout-Caen: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Tout-Caen : Green Level",
+          "fr": "Tout-Caen : Niveau Vert",
+          "de": "Tout-Caen: Level Grün",
+          "es": "Tout-Caen: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Tout-Caen : Orange Level",
+          "fr": "Tout-Caen : Niveau Orange",
+          "de": "Tout-Caen: Level Orange",
+          "es": "Tout-Caen: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Tout-Caen : Red Level",
+          "fr": "Tout-Caen : Niveau Rouge",
+          "de": "Tout-Caen: Level Rot",
+          "es": "Tout-Caen: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Tout-Caen : Bronze Level",
+          "fr": "Tout-Caen : Niveau Bronze",
+          "de": "Tout-Caen: Level Bronze",
+          "es": "Tout-Caen: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Tout-Caen : Silver Level",
+          "fr": "Tout-Caen : Niveau Argent",
+          "de": "Tout-Caen: Level Silber",
+          "es": "Tout-Caen: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Tout-Caen : Gold Level",
+          "fr": "Tout-Caen : Niveau Or",
+          "de": "Tout-Caen: Level Gold",
+          "es": "Tout-Caen: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Tout-Caen : Paradise Level",
+          "fr": "Tout-Caen : Niveau Paradis",
+          "de": "Tout-Caen: Level Paradies",
+          "es": "Tout-Caen: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game57": {
+    "id": "game57",
+    "name": {
+      "en": "Hexile Level",
+      "fr": "Niveau Hexile",
+      "de": "Level bei Hexile",
+      "es": "Nivel Hexile"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Hexile : Confirmed Level",
+          "fr": "Hexile : Niveau Confirmé",
+          "de": "Hexile: Level Weiß",
+          "es": "Hexile: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Hexile : Green Level",
+          "fr": "Hexile : Niveau Vert",
+          "de": "Hexile: Level Grün",
+          "es": "Hexile: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Hexile : Orange Level",
+          "fr": "Hexile : Niveau Orange",
+          "de": "Hexile: Level Orange",
+          "es": "Hexile: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Hexile : Red Level",
+          "fr": "Hexile : Niveau Rouge",
+          "de": "Hexile: Level Rot",
+          "es": "Hexile: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Hexile : Bronze Level",
+          "fr": "Hexile : Niveau Bronze",
+          "de": "Hexile: Level Bronze",
+          "es": "Hexile: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Hexile : Silver Level",
+          "fr": "Hexile : Niveau Argent",
+          "de": "Hexile: Level Silber",
+          "es": "Hexile: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Hexile : Gold Level",
+          "fr": "Hexile : Niveau Or",
+          "de": "Hexile: Level Gold",
+          "es": "Hexile: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Hexile : Paradise Level",
+          "fr": "Hexile : Niveau Paradis",
+          "de": "Hexile: Level Paradies",
+          "es": "Hexile: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game58": {
+    "id": "game58",
+    "name": {
+      "en": "Twin Spirit Level",
+      "fr": "Niveau Twin Spirit",
+      "de": "Level bei Twin Spirit",
+      "es": "Nivel Twin Spirit"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Twin Spirit : Confirmed Level",
+          "fr": "Twin Spirit : Niveau Confirmé",
+          "de": "Twin Spirit: Level Weiß",
+          "es": "Twin Spirit: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Twin Spirit : Green Level",
+          "fr": "Twin Spirit : Niveau Vert",
+          "de": "Twin Spirit: Level Grün",
+          "es": "Twin Spirit: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Twin Spirit : Orange Level",
+          "fr": "Twin Spirit : Niveau Orange",
+          "de": "Twin Spirit: Level Orange",
+          "es": "Twin Spirit: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Twin Spirit : Red Level",
+          "fr": "Twin Spirit : Niveau Rouge",
+          "de": "Twin Spirit: Level Rot",
+          "es": "Twin Spirit: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Twin Spirit : Bronze Level",
+          "fr": "Twin Spirit : Niveau Bronze",
+          "de": "Twin Spirit: Level Bronze",
+          "es": "Twin Spirit: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Twin Spirit : Silver Level",
+          "fr": "Twin Spirit : Niveau Argent",
+          "de": "Twin Spirit: Level Silber",
+          "es": "Twin Spirit: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Twin Spirit : Gold Level",
+          "fr": "Twin Spirit : Niveau Or",
+          "de": "Twin Spirit: Level Gold",
+          "es": "Twin Spirit: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Twin Spirit : Paradise Level",
+          "fr": "Twin Spirit : Niveau Paradis",
+          "de": "Twin Spirit: Level Paradies",
+          "es": "Twin Spirit: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game59": {
+    "id": "game59",
+    "name": {
+      "en": "Binary Level",
+      "fr": "Niveau Binary",
+      "de": "Level bei Binary",
+      "es": "Nivel Binary"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Binary : Confirmed Level",
+          "fr": "Binary : Niveau Confirmé",
+          "de": "Binary: Level Weiß",
+          "es": "Binary: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Binary : Green Level",
+          "fr": "Binary : Niveau Vert",
+          "de": "Binary: Level Grün",
+          "es": "Binary: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Binary : Orange Level",
+          "fr": "Binary : Niveau Orange",
+          "de": "Binary: Level Orange",
+          "es": "Binary: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Binary : Red Level",
+          "fr": "Binary : Niveau Rouge",
+          "de": "Binary: Level Rot",
+          "es": "Binary: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Binary : Bronze Level",
+          "fr": "Binary : Niveau Bronze",
+          "de": "Binary: Level Bronze",
+          "es": "Binary: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Binary : Silver Level",
+          "fr": "Binary : Niveau Argent",
+          "de": "Binary: Level Silber",
+          "es": "Binary: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Binary : Gold Level",
+          "fr": "Binary : Niveau Or",
+          "de": "Binary: Level Gold",
+          "es": "Binary: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Binary : Paradise Level",
+          "fr": "Binary : Niveau Paradis",
+          "de": "Binary: Level Paradies",
+          "es": "Binary: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game60": {
+    "id": "game60",
+    "name": {
+      "en": "Synapses Level",
+      "fr": "Niveau Synapses",
+      "de": "Level bei Synapses",
+      "es": "Nivel Synapses"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Synapses : Confirmed Level",
+          "fr": "Synapses : Niveau Confirmé",
+          "de": "Synapses: Level Weiß",
+          "es": "Synapses: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Synapses : Green Level",
+          "fr": "Synapses : Niveau Vert",
+          "de": "Synapses: Level Grün",
+          "es": "Synapses: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Synapses : Orange Level",
+          "fr": "Synapses : Niveau Orange",
+          "de": "Synapses: Level Orange",
+          "es": "Synapses: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Synapses : Red Level",
+          "fr": "Synapses : Niveau Rouge",
+          "de": "Synapses: Level Rot",
+          "es": "Synapses: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Synapses : Bronze Level",
+          "fr": "Synapses : Niveau Bronze",
+          "de": "Synapses: Level Bronze",
+          "es": "Synapses: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Synapses : Silver Level",
+          "fr": "Synapses : Niveau Argent",
+          "de": "Synapses: Level Silber",
+          "es": "Synapses: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Synapses : Gold Level",
+          "fr": "Synapses : Niveau Or",
+          "de": "Synapses: Level Gold",
+          "es": "Synapses: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Synapses : Paradise Level",
+          "fr": "Synapses : Niveau Paradis",
+          "de": "Synapses: Level Paradies",
+          "es": "Synapses: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game61": {
+    "id": "game61",
+    "name": {
+      "en": "Digestomax Level",
+      "fr": "Niveau Digestomax",
+      "de": "Level bei Digestomax",
+      "es": "Nivel Digestomax"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Digestomax : Confirmed Level",
+          "fr": "Digestomax : Niveau Confirmé",
+          "de": "Digestomax: Level Weiß",
+          "es": "Digestomax: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Digestomax : Green Level",
+          "fr": "Digestomax : Niveau Vert",
+          "de": "Digestomax: Level Grün",
+          "es": "Digestomax: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Digestomax : Orange Level",
+          "fr": "Digestomax : Niveau Orange",
+          "de": "Digestomax: Level Orange",
+          "es": "Digestomax: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Digestomax : Red Level",
+          "fr": "Digestomax : Niveau Rouge",
+          "de": "Digestomax: Level Rot",
+          "es": "Digestomax: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Digestomax : Bronze Level",
+          "fr": "Digestomax : Niveau Bronze",
+          "de": "Digestomax: Level Bronze",
+          "es": "Digestomax: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Digestomax : Silver Level",
+          "fr": "Digestomax : Niveau Argent",
+          "de": "Digestomax: Level Silber",
+          "es": "Digestomax: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Digestomax : Gold Level",
+          "fr": "Digestomax : Niveau Or",
+          "de": "Digestomax: Level Gold",
+          "es": "Digestomax: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Digestomax : Paradise Level",
+          "fr": "Digestomax : Niveau Paradis",
+          "de": "Digestomax: Level Paradies",
+          "es": "Digestomax: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game62": {
+    "id": "game62",
+    "name": {
+      "en": "Kanji's Adventure Level",
+      "fr": "Niveau Kanji's Adventure",
+      "de": "Level bei Kanji's Adventure",
+      "es": "Nivel Kanji's Adventure"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Kanji's Adventure : Confirmed Level",
+          "fr": "Kanji's Adventure : Niveau Confirmé",
+          "de": "Kanji's Adventure: Level Weiß",
+          "es": "Kanji's Adventure: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Kanji's Adventure : Green Level",
+          "fr": "Kanji's Adventure : Niveau Vert",
+          "de": "Kanji's Adventure: Level Grün",
+          "es": "Kanji's Adventure: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Kanji's Adventure : Orange Level",
+          "fr": "Kanji's Adventure : Niveau Orange",
+          "de": "Kanji's Adventure: Level Orange",
+          "es": "Kanji's Adventure: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Kanji's Adventure : Red Level",
+          "fr": "Kanji's Adventure : Niveau Rouge",
+          "de": "Kanji's Adventure: Level Rot",
+          "es": "Kanji's Adventure: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Kanji's Adventure : Bronze Level",
+          "fr": "Kanji's Adventure : Niveau Bronze",
+          "de": "Kanji's Adventure: Level Bronze",
+          "es": "Kanji's Adventure: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Kanji's Adventure : Silver Level",
+          "fr": "Kanji's Adventure : Niveau Argent",
+          "de": "Kanji's Adventure: Level Silber",
+          "es": "Kanji's Adventure: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Kanji's Adventure : Gold Level",
+          "fr": "Kanji's Adventure : Niveau Or",
+          "de": "Kanji's Adventure: Level Gold",
+          "es": "Kanji's Adventure: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Kanji's Adventure : Paradise Level",
+          "fr": "Kanji's Adventure : Niveau Paradis",
+          "de": "Kanji's Adventure: Level Paradies",
+          "es": "Kanji's Adventure: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game63": {
+    "id": "game63",
+    "name": {
+      "en": "Cosmo Crash Level",
+      "fr": "Niveau Cosmo Crash",
+      "de": "Level bei Cosmo Crash",
+      "es": "Nivel Cosmo Crash"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Cosmo Crash : Confirmed Level",
+          "fr": "Cosmo Crash : Niveau Confirmé",
+          "de": "Cosmo Crash: Level Weiß",
+          "es": "Cosmo Crash: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Cosmo Crash : Green Level",
+          "fr": "Cosmo Crash : Niveau Vert",
+          "de": "Cosmo Crash: Level Grün",
+          "es": "Cosmo Crash: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Cosmo Crash : Orange Level",
+          "fr": "Cosmo Crash : Niveau Orange",
+          "de": "Cosmo Crash: Level Orange",
+          "es": "Cosmo Crash: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Cosmo Crash : Red Level",
+          "fr": "Cosmo Crash : Niveau Rouge",
+          "de": "Cosmo Crash: Level Rot",
+          "es": "Cosmo Crash: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Cosmo Crash : Bronze Level",
+          "fr": "Cosmo Crash : Niveau Bronze",
+          "de": "Cosmo Crash: Level Bronze",
+          "es": "Cosmo Crash: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Cosmo Crash : Silver Level",
+          "fr": "Cosmo Crash : Niveau Argent",
+          "de": "Cosmo Crash: Level Silber",
+          "es": "Cosmo Crash: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Cosmo Crash : Gold Level",
+          "fr": "Cosmo Crash : Niveau Or",
+          "de": "Cosmo Crash: Level Gold",
+          "es": "Cosmo Crash: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Cosmo Crash : Paradise Level",
+          "fr": "Cosmo Crash : Niveau Paradis",
+          "de": "Cosmo Crash: Level Paradies",
+          "es": "Cosmo Crash: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game64": {
+    "id": "game64",
+    "name": {
+      "en": "Kanji Gaiden Level",
+      "fr": "Niveau Kanji Gaiden",
+      "de": "Level bei Kanji Gaiden",
+      "es": "Nivel Kanji Gaiden"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Kanji Gaiden : Confirmed Level",
+          "fr": "Kanji Gaiden : Niveau Confirmé",
+          "de": "Kanji Gaiden: Level Weiß",
+          "es": "Kanji Gaiden: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Kanji Gaiden : Green Level",
+          "fr": "Kanji Gaiden : Niveau Vert",
+          "de": "Kanji Gaiden: Level Grün",
+          "es": "Kanji Gaiden: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Kanji Gaiden : Orange Level",
+          "fr": "Kanji Gaiden : Niveau Orange",
+          "de": "Kanji Gaiden: Level Orange",
+          "es": "Kanji Gaiden: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Kanji Gaiden : Red Level",
+          "fr": "Kanji Gaiden : Niveau Rouge",
+          "de": "Kanji Gaiden: Level Rot",
+          "es": "Kanji Gaiden: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Kanji Gaiden : Bronze Level",
+          "fr": "Kanji Gaiden : Niveau Bronze",
+          "de": "Kanji Gaiden: Level Bronze",
+          "es": "Kanji Gaiden: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Kanji Gaiden : Silver Level",
+          "fr": "Kanji Gaiden : Niveau Argent",
+          "de": "Kanji Gaiden: Level Silber",
+          "es": "Kanji Gaiden: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Kanji Gaiden : Gold Level",
+          "fr": "Kanji Gaiden : Niveau Or",
+          "de": "Kanji Gaiden: Level Gold",
+          "es": "Kanji Gaiden: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Kanji Gaiden : Paradise Level",
+          "fr": "Kanji Gaiden : Niveau Paradis",
+          "de": "Kanji Gaiden: Level Paradies",
+          "es": "Kanji Gaiden: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game65": {
+    "id": "game65",
+    "name": {
+      "en": "Spiroule Level",
+      "fr": "Niveau Spiroule",
+      "de": "Level bei Spiroule",
+      "es": "Nivel Spiroule"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Spiroule : Confirmed Level",
+          "fr": "Spiroule : Niveau Confirmé",
+          "de": "Spiroule: Level Weiß",
+          "es": "Spiroule: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Spiroule : Green Level",
+          "fr": "Spiroule : Niveau Vert",
+          "de": "Spiroule: Level Grün",
+          "es": "Spiroule: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Spiroule : Orange Level",
+          "fr": "Spiroule : Niveau Orange",
+          "de": "Spiroule: Level Orange",
+          "es": "Spiroule: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Spiroule : Red Level",
+          "fr": "Spiroule : Niveau Rouge",
+          "de": "Spiroule: Level Rot",
+          "es": "Spiroule: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Spiroule : Bronze Level",
+          "fr": "Spiroule : Niveau Bronze",
+          "de": "Spiroule: Level Bronze",
+          "es": "Spiroule: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Spiroule : Silver Level",
+          "fr": "Spiroule : Niveau Argent",
+          "de": "Spiroule: Level Silber",
+          "es": "Spiroule: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Spiroule : Gold Level",
+          "fr": "Spiroule : Niveau Or",
+          "de": "Spiroule: Level Gold",
+          "es": "Spiroule: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Spiroule : Paradise Level",
+          "fr": "Spiroule : Niveau Paradis",
+          "de": "Spiroule: Level Paradies",
+          "es": "Spiroule: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game66": {
+    "id": "game66",
+    "name": {
+      "en": "Razor Level",
+      "fr": "Niveau Razor",
+      "de": "Level bei Razor",
+      "es": "Nivel Razor"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Razor : Confirmed Level",
+          "fr": "Razor : Niveau Confirmé",
+          "de": "Razor: Level Weiß",
+          "es": "Razor: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Razor : Green Level",
+          "fr": "Razor : Niveau Vert",
+          "de": "Razor: Level Grün",
+          "es": "Razor: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Razor : Orange Level",
+          "fr": "Razor : Niveau Orange",
+          "de": "Razor: Level Orange",
+          "es": "Razor: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Razor : Red Level",
+          "fr": "Razor : Niveau Rouge",
+          "de": "Razor: Level Rot",
+          "es": "Razor: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Razor : Bronze Level",
+          "fr": "Razor : Niveau Bronze",
+          "de": "Razor: Level Bronze",
+          "es": "Razor: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Razor : Silver Level",
+          "fr": "Razor : Niveau Argent",
+          "de": "Razor: Level Silber",
+          "es": "Razor: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Razor : Gold Level",
+          "fr": "Razor : Niveau Or",
+          "de": "Razor: Level Gold",
+          "es": "Razor: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Razor : Paradise Level",
+          "fr": "Razor : Niveau Paradis",
+          "de": "Razor: Level Paradies",
+          "es": "Razor: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game67": {
+    "id": "game67",
+    "name": {
+      "en": "Judo Commando Level",
+      "fr": "Niveau Judo Commando",
+      "de": "Level bei Judo Commando",
+      "es": "Nivel Judo Commando"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Judo Commando : Confirmed Level",
+          "fr": "Judo Commando : Niveau Confirmé",
+          "de": "Judo Commando: Level Weiß",
+          "es": "Judo Commando: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Judo Commando : Green Level",
+          "fr": "Judo Commando : Niveau Vert",
+          "de": "Judo Commando: Level Grün",
+          "es": "Judo Commando: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Judo Commando : Orange Level",
+          "fr": "Judo Commando : Niveau Orange",
+          "de": "Judo Commando: Level Orange",
+          "es": "Judo Commando: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Judo Commando : Red Level",
+          "fr": "Judo Commando : Niveau Rouge",
+          "de": "Judo Commando: Level Rot",
+          "es": "Judo Commando: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Judo Commando : Bronze Level",
+          "fr": "Judo Commando : Niveau Bronze",
+          "de": "Judo Commando: Level Bronze",
+          "es": "Judo Commando: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Judo Commando : Silver Level",
+          "fr": "Judo Commando : Niveau Argent",
+          "de": "Judo Commando: Level Silber",
+          "es": "Judo Commando: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Judo Commando : Gold Level",
+          "fr": "Judo Commando : Niveau Or",
+          "de": "Judo Commando: Level Gold",
+          "es": "Judo Commando: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Judo Commando : Paradise Level",
+          "fr": "Judo Commando : Niveau Paradis",
+          "de": "Judo Commando: Level Paradies",
+          "es": "Judo Commando: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game68": {
+    "id": "game68",
+    "name": {
+      "en": "Chakré Bouddha Level",
+      "fr": "Niveau Chakré Bouddha",
+      "de": "Level bei Chakré Bouddha",
+      "es": "Nivel Chakré Bouddha"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Chakré Bouddha : Confirmed Level",
+          "fr": "Chakré Bouddha : Niveau Confirmé",
+          "de": "Chakré Bouddha: Level Weiß",
+          "es": "Chakré Bouddha: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Chakré Bouddha : Green Level",
+          "fr": "Chakré Bouddha : Niveau Vert",
+          "de": "Chakré Bouddha: Level Grün",
+          "es": "Chakré Bouddha: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Chakré Bouddha : Orange Level",
+          "fr": "Chakré Bouddha : Niveau Orange",
+          "de": "Chakré Bouddha: Level Orange",
+          "es": "Chakré Bouddha: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Chakré Bouddha : Red Level",
+          "fr": "Chakré Bouddha : Niveau Rouge",
+          "de": "Chakré Bouddha: Level Rot",
+          "es": "Chakré Bouddha: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Chakré Bouddha : Bronze Level",
+          "fr": "Chakré Bouddha : Niveau Bronze",
+          "de": "Chakré Bouddha: Level Bronze",
+          "es": "Chakré Bouddha: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Chakré Bouddha : Silver Level",
+          "fr": "Chakré Bouddha : Niveau Argent",
+          "de": "Chakré Bouddha: Level Silber",
+          "es": "Chakré Bouddha: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Chakré Bouddha : Gold Level",
+          "fr": "Chakré Bouddha : Niveau Or",
+          "de": "Chakré Bouddha: Level Gold",
+          "es": "Chakré Bouddha: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Chakré Bouddha : Paradise Level",
+          "fr": "Chakré Bouddha : Niveau Paradis",
+          "de": "Chakré Bouddha: Level Paradies",
+          "es": "Chakré Bouddha: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game69": {
+    "id": "game69",
+    "name": {
+      "en": "K-Train Level",
+      "fr": "Niveau K-Train",
+      "de": "Level bei K-Train",
+      "es": "Nivel K-Train"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "K-Train : Confirmed Level",
+          "fr": "K-Train : Niveau Confirmé",
+          "de": "K-Train: Level Weiß",
+          "es": "K-Train: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "K-Train : Green Level",
+          "fr": "K-Train : Niveau Vert",
+          "de": "K-Train: Level Grün",
+          "es": "K-Train: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "K-Train : Orange Level",
+          "fr": "K-Train : Niveau Orange",
+          "de": "K-Train: Level Orange",
+          "es": "K-Train: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "K-Train : Red Level",
+          "fr": "K-Train : Niveau Rouge",
+          "de": "K-Train: Level Rot",
+          "es": "K-Train: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "K-Train : Bronze Level",
+          "fr": "K-Train : Niveau Bronze",
+          "de": "K-Train: Level Bronze",
+          "es": "K-Train: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "K-Train : Silver Level",
+          "fr": "K-Train : Niveau Argent",
+          "de": "K-Train: Level Silber",
+          "es": "K-Train: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "K-Train : Gold Level",
+          "fr": "K-Train : Niveau Or",
+          "de": "K-Train: Level Gold",
+          "es": "K-Train: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "K-Train : Paradise Level",
+          "fr": "K-Train : Niveau Paradis",
+          "de": "K-Train: Level Paradies",
+          "es": "K-Train: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game70": {
+    "id": "game70",
+    "name": {
+      "en": "PacifiK Level",
+      "fr": "Niveau PacifiK",
+      "de": "Level bei PacifiK",
+      "es": "Nivel PacifiK"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "PacifiK : Confirmed Level",
+          "fr": "PacifiK : Niveau Confirmé",
+          "de": "PacifiK: Level Weiß",
+          "es": "PacifiK: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "PacifiK : Green Level",
+          "fr": "PacifiK : Niveau Vert",
+          "de": "PacifiK: Level Grün",
+          "es": "PacifiK: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "PacifiK : Orange Level",
+          "fr": "PacifiK : Niveau Orange",
+          "de": "PacifiK: Level Orange",
+          "es": "PacifiK: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "PacifiK : Red Level",
+          "fr": "PacifiK : Niveau Rouge",
+          "de": "PacifiK: Level Rot",
+          "es": "PacifiK: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "PacifiK : Bronze Level",
+          "fr": "PacifiK : Niveau Bronze",
+          "de": "PacifiK: Level Bronze",
+          "es": "PacifiK: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "PacifiK : Silver Level",
+          "fr": "PacifiK : Niveau Argent",
+          "de": "PacifiK: Level Silber",
+          "es": "PacifiK: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "PacifiK : Gold Level",
+          "fr": "PacifiK : Niveau Or",
+          "de": "PacifiK: Level Gold",
+          "es": "PacifiK: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "PacifiK : Paradise Level",
+          "fr": "PacifiK : Niveau Paradis",
+          "de": "PacifiK: Level Paradies",
+          "es": "PacifiK: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game71": {
+    "id": "game71",
+    "name": {
+      "en": "Tianan Man Level",
+      "fr": "Niveau Tianan Man",
+      "de": "Level bei Tianan Man",
+      "es": "Nivel Tianan Man"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Tianan Man : Confirmed Level",
+          "fr": "Tianan Man : Niveau Confirmé",
+          "de": "Tianan Man: Level Weiß",
+          "es": "Tianan Man: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Tianan Man : Green Level",
+          "fr": "Tianan Man : Niveau Vert",
+          "de": "Tianan Man: Level Grün",
+          "es": "Tianan Man: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Tianan Man : Orange Level",
+          "fr": "Tianan Man : Niveau Orange",
+          "de": "Tianan Man: Level Orange",
+          "es": "Tianan Man: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Tianan Man : Red Level",
+          "fr": "Tianan Man : Niveau Rouge",
+          "de": "Tianan Man: Level Rot",
+          "es": "Tianan Man: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Tianan Man : Bronze Level",
+          "fr": "Tianan Man : Niveau Bronze",
+          "de": "Tianan Man: Level Bronze",
+          "es": "Tianan Man: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Tianan Man : Silver Level",
+          "fr": "Tianan Man : Niveau Argent",
+          "de": "Tianan Man: Level Silber",
+          "es": "Tianan Man: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Tianan Man : Gold Level",
+          "fr": "Tianan Man : Niveau Or",
+          "de": "Tianan Man: Level Gold",
+          "es": "Tianan Man: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Tianan Man : Paradise Level",
+          "fr": "Tianan Man : Niveau Paradis",
+          "de": "Tianan Man: Level Paradies",
+          "es": "Tianan Man: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game72": {
+    "id": "game72",
+    "name": {
+      "en": "Opalus Factory Level",
+      "fr": "Niveau Opalus Factory",
+      "de": "Level bei Opalus Factory",
+      "es": "Nivel Opalus Factory"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Opalus Factory : Confirmed Level",
+          "fr": "Opalus Factory : Niveau Confirmé",
+          "de": "Opalus Factory: Level Weiß",
+          "es": "Opalus Factory: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Opalus Factory : Green Level",
+          "fr": "Opalus Factory : Niveau Vert",
+          "de": "Opalus Factory: Level Grün",
+          "es": "Opalus Factory: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Opalus Factory : Orange Level",
+          "fr": "Opalus Factory : Niveau Orange",
+          "de": "Opalus Factory: Level Orange",
+          "es": "Opalus Factory: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Opalus Factory : Red Level",
+          "fr": "Opalus Factory : Niveau Rouge",
+          "de": "Opalus Factory: Level Rot",
+          "es": "Opalus Factory: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Opalus Factory : Bronze Level",
+          "fr": "Opalus Factory : Niveau Bronze",
+          "de": "Opalus Factory: Level Bronze",
+          "es": "Opalus Factory: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Opalus Factory : Silver Level",
+          "fr": "Opalus Factory : Niveau Argent",
+          "de": "Opalus Factory: Level Silber",
+          "es": "Opalus Factory: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Opalus Factory : Gold Level",
+          "fr": "Opalus Factory : Niveau Or",
+          "de": "Opalus Factory: Level Gold",
+          "es": "Opalus Factory: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Opalus Factory : Paradise Level",
+          "fr": "Opalus Factory : Niveau Paradis",
+          "de": "Opalus Factory: Level Paradies",
+          "es": "Opalus Factory: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game73": {
+    "id": "game73",
+    "name": {
+      "en": "Linea Level",
+      "fr": "Niveau Linea",
+      "de": "Level bei Linea",
+      "es": "Nivel Linea"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Linea : Confirmed Level",
+          "fr": "Linea : Niveau Confirmé",
+          "de": "Linea: Level Weiß",
+          "es": "Linea: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Linea : Green Level",
+          "fr": "Linea : Niveau Vert",
+          "de": "Linea: Level Grün",
+          "es": "Linea: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Linea : Orange Level",
+          "fr": "Linea : Niveau Orange",
+          "de": "Linea: Level Orange",
+          "es": "Linea: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Linea : Red Level",
+          "fr": "Linea : Niveau Rouge",
+          "de": "Linea: Level Rot",
+          "es": "Linea: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Linea : Bronze Level",
+          "fr": "Linea : Niveau Bronze",
+          "de": "Linea: Level Bronze",
+          "es": "Linea: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Linea : Silver Level",
+          "fr": "Linea : Niveau Argent",
+          "de": "Linea: Level Silber",
+          "es": "Linea: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Linea : Gold Level",
+          "fr": "Linea : Niveau Or",
+          "de": "Linea: Level Gold",
+          "es": "Linea: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Linea : Paradise Level",
+          "fr": "Linea : Niveau Paradis",
+          "de": "Linea: Level Paradies",
+          "es": "Linea: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game74": {
+    "id": "game74",
+    "name": {
+      "en": "Happy Pti Tank Level",
+      "fr": "Niveau Happy Pti Tank",
+      "de": "Level bei Happy Pti Tank",
+      "es": "Nivel Happy Pti Tank"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Happy Pti Tank : Confirmed Level",
+          "fr": "Happy Pti Tank : Niveau Confirmé",
+          "de": "Happy Pti Tank: Level Weiß",
+          "es": "Happy Pti Tank: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Happy Pti Tank : Green Level",
+          "fr": "Happy Pti Tank : Niveau Vert",
+          "de": "Happy Pti Tank: Level Grün",
+          "es": "Happy Pti Tank: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Happy Pti Tank : Orange Level",
+          "fr": "Happy Pti Tank : Niveau Orange",
+          "de": "Happy Pti Tank: Level Orange",
+          "es": "Happy Pti Tank: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Happy Pti Tank : Red Level",
+          "fr": "Happy Pti Tank : Niveau Rouge",
+          "de": "Happy Pti Tank: Level Rot",
+          "es": "Happy Pti Tank: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Happy Pti Tank : Bronze Level",
+          "fr": "Happy Pti Tank : Niveau Bronze",
+          "de": "Happy Pti Tank: Level Bronze",
+          "es": "Happy Pti Tank: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Happy Pti Tank : Silver Level",
+          "fr": "Happy Pti Tank : Niveau Argent",
+          "de": "Happy Pti Tank: Level Silber",
+          "es": "Happy Pti Tank: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Happy Pti Tank : Gold Level",
+          "fr": "Happy Pti Tank : Niveau Or",
+          "de": "Happy Pti Tank: Level Gold",
+          "es": "Happy Pti Tank: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Happy Pti Tank : Paradise Level",
+          "fr": "Happy Pti Tank : Niveau Paradis",
+          "de": "Happy Pti Tank: Level Paradies",
+          "es": "Happy Pti Tank: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game75": {
+    "id": "game75",
+    "name": {
+      "en": "Phagocytoz Level",
+      "fr": "Niveau Phagocytoz",
+      "de": "Level bei Phagocytoz",
+      "es": "Nivel Phagocytoz"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Phagocytoz : Confirmed Level",
+          "fr": "Phagocytoz : Niveau Confirmé",
+          "de": "Phagocytoz: Level Weiß",
+          "es": "Phagocytoz: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Phagocytoz : Green Level",
+          "fr": "Phagocytoz : Niveau Vert",
+          "de": "Phagocytoz: Level Grün",
+          "es": "Phagocytoz: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Phagocytoz : Orange Level",
+          "fr": "Phagocytoz : Niveau Orange",
+          "de": "Phagocytoz: Level Orange",
+          "es": "Phagocytoz: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Phagocytoz : Red Level",
+          "fr": "Phagocytoz : Niveau Rouge",
+          "de": "Phagocytoz: Level Rot",
+          "es": "Phagocytoz: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Phagocytoz : Bronze Level",
+          "fr": "Phagocytoz : Niveau Bronze",
+          "de": "Phagocytoz: Level Bronze",
+          "es": "Phagocytoz: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Phagocytoz : Silver Level",
+          "fr": "Phagocytoz : Niveau Argent",
+          "de": "Phagocytoz: Level Silber",
+          "es": "Phagocytoz: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Phagocytoz : Gold Level",
+          "fr": "Phagocytoz : Niveau Or",
+          "de": "Phagocytoz: Level Gold",
+          "es": "Phagocytoz: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Phagocytoz : Paradise Level",
+          "fr": "Phagocytoz : Niveau Paradis",
+          "de": "Phagocytoz: Level Paradies",
+          "es": "Phagocytoz: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game76": {
+    "id": "game76",
+    "name": {
+      "en": "Alchimie Level",
+      "fr": "Niveau Alchimie",
+      "de": "Level bei Alchimie",
+      "es": "Nivel Alchimie"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Alchimie : Confirmed Level",
+          "fr": "Alchimie : Niveau Confirmé",
+          "de": "Alchimie: Level Weiß",
+          "es": "Alchimie: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "Alchimie : Green Level",
+          "fr": "Alchimie : Niveau Vert",
+          "de": "Alchimie: Level Grün",
+          "es": "Alchimie: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "Alchimie : Orange Level",
+          "fr": "Alchimie : Niveau Orange",
+          "de": "Alchimie: Level Orange",
+          "es": "Alchimie: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "Alchimie : Red Level",
+          "fr": "Alchimie : Niveau Rouge",
+          "de": "Alchimie: Level Rot",
+          "es": "Alchimie: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Alchimie : Bronze Level",
+          "fr": "Alchimie : Niveau Bronze",
+          "de": "Alchimie: Level Bronze",
+          "es": "Alchimie: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "Alchimie : Silver Level",
+          "fr": "Alchimie : Niveau Argent",
+          "de": "Alchimie: Level Silber",
+          "es": "Alchimie: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "Alchimie : Gold Level",
+          "fr": "Alchimie : Niveau Or",
+          "de": "Alchimie: Level Gold",
+          "es": "Alchimie: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "Alchimie : Paradise Level",
+          "fr": "Alchimie : Niveau Paradis",
+          "de": "Alchimie: Level Paradies",
+          "es": "Alchimie: Nivel Paraíso"
+        }
+      }
+    ]
+  },
+  "game77": {
+    "id": "game77",
+    "name": {
+      "en": "El Tortuga nemesis Level",
+      "fr": "Niveau El Tortuga nemesis",
+      "de": "Level bei El Tortuga nemesis",
+      "es": "Nivel El Tortuga nemesis"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "El Tortuga nemesis : Confirmed Level",
+          "fr": "El Tortuga nemesis : Niveau Confirmé",
+          "de": "El Tortuga nemesis: Level Weiß",
+          "es": "El Tortuga nemesis: Nivel Iniciado"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "title": {
+          "en": "El Tortuga nemesis : Green Level",
+          "fr": "El Tortuga nemesis : Niveau Vert",
+          "de": "El Tortuga nemesis: Level Grün",
+          "es": "El Tortuga nemesis: Nivel Verde"
+        }
+      },
+      {
+        "count": 3,
+        "points": 3,
+        "title": {
+          "en": "El Tortuga nemesis : Orange Level",
+          "fr": "El Tortuga nemesis : Niveau Orange",
+          "de": "El Tortuga nemesis: Level Orange",
+          "es": "El Tortuga nemesis: Nivel Naranja"
+        }
+      },
+      {
+        "count": 4,
+        "points": 4,
+        "title": {
+          "en": "El Tortuga nemesis : Red Level",
+          "fr": "El Tortuga nemesis : Niveau Rouge",
+          "de": "El Tortuga nemesis: Level Rot",
+          "es": "El Tortuga nemesis: Nivel Rojo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "El Tortuga nemesis : Bronze Level",
+          "fr": "El Tortuga nemesis : Niveau Bronze",
+          "de": "El Tortuga nemesis: Level Bronze",
+          "es": "El Tortuga nemesis: Nivel Bronce"
+        }
+      },
+      {
+        "count": 6,
+        "points": 6,
+        "title": {
+          "en": "El Tortuga nemesis : Silver Level",
+          "fr": "El Tortuga nemesis : Niveau Argent",
+          "de": "El Tortuga nemesis: Level Silber",
+          "es": "El Tortuga nemesis: Nivel Plata"
+        }
+      },
+      {
+        "count": 7,
+        "points": 7,
+        "title": {
+          "en": "El Tortuga nemesis : Gold Level",
+          "fr": "El Tortuga nemesis : Niveau Or",
+          "de": "El Tortuga nemesis: Level Gold",
+          "es": "El Tortuga nemesis: Nivel Oro"
+        }
+      },
+      {
+        "count": 8,
+        "points": 8,
+        "title": {
+          "en": "El Tortuga nemesis : Paradise Level",
+          "fr": "El Tortuga nemesis : Niveau Paradis",
+          "de": "El Tortuga nemesis: Level Paradies",
+          "es": "El Tortuga nemesis: Nivel Paraíso"
+        }
+      }
+    ]
+  }
+}

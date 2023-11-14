@@ -1,0 +1,222 @@
+{
+  "empero": {
+    "id": "empero",
+    "name": {
+      "en": "Emperor",
+      "fr": "Empereur",
+      "de": "Kaiser",
+      "es": "Emperador"
+    },
+    "rare": 3,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 20,
+        "icon": "l_emperor.png"
+      }
+    ]
+  },
+  "king": {
+    "id": "king",
+    "name": {
+      "en": "King",
+      "fr": "Roi",
+      "de": "König",
+      "es": "Rey"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "l_king.png"
+      }
+    ]
+  },
+  "food": {
+    "id": "food",
+    "name": {
+      "en": "Waste of Food",
+      "fr": "Gaspillage de Nourriture",
+      "de": "Nahrungsproduzent",
+      "es": "Desperdicio de Alimentos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5000,
+        "points": 5,
+        "icon": "small/res_food.gif"
+      },
+      {
+        "count": 100000,
+        "points": 3,
+        "suffix": true,
+        "title": {
+          "en": "Greedy Guts",
+          "fr": "Macdo",
+          "de": "bei McDonald's",
+          "es": "Hambrunator"
+        }
+      }
+    ]
+  },
+  "gold": {
+    "id": "gold",
+    "name": {
+      "en": "Waste of Gold",
+      "fr": "Gaspillage d'Or",
+      "de": "Goldfinger",
+      "es": "Desperdicio de Oro"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 5,
+        "icon": "small/res_gold.gif"
+      },
+      {
+        "count": 50000,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Rogue Trader",
+          "fr": "gaspillage",
+          "de": "aus Fort Knox",
+          "es": "Despilfarrador"
+        }
+      }
+    ]
+  },
+  "wood": {
+    "id": "wood",
+    "name": {
+      "en": "Waste of Wood",
+      "fr": "Gaspillage de Bois",
+      "de": "Holzfäller",
+      "es": "Desperdicio de Madera"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20000,
+        "points": 5,
+        "icon": "small/res_wood.gif"
+      },
+      {
+        "count": 50000,
+        "points": 3,
+        "suffix": true,
+        "title": {
+          "en": "Eco-Enemy",
+          "fr": "Kyoto",
+          "de": "wie im Amazonas",
+          "es": "Anti-Ecológico"
+        }
+      }
+    ]
+  },
+  "metal": {
+    "id": "metal",
+    "name": {
+      "en": "Metal Mining",
+      "fr": "Miné du Métal",
+      "de": "Metallurge",
+      "es": "Mina de Metal"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1000,
+        "points": 3,
+        "icon": "small/res_metal.gif",
+        "title": {
+          "en": "Novice Miner",
+          "fr": "Mineur Débutant",
+          "de": "Junger Minenarbeiter",
+          "es": "Minero Debutante"
+        }
+      },
+      {
+        "count": 3000,
+        "points": 8,
+        "prefix": true,
+        "title": {
+          "en": "Miner",
+          "fr": "Mineur",
+          "de": "Minenarbeiter",
+          "es": "Minero"
+        }
+      }
+    ]
+  },
+  "lin": {
+    "id": "lin",
+    "name": {
+      "en": "Cotton Harvest",
+      "fr": "Récolte de Lin",
+      "de": "Baumwollernter",
+      "es": "Recolección de Lino"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 2000,
+        "points": 3,
+        "icon": "small/res_lin.gif",
+        "title": {
+          "en": "Novice Weaver",
+          "fr": "Tisseur Débutant",
+          "de": "Weber",
+          "es": "Tejedor debutante"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 8,
+        "prefix": true,
+        "title": {
+          "en": "Weaver",
+          "fr": "Tisseur",
+          "de": "Meisterweber",
+          "es": "Tejedor"
+        }
+      }
+    ]
+  },
+  "horse": {
+    "id": "horse",
+    "name": {
+      "en": "Horse Taming",
+      "fr": "Apprivoisé des chevaux",
+      "de": "Pferdenarr",
+      "es": "Cría de caballos"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 3,
+        "icon": "small/res_horse.gif",
+        "title": {
+          "en": "Novice Tamer",
+          "fr": "Eleveur Débutant",
+          "de": "Junger Pferdezüchter",
+          "es": "Criador Debutante"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 8,
+        "prefix": true,
+        "title": {
+          "en": "Whisperer",
+          "fr": "Eleveur",
+          "de": "Meisterzüchter",
+          "es": "Criador"
+        }
+      }
+    ]
+  }
+}

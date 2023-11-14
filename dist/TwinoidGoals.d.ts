@@ -34,7 +34,9 @@ export type Language = Languages[number];
 export interface Goal {
   id: string;
   name: Record<Language, string>;
-  rare: boolean;
+  description?: Record<Language, string>;
+  rare: number;
+  hidden?: boolean;
   unlocks: Unlock[];
 }
 
@@ -43,16 +45,6 @@ export interface Unlock {
   points: number;
   icon?: string;
   title?: Record<Language, string>;
+  prefix?: boolean;
+  suffix?: boolean;
 }
-
-// AlphaBounce
-export type AlphaBounceGoalNames = [
-  'planets',
-  'earth',
-  'mission',
-  'map',
-  'escorp',
-  'furi',
-];
-
-export type AlphaBounceGoalName = AlphaBounceGoalNames[number];

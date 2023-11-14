@@ -1,0 +1,803 @@
+{
+  "wapp": {
+    "id": "wapp",
+    "name": {
+      "en": "Mobile Game",
+      "fr": "Jeu mobile",
+      "de": "Mobile Game",
+      "es": "Partida en móvil"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "/img/icons/icon_mobile.png"
+      }
+    ]
+  },
+  "wgames": {
+    "id": "wgames",
+    "name": {
+      "en": "Games played",
+      "fr": "Parties jouées",
+      "de": "Games played",
+      "es": "Partidas jugadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2
+      },
+      {
+        "count": 100,
+        "points": 3
+      },
+      {
+        "count": 1000,
+        "points": 10
+      }
+    ]
+  },
+  "wquests": {
+    "id": "wquests",
+    "name": {
+      "en": "Quests accomplished",
+      "fr": "Quêtes accomplies",
+      "de": "Quests accomplished",
+      "es": "Misiones cumplidas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2,
+        "icon": "/img/icons/icon_quest.png"
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "title": {
+          "en": "Quest Master",
+          "fr": "Maître des quêtes",
+          "de": "Quest Master",
+          "es": "Maestro de las misiones"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 10,
+        "title": {
+          "en": "The omnipresent",
+          "fr": "Sitôt dit sitôt fait",
+          "de": "The omnipresent",
+          "es": "Dicho y hecho"
+        }
+      }
+    ]
+  },
+  "wwords": {
+    "id": "wwords",
+    "name": {
+      "en": "Words played",
+      "fr": "Mots posés",
+      "de": "Words played",
+      "es": "Palabras colocadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "Lexicologist",
+          "fr": "Poseur de mots",
+          "de": "Lexicologist",
+          "es": "Don Armando Palabras"
+        }
+      },
+      {
+        "count": 500,
+        "points": 3,
+        "title": {
+          "en": "Etymologist",
+          "fr": "Remplisseur de plateau",
+          "de": "Etymologist",
+          "es": "Palabrero"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 5,
+        "title": {
+          "en": "Linguist",
+          "fr": "Mot-nomaniaque",
+          "de": "Linguist",
+          "es": "Palabra de líder"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 10,
+        "title": {
+          "en": "The dictionary incarnate",
+          "fr": "Encyclopedia Universalis",
+          "de": "The dictionary incarnate",
+          "es": "Encyclopedia Universalis"
+        }
+      }
+    ]
+  },
+  "wvictories": {
+    "id": "wvictories",
+    "name": {
+      "en": "Games won",
+      "fr": "Parties gagnées",
+      "de": "Games won",
+      "es": "Partidas ganadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "title": {
+          "en": "Victory is mine!",
+          "fr": "La victoire est pour moi",
+          "de": "Victory is mine!",
+          "es": "La victoria es mía"
+        }
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "title": {
+          "en": "Letter master",
+          "fr": "Maître des lettres",
+          "de": "Letter master",
+          "es": "Voz fuerte"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 10,
+        "title": {
+          "en": "Wordsmith",
+          "fr": "Champion des mots",
+          "de": "Wordsmith",
+          "es": "Palabras que matan"
+        }
+      }
+    ]
+  },
+  "w_Recycle": {
+    "id": "w_Recycle",
+    "name": {
+      "en": "Recycles used",
+      "fr": "Recyclages utilisés",
+      "de": "Recycles used",
+      "es": "Reciclajes utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_recycle.png"
+      }
+    ]
+  },
+  "w_Joker": {
+    "id": "w_Joker",
+    "name": {
+      "en": "Jokers used",
+      "fr": "Jokers utilisés",
+      "de": "Jokers used",
+      "es": "Comodines utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_joker.png"
+      }
+    ]
+  },
+  "w_DragonPunch": {
+    "id": "w_DragonPunch",
+    "name": {
+      "en": "Vortexes used",
+      "fr": "Vortex utilisés",
+      "de": "Vortexes used",
+      "es": "Vórtices utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_dragonpunch.png"
+      }
+    ]
+  },
+  "w_Bomb": {
+    "id": "w_Bomb",
+    "name": {
+      "en": "Bombs used",
+      "fr": "Bombes utilisés",
+      "de": "Bombs used",
+      "es": "Bombas utilizadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_bomb.png"
+      }
+    ]
+  },
+  "w_Double": {
+    "id": "w_Double",
+    "name": {
+      "en": "Two Timings used",
+      "fr": "x2 utilisés",
+      "de": "Two Timings used",
+      "es": "x2 utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_double.png"
+      }
+    ]
+  },
+  "w_LootView": {
+    "id": "w_LootView",
+    "name": {
+      "en": "Visions used",
+      "fr": "Visions utilisés",
+      "de": "Visions used",
+      "es": "Visiones utilizadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_lootview.png"
+      }
+    ]
+  },
+  "w_Thief": {
+    "id": "w_Thief",
+    "name": {
+      "en": "Thieves used",
+      "fr": "Trocs utilisés",
+      "de": "Thieves used",
+      "es": "Cambiazos utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_thief.png"
+      }
+    ]
+  },
+  "w_Tornado": {
+    "id": "w_Tornado",
+    "name": {
+      "en": "Hurricanes used",
+      "fr": "Vents sacrés utilisés",
+      "de": "Hurricanes used",
+      "es": "Vientos sagrados utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_tornado.png"
+      }
+    ]
+  },
+  "w_Mine": {
+    "id": "w_Mine",
+    "name": {
+      "en": "Mines used",
+      "fr": "Mines utilisés",
+      "de": "Mines used",
+      "es": "Minas utilizadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_mine.png"
+      }
+    ]
+  },
+  "w_TrapBonusPoints": {
+    "id": "w_TrapBonusPoints",
+    "name": {
+      "en": "Combos used",
+      "fr": "Combos utilisés",
+      "de": "Combos used",
+      "es": "Combos utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_trapbonuspoints.png"
+      }
+    ]
+  },
+  "w_letter_a": {
+    "id": "w_letter_a",
+    "name": {
+      "en": "A used",
+      "fr": "A utilisés",
+      "de": "A used",
+      "es": "A utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_a.png"
+      }
+    ]
+  },
+  "w_letter_b": {
+    "id": "w_letter_b",
+    "name": {
+      "en": "B used",
+      "fr": "B utilisés",
+      "de": "B used",
+      "es": "B utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_b.png"
+      }
+    ]
+  },
+  "w_letter_c": {
+    "id": "w_letter_c",
+    "name": {
+      "en": "C used",
+      "fr": "C utilisés",
+      "de": "C used",
+      "es": "C utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_c.png"
+      }
+    ]
+  },
+  "w_letter_d": {
+    "id": "w_letter_d",
+    "name": {
+      "en": "D used",
+      "fr": "D utilisés",
+      "de": "D used",
+      "es": "D utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_d.png"
+      }
+    ]
+  },
+  "w_letter_e": {
+    "id": "w_letter_e",
+    "name": {
+      "en": "E used",
+      "fr": "E utilisés",
+      "de": "E used",
+      "es": "E utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_e.png"
+      }
+    ]
+  },
+  "w_letter_f": {
+    "id": "w_letter_f",
+    "name": {
+      "en": "F used",
+      "fr": "F utilisés",
+      "de": "F used",
+      "es": "F utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_f.png"
+      }
+    ]
+  },
+  "w_letter_g": {
+    "id": "w_letter_g",
+    "name": {
+      "en": "G used",
+      "fr": "G utilisés",
+      "de": "G used",
+      "es": "G utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_g.png"
+      }
+    ]
+  },
+  "w_letter_h": {
+    "id": "w_letter_h",
+    "name": {
+      "en": "H used",
+      "fr": "H utilisés",
+      "de": "H used",
+      "es": "H utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_h.png"
+      }
+    ]
+  },
+  "w_letter_i": {
+    "id": "w_letter_i",
+    "name": {
+      "en": "I used",
+      "fr": "I utilisés",
+      "de": "I used",
+      "es": "I utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_i.png"
+      }
+    ]
+  },
+  "w_letter_j": {
+    "id": "w_letter_j",
+    "name": {
+      "en": "J used",
+      "fr": "J utilisés",
+      "de": "J used",
+      "es": "J utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_j.png"
+      }
+    ]
+  },
+  "w_letter_k": {
+    "id": "w_letter_k",
+    "name": {
+      "en": "K used",
+      "fr": "K utilisés",
+      "de": "K used",
+      "es": "K utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_k.png"
+      }
+    ]
+  },
+  "w_letter_l": {
+    "id": "w_letter_l",
+    "name": {
+      "en": "L used",
+      "fr": "L utilisés",
+      "de": "L used",
+      "es": "L utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_l.png"
+      }
+    ]
+  },
+  "w_letter_m": {
+    "id": "w_letter_m",
+    "name": {
+      "en": "M used",
+      "fr": "M utilisés",
+      "de": "M used",
+      "es": "M utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_m.png"
+      }
+    ]
+  },
+  "w_letter_n": {
+    "id": "w_letter_n",
+    "name": {
+      "en": "N used",
+      "fr": "N utilisés",
+      "de": "N used",
+      "es": "N utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_n.png"
+      }
+    ]
+  },
+  "w_letter_o": {
+    "id": "w_letter_o",
+    "name": {
+      "en": "O used",
+      "fr": "O utilisés",
+      "de": "O used",
+      "es": "O utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_o.png"
+      }
+    ]
+  },
+  "w_letter_p": {
+    "id": "w_letter_p",
+    "name": {
+      "en": "P used",
+      "fr": "P utilisés",
+      "de": "P used",
+      "es": "P utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_p.png"
+      }
+    ]
+  },
+  "w_letter_q": {
+    "id": "w_letter_q",
+    "name": {
+      "en": "Q used",
+      "fr": "Q utilisés",
+      "de": "Q used",
+      "es": "Q utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_q.png"
+      }
+    ]
+  },
+  "w_letter_r": {
+    "id": "w_letter_r",
+    "name": {
+      "en": "R used",
+      "fr": "R utilisés",
+      "de": "R used",
+      "es": "R utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_r.png"
+      }
+    ]
+  },
+  "w_letter_s": {
+    "id": "w_letter_s",
+    "name": {
+      "en": "S used",
+      "fr": "S utilisés",
+      "de": "S used",
+      "es": "S utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_s.png"
+      }
+    ]
+  },
+  "w_letter_t": {
+    "id": "w_letter_t",
+    "name": {
+      "en": "T used",
+      "fr": "T utilisés",
+      "de": "T used",
+      "es": "T utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_t.png"
+      }
+    ]
+  },
+  "w_letter_u": {
+    "id": "w_letter_u",
+    "name": {
+      "en": "U used",
+      "fr": "U utilisés",
+      "de": "U used",
+      "es": "U utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_u.png"
+      }
+    ]
+  },
+  "w_letter_v": {
+    "id": "w_letter_v",
+    "name": {
+      "en": "V used",
+      "fr": "V utilisés",
+      "de": "V used",
+      "es": "V utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_v.png"
+      }
+    ]
+  },
+  "w_letter_w": {
+    "id": "w_letter_w",
+    "name": {
+      "en": "W used",
+      "fr": "W utilisés",
+      "de": "W used",
+      "es": "W utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_w.png"
+      }
+    ]
+  },
+  "w_letter_x": {
+    "id": "w_letter_x",
+    "name": {
+      "en": "X used",
+      "fr": "X utilisés",
+      "de": "X used",
+      "es": "X utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_x.png"
+      }
+    ]
+  },
+  "w_letter_y": {
+    "id": "w_letter_y",
+    "name": {
+      "en": "Y used",
+      "fr": "Y utilisés",
+      "de": "Y used",
+      "es": "Y utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_y.png"
+      }
+    ]
+  },
+  "w_letter_z": {
+    "id": "w_letter_z",
+    "name": {
+      "en": "Z used",
+      "fr": "Z utilisés",
+      "de": "Z used",
+      "es": "Z utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_z.png"
+      }
+    ]
+  },
+  "w_letter_ñ": {
+    "id": "w_letter_ñ",
+    "name": {
+      "en": "Ñ used",
+      "fr": "Ñ utilisés",
+      "de": "Ñ used",
+      "es": "Ñ utilizados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "/img/icons/icon_ene.png"
+      }
+    ]
+  }
+}

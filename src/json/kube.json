@@ -1,0 +1,261 @@
+{
+  "lava": {
+    "id": "lava",
+    "name": {
+      "en": "Death by Lava",
+      "fr": "Morts par lave",
+      "de": "In der Lava verbrannt",
+      "es": "Muertos en lava"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "water": {
+    "id": "water",
+    "name": {
+      "en": "Drank Kiji Water",
+      "fr": "Eau vitales bues",
+      "de": "Wasser getrunken",
+      "es": "Aguas vitales bebidas"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Drinker",
+          "fr": "Buveur",
+          "de": "Schluckspecht",
+          "es": "Bebedor"
+        }
+      }
+    ]
+  },
+  "swim": {
+    "id": "swim",
+    "name": {
+      "en": "Drowned",
+      "fr": "Morts par noyade",
+      "de": "Ertrunken",
+      "es": "Muertos ahogados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "bouee.png"
+      }
+    ]
+  },
+  "dtc": {
+    "id": "dtc",
+    "name": {
+      "en": "Used Teleporter",
+      "fr": "DTC Utilisés",
+      "de": "Teleporter benutzt",
+      "es": "DTC utilizados"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "photo": {
+    "id": "photo",
+    "name": {
+      "en": "Photos Saved",
+      "fr": "Photos Enregistrées",
+      "de": "Gespeicherte Fotos",
+      "es": "Fotos guardadas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2,
+        "icon": "photo.gif"
+      }
+    ]
+  },
+  "days": {
+    "id": "days",
+    "name": {
+      "en": "Days of Rent",
+      "fr": "Jours de location",
+      "de": "Tage gemietet",
+      "es": "Días de alquiler"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "locked.gif"
+      }
+    ]
+  },
+  "telep": {
+    "id": "telep",
+    "name": {
+      "en": "Teleportations",
+      "fr": "Téléportations",
+      "de": "Teleportationen",
+      "es": "Teleportaciones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 2,
+        "icon": "home.gif"
+      }
+    ]
+  },
+  "zones": {
+    "id": "zones",
+    "name": {
+      "en": "Zones Discovered",
+      "fr": "Zones Découvertes",
+      "de": "Entdeckte Zonen",
+      "es": "Zonas descubiertas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 25,
+        "points": 2,
+        "icon": "map1.png"
+      },
+      {
+        "count": 250,
+        "points": 5,
+        "icon": "map2.png"
+      },
+      {
+        "count": 2500,
+        "points": 10,
+        "icon": "map3.png"
+      },
+      {
+        "count": 25000,
+        "points": 15,
+        "prefix": true,
+        "title": {
+          "en": "Cartographer",
+          "fr": "Cartographe",
+          "de": "Kartograph",
+          "es": "Cartógrafo"
+        }
+      }
+    ]
+  },
+  "chest": {
+    "id": "chest",
+    "name": {
+      "en": "Chests Opened",
+      "fr": "Coffres Ouverts",
+      "de": "Geöffnete Truhen",
+      "es": "Cofres abiertos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "icon": "play.gif"
+      }
+    ]
+  },
+  "build": {
+    "id": "build",
+    "name": {
+      "en": "Megakubes Built",
+      "fr": "Mégakubes transmutés",
+      "de": "Gebaute Mega-Kubes",
+      "es": "Megacubos convertidos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 2,
+        "icon": "unlocked.gif"
+      }
+    ]
+  },
+  "kubes": {
+    "id": "kubes",
+    "name": {
+      "en": "Kubes Discovered",
+      "fr": "Kubes découverts",
+      "de": "Entdeckte Kubes",
+      "es": "Cubos descubiertos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 2,
+        "icon": "decouverte1.png"
+      },
+      {
+        "count": 40,
+        "points": 5,
+        "icon": "decouverte2.png"
+      },
+      {
+        "count": 60,
+        "points": 10,
+        "prefix": true,
+        "suffix": true,
+        "title": {
+          "en": "Kubed",
+          "fr": "kubes",
+          "de": "Würfel",
+          "es": "cubos"
+        }
+      }
+    ]
+  },
+  "action": {
+    "id": "action",
+    "name": {
+      "en": "Kubes Picked Up/Dropped",
+      "fr": "Kube pris/posés",
+      "de": "Eingesammelte/abgelegte Kubes",
+      "es": "Cubos cogidos/colocados"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 2,
+        "icon": "pose1.png"
+      },
+      {
+        "count": 5000,
+        "points": 5,
+        "icon": "pose2.png"
+      },
+      {
+        "count": 50000,
+        "points": 10,
+        "icon": "pose3.png"
+      },
+      {
+        "count": 500000,
+        "points": 15,
+        "prefix": true,
+        "title": {
+          "en": "Architect",
+          "fr": "Architecte",
+          "de": "Architekt",
+          "es": "Arquitecto"
+        }
+      }
+    ]
+  }
+}

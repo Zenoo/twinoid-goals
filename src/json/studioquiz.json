@@ -1,0 +1,1701 @@
+{
+  "mega": {
+    "id": "mega",
+    "name": {
+      "en": "Champion Megaquiz",
+      "fr": "Champion Megaquiz",
+      "de": "Champion Megaquiz",
+      "es": "Champion Megaquiz"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "boxe_01.png"
+      }
+    ],
+    "description": {
+      "en": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Megaquiz.",
+      "fr": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Megaquiz.",
+      "de": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Megaquiz.",
+      "es": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Megaquiz."
+    }
+  },
+  "cult": {
+    "id": "cult",
+    "name": {
+      "en": "Champion Culture",
+      "fr": "Champion Culture",
+      "de": "Champion Culture",
+      "es": "Champion Culture"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "boxe_02.png"
+      }
+    ],
+    "description": {
+      "en": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Culture.",
+      "fr": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Culture.",
+      "de": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Culture.",
+      "es": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Culture."
+    }
+  },
+  "spect": {
+    "id": "spect",
+    "name": {
+      "en": "Champion Spectacle",
+      "fr": "Champion Spectacle",
+      "de": "Champion Spectacle",
+      "es": "Champion Spectacle"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "boxe_03.png"
+      }
+    ],
+    "description": {
+      "en": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Spectacle.",
+      "fr": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Spectacle.",
+      "de": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Spectacle.",
+      "es": "Ce petit gant de boxe s'obtient en réalisant 3 perfects dans le salon Spectacle."
+    }
+  },
+  "mega2": {
+    "id": "mega2",
+    "name": {
+      "en": "Super Champion Megaquiz",
+      "fr": "Super Champion Megaquiz",
+      "de": "Super Champion Megaquiz",
+      "es": "Super Champion Megaquiz"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 15,
+        "icon": "big_boxe_01.png"
+      }
+    ],
+    "description": {
+      "en": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Megaquiz.",
+      "fr": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Megaquiz.",
+      "de": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Megaquiz.",
+      "es": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Megaquiz."
+    }
+  },
+  "cult2": {
+    "id": "cult2",
+    "name": {
+      "en": "Super Champion Culture",
+      "fr": "Super Champion Culture",
+      "de": "Super Champion Culture",
+      "es": "Super Champion Culture"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 15,
+        "icon": "big_boxe_02.png"
+      }
+    ],
+    "description": {
+      "en": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Culture.",
+      "fr": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Culture.",
+      "de": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Culture.",
+      "es": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Culture."
+    }
+  },
+  "spect2": {
+    "id": "spect2",
+    "name": {
+      "en": "Super Champion Spectacle",
+      "fr": "Super Champion Spectacle",
+      "de": "Super Champion Spectacle",
+      "es": "Super Champion Spectacle"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 15,
+        "icon": "big_boxe_03.png"
+      }
+    ],
+    "description": {
+      "en": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Spectacle.",
+      "fr": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Spectacle.",
+      "de": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Spectacle.",
+      "es": "Ce gros gant de boxe s'obtient en réalisant 10 perfects dans le salon Spectacle."
+    }
+  },
+  "star": {
+    "id": "star",
+    "name": {
+      "en": "Vedette",
+      "fr": "Vedette",
+      "de": "Vedette",
+      "es": "Vedette"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "Vedette",
+          "fr": "Vedette",
+          "de": "Vedette",
+          "es": "Vedette"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vous êtes la vedette de Studio Quiz, au sommet de la Gloire !",
+      "fr": "Vous êtes la vedette de Studio Quiz, au sommet de la Gloire !",
+      "de": "Vous êtes la vedette de Studio Quiz, au sommet de la Gloire !",
+      "es": "Vous êtes la vedette de Studio Quiz, au sommet de la Gloire !"
+    }
+  },
+  "fayo": {
+    "id": "fayo",
+    "name": {
+      "en": "Fayot Suprême",
+      "fr": "Fayot Suprême",
+      "de": "Fayot Suprême",
+      "es": "Fayot Suprême"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "Fayot Suprême",
+          "fr": "Fayot Suprême",
+          "de": "Fayot Suprême",
+          "es": "Fayot Suprême"
+        }
+      }
+    ],
+    "description": {
+      "en": "Si vous atteignez un jour la première place du Podium de la Gloire, vous pourrez converser en privé avec James Norray en personne sur Twinoid, dans la mesure de sa disponibilité.\r\nAttention ! Si vous perdez votre première place, vous ne serez plus digne de figurer dans la liste d'ami de James Norray, et il refusera de continuer à discuter avec vous.",
+      "fr": "Si vous atteignez un jour la première place du Podium de la Gloire, vous pourrez converser en privé avec James Norray en personne sur Twinoid, dans la mesure de sa disponibilité.\r\nAttention ! Si vous perdez votre première place, vous ne serez plus digne de figurer dans la liste d'ami de James Norray, et il refusera de continuer à discuter avec vous.",
+      "de": "Si vous atteignez un jour la première place du Podium de la Gloire, vous pourrez converser en privé avec James Norray en personne sur Twinoid, dans la mesure de sa disponibilité.\r\nAttention ! Si vous perdez votre première place, vous ne serez plus digne de figurer dans la liste d'ami de James Norray, et il refusera de continuer à discuter avec vous.",
+      "es": "Si vous atteignez un jour la première place du Podium de la Gloire, vous pourrez converser en privé avec James Norray en personne sur Twinoid, dans la mesure de sa disponibilité.\r\nAttention ! Si vous perdez votre première place, vous ne serez plus digne de figurer dans la liste d'ami de James Norray, et il refusera de continuer à discuter avec vous."
+    }
+  },
+  "goldb": {
+    "id": "goldb",
+    "name": {
+      "en": "Golden Glove",
+      "fr": "Golden Glove",
+      "de": "Golden Glove",
+      "es": "Golden Glove"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "golden_glove.gif"
+      }
+    ],
+    "description": {
+      "en": "un trophée en or massif. Ne tapez pas trop fort avec.",
+      "fr": "un trophée en or massif. Ne tapez pas trop fort avec.",
+      "de": "un trophée en or massif. Ne tapez pas trop fort avec.",
+      "es": "un trophée en or massif. Ne tapez pas trop fort avec."
+    }
+  },
+  "goldm": {
+    "id": "goldm",
+    "name": {
+      "en": "Golden Glove",
+      "fr": "Golden Glove",
+      "de": "Golden Glove",
+      "es": "Golden Glove"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "golden_glove_mini.png"
+      }
+    ],
+    "description": {
+      "en": "un petit trophée en or massif. Mais ne tapez pas trop fort avec non plus.",
+      "fr": "un petit trophée en or massif. Mais ne tapez pas trop fort avec non plus.",
+      "de": "un petit trophée en or massif. Mais ne tapez pas trop fort avec non plus.",
+      "es": "un petit trophée en or massif. Mais ne tapez pas trop fort avec non plus."
+    }
+  },
+  "vip": {
+    "id": "vip",
+    "name": {
+      "en": "VIP",
+      "fr": "VIP",
+      "de": "VIP",
+      "es": "VIP"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "VIP",
+          "fr": "VIP",
+          "de": "VIP",
+          "es": "VIP"
+        }
+      }
+    ],
+    "description": {
+      "en": "En accèdant aux 5 premières place du Classement de Gloire, vous êtes devenu une Very Importante Personne pour l'éternité",
+      "fr": "En accèdant aux 5 premières place du Classement de Gloire, vous êtes devenu une Very Importante Personne pour l'éternité",
+      "de": "En accèdant aux 5 premières place du Classement de Gloire, vous êtes devenu une Very Importante Personne pour l'éternité",
+      "es": "En accèdant aux 5 premières place du Classement de Gloire, vous êtes devenu une Very Importante Personne pour l'éternité"
+    }
+  },
+  "micror": {
+    "id": "micror",
+    "name": {
+      "en": "Micro d'Or VIP",
+      "fr": "Micro d'Or VIP",
+      "de": "Micro d'Or VIP",
+      "es": "Micro d'Or VIP"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "micro_vip.png"
+      }
+    ],
+    "description": {
+      "en": "Vous voilà VIP. Ca, c'est le micro doré super classe qui va avec.",
+      "fr": "Vous voilà VIP. Ca, c'est le micro doré super classe qui va avec.",
+      "de": "Vous voilà VIP. Ca, c'est le micro doré super classe qui va avec.",
+      "es": "Vous voilà VIP. Ca, c'est le micro doré super classe qui va avec."
+    }
+  },
+  "scienc": {
+    "id": "scienc",
+    "name": {
+      "en": "Champion du premier Quiz Spécial",
+      "fr": "Champion du premier Quiz Spécial",
+      "de": "Champion du premier Quiz Spécial",
+      "es": "Champion du premier Quiz Spécial"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "science_off.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "sjames": {
+    "id": "sjames",
+    "name": {
+      "en": "Smiley James Norray",
+      "fr": "Smiley James Norray",
+      "de": "Smiley James Norray",
+      "es": "Smiley James Norray"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "smiley_james.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce smiley lors d'une interro surprise de James Norray.",
+      "fr": "Vous avez remporté ce smiley lors d'une interro surprise de James Norray.",
+      "de": "Vous avez remporté ce smiley lors d'une interro surprise de James Norray.",
+      "es": "Vous avez remporté ce smiley lors d'une interro surprise de James Norray."
+    }
+  },
+  "smarc": {
+    "id": "smarc",
+    "name": {
+      "en": "Smiley Marc Mazotti",
+      "fr": "Smiley Marc Mazotti",
+      "de": "Smiley Marc Mazotti",
+      "es": "Smiley Marc Mazotti"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "smiley_marc.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce smiley lors d'un quiz spécial présenté par Marc Mazzoti.",
+      "fr": "Vous avez remporté ce smiley lors d'un quiz spécial présenté par Marc Mazzoti.",
+      "de": "Vous avez remporté ce smiley lors d'un quiz spécial présenté par Marc Mazzoti.",
+      "es": "Vous avez remporté ce smiley lors d'un quiz spécial présenté par Marc Mazzoti."
+    }
+  },
+  "scharl": {
+    "id": "scharl",
+    "name": {
+      "en": "Smiley Charlotte",
+      "fr": "Smiley Charlotte",
+      "de": "Smiley Charlotte",
+      "es": "Smiley Charlotte"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "smiley_charlotte.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce smiley lors d'un goûter organisé par Charlotte.",
+      "fr": "Vous avez remporté ce smiley lors d'un goûter organisé par Charlotte.",
+      "de": "Vous avez remporté ce smiley lors d'un goûter organisé par Charlotte.",
+      "es": "Vous avez remporté ce smiley lors d'un goûter organisé par Charlotte."
+    }
+  },
+  "cervel": {
+    "id": "cervel",
+    "name": {
+      "en": "Cervelle",
+      "fr": "Cervelle",
+      "de": "Cervelle",
+      "es": "Cervelle"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_cervelle.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "cinema": {
+    "id": "cinema",
+    "name": {
+      "en": "Cinema",
+      "fr": "Cinema",
+      "de": "Cinema",
+      "es": "Cinema"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_cinema.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "crayon": {
+    "id": "crayon",
+    "name": {
+      "en": "Crayon ",
+      "fr": "Crayon ",
+      "de": "Crayon ",
+      "es": "Crayon "
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_crayon.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "cygne": {
+    "id": "cygne",
+    "name": {
+      "en": "Cygne",
+      "fr": "Cygne",
+      "de": "Cygne",
+      "es": "Cygne"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_cygne.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "elepha": {
+    "id": "elepha",
+    "name": {
+      "en": "Elephant",
+      "fr": "Elephant",
+      "de": "Elephant",
+      "es": "Elephant"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_elephant.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "livref": {
+    "id": "livref",
+    "name": {
+      "en": "Livre fermé",
+      "fr": "Livre fermé",
+      "de": "Livre fermé",
+      "es": "Livre fermé"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_livreferme.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "livreo": {
+    "id": "livreo",
+    "name": {
+      "en": "Livre ouvert",
+      "fr": "Livre ouvert",
+      "de": "Livre ouvert",
+      "es": "Livre ouvert"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_livreouvert.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "lunett": {
+    "id": "lunett",
+    "name": {
+      "en": "Lunettes",
+      "fr": "Lunettes",
+      "de": "Lunettes",
+      "es": "Lunettes"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_lunettes.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "manett": {
+    "id": "manett",
+    "name": {
+      "en": "Manette",
+      "fr": "Manette",
+      "de": "Manette",
+      "es": "Manette"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_manette.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "mask": {
+    "id": "mask",
+    "name": {
+      "en": "Masque",
+      "fr": "Masque",
+      "de": "Masque",
+      "es": "Masque"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_mask.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "micro": {
+    "id": "micro",
+    "name": {
+      "en": "Micro",
+      "fr": "Micro",
+      "de": "Micro",
+      "es": "Micro"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_micro.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "plume": {
+    "id": "plume",
+    "name": {
+      "en": "Plume",
+      "fr": "Plume",
+      "de": "Plume",
+      "es": "Plume"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_plume.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "pomme": {
+    "id": "pomme",
+    "name": {
+      "en": "Pomme",
+      "fr": "Pomme",
+      "de": "Pomme",
+      "es": "Pomme"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_pomme.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "rouage": {
+    "id": "rouage",
+    "name": {
+      "en": "Rouages",
+      "fr": "Rouages",
+      "de": "Rouages",
+      "es": "Rouages"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_rouages.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "souris": {
+    "id": "souris",
+    "name": {
+      "en": "Souris",
+      "fr": "Souris",
+      "de": "Souris",
+      "es": "Souris"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_souris.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "tele": {
+    "id": "tele",
+    "name": {
+      "en": "Télé",
+      "fr": "Télé",
+      "de": "Télé",
+      "es": "Télé"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_tele.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "temple": {
+    "id": "temple",
+    "name": {
+      "en": "Temple",
+      "fr": "Temple",
+      "de": "Temple",
+      "es": "Temple"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "rwrd_temple.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "ampoff": {
+    "id": "ampoff",
+    "name": {
+      "en": "Ampoule éteinte",
+      "fr": "Ampoule éteinte",
+      "de": "Ampoule éteinte",
+      "es": "Ampoule éteinte"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "science_off.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "ampon": {
+    "id": "ampon",
+    "name": {
+      "en": "Ampoule allumée",
+      "fr": "Ampoule allumée",
+      "de": "Ampoule allumée",
+      "es": "Ampoule allumée"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "science_on.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz spécial.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz spécial."
+    }
+  },
+  "pink": {
+    "id": "pink",
+    "name": {
+      "en": "Gant de boxe de Charlotte",
+      "fr": "Gant de boxe de Charlotte",
+      "de": "Gant de boxe de Charlotte",
+      "es": "Gant de boxe de Charlotte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "gant_charlotte.png"
+      }
+    ],
+    "description": {
+      "en": "Gant unique personnalisé par Charlotte en personne. Elle vous le prêtera à chaque fois que vous gagnerez 160 points dans le salon Spectacle",
+      "fr": "Gant unique personnalisé par Charlotte en personne. Elle vous le prêtera à chaque fois que vous gagnerez 160 points dans le salon Spectacle",
+      "de": "Gant unique personnalisé par Charlotte en personne. Elle vous le prêtera à chaque fois que vous gagnerez 160 points dans le salon Spectacle",
+      "es": "Gant unique personnalisé par Charlotte en personne. Elle vous le prêtera à chaque fois que vous gagnerez 160 points dans le salon Spectacle"
+    }
+  },
+  "ane": {
+    "id": "ane",
+    "name": {
+      "en": "Bonnet d'âne",
+      "fr": "Bonnet d'âne",
+      "de": "Bonnet d'âne",
+      "es": "Bonnet d'âne"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ane.png"
+      }
+    ]
+  },
+  "smurf": {
+    "id": "smurf",
+    "name": {
+      "en": "Bonnet d'âne bricolé par Charlotte",
+      "fr": "Bonnet d'âne bricolé par Charlotte",
+      "de": "Bonnet d'âne bricolé par Charlotte",
+      "es": "Bonnet d'âne bricolé par Charlotte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "smurf.png"
+      }
+    ]
+  },
+  "oreil": {
+    "id": "oreil",
+    "name": {
+      "en": "Oreille d'un bonnet d'âne",
+      "fr": "Oreille d'un bonnet d'âne",
+      "de": "Oreille d'un bonnet d'âne",
+      "es": "Oreille d'un bonnet d'âne"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "oreille.png"
+      }
+    ]
+  },
+  "starm1": {
+    "id": "starm1",
+    "name": {
+      "en": "Champion quiz spécial Motion Twin",
+      "fr": "Champion quiz spécial Motion Twin",
+      "de": "Champion quiz spécial Motion Twin",
+      "es": "Champion quiz spécial Motion Twin"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "star_mt_big.png"
+      }
+    ],
+    "description": {
+      "en": "Bravo !",
+      "fr": "Bravo !",
+      "de": "Bravo !",
+      "es": "Bravo !"
+    }
+  },
+  "starmt": {
+    "id": "starmt",
+    "name": {
+      "en": "Champion quiz spécial Motion Twin",
+      "fr": "Champion quiz spécial Motion Twin",
+      "de": "Champion quiz spécial Motion Twin",
+      "es": "Champion quiz spécial Motion Twin"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "star_mt.png"
+      }
+    ],
+    "description": {
+      "en": "Bravo !",
+      "fr": "Bravo !",
+      "de": "Bravo !",
+      "es": "Bravo !"
+    }
+  },
+  "footb": {
+    "id": "footb",
+    "name": {
+      "en": "Ballon de foot",
+      "fr": "Ballon de foot",
+      "de": "Ballon de foot",
+      "es": "Ballon de foot"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "sport_soccer.png",
+        "title": {
+          "en": "Champion Marathon Sport",
+          "fr": "Champion Marathon Sport",
+          "de": "Champion Marathon Sport",
+          "es": "Champion Marathon Sport"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz Marathon."
+    }
+  },
+  "baskt": {
+    "id": "baskt",
+    "name": {
+      "en": "Ballon de basket",
+      "fr": "Ballon de basket",
+      "de": "Ballon de basket",
+      "es": "Ballon de basket"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "sport_basketball.png",
+        "title": {
+          "en": "Champion Marathon Sport",
+          "fr": "Champion Marathon Sport",
+          "de": "Champion Marathon Sport",
+          "es": "Champion Marathon Sport"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz Marathon."
+    }
+  },
+  "rugby": {
+    "id": "rugby",
+    "name": {
+      "en": "Ballon de rugby",
+      "fr": "Ballon de rugby",
+      "de": "Ballon de rugby",
+      "es": "Ballon de rugby"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "sport_football.png",
+        "title": {
+          "en": "Champion Marathon Sport",
+          "fr": "Champion Marathon Sport",
+          "de": "Champion Marathon Sport",
+          "es": "Champion Marathon Sport"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz Marathon."
+    }
+  },
+  "billa": {
+    "id": "billa",
+    "name": {
+      "en": "Boule de billard",
+      "fr": "Boule de billard",
+      "de": "Boule de billard",
+      "es": "Boule de billard"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "sport_8ball.png",
+        "title": {
+          "en": "Champion Marathon Sport",
+          "fr": "Champion Marathon Sport",
+          "de": "Champion Marathon Sport",
+          "es": "Champion Marathon Sport"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz Marathon."
+    }
+  },
+  "tennis": {
+    "id": "tennis",
+    "name": {
+      "en": "Balle de tennis",
+      "fr": "Balle de tennis",
+      "de": "Balle de tennis",
+      "es": "Balle de tennis"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "sport_tennis.png",
+        "title": {
+          "en": "Champion Marathon Sport",
+          "fr": "Champion Marathon Sport",
+          "de": "Champion Marathon Sport",
+          "es": "Champion Marathon Sport"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz Marathon."
+    }
+  },
+  "golf": {
+    "id": "golf",
+    "name": {
+      "en": "Balle de golf",
+      "fr": "Balle de golf",
+      "de": "Balle de golf",
+      "es": "Balle de golf"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "sport_golf.png",
+        "title": {
+          "en": "Champion Marathon Sport",
+          "fr": "Champion Marathon Sport",
+          "de": "Champion Marathon Sport",
+          "es": "Champion Marathon Sport"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "fr": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "de": "Vous avez remporté ce trophée lors d'un quiz Marathon.",
+      "es": "Vous avez remporté ce trophée lors d'un quiz Marathon."
+    }
+  },
+  "belt1": {
+    "id": "belt1",
+    "name": {
+      "en": "Ceinture blanche-jaune",
+      "fr": "Ceinture blanche-jaune",
+      "de": "Ceinture blanche-jaune",
+      "es": "Ceinture blanche-jaune"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt1.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture blanche-jaune sur 3 salons permanents !",
+      "fr": "Vous êtes ceinture blanche-jaune sur 3 salons permanents !",
+      "de": "Vous êtes ceinture blanche-jaune sur 3 salons permanents !",
+      "es": "Vous êtes ceinture blanche-jaune sur 3 salons permanents !"
+    }
+  },
+  "belt2": {
+    "id": "belt2",
+    "name": {
+      "en": "Ceinture jaune",
+      "fr": "Ceinture jaune",
+      "de": "Ceinture jaune",
+      "es": "Ceinture jaune"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt2.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture jaune sur 3 salons permanents !",
+      "fr": "Vous êtes ceinture jaune sur 3 salons permanents !",
+      "de": "Vous êtes ceinture jaune sur 3 salons permanents !",
+      "es": "Vous êtes ceinture jaune sur 3 salons permanents !"
+    }
+  },
+  "belt3": {
+    "id": "belt3",
+    "name": {
+      "en": "Ceinture jaune-orange",
+      "fr": "Ceinture jaune-orange",
+      "de": "Ceinture jaune-orange",
+      "es": "Ceinture jaune-orange"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt3.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture jaune-orange sur 3 salons permanents !",
+      "fr": "Vous êtes ceinture jaune-orange sur 3 salons permanents !",
+      "de": "Vous êtes ceinture jaune-orange sur 3 salons permanents !",
+      "es": "Vous êtes ceinture jaune-orange sur 3 salons permanents !"
+    }
+  },
+  "belt4": {
+    "id": "belt4",
+    "name": {
+      "en": "Ceinture orange",
+      "fr": "Ceinture orange",
+      "de": "Ceinture orange",
+      "es": "Ceinture orange"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt4.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture orange sur 3 salons permanents !",
+      "fr": "Vous êtes ceinture orange sur 3 salons permanents !",
+      "de": "Vous êtes ceinture orange sur 3 salons permanents !",
+      "es": "Vous êtes ceinture orange sur 3 salons permanents !"
+    }
+  },
+  "belt5": {
+    "id": "belt5",
+    "name": {
+      "en": "Ceinture orange-verte",
+      "fr": "Ceinture orange-verte",
+      "de": "Ceinture orange-verte",
+      "es": "Ceinture orange-verte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt5.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture orange-verte sur 3 salons permanents !",
+      "fr": "Vous êtes ceinture orange-verte sur 3 salons permanents !",
+      "de": "Vous êtes ceinture orange-verte sur 3 salons permanents !",
+      "es": "Vous êtes ceinture orange-verte sur 3 salons permanents !"
+    }
+  },
+  "belt33": {
+    "id": "belt33",
+    "name": {
+      "en": "Ceinture verte",
+      "fr": "Ceinture verte",
+      "de": "Ceinture verte",
+      "es": "Ceinture verte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt6.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture verte sur 3 salons permanents !",
+      "fr": "Vous êtes ceinture verte sur 3 salons permanents !",
+      "de": "Vous êtes ceinture verte sur 3 salons permanents !",
+      "es": "Vous êtes ceinture verte sur 3 salons permanents !"
+    }
+  },
+  "belt34": {
+    "id": "belt34",
+    "name": {
+      "en": "Ceinture bleue",
+      "fr": "Ceinture bleue",
+      "de": "Ceinture bleue",
+      "es": "Ceinture bleue"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt7.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture bleue sur 3 salons permanents !",
+      "fr": "Vous êtes ceinture bleue sur 3 salons permanents !",
+      "de": "Vous êtes ceinture bleue sur 3 salons permanents !",
+      "es": "Vous êtes ceinture bleue sur 3 salons permanents !"
+    }
+  },
+  "belt44": {
+    "id": "belt44",
+    "name": {
+      "en": "Ceinture marron",
+      "fr": "Ceinture marron",
+      "de": "Ceinture marron",
+      "es": "Ceinture marron"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt8.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture marron sur 3 salons permanents ! Encore un petit effort, vous y êtes presque !",
+      "fr": "Vous êtes ceinture marron sur 3 salons permanents ! Encore un petit effort, vous y êtes presque !",
+      "de": "Vous êtes ceinture marron sur 3 salons permanents ! Encore un petit effort, vous y êtes presque !",
+      "es": "Vous êtes ceinture marron sur 3 salons permanents ! Encore un petit effort, vous y êtes presque !"
+    }
+  },
+  "belt54": {
+    "id": "belt54",
+    "name": {
+      "en": "Ceinture noire",
+      "fr": "Ceinture noire",
+      "de": "Ceinture noire",
+      "es": "Ceinture noire"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "belt9.png"
+      }
+    ],
+    "description": {
+      "en": "Vous êtes ceinture noire sur 3 salons permanents, la distinction ultime du vétéran !",
+      "fr": "Vous êtes ceinture noire sur 3 salons permanents, la distinction ultime du vétéran !",
+      "de": "Vous êtes ceinture noire sur 3 salons permanents, la distinction ultime du vétéran !",
+      "es": "Vous êtes ceinture noire sur 3 salons permanents, la distinction ultime du vétéran !"
+    }
+  },
+  "card1": {
+    "id": "card1",
+    "name": {
+      "en": "Carte de Candidat",
+      "fr": "Carte de Candidat",
+      "de": "Carte de Candidat",
+      "es": "Carte de Candidat"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "card1.png"
+      }
+    ],
+    "description": {
+      "en": "Délivrée après 3 parties en Débutant. Permet de participer aux salons Megaquiz, Culture, et Spectacle.",
+      "fr": "Délivrée après 3 parties en Débutant. Permet de participer aux salons Megaquiz, Culture, et Spectacle.",
+      "de": "Délivrée après 3 parties en Débutant. Permet de participer aux salons Megaquiz, Culture, et Spectacle.",
+      "es": "Délivrée après 3 parties en Débutant. Permet de participer aux salons Megaquiz, Culture, et Spectacle."
+    }
+  },
+  "card2": {
+    "id": "card2",
+    "name": {
+      "en": "Candidat Spécial",
+      "fr": "Candidat Spécial",
+      "de": "Candidat Spécial",
+      "es": "Candidat Spécial"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "card2.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez déjà participé à un quiz spécial de la Saison 2 en ayant fait au moins 5 parties.",
+      "fr": "Vous avez déjà participé à un quiz spécial de la Saison 2 en ayant fait au moins 5 parties.",
+      "de": "Vous avez déjà participé à un quiz spécial de la Saison 2 en ayant fait au moins 5 parties.",
+      "es": "Vous avez déjà participé à un quiz spécial de la Saison 2 en ayant fait au moins 5 parties."
+    }
+  },
+  "card3": {
+    "id": "card3",
+    "name": {
+      "en": "Candidat Enflammé",
+      "fr": "Candidat Enflammé",
+      "de": "Candidat Enflammé",
+      "es": "Candidat Enflammé"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "cardenflamF2.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez déjà participé à 3 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque.",
+      "fr": "Vous avez déjà participé à 3 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque.",
+      "de": "Vous avez déjà participé à 3 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque.",
+      "es": "Vous avez déjà participé à 3 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque."
+    }
+  },
+  "card4": {
+    "id": "card4",
+    "name": {
+      "en": "Candidat de l'Extrême",
+      "fr": "Candidat de l'Extrême",
+      "de": "Candidat de l'Extrême",
+      "es": "Candidat de l'Extrême"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "cardextrmeC3.png"
+      }
+    ],
+    "description": {
+      "en": "Vous avez déjà participé à 10 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque.",
+      "fr": "Vous avez déjà participé à 10 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque.",
+      "de": "Vous avez déjà participé à 10 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque.",
+      "es": "Vous avez déjà participé à 10 quiz spéciaux de la Saison 2 en ayant fait au moins 10 parties dans chaque."
+    }
+  },
+  "vol1": {
+    "id": "vol1",
+    "name": {
+      "en": "Volume 1 : Megaquiz",
+      "fr": "Volume 1 : Megaquiz",
+      "de": "Volume 1 : Megaquiz",
+      "es": "Volume 1 : Megaquiz"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 20,
+        "icon": "vol1.png"
+      }
+    ],
+    "description": {
+      "en": "100 points dans le salon Megaquiz permettent d'obtenir le tome 1 de l'encyclopédie SQ : l'édition Megaquiz. Dédicacé par Marc Mazzoti.",
+      "fr": "100 points dans le salon Megaquiz permettent d'obtenir le tome 1 de l'encyclopédie SQ : l'édition Megaquiz. Dédicacé par Marc Mazzoti.",
+      "de": "100 points dans le salon Megaquiz permettent d'obtenir le tome 1 de l'encyclopédie SQ : l'édition Megaquiz. Dédicacé par Marc Mazzoti.",
+      "es": "100 points dans le salon Megaquiz permettent d'obtenir le tome 1 de l'encyclopédie SQ : l'édition Megaquiz. Dédicacé par Marc Mazzoti."
+    }
+  },
+  "vol2": {
+    "id": "vol2",
+    "name": {
+      "en": "Volume 2 : Culture",
+      "fr": "Volume 2 : Culture",
+      "de": "Volume 2 : Culture",
+      "es": "Volume 2 : Culture"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 20,
+        "icon": "vol2.png"
+      }
+    ],
+    "description": {
+      "en": "100 points dans le salon Culture permettent d'obtenir le tome 2 de l'encyclopédie SQ : l'édition Culture. Dédicacé par James Norray.",
+      "fr": "100 points dans le salon Culture permettent d'obtenir le tome 2 de l'encyclopédie SQ : l'édition Culture. Dédicacé par James Norray.",
+      "de": "100 points dans le salon Culture permettent d'obtenir le tome 2 de l'encyclopédie SQ : l'édition Culture. Dédicacé par James Norray.",
+      "es": "100 points dans le salon Culture permettent d'obtenir le tome 2 de l'encyclopédie SQ : l'édition Culture. Dédicacé par James Norray."
+    }
+  },
+  "vol3": {
+    "id": "vol3",
+    "name": {
+      "en": "Volume 3 : Spectacle",
+      "fr": "Volume 3 : Spectacle",
+      "de": "Volume 3 : Spectacle",
+      "es": "Volume 3 : Spectacle"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 20,
+        "icon": "vol3.png"
+      }
+    ],
+    "description": {
+      "en": "100 points dans le salon Spectacle permettent d'obtenir le tome 3 de l'encyclopédie SQ : l'édition Spectacle. Dédicacé par Charlotte.",
+      "fr": "100 points dans le salon Spectacle permettent d'obtenir le tome 3 de l'encyclopédie SQ : l'édition Spectacle. Dédicacé par Charlotte.",
+      "de": "100 points dans le salon Spectacle permettent d'obtenir le tome 3 de l'encyclopédie SQ : l'édition Spectacle. Dédicacé par Charlotte.",
+      "es": "100 points dans le salon Spectacle permettent d'obtenir le tome 3 de l'encyclopédie SQ : l'édition Spectacle. Dédicacé par Charlotte."
+    }
+  },
+  "bible": {
+    "id": "bible",
+    "name": {
+      "en": "La Connaissance",
+      "fr": "La Connaissance",
+      "de": "La Connaissance",
+      "es": "La Connaissance"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 40,
+        "icon": "bible.png"
+      }
+    ],
+    "description": {
+      "en": "C'est une encyclopédie écrite par James Norray répertoriant tous les secrets de l'univers. Pour mériter la Connaissance, il faut obtenir à la fois 1000 points en Megaquiz, 1000 pts en Culture, et 1000 pts en spectacle.",
+      "fr": "C'est une encyclopédie écrite par James Norray répertoriant tous les secrets de l'univers. Pour mériter la Connaissance, il faut obtenir à la fois 1000 points en Megaquiz, 1000 pts en Culture, et 1000 pts en spectacle.",
+      "de": "C'est une encyclopédie écrite par James Norray répertoriant tous les secrets de l'univers. Pour mériter la Connaissance, il faut obtenir à la fois 1000 points en Megaquiz, 1000 pts en Culture, et 1000 pts en spectacle.",
+      "es": "C'est une encyclopédie écrite par James Norray répertoriant tous les secrets de l'univers. Pour mériter la Connaissance, il faut obtenir à la fois 1000 points en Megaquiz, 1000 pts en Culture, et 1000 pts en spectacle."
+    }
+  },
+  "sqrd": {
+    "id": "sqrd",
+    "name": {
+      "en": "Badge de la S.Q.R.D.",
+      "fr": "Badge de la S.Q.R.D.",
+      "de": "Badge de la S.Q.R.D.",
+      "es": "Badge de la S.Q.R.D."
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 25,
+        "icon": "sqrd.png"
+      }
+    ],
+    "description": {
+      "en": "Si vous êtes encore là après tant de parties jouées, c'est que vous avez respecté les règles du plateau.\r\nLe chef de la sécurité vous félicite et vous remet cette décoration : le badge de la Studio Quiz Robot Defense. Une haute distinction ! Soyez en digne.",
+      "fr": "Si vous êtes encore là après tant de parties jouées, c'est que vous avez respecté les règles du plateau.\r\nLe chef de la sécurité vous félicite et vous remet cette décoration : le badge de la Studio Quiz Robot Defense. Une haute distinction ! Soyez en digne.",
+      "de": "Si vous êtes encore là après tant de parties jouées, c'est que vous avez respecté les règles du plateau.\r\nLe chef de la sécurité vous félicite et vous remet cette décoration : le badge de la Studio Quiz Robot Defense. Une haute distinction ! Soyez en digne.",
+      "es": "Si vous êtes encore là après tant de parties jouées, c'est que vous avez respecté les règles du plateau.\r\nLe chef de la sécurité vous félicite et vous remet cette décoration : le badge de la Studio Quiz Robot Defense. Une haute distinction ! Soyez en digne."
+    }
+  },
+  "facepl": {
+    "id": "facepl",
+    "name": {
+      "en": "Smiley consommable 'face palm'",
+      "fr": "Smiley consommable 'face palm'",
+      "de": "Smiley consommable 'face palm'",
+      "es": "Smiley consommable 'face palm'"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Soupirs... consternation... Mettez en évidence les fails de vos amis maladroits grâce au grand James Norray. Il vous le permettra tant que vous entretenez sérieusement votre culture sur son salon. Il donne ce smiley consommable aux 2 premiers de chaque quiz Culture.",
+      "fr": "Soupirs... consternation... Mettez en évidence les fails de vos amis maladroits grâce au grand James Norray. Il vous le permettra tant que vous entretenez sérieusement votre culture sur son salon. Il donne ce smiley consommable aux 2 premiers de chaque quiz Culture.",
+      "de": "Soupirs... consternation... Mettez en évidence les fails de vos amis maladroits grâce au grand James Norray. Il vous le permettra tant que vous entretenez sérieusement votre culture sur son salon. Il donne ce smiley consommable aux 2 premiers de chaque quiz Culture.",
+      "es": "Soupirs... consternation... Mettez en évidence les fails de vos amis maladroits grâce au grand James Norray. Il vous le permettra tant que vous entretenez sérieusement votre culture sur son salon. Il donne ce smiley consommable aux 2 premiers de chaque quiz Culture."
+    }
+  },
+  "gg": {
+    "id": "gg",
+    "name": {
+      "en": "Smiley consommable 'GG'",
+      "fr": "Smiley consommable 'GG'",
+      "de": "Smiley consommable 'GG'",
+      "es": "Smiley consommable 'GG'"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "GG ! Pour vous remercier d'être fidèle à ses quiz, Marc Mazzoti vous aide à féliciter vos amis sur tous les espaces communautaires de Twinoid. Il distribue ce smiley consommable aux 4 premiers de chaque quiz Megaquiz.",
+      "fr": "GG ! Pour vous remercier d'être fidèle à ses quiz, Marc Mazzoti vous aide à féliciter vos amis sur tous les espaces communautaires de Twinoid. Il distribue ce smiley consommable aux 4 premiers de chaque quiz Megaquiz.",
+      "de": "GG ! Pour vous remercier d'être fidèle à ses quiz, Marc Mazzoti vous aide à féliciter vos amis sur tous les espaces communautaires de Twinoid. Il distribue ce smiley consommable aux 4 premiers de chaque quiz Megaquiz.",
+      "es": "GG ! Pour vous remercier d'être fidèle à ses quiz, Marc Mazzoti vous aide à féliciter vos amis sur tous les espaces communautaires de Twinoid. Il distribue ce smiley consommable aux 4 premiers de chaque quiz Megaquiz."
+    }
+  },
+  "choupi": {
+    "id": "choupi",
+    "name": {
+      "en": "Smiley consommable 'trop choupi'",
+      "fr": "Smiley consommable 'trop choupi'",
+      "de": "Smiley consommable 'trop choupi'",
+      "es": "Smiley consommable 'trop choupi'"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Faites briller les yeux de Charlotte devant les photos de chatons mignons ! Elle vous prète son regard pétillant pour vous remercier de venir souvent à ses quiz Spectacle. Elle offre ce smiley consommable à 5 participants choisis au hasard à chacun de ses quiz.",
+      "fr": "Faites briller les yeux de Charlotte devant les photos de chatons mignons ! Elle vous prète son regard pétillant pour vous remercier de venir souvent à ses quiz Spectacle. Elle offre ce smiley consommable à 5 participants choisis au hasard à chacun de ses quiz.",
+      "de": "Faites briller les yeux de Charlotte devant les photos de chatons mignons ! Elle vous prète son regard pétillant pour vous remercier de venir souvent à ses quiz Spectacle. Elle offre ce smiley consommable à 5 participants choisis au hasard à chacun de ses quiz.",
+      "es": "Faites briller les yeux de Charlotte devant les photos de chatons mignons ! Elle vous prète son regard pétillant pour vous remercier de venir souvent à ses quiz Spectacle. Elle offre ce smiley consommable à 5 participants choisis au hasard à chacun de ses quiz."
+    }
+  },
+  "facep2": {
+    "id": "facep2",
+    "name": {
+      "en": "Smiley consommable 'face palm'",
+      "fr": "Smiley consommable 'face palm'",
+      "de": "Smiley consommable 'face palm'",
+      "es": "Smiley consommable 'face palm'"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Le smiley Face Palm du jeune James Norray en avant première !",
+      "fr": "Le smiley Face Palm du jeune James Norray en avant première !",
+      "de": "Le smiley Face Palm du jeune James Norray en avant première !",
+      "es": "Le smiley Face Palm du jeune James Norray en avant première !"
+    }
+  },
+  "objm": {
+    "id": "objm",
+    "name": {
+      "en": "Dédicace de Marc Mazzoti",
+      "fr": "Dédicace de Marc Mazzoti",
+      "de": "Dédicace de Marc Mazzoti",
+      "es": "Dédicace de Marc Mazzoti"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "A chaque palier de 80 points obtenus dans le salon Megaquiz, Marc Mazzoti se fera un plaisir de vous dédicacer une paire de lunettes de soleil jetables ! Soyez classe, soyez fun, soyez sun !",
+      "fr": "A chaque palier de 80 points obtenus dans le salon Megaquiz, Marc Mazzoti se fera un plaisir de vous dédicacer une paire de lunettes de soleil jetables ! Soyez classe, soyez fun, soyez sun !",
+      "de": "A chaque palier de 80 points obtenus dans le salon Megaquiz, Marc Mazzoti se fera un plaisir de vous dédicacer une paire de lunettes de soleil jetables ! Soyez classe, soyez fun, soyez sun !",
+      "es": "A chaque palier de 80 points obtenus dans le salon Megaquiz, Marc Mazzoti se fera un plaisir de vous dédicacer une paire de lunettes de soleil jetables ! Soyez classe, soyez fun, soyez sun !"
+    }
+  },
+  "objc": {
+    "id": "objc",
+    "name": {
+      "en": "Gant de Charlotte",
+      "fr": "Gant de Charlotte",
+      "de": "Gant de Charlotte",
+      "es": "Gant de Charlotte"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Tous les 160 points gagnés dans le salon Spectacle, Charlotte vous prètera son gant de boxe personnalisé ! Vous pourrez vous défendre si on vous embête et répendre la justice sur les forums. Mais prenez-en soin ! Vous avez intérêt à lui rendre en bon état si vous ne voulez pas y gouter.",
+      "fr": "Tous les 160 points gagnés dans le salon Spectacle, Charlotte vous prètera son gant de boxe personnalisé ! Vous pourrez vous défendre si on vous embête et répendre la justice sur les forums. Mais prenez-en soin ! Vous avez intérêt à lui rendre en bon état si vous ne voulez pas y gouter.",
+      "de": "Tous les 160 points gagnés dans le salon Spectacle, Charlotte vous prètera son gant de boxe personnalisé ! Vous pourrez vous défendre si on vous embête et répendre la justice sur les forums. Mais prenez-en soin ! Vous avez intérêt à lui rendre en bon état si vous ne voulez pas y gouter.",
+      "es": "Tous les 160 points gagnés dans le salon Spectacle, Charlotte vous prètera son gant de boxe personnalisé ! Vous pourrez vous défendre si on vous embête et répendre la justice sur les forums. Mais prenez-en soin ! Vous avez intérêt à lui rendre en bon état si vous ne voulez pas y gouter."
+    }
+  },
+  "objj": {
+    "id": "objj",
+    "name": {
+      "en": "Approbation de James Norray",
+      "fr": "Approbation de James Norray",
+      "de": "Approbation de James Norray",
+      "es": "Approbation de James Norray"
+    },
+    "rare": 1,
+    "unlocks": [],
+    "description": {
+      "en": "Probablement la récompense la plus extraordinaire du jeu. A chaque palier de 300 points obtenus dans le salon Culture, James Norray vous permettra d'approuver un de vos prochains messages (Nexus, forums...) avec son impressionante signature.",
+      "fr": "Probablement la récompense la plus extraordinaire du jeu. A chaque palier de 300 points obtenus dans le salon Culture, James Norray vous permettra d'approuver un de vos prochains messages (Nexus, forums...) avec son impressionante signature.",
+      "de": "Probablement la récompense la plus extraordinaire du jeu. A chaque palier de 300 points obtenus dans le salon Culture, James Norray vous permettra d'approuver un de vos prochains messages (Nexus, forums...) avec son impressionante signature.",
+      "es": "Probablement la récompense la plus extraordinaire du jeu. A chaque palier de 300 points obtenus dans le salon Culture, James Norray vous permettra d'approuver un de vos prochains messages (Nexus, forums...) avec son impressionante signature."
+    }
+  },
+  "pates": {
+    "id": "pates",
+    "name": {
+      "en": "Pâtes au saumon fumé de James Norray",
+      "fr": "Pâtes au saumon fumé de James Norray",
+      "de": "Pâtes au saumon fumé de James Norray",
+      "es": "Pâtes au saumon fumé de James Norray"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Vous avez été invité au banquet spécial présenté par James Norray ! Vous avez obtenu une assiette de ses célèbres pâtes au saumon fumé : tagliatelles fines al dente, 2 cuillères à soupe de crème fraiche, une poignée d'émmental fin, de l'émincé de saumon fumé aux cinq baies, un filet d'huile d'olive, un jaune d'oeuf, un brin de persil, une pincée de muscade, et le savoir faire de James Norray. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. Les plats cuisinés par James Norray ne périment pas.",
+      "fr": "Vous avez été invité au banquet spécial présenté par James Norray ! Vous avez obtenu une assiette de ses célèbres pâtes au saumon fumé : tagliatelles fines al dente, 2 cuillères à soupe de crème fraiche, une poignée d'émmental fin, de l'émincé de saumon fumé aux cinq baies, un filet d'huile d'olive, un jaune d'oeuf, un brin de persil, une pincée de muscade, et le savoir faire de James Norray. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. Les plats cuisinés par James Norray ne périment pas.",
+      "de": "Vous avez été invité au banquet spécial présenté par James Norray ! Vous avez obtenu une assiette de ses célèbres pâtes au saumon fumé : tagliatelles fines al dente, 2 cuillères à soupe de crème fraiche, une poignée d'émmental fin, de l'émincé de saumon fumé aux cinq baies, un filet d'huile d'olive, un jaune d'oeuf, un brin de persil, une pincée de muscade, et le savoir faire de James Norray. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. Les plats cuisinés par James Norray ne périment pas.",
+      "es": "Vous avez été invité au banquet spécial présenté par James Norray ! Vous avez obtenu une assiette de ses célèbres pâtes au saumon fumé : tagliatelles fines al dente, 2 cuillères à soupe de crème fraiche, une poignée d'émmental fin, de l'émincé de saumon fumé aux cinq baies, un filet d'huile d'olive, un jaune d'oeuf, un brin de persil, une pincée de muscade, et le savoir faire de James Norray. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. Les plats cuisinés par James Norray ne périment pas."
+    }
+  },
+  "pizza": {
+    "id": "pizza",
+    "name": {
+      "en": "Pizza Mazzoti",
+      "fr": "Pizza Mazzoti",
+      "de": "Pizza Mazzoti",
+      "es": "Pizza Mazzoti"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Vous avez été invité au banquet spécial présenté par Marc Mazzoti ! Il vous a préparé une magnifique pizza Mazzoti italienne surgelée !... Oui, la cusine n'est pas son fort... Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire.  !Attention! Ne jamais recongeler un produit décongelé.",
+      "fr": "Vous avez été invité au banquet spécial présenté par Marc Mazzoti ! Il vous a préparé une magnifique pizza Mazzoti italienne surgelée !... Oui, la cusine n'est pas son fort... Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire.  !Attention! Ne jamais recongeler un produit décongelé.",
+      "de": "Vous avez été invité au banquet spécial présenté par Marc Mazzoti ! Il vous a préparé une magnifique pizza Mazzoti italienne surgelée !... Oui, la cusine n'est pas son fort... Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire.  !Attention! Ne jamais recongeler un produit décongelé.",
+      "es": "Vous avez été invité au banquet spécial présenté par Marc Mazzoti ! Il vous a préparé une magnifique pizza Mazzoti italienne surgelée !... Oui, la cusine n'est pas son fort... Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire.  !Attention! Ne jamais recongeler un produit décongelé."
+    }
+  },
+  "fraise": {
+    "id": "fraise",
+    "name": {
+      "en": "Charlotte aux fraises de Charlotte",
+      "fr": "Charlotte aux fraises de Charlotte",
+      "de": "Charlotte aux fraises de Charlotte",
+      "es": "Charlotte aux fraises de Charlotte"
+    },
+    "rare": 0,
+    "unlocks": [],
+    "description": {
+      "en": "Vous avez été invité au banquet spécial présenté par Charlotte ! Elle vous préparé une Charlotte aux fraises personnalisée au chocolat et à la mayonnaise. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. En cas de maux d'estomac, veuillez consulter votre médecin.",
+      "fr": "Vous avez été invité au banquet spécial présenté par Charlotte ! Elle vous préparé une Charlotte aux fraises personnalisée au chocolat et à la mayonnaise. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. En cas de maux d'estomac, veuillez consulter votre médecin.",
+      "de": "Vous avez été invité au banquet spécial présenté par Charlotte ! Elle vous préparé une Charlotte aux fraises personnalisée au chocolat et à la mayonnaise. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. En cas de maux d'estomac, veuillez consulter votre médecin.",
+      "es": "Vous avez été invité au banquet spécial présenté par Charlotte ! Elle vous préparé une Charlotte aux fraises personnalisée au chocolat et à la mayonnaise. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. En cas de maux d'estomac, veuillez consulter votre médecin."
+    }
+  }
+}

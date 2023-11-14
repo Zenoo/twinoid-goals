@@ -1,0 +1,3482 @@
+{
+  "ccl": {
+    "id": "ccl",
+    "name": {
+      "en": "ChouetteEx 1",
+      "fr": "ChouetteEx 1",
+      "de": "ChouetteEx 1",
+      "es": "ChouetteEx 1"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "c_class.gif",
+        "title": {
+          "en": "ChouetteEx 1",
+          "fr": "ChouetteEx 1",
+          "de": "ChouetteEx 1",
+          "es": "ChouetteEx 1"
+        }
+      }
+    ]
+  },
+  "cmm": {
+    "id": "cmm",
+    "name": {
+      "en": "ChouetteEx 2",
+      "fr": "ChouetteEx 2",
+      "de": "ChouetteEx 2",
+      "es": "ChouetteEx 2"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "c_mmm.gif",
+        "title": {
+          "en": "ChouetteEx 2",
+          "fr": "ChouetteEx 2",
+          "de": "ChouetteEx 2",
+          "es": "ChouetteEx 2"
+        }
+      }
+    ]
+  },
+  "cnaz": {
+    "id": "cnaz",
+    "name": {
+      "en": "ChouetteEx 3",
+      "fr": "ChouetteEx 3",
+      "de": "ChouetteEx 3",
+      "es": "ChouetteEx 3"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "c_naz.gif",
+        "title": {
+          "en": "ChouetteEx 3",
+          "fr": "ChouetteEx 3",
+          "de": "ChouetteEx 3",
+          "es": "ChouetteEx 3"
+        }
+      }
+    ]
+  },
+  "cok": {
+    "id": "cok",
+    "name": {
+      "en": "ChouetteEx 4",
+      "fr": "ChouetteEx 4",
+      "de": "ChouetteEx 4",
+      "es": "ChouetteEx 4"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "c_ok.gif",
+        "title": {
+          "en": "ChouetteEx 4",
+          "fr": "ChouetteEx 4",
+          "de": "ChouetteEx 4",
+          "es": "ChouetteEx 4"
+        }
+      }
+    ]
+  },
+  "chro": {
+    "id": "chro",
+    "name": {
+      "en": "Chronium",
+      "fr": "Chronium",
+      "de": "Chronium",
+      "es": "Chronium"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "chronium.gif",
+        "title": {
+          "en": "Chronium",
+          "fr": "Chronium",
+          "de": "Chronium",
+          "es": "Chronium"
+        }
+      }
+    ]
+  },
+  "poum": {
+    "id": "poum",
+    "name": {
+      "en": "poum",
+      "fr": "poum",
+      "de": "poum",
+      "es": "poum"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "pevil": {
+    "id": "pevil",
+    "name": {
+      "en": "pevil",
+      "fr": "pevil",
+      "de": "pevil",
+      "es": "pevil"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "plove": {
+    "id": "plove",
+    "name": {
+      "en": "plove",
+      "fr": "plove",
+      "de": "plove",
+      "es": "plove"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "pchamp": {
+    "id": "pchamp",
+    "name": {
+      "en": "pchamp",
+      "fr": "pchamp",
+      "de": "pchamp",
+      "es": "pchamp"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "pygold": {
+    "id": "pygold",
+    "name": {
+      "en": "pygold",
+      "fr": "pygold",
+      "de": "pygold",
+      "es": "pygold"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "carg": {
+    "id": "carg",
+    "name": {
+      "en": "carg",
+      "fr": "carg",
+      "de": "carg",
+      "es": "carg"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "ccute": {
+    "id": "ccute",
+    "name": {
+      "en": "ccute",
+      "fr": "ccute",
+      "de": "ccute",
+      "es": "ccute"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "cninja": {
+    "id": "cninja",
+    "name": {
+      "en": "cninja",
+      "fr": "cninja",
+      "de": "cninja",
+      "es": "cninja"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "csmile": {
+    "id": "csmile",
+    "name": {
+      "en": "csmile",
+      "fr": "csmile",
+      "de": "csmile",
+      "es": "csmile"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "cwhat": {
+    "id": "cwhat",
+    "name": {
+      "en": "cwhat",
+      "fr": "cwhat",
+      "de": "cwhat",
+      "es": "cwhat"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "sdoc": {
+    "id": "sdoc",
+    "name": {
+      "en": "sdoc",
+      "fr": "sdoc",
+      "de": "sdoc",
+      "es": "sdoc"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "happy": {
+    "id": "happy",
+    "name": {
+      "en": "happy",
+      "fr": "happy",
+      "de": "happy",
+      "es": "happy"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "snonono": {
+    "id": "snonono",
+    "name": {
+      "en": "snonono",
+      "fr": "snonono",
+      "de": "snonono",
+      "es": "snonono"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "ssad": {
+    "id": "ssad",
+    "name": {
+      "en": "ssad",
+      "fr": "ssad",
+      "de": "ssad",
+      "es": "ssad"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "ssmile": {
+    "id": "ssmile",
+    "name": {
+      "en": "ssmile",
+      "fr": "ssmile",
+      "de": "ssmile",
+      "es": "ssmile"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "guSmall": {
+    "id": "guSmall",
+    "name": {
+      "en": "guSmall",
+      "fr": "guSmall",
+      "de": "guSmall",
+      "es": "guSmall"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "apSmall": {
+    "id": "apSmall",
+    "name": {
+      "en": "apSmall",
+      "fr": "apSmall",
+      "de": "apSmall",
+      "es": "apSmall"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "jzSmall": {
+    "id": "jzSmall",
+    "name": {
+      "en": "jzSmall",
+      "fr": "jzSmall",
+      "de": "jzSmall",
+      "es": "jzSmall"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "gmSmall": {
+    "id": "gmSmall",
+    "name": {
+      "en": "gmSmall",
+      "fr": "gmSmall",
+      "de": "gmSmall",
+      "es": "gmSmall"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "skSmall": {
+    "id": "skSmall",
+    "name": {
+      "en": "skSmall",
+      "fr": "skSmall",
+      "de": "skSmall",
+      "es": "skSmall"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "gu": {
+    "id": "gu",
+    "name": {
+      "en": "gu",
+      "fr": "gu",
+      "de": "gu",
+      "es": "gu"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "ap": {
+    "id": "ap",
+    "name": {
+      "en": "ap",
+      "fr": "ap",
+      "de": "ap",
+      "es": "ap"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "jz": {
+    "id": "jz",
+    "name": {
+      "en": "jz",
+      "fr": "jz",
+      "de": "jz",
+      "es": "jz"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "gm": {
+    "id": "gm",
+    "name": {
+      "en": "gm",
+      "fr": "gm",
+      "de": "gm",
+      "es": "gm"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "sk": {
+    "id": "sk",
+    "name": {
+      "en": "sk",
+      "fr": "sk",
+      "de": "sk",
+      "es": "sk"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "xmcool": {
+    "id": "xmcool",
+    "name": {
+      "en": "xmcool",
+      "fr": "xmcool",
+      "de": "xmcool",
+      "es": "xmcool"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "xmhu": {
+    "id": "xmhu",
+    "name": {
+      "en": "xmhu",
+      "fr": "xmhu",
+      "de": "xmhu",
+      "es": "xmhu"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "xmyeah": {
+    "id": "xmyeah",
+    "name": {
+      "en": "xmyeah",
+      "fr": "xmyeah",
+      "de": "xmyeah",
+      "es": "xmyeah"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "pkm": {
+    "id": "pkm",
+    "name": {
+      "en": "pkm",
+      "fr": "pkm",
+      "de": "pkm",
+      "es": "pkm"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "pko": {
+    "id": "pko",
+    "name": {
+      "en": "pko",
+      "fr": "pko",
+      "de": "pko",
+      "es": "pko"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "pky": {
+    "id": "pky",
+    "name": {
+      "en": "pky",
+      "fr": "pky",
+      "de": "pky",
+      "es": "pky"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "cstp": {
+    "id": "cstp",
+    "name": {
+      "en": "cstp",
+      "fr": "cstp",
+      "de": "cstp",
+      "es": "cstp"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "quest": {
+    "id": "quest",
+    "name": {
+      "en": "Quêtes accomplies",
+      "fr": "Quêtes accomplies",
+      "de": "Quêtes accomplies",
+      "es": "Quêtes accomplies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 5
+      },
+      {
+        "count": 15,
+        "points": 10,
+        "title": {
+          "en": "Un coup de main c'est sympa",
+          "fr": "Un coup de main c'est sympa",
+          "de": "Un coup de main c'est sympa",
+          "es": "Un coup de main c'est sympa"
+        }
+      },
+      {
+        "count": 25,
+        "points": 10
+      },
+      {
+        "count": 35,
+        "points": 10
+      },
+      {
+        "count": 45,
+        "points": 10
+      },
+      {
+        "count": 55,
+        "points": 10
+      },
+      {
+        "count": 60,
+        "points": 5,
+        "title": {
+          "en": "Grand résolveur de tracas",
+          "fr": "Grand résolveur de tracas",
+          "de": "Grand résolveur de tracas",
+          "es": "Grand résolveur de tracas"
+        }
+      },
+      {
+        "count": 70,
+        "points": 10
+      },
+      {
+        "count": 80,
+        "points": 10
+      },
+      {
+        "count": 90,
+        "points": 10
+      },
+      {
+        "count": 100,
+        "points": 10
+      },
+      {
+        "count": 110,
+        "points": 10
+      },
+      {
+        "count": 120,
+        "points": 10,
+        "title": {
+          "en": "Le royaume lui doit tout",
+          "fr": "Le royaume lui doit tout",
+          "de": "Le royaume lui doit tout",
+          "es": "Le royaume lui doit tout"
+        }
+      },
+      {
+        "count": 130,
+        "points": 10
+      },
+      {
+        "count": 140,
+        "points": 10
+      },
+      {
+        "count": 150,
+        "points": 10
+      },
+      {
+        "count": 160,
+        "points": 10
+      },
+      {
+        "count": 170,
+        "points": 10
+      },
+      {
+        "count": 177,
+        "points": 7
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Sauveur de l'humanité",
+          "fr": "Sauveur de l'humanité",
+          "de": "Sauveur de l'humanité",
+          "es": "Sauveur de l'humanité"
+        }
+      }
+    ]
+  },
+  "xp": {
+    "id": "xp",
+    "name": {
+      "en": "Niveau atteint",
+      "fr": "Niveau atteint",
+      "de": "Niveau atteint",
+      "es": "Niveau atteint"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2
+      },
+      {
+        "count": 2,
+        "points": 3
+      },
+      {
+        "count": 3,
+        "points": 5
+      },
+      {
+        "count": 4,
+        "points": 8
+      },
+      {
+        "count": 5,
+        "points": 10
+      },
+      {
+        "count": 6,
+        "points": 10
+      },
+      {
+        "count": 7,
+        "points": 10
+      },
+      {
+        "count": 8,
+        "points": 10
+      },
+      {
+        "count": 9,
+        "points": 10
+      },
+      {
+        "count": 10,
+        "points": 10
+      },
+      {
+        "count": 11,
+        "points": 10
+      },
+      {
+        "count": 12,
+        "points": 10
+      },
+      {
+        "count": 13,
+        "points": 10
+      },
+      {
+        "count": 14,
+        "points": 10
+      },
+      {
+        "count": 15,
+        "points": 10
+      }
+    ]
+  },
+  "repgu": {
+    "id": "repgu",
+    "name": {
+      "en": "Réputation Guilde",
+      "fr": "Réputation Guilde",
+      "de": "Réputation Guilde",
+      "es": "Réputation Guilde"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5
+      },
+      {
+        "count": 2,
+        "points": 5
+      },
+      {
+        "count": 3,
+        "points": 5
+      },
+      {
+        "count": 4,
+        "points": 5
+      },
+      {
+        "count": 5,
+        "points": 5
+      }
+    ]
+  },
+  "repap": {
+    "id": "repap",
+    "name": {
+      "en": "Réputation Audepint",
+      "fr": "Réputation Audepint",
+      "de": "Réputation Audepint",
+      "es": "Réputation Audepint"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5
+      },
+      {
+        "count": 2,
+        "points": 5
+      },
+      {
+        "count": 3,
+        "points": 5
+      },
+      {
+        "count": 4,
+        "points": 5
+      },
+      {
+        "count": 5,
+        "points": 5
+      }
+    ]
+  },
+  "repjz": {
+    "id": "repjz",
+    "name": {
+      "en": "Réputation Jeezara",
+      "fr": "Réputation Jeezara",
+      "de": "Réputation Jeezara",
+      "es": "Réputation Jeezara"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5
+      },
+      {
+        "count": 2,
+        "points": 5
+      },
+      {
+        "count": 3,
+        "points": 5
+      },
+      {
+        "count": 4,
+        "points": 5
+      },
+      {
+        "count": 5,
+        "points": 5
+      }
+    ]
+  },
+  "repgm": {
+    "id": "repgm",
+    "name": {
+      "en": "Réputation Gemini",
+      "fr": "Réputation Gemini",
+      "de": "Réputation Gemini",
+      "es": "Réputation Gemini"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5
+      },
+      {
+        "count": 2,
+        "points": 5
+      },
+      {
+        "count": 3,
+        "points": 5
+      },
+      {
+        "count": 4,
+        "points": 5
+      },
+      {
+        "count": 5,
+        "points": 5
+      }
+    ]
+  },
+  "repsk": {
+    "id": "repsk",
+    "name": {
+      "en": "Réputation Shang-Kah",
+      "fr": "Réputation Shang-Kah",
+      "de": "Réputation Shang-Kah",
+      "es": "Réputation Shang-Kah"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5
+      },
+      {
+        "count": 2,
+        "points": 5
+      },
+      {
+        "count": 3,
+        "points": 5
+      },
+      {
+        "count": 4,
+        "points": 5
+      },
+      {
+        "count": 5,
+        "points": 5
+      }
+    ]
+  },
+  "rdone": {
+    "id": "rdone",
+    "name": {
+      "en": "Recettes réussies",
+      "fr": "Recettes réussies",
+      "de": "Recettes réussies",
+      "es": "Recettes réussies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 3,
+        "title": {
+          "en": "Faiseurs de recettes",
+          "fr": "Faiseurs de recettes",
+          "de": "Faiseurs de recettes",
+          "es": "Faiseurs de recettes"
+        }
+      },
+      {
+        "count": 80,
+        "points": 5,
+        "title": {
+          "en": "Spécialiste ès transmutation",
+          "fr": "Spécialiste ès transmutation",
+          "de": "Spécialiste ès transmutation",
+          "es": "Spécialiste ès transmutation"
+        }
+      },
+      {
+        "count": 150,
+        "points": 5,
+        "title": {
+          "en": "Résident de la salle des chaudrons",
+          "fr": "Résident de la salle des chaudrons",
+          "de": "Résident de la salle des chaudrons",
+          "es": "Résident de la salle des chaudrons"
+        }
+      },
+      {
+        "count": 300,
+        "points": 5,
+        "title": {
+          "en": "Transmuteur universel",
+          "fr": "Transmuteur universel",
+          "de": "Transmuteur universel",
+          "es": "Transmuteur universel"
+        }
+      }
+    ]
+  },
+  "rfail": {
+    "id": "rfail",
+    "name": {
+      "en": "Recettes ratées",
+      "fr": "Recettes ratées",
+      "de": "Recettes ratées",
+      "es": "Recettes ratées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste distrait",
+          "fr": "Alchimiste distrait",
+          "de": "Alchimiste distrait",
+          "es": "Alchimiste distrait"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Pas les yeux en face des trous",
+          "fr": "Pas les yeux en face des trous",
+          "de": "Pas les yeux en face des trous",
+          "es": "Pas les yeux en face des trous"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Mister Bean du chaudron",
+          "fr": "Mister Bean du chaudron",
+          "de": "Mister Bean du chaudron",
+          "es": "Mister Bean du chaudron"
+        }
+      },
+      {
+        "count": 150,
+        "points": 0,
+        "title": {
+          "en": "Plus grand gâchis de l'alchimie moderne",
+          "fr": "Plus grand gâchis de l'alchimie moderne",
+          "de": "Plus grand gâchis de l'alchimie moderne",
+          "es": "Plus grand gâchis de l'alchimie moderne"
+        }
+      }
+    ]
+  },
+  "rconf": {
+    "id": "rconf",
+    "name": {
+      "en": "Recettes confisquées",
+      "fr": "Recettes confisquées",
+      "de": "Recettes confisquées",
+      "es": "Recettes confisquées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Flagrant délit",
+          "fr": "Flagrant délit",
+          "de": "Flagrant délit",
+          "es": "Flagrant délit"
+        }
+      },
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste récidiviste",
+          "fr": "Alchimiste récidiviste",
+          "de": "Alchimiste récidiviste",
+          "es": "Alchimiste récidiviste"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Un règlement ? Quel règlement ? ",
+          "fr": "Un règlement ? Quel règlement ? ",
+          "de": "Un règlement ? Quel règlement ? ",
+          "es": "Un règlement ? Quel règlement ? "
+        }
+      }
+    ]
+  },
+  "rforb": {
+    "id": "rforb",
+    "name": {
+      "en": "Recettes de guilde interdites réussies",
+      "fr": "Recettes de guilde interdites réussies",
+      "de": "Recettes de guilde interdites réussies",
+      "es": "Recettes de guilde interdites réussies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 2,
+        "points": 1,
+        "title": {
+          "en": "Petit canaillou",
+          "fr": "Petit canaillou",
+          "de": "Petit canaillou",
+          "es": "Petit canaillou"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "Arsène Lupin des chaudrons",
+          "fr": "Arsène Lupin des chaudrons",
+          "de": "Arsène Lupin des chaudrons",
+          "es": "Arsène Lupin des chaudrons"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "Génie du mal",
+          "fr": "Génie du mal",
+          "de": "Génie du mal",
+          "es": "Génie du mal"
+        }
+      }
+    ]
+  },
+  "cten": {
+    "id": "cten",
+    "name": {
+      "en": "Top Ten de son école pour la Coupe",
+      "fr": "Top Ten de son école pour la Coupe",
+      "de": "Top Ten de son école pour la Coupe",
+      "es": "Top Ten de son école pour la Coupe"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "title": {
+          "en": "Alchimiste combatif",
+          "fr": "Alchimiste combatif",
+          "de": "Alchimiste combatif",
+          "es": "Alchimiste combatif"
+        }
+      },
+      {
+        "count": 5,
+        "points": 2,
+        "title": {
+          "en": "Une valeur sûre",
+          "fr": "Une valeur sûre",
+          "de": "Une valeur sûre",
+          "es": "Une valeur sûre"
+        }
+      },
+      {
+        "count": 20,
+        "points": 2,
+        "title": {
+          "en": "Combattant acharné",
+          "fr": "Combattant acharné",
+          "de": "Combattant acharné",
+          "es": "Combattant acharné"
+        }
+      },
+      {
+        "count": 50,
+        "points": 2,
+        "title": {
+          "en": "Psychopathe du classement",
+          "fr": "Psychopathe du classement",
+          "de": "Psychopathe du classement",
+          "es": "Psychopathe du classement"
+        }
+      }
+    ]
+  },
+  "cbest": {
+    "id": "cbest",
+    "name": {
+      "en": "Premier du classement de la Coupe des écoles",
+      "fr": "Premier du classement de la Coupe des écoles",
+      "de": "Premier du classement de la Coupe des écoles",
+      "es": "Premier du classement de la Coupe des écoles"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "title": {
+          "en": "Vainqueur de la Coupe",
+          "fr": "Vainqueur de la Coupe",
+          "de": "Vainqueur de la Coupe",
+          "es": "Vainqueur de la Coupe"
+        }
+      },
+      {
+        "count": 3,
+        "points": 2,
+        "title": {
+          "en": "Maradona de la potion verte",
+          "fr": "Maradona de la potion verte",
+          "de": "Maradona de la potion verte",
+          "es": "Maradona de la potion verte"
+        }
+      },
+      {
+        "count": 10,
+        "points": 4,
+        "title": {
+          "en": "Tellement fortiche que ça fatigue tout le monde",
+          "fr": "Tellement fortiche que ça fatigue tout le monde",
+          "de": "Tellement fortiche que ça fatigue tout le monde",
+          "es": "Tellement fortiche que ça fatigue tout le monde"
+        }
+      },
+      {
+        "count": 50,
+        "points": 4,
+        "title": {
+          "en": "Légende du royaume",
+          "fr": "Légende du royaume",
+          "de": "Légende du royaume",
+          "es": "Légende du royaume"
+        }
+      }
+    ]
+  },
+  "schang": {
+    "id": "schang",
+    "name": {
+      "en": "Changements d'école",
+      "fr": "Changements d'école",
+      "de": "Changements d'école",
+      "es": "Changements d'école"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 2,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste indécis",
+          "fr": "Alchimiste indécis",
+          "de": "Alchimiste indécis",
+          "es": "Alchimiste indécis"
+        }
+      },
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Celui-là. Non... celui-ci. Euh, attendez un peu...",
+          "fr": "Celui-là. Non... celui-ci. Euh, attendez un peu...",
+          "de": "Celui-là. Non... celui-ci. Euh, attendez un peu...",
+          "es": "Celui-là. Non... celui-ci. Euh, attendez un peu..."
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Bon c'est fini oui ? ",
+          "fr": "Bon c'est fini oui ? ",
+          "de": "Bon c'est fini oui ? ",
+          "es": "Bon c'est fini oui ? "
+        }
+      }
+    ]
+  },
+  "zone": {
+    "id": "zone",
+    "name": {
+      "en": "Lieux visités",
+      "fr": "Lieux visités",
+      "de": "Lieux visités",
+      "es": "Lieux visités"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 6,
+        "title": {
+          "en": "Randonneur premier dan",
+          "fr": "Randonneur premier dan",
+          "de": "Randonneur premier dan",
+          "es": "Randonneur premier dan"
+        }
+      },
+      {
+        "count": 26,
+        "points": 10,
+        "title": {
+          "en": "Docteur Livingstone, je présume ?",
+          "fr": "Docteur Livingstone, je présume ?",
+          "de": "Docteur Livingstone, je présume ?",
+          "es": "Docteur Livingstone, je présume ?"
+        }
+      },
+      {
+        "count": 34,
+        "points": 10,
+        "title": {
+          "en": "Flagada Jones, je lui ai tout appris.",
+          "fr": "Flagada Jones, je lui ai tout appris.",
+          "de": "Flagada Jones, je lui ai tout appris.",
+          "es": "Flagada Jones, je lui ai tout appris."
+        }
+      }
+    ]
+  },
+  "chaine": {
+    "id": "chaine",
+    "name": {
+      "en": "Chaînes alchimiques dévoilées",
+      "fr": "Chaînes alchimiques dévoilées",
+      "de": "Chaînes alchimiques dévoilées",
+      "es": "Chaînes alchimiques dévoilées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 8,
+        "title": {
+          "en": "Dévoileur de mystères",
+          "fr": "Dévoileur de mystères",
+          "de": "Dévoileur de mystères",
+          "es": "Dévoileur de mystères"
+        }
+      },
+      {
+        "count": 15,
+        "points": 12,
+        "title": {
+          "en": "Jusqu'au boutiste ! ",
+          "fr": "Jusqu'au boutiste ! ",
+          "de": "Jusqu'au boutiste ! ",
+          "es": "Jusqu'au boutiste ! "
+        }
+      },
+      {
+        "count": 30,
+        "points": 12,
+        "title": {
+          "en": "Grand ordonnateur des éléments",
+          "fr": "Grand ordonnateur des éléments",
+          "de": "Grand ordonnateur des éléments",
+          "es": "Grand ordonnateur des éléments"
+        }
+      }
+    ]
+  },
+  "opa": {
+    "id": "opa",
+    "name": {
+      "en": "Potions de vigueur avalées",
+      "fr": "Potions de vigueur avalées",
+      "de": "Potions de vigueur avalées",
+      "es": "Potions de vigueur avalées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Plus haut. Plus loin. Plus vite.",
+          "fr": "Plus haut. Plus loin. Plus vite.",
+          "de": "Plus haut. Plus loin. Plus vite.",
+          "es": "Plus haut. Plus loin. Plus vite."
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Boire un petit coup c'est agréable",
+          "fr": "Boire un petit coup c'est agréable",
+          "de": "Boire un petit coup c'est agréable",
+          "es": "Boire un petit coup c'est agréable"
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "Une petite dernière pour la route",
+          "fr": "Une petite dernière pour la route",
+          "de": "Une petite dernière pour la route",
+          "es": "Une petite dernière pour la route"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Mes pieds sont pas plats, ils sont usés",
+          "fr": "Mes pieds sont pas plats, ils sont usés",
+          "de": "Mes pieds sont pas plats, ils sont usés",
+          "es": "Mes pieds sont pas plats, ils sont usés"
+        }
+      }
+    ]
+  },
+  "kubor": {
+    "id": "kubor",
+    "name": {
+      "en": "Plus grande fortune jamais possédée",
+      "fr": "Plus grande fortune jamais possédée",
+      "de": "Plus grande fortune jamais possédée",
+      "es": "Plus grande fortune jamais possédée"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5000,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste épargnant",
+          "fr": "Alchimiste épargnant",
+          "de": "Alchimiste épargnant",
+          "es": "Alchimiste épargnant"
+        }
+      },
+      {
+        "count": 30000,
+        "points": 0,
+        "title": {
+          "en": "Le Kubor, c'est ma grande passion",
+          "fr": "Le Kubor, c'est ma grande passion",
+          "de": "Le Kubor, c'est ma grande passion",
+          "es": "Le Kubor, c'est ma grande passion"
+        }
+      },
+      {
+        "count": 150000,
+        "points": 0,
+        "title": {
+          "en": "Super Picsou Géant",
+          "fr": "Super Picsou Géant",
+          "de": "Super Picsou Géant",
+          "es": "Super Picsou Géant"
+        }
+      },
+      {
+        "count": 600000,
+        "points": 0,
+        "title": {
+          "en": "Plus grande fortune d'après le Guildian Express",
+          "fr": "Plus grande fortune d'après le Guildian Express",
+          "de": "Plus grande fortune d'après le Guildian Express",
+          "es": "Plus grande fortune d'après le Guildian Express"
+        }
+      }
+    ]
+  },
+  "ksell": {
+    "id": "ksell",
+    "name": {
+      "en": "Kubors gagnés en vendant des trucs",
+      "fr": "Kubors gagnés en vendant des trucs",
+      "de": "Kubors gagnés en vendant des trucs",
+      "es": "Kubors gagnés en vendant des trucs"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Vendeur à la sauvette",
+          "fr": "Vendeur à la sauvette",
+          "de": "Vendeur à la sauvette",
+          "es": "Vendeur à la sauvette"
+        }
+      },
+      {
+        "count": 4000,
+        "points": 0,
+        "title": {
+          "en": "Fibre commerciale intégrale",
+          "fr": "Fibre commerciale intégrale",
+          "de": "Fibre commerciale intégrale",
+          "es": "Fibre commerciale intégrale"
+        }
+      },
+      {
+        "count": 12000,
+        "points": 0,
+        "title": {
+          "en": "Où est le cadeau que tu m'as offert ? Euh...",
+          "fr": "Où est le cadeau que tu m'as offert ? Euh...",
+          "de": "Où est le cadeau que tu m'as offert ? Euh...",
+          "es": "Où est le cadeau que tu m'as offert ? Euh..."
+        }
+      }
+    ]
+  },
+  "msg": {
+    "id": "msg",
+    "name": {
+      "en": "Messages postés",
+      "fr": "Messages postés",
+      "de": "Messages postés",
+      "es": "Messages postés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Papoteur impénitent",
+          "fr": "Papoteur impénitent",
+          "de": "Papoteur impénitent",
+          "es": "Papoteur impénitent"
+        }
+      },
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Eh ben moi je pense que...",
+          "fr": "Eh ben moi je pense que...",
+          "de": "Eh ben moi je pense que...",
+          "es": "Eh ben moi je pense que..."
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Teneur de crachoir depuis 1524",
+          "fr": "Teneur de crachoir depuis 1524",
+          "de": "Teneur de crachoir depuis 1524",
+          "es": "Teneur de crachoir depuis 1524"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Qui n'a pas vu mes amygdales ?",
+          "fr": "Qui n'a pas vu mes amygdales ?",
+          "de": "Qui n'a pas vu mes amygdales ?",
+          "es": "Qui n'a pas vu mes amygdales ?"
+        }
+      }
+    ]
+  },
+  "obj": {
+    "id": "obj",
+    "name": {
+      "en": "Objets magiques utilisés en jeu",
+      "fr": "Objets magiques utilisés en jeu",
+      "de": "Objets magiques utilisés en jeu",
+      "es": "Objets magiques utilisés en jeu"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "Alchimiste suréquipé",
+          "fr": "Alchimiste suréquipé",
+          "de": "Alchimiste suréquipé",
+          "es": "Alchimiste suréquipé"
+        }
+      },
+      {
+        "count": 40,
+        "points": 1,
+        "title": {
+          "en": "Castor junior de la pépite d'or",
+          "fr": "Castor junior de la pépite d'or",
+          "de": "Castor junior de la pépite d'or",
+          "es": "Castor junior de la pépite d'or"
+        }
+      },
+      {
+        "count": 150,
+        "points": 1,
+        "title": {
+          "en": "Gogogadgetobjetmagique ! ",
+          "fr": "Gogogadgetobjetmagique ! ",
+          "de": "Gogogadgetobjetmagique ! ",
+          "es": "Gogogadgetobjetmagique ! "
+        }
+      }
+    ]
+  },
+  "rhave": {
+    "id": "rhave",
+    "name": {
+      "en": "Recettes possédées",
+      "fr": "Recettes possédées",
+      "de": "Recettes possédées",
+      "es": "Recettes possédées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 3
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Collectionneur de recettes",
+          "fr": "Collectionneur de recettes",
+          "de": "Collectionneur de recettes",
+          "es": "Collectionneur de recettes"
+        }
+      },
+      {
+        "count": 20,
+        "points": 3
+      },
+      {
+        "count": 30,
+        "points": 3
+      },
+      {
+        "count": 40,
+        "points": 3
+      },
+      {
+        "count": 50,
+        "points": 3,
+        "title": {
+          "en": "Encyclopédie sur pattes",
+          "fr": "Encyclopédie sur pattes",
+          "de": "Encyclopédie sur pattes",
+          "es": "Encyclopédie sur pattes"
+        }
+      },
+      {
+        "count": 60,
+        "points": 3
+      },
+      {
+        "count": 70,
+        "points": 3
+      },
+      {
+        "count": 80,
+        "points": 3
+      },
+      {
+        "count": 90,
+        "points": 3
+      },
+      {
+        "count": 100,
+        "points": 3
+      },
+      {
+        "count": 110,
+        "points": 3
+      },
+      {
+        "count": 120,
+        "points": 3,
+        "title": {
+          "en": "Je sais tout ! Tout ! Mouahahahah ! ",
+          "fr": "Je sais tout ! Tout ! Mouahahahah ! ",
+          "de": "Je sais tout ! Tout ! Mouahahahah ! ",
+          "es": "Je sais tout ! Tout ! Mouahahahah ! "
+        }
+      },
+      {
+        "count": 130,
+        "points": 3
+      },
+      {
+        "count": 140,
+        "points": 3
+      },
+      {
+        "count": 150,
+        "points": 3
+      },
+      {
+        "count": 160,
+        "points": 3
+      },
+      {
+        "count": 170,
+        "points": 3
+      },
+      {
+        "count": 180,
+        "points": 3
+      },
+      {
+        "count": 190,
+        "points": 3
+      },
+      {
+        "count": 200,
+        "points": 3
+      }
+    ]
+  },
+  "rcos": {
+    "id": "rcos",
+    "name": {
+      "en": "Recettes cosmétiques réussies",
+      "fr": "Recettes cosmétiques réussies",
+      "de": "Recettes cosmétiques réussies",
+      "es": "Recettes cosmétiques réussies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 1,
+        "title": {
+          "en": "Alchimiste coquet",
+          "fr": "Alchimiste coquet",
+          "de": "Alchimiste coquet",
+          "es": "Alchimiste coquet"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "J'vous jure, tout est vrai ! 100% naturel ! ",
+          "fr": "J'vous jure, tout est vrai ! 100% naturel ! ",
+          "de": "J'vous jure, tout est vrai ! 100% naturel ! ",
+          "es": "J'vous jure, tout est vrai ! 100% naturel ! "
+        }
+      },
+      {
+        "count": 120,
+        "points": 1,
+        "title": {
+          "en": "Alchimiste bien conservé. Et sans formol !",
+          "fr": "Alchimiste bien conservé. Et sans formol !",
+          "de": "Alchimiste bien conservé. Et sans formol !",
+          "es": "Alchimiste bien conservé. Et sans formol !"
+        }
+      }
+    ]
+  },
+  "relem": {
+    "id": "relem",
+    "name": {
+      "en": "Recettes élémentaires réussies",
+      "fr": "Recettes élémentaires réussies",
+      "de": "Recettes élémentaires réussies",
+      "es": "Recettes élémentaires réussies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 1,
+        "title": {
+          "en": "Adepte des bidouilles d'éléments",
+          "fr": "Adepte des bidouilles d'éléments",
+          "de": "Adepte des bidouilles d'éléments",
+          "es": "Adepte des bidouilles d'éléments"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "Appelez-moi Watson",
+          "fr": "Appelez-moi Watson",
+          "de": "Appelez-moi Watson",
+          "es": "Appelez-moi Watson"
+        }
+      },
+      {
+        "count": 120,
+        "points": 1,
+        "title": {
+          "en": "Seigneur des éléments",
+          "fr": "Seigneur des éléments",
+          "de": "Seigneur des éléments",
+          "es": "Seigneur des éléments"
+        }
+      }
+    ]
+  },
+  "rvest": {
+    "id": "rvest",
+    "name": {
+      "en": "Recettes vestimentaires réussies",
+      "fr": "Recettes vestimentaires réussies",
+      "de": "Recettes vestimentaires réussies",
+      "es": "Recettes vestimentaires réussies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 1,
+        "title": {
+          "en": "Fashion attitude forever",
+          "fr": "Fashion attitude forever",
+          "de": "Fashion attitude forever",
+          "es": "Fashion attitude forever"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "La mode, c'est moi",
+          "fr": "La mode, c'est moi",
+          "de": "La mode, c'est moi",
+          "es": "La mode, c'est moi"
+        }
+      },
+      {
+        "count": 120,
+        "points": 1,
+        "title": {
+          "en": "I'm in ur dressingz, trying ur cloozes ! ",
+          "fr": "I'm in ur dressingz, trying ur cloozes ! ",
+          "de": "I'm in ur dressingz, trying ur cloozes ! ",
+          "es": "I'm in ur dressingz, trying ur cloozes ! "
+        }
+      }
+    ]
+  },
+  "rcomb": {
+    "id": "rcomb",
+    "name": {
+      "en": "Recettes de combat réussies",
+      "fr": "Recettes de combat réussies",
+      "de": "Recettes de combat réussies",
+      "es": "Recettes de combat réussies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 1,
+        "title": {
+          "en": "On est jamais trop bien équipé",
+          "fr": "On est jamais trop bien équipé",
+          "de": "On est jamais trop bien équipé",
+          "es": "On est jamais trop bien équipé"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "Mais pourquoi est-il aussi méchant ? ",
+          "fr": "Mais pourquoi est-il aussi méchant ? ",
+          "de": "Mais pourquoi est-il aussi méchant ? ",
+          "es": "Mais pourquoi est-il aussi méchant ? "
+        }
+      },
+      {
+        "count": 120,
+        "points": 1,
+        "title": {
+          "en": "Fabriquant d'armes depuis 1509",
+          "fr": "Fabriquant d'armes depuis 1509",
+          "de": "Fabriquant d'armes depuis 1509",
+          "es": "Fabriquant d'armes depuis 1509"
+        }
+      }
+    ]
+  },
+  "rstup": {
+    "id": "rstup",
+    "name": {
+      "en": "Recettes d'inutilité publique réussies",
+      "fr": "Recettes d'inutilité publique réussies",
+      "de": "Recettes d'inutilité publique réussies",
+      "es": "Recettes d'inutilité publique réussies"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 15,
+        "points": 1,
+        "title": {
+          "en": "Alchimiste futile",
+          "fr": "Alchimiste futile",
+          "de": "Alchimiste futile",
+          "es": "Alchimiste futile"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "Et vous trouvez ça drôle ?",
+          "fr": "Et vous trouvez ça drôle ?",
+          "de": "Et vous trouvez ça drôle ?",
+          "es": "Et vous trouvez ça drôle ?"
+        }
+      },
+      {
+        "count": 120,
+        "points": 1,
+        "title": {
+          "en": "Spécialiste en machins idiots",
+          "fr": "Spécialiste en machins idiots",
+          "de": "Spécialiste en machins idiots",
+          "es": "Spécialiste en machins idiots"
+        }
+      }
+    ]
+  },
+  "skat": {
+    "id": "skat",
+    "name": {
+      "en": "Skats pulvérisés",
+      "fr": "Skats pulvérisés",
+      "de": "Skats pulvérisés",
+      "es": "Skats pulvérisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 200,
+        "points": 1,
+        "title": {
+          "en": "Exterminateur junior",
+          "fr": "Exterminateur junior",
+          "de": "Exterminateur junior",
+          "es": "Exterminateur junior"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 1,
+        "title": {
+          "en": "Monstre sans coeur",
+          "fr": "Monstre sans coeur",
+          "de": "Monstre sans coeur",
+          "es": "Monstre sans coeur"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 1,
+        "title": {
+          "en": "Skavalier de la Skapocalypse",
+          "fr": "Skavalier de la Skapocalypse",
+          "de": "Skavalier de la Skapocalypse",
+          "es": "Skavalier de la Skapocalypse"
+        }
+      }
+    ]
+  },
+  "block": {
+    "id": "block",
+    "name": {
+      "en": "Pyrite détruite",
+      "fr": "Pyrite détruite",
+      "de": "Pyrite détruite",
+      "es": "Pyrite détruite"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 200,
+        "points": 1,
+        "title": {
+          "en": "Casseur de caillou",
+          "fr": "Casseur de caillou",
+          "de": "Casseur de caillou",
+          "es": "Casseur de caillou"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 1,
+        "title": {
+          "en": "Déboucheur alchimique diplômé",
+          "fr": "Déboucheur alchimique diplômé",
+          "de": "Déboucheur alchimique diplômé",
+          "es": "Déboucheur alchimique diplômé"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 1,
+        "title": {
+          "en": "J'avoue, Jéricho c'est ma faute",
+          "fr": "J'avoue, Jéricho c'est ma faute",
+          "de": "J'avoue, Jéricho c'est ma faute",
+          "es": "J'avoue, Jéricho c'est ma faute"
+        }
+      }
+    ]
+  },
+  "eor": {
+    "id": "eor",
+    "name": {
+      "en": "Pépites d'or récupérées",
+      "fr": "Pépites d'or récupérées",
+      "de": "Pépites d'or récupérées",
+      "es": "Pépites d'or récupérées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Des pépites plein les yeux",
+          "fr": "Des pépites plein les yeux",
+          "de": "Des pépites plein les yeux",
+          "es": "Des pépites plein les yeux"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Orpailleur patenté",
+          "fr": "Orpailleur patenté",
+          "de": "Orpailleur patenté",
+          "es": "Orpailleur patenté"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "La pierre philosophale, c'est moi",
+          "fr": "La pierre philosophale, c'est moi",
+          "de": "La pierre philosophale, c'est moi",
+          "es": "La pierre philosophale, c'est moi"
+        }
+      }
+    ]
+  },
+  "eabys": {
+    "id": "eabys",
+    "name": {
+      "en": "Abyssonnes récupérées",
+      "fr": "Abyssonnes récupérées",
+      "de": "Abyssonnes récupérées",
+      "es": "Abyssonnes récupérées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Pas peur de se mouiller",
+          "fr": "Pas peur de se mouiller",
+          "de": "Pas peur de se mouiller",
+          "es": "Pas peur de se mouiller"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste des abysses",
+          "fr": "Alchimiste des abysses",
+          "de": "Alchimiste des abysses",
+          "es": "Alchimiste des abysses"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Commandant Cousteau",
+          "fr": "Commandant Cousteau",
+          "de": "Commandant Cousteau",
+          "es": "Commandant Cousteau"
+        }
+      }
+    ]
+  },
+  "emag": {
+    "id": "emag",
+    "name": {
+      "en": "Magmas récupérés",
+      "fr": "Magmas récupérés",
+      "de": "Magmas récupérés",
+      "es": "Magmas récupérés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Attention, c'est chaud",
+          "fr": "Attention, c'est chaud",
+          "de": "Attention, c'est chaud",
+          "es": "Attention, c'est chaud"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Pyromane avéré",
+          "fr": "Pyromane avéré",
+          "de": "Pyromane avéré",
+          "es": "Pyromane avéré"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "J'vais vous faire une bonne flambée moi, z'allez voir",
+          "fr": "J'vais vous faire une bonne flambée moi, z'allez voir",
+          "de": "J'vais vous faire une bonne flambée moi, z'allez voir",
+          "es": "J'vais vous faire une bonne flambée moi, z'allez voir"
+        }
+      }
+    ]
+  },
+  "eprim": {
+    "id": "eprim",
+    "name": {
+      "en": "Primoterres récupérées",
+      "fr": "Primoterres récupérées",
+      "de": "Primoterres récupérées",
+      "es": "Primoterres récupérées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Ami de la nature",
+          "fr": "Ami de la nature",
+          "de": "Ami de la nature",
+          "es": "Ami de la nature"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Motoculteur alchimique",
+          "fr": "Motoculteur alchimique",
+          "de": "Motoculteur alchimique",
+          "es": "Motoculteur alchimique"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Casse-croûte terrestre",
+          "fr": "Casse-croûte terrestre",
+          "de": "Casse-croûte terrestre",
+          "es": "Casse-croûte terrestre"
+        }
+      }
+    ]
+  },
+  "evort": {
+    "id": "evort",
+    "name": {
+      "en": "Coeurs de vortex récupérés",
+      "fr": "Coeurs de vortex récupérés",
+      "de": "Coeurs de vortex récupérés",
+      "es": "Coeurs de vortex récupérés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste qui décoiffe",
+          "fr": "Alchimiste qui décoiffe",
+          "de": "Alchimiste qui décoiffe",
+          "es": "Alchimiste qui décoiffe"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Maître des vents",
+          "fr": "Maître des vents",
+          "de": "Maître des vents",
+          "es": "Maître des vents"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Wind waker inside",
+          "fr": "Wind waker inside",
+          "de": "Wind waker inside",
+          "es": "Wind waker inside"
+        }
+      }
+    ]
+  },
+  "echro": {
+    "id": "echro",
+    "name": {
+      "en": "Chroniums récupérés",
+      "fr": "Chroniums récupérés",
+      "de": "Chroniums récupérés",
+      "es": "Chroniums récupérés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Maître chronophage",
+          "fr": "Maître chronophage",
+          "de": "Maître chronophage",
+          "es": "Maître chronophage"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Joueur hardcore officiel",
+          "fr": "Joueur hardcore officiel",
+          "de": "Joueur hardcore officiel",
+          "es": "Joueur hardcore officiel"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Légende vivante du royaume",
+          "fr": "Légende vivante du royaume",
+          "de": "Légende vivante du royaume",
+          "es": "Légende vivante du royaume"
+        }
+      }
+    ]
+  },
+  "adyn": {
+    "id": "adyn",
+    "name": {
+      "en": "Dynamites utilisées",
+      "fr": "Dynamites utilisées",
+      "de": "Dynamites utilisées",
+      "es": "Dynamites utilisées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 4,
+        "points": 0,
+        "title": {
+          "en": "Artificier amateur",
+          "fr": "Artificier amateur",
+          "de": "Artificier amateur",
+          "es": "Artificier amateur"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Demolition man",
+          "fr": "Demolition man",
+          "de": "Demolition man",
+          "es": "Demolition man"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "J'ai un rencard samedi avec Brenda ! Wouhou ! ",
+          "fr": "J'ai un rencard samedi avec Brenda ! Wouhou ! ",
+          "de": "J'ai un rencard samedi avec Brenda ! Wouhou ! ",
+          "es": "J'ai un rencard samedi avec Brenda ! Wouhou ! "
+        }
+      }
+    ]
+  },
+  "agren": {
+    "id": "agren",
+    "name": {
+      "en": "Charcleurs utilisés",
+      "fr": "Charcleurs utilisés",
+      "de": "Charcleurs utilisés",
+      "es": "Charcleurs utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 4,
+        "points": 0,
+        "title": {
+          "en": "Petit mais costaud",
+          "fr": "Petit mais costaud",
+          "de": "Petit mais costaud",
+          "es": "Petit mais costaud"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Petite frappe chirurgicale",
+          "fr": "Petite frappe chirurgicale",
+          "de": "Petite frappe chirurgicale",
+          "es": "Petite frappe chirurgicale"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Fan absolu de Torgul Schrap",
+          "fr": "Fan absolu de Torgul Schrap",
+          "de": "Fan absolu de Torgul Schrap",
+          "es": "Fan absolu de Torgul Schrap"
+        }
+      }
+    ]
+  },
+  "apick": {
+    "id": "apick",
+    "name": {
+      "en": "Mains du mentor et Patchinkrops utilisés",
+      "fr": "Mains du mentor et Patchinkrops utilisés",
+      "de": "Mains du mentor et Patchinkrops utilisés",
+      "es": "Mains du mentor et Patchinkrops utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 4,
+        "points": 0,
+        "title": {
+          "en": "Je veux ça et rien d'autre ! ",
+          "fr": "Je veux ça et rien d'autre ! ",
+          "de": "Je veux ça et rien d'autre ! ",
+          "es": "Je veux ça et rien d'autre ! "
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Kleptomane alchimique",
+          "fr": "Kleptomane alchimique",
+          "de": "Kleptomane alchimique",
+          "es": "Kleptomane alchimique"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "J'ai des goûts très très très précis, vous savez",
+          "fr": "J'ai des goûts très très très précis, vous savez",
+          "de": "J'ai des goûts très très très précis, vous savez",
+          "es": "J'ai des goûts très très très précis, vous savez"
+        }
+      }
+    ]
+  },
+  "adolly": {
+    "id": "adolly",
+    "name": {
+      "en": "Dollyxirs utilisés",
+      "fr": "Dollyxirs utilisés",
+      "de": "Dollyxirs utilisés",
+      "es": "Dollyxirs utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 4,
+        "points": 0,
+        "title": {
+          "en": "Par deux c'est mieux",
+          "fr": "Par deux c'est mieux",
+          "de": "Par deux c'est mieux",
+          "es": "Par deux c'est mieux"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Docteur, je vois double",
+          "fr": "Docteur, je vois double",
+          "de": "Docteur, je vois double",
+          "es": "Docteur, je vois double"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Une pépite achetée, la deuxième offerte ! ",
+          "fr": "Une pépite achetée, la deuxième offerte ! ",
+          "de": "Une pépite achetée, la deuxième offerte ! ",
+          "es": "Une pépite achetée, la deuxième offerte ! "
+        }
+      }
+    ]
+  },
+  "araz": {
+    "id": "araz",
+    "name": {
+      "en": "Razkrölls utilisés",
+      "fr": "Razkrölls utilisés",
+      "de": "Razkrölls utilisés",
+      "es": "Razkrölls utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 4,
+        "points": 0,
+        "title": {
+          "en": "Jamais content",
+          "fr": "Jamais content",
+          "de": "Jamais content",
+          "es": "Jamais content"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "C'était mieux avant...",
+          "fr": "C'était mieux avant...",
+          "de": "C'était mieux avant...",
+          "es": "C'était mieux avant..."
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "I can't get nooooo satisfaction",
+          "fr": "I can't get nooooo satisfaction",
+          "de": "I can't get nooooo satisfaction",
+          "es": "I can't get nooooo satisfaction"
+        }
+      }
+    ]
+  },
+  "awomb": {
+    "id": "awomb",
+    "name": {
+      "en": "Branle-bas de wombats utilisés",
+      "fr": "Branle-bas de wombats utilisés",
+      "de": "Branle-bas de wombats utilisés",
+      "es": "Branle-bas de wombats utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 4,
+        "points": 0,
+        "title": {
+          "en": "Ami des bêtes",
+          "fr": "Ami des bêtes",
+          "de": "Ami des bêtes",
+          "es": "Ami des bêtes"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Chef de meute",
+          "fr": "Chef de meute",
+          "de": "Chef de meute",
+          "es": "Chef de meute"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Eleveur de wombats depuis 1542",
+          "fr": "Eleveur de wombats depuis 1542",
+          "de": "Eleveur de wombats depuis 1542",
+          "es": "Eleveur de wombats depuis 1542"
+        }
+      }
+    ]
+  },
+  "tbeta": {
+    "id": "tbeta",
+    "name": {
+      "en": "Beta-test de naturalchimie effectué",
+      "fr": "Beta-test de naturalchimie effectué",
+      "de": "Beta-test de naturalchimie effectué",
+      "es": "Beta-test de naturalchimie effectué"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Beta-testeur qui se la pète",
+          "fr": "Beta-testeur qui se la pète",
+          "de": "Beta-testeur qui se la pète",
+          "es": "Beta-testeur qui se la pète"
+        }
+      }
+    ]
+  },
+  "fjv": {
+    "id": "fjv",
+    "name": {
+      "en": "Connexion sur la borne au FJV 2010",
+      "fr": "Connexion sur la borne au FJV 2010",
+      "de": "Connexion sur la borne au FJV 2010",
+      "es": "Connexion sur la borne au FJV 2010"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Je suis venu, j'ai vu, je me suis connectu",
+          "fr": "Je suis venu, j'ai vu, je me suis connectu",
+          "de": "Je suis venu, j'ai vu, je me suis connectu",
+          "es": "Je suis venu, j'ai vu, je me suis connectu"
+        }
+      }
+    ]
+  },
+  "gfcas": {
+    "id": "gfcas",
+    "name": {
+      "en": "Casquettes Chouettex récupérées",
+      "fr": "Casquettes Chouettex récupérées",
+      "de": "Casquettes Chouettex récupérées",
+      "es": "Casquettes Chouettex récupérées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Chouette parrain",
+          "fr": "Chouette parrain",
+          "de": "Chouette parrain",
+          "es": "Chouette parrain"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Ras la casquette !",
+          "fr": "Ras la casquette !",
+          "de": "Ras la casquette !",
+          "es": "Ras la casquette !"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Supporter officiel Chouettex",
+          "fr": "Supporter officiel Chouettex",
+          "de": "Supporter officiel Chouettex",
+          "es": "Supporter officiel Chouettex"
+        }
+      }
+    ]
+  },
+  "hair": {
+    "id": "hair",
+    "name": {
+      "en": "Visite chez Surtouffe",
+      "fr": "Visite chez Surtouffe",
+      "de": "Visite chez Surtouffe",
+      "es": "Visite chez Surtouffe"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 2,
+        "points": 0,
+        "title": {
+          "en": "On fait comme d'habitude ? ",
+          "fr": "On fait comme d'habitude ? ",
+          "de": "On fait comme d'habitude ? ",
+          "es": "On fait comme d'habitude ? "
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Parce que je le vaux bien",
+          "fr": "Parce que je le vaux bien",
+          "de": "Parce que je le vaux bien",
+          "es": "Parce que je le vaux bien"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Oscar Surtouffe, mon ami pour la vie",
+          "fr": "Oscar Surtouffe, mon ami pour la vie",
+          "de": "Oscar Surtouffe, mon ami pour la vie",
+          "es": "Oscar Surtouffe, mon ami pour la vie"
+        }
+      }
+    ]
+  },
+  "pumpk": {
+    "id": "pumpk",
+    "name": {
+      "en": "Courgesprits récupérées",
+      "fr": "Courgesprits récupérées",
+      "de": "Courgesprits récupérées",
+      "es": "Courgesprits récupérées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste à la main verte",
+          "fr": "Alchimiste à la main verte",
+          "de": "Alchimiste à la main verte",
+          "es": "Alchimiste à la main verte"
+        }
+      },
+      {
+        "count": 5000,
+        "points": 0,
+        "title": {
+          "en": "Roi de la binette",
+          "fr": "Roi de la binette",
+          "de": "Roi de la binette",
+          "es": "Roi de la binette"
+        }
+      },
+      {
+        "count": 50000,
+        "points": 0,
+        "title": {
+          "en": "Du jus de courge dans les veines",
+          "fr": "Du jus de courge dans les veines",
+          "de": "Du jus de courge dans les veines",
+          "es": "Du jus de courge dans les veines"
+        }
+      }
+    ]
+  },
+  "xmph": {
+    "id": "xmph",
+    "name": {
+      "en": "Nombre de photos souvenirs prises",
+      "fr": "Nombre de photos souvenirs prises",
+      "de": "Nombre de photos souvenirs prises",
+      "es": "Nombre de photos souvenirs prises"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 2,
+        "points": 0,
+        "title": {
+          "en": "Petit malin",
+          "fr": "Petit malin",
+          "de": "Petit malin",
+          "es": "Petit malin"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Accro de la magouille",
+          "fr": "Accro de la magouille",
+          "de": "Accro de la magouille",
+          "es": "Accro de la magouille"
+        }
+      },
+      {
+        "count": 35,
+        "points": 0,
+        "title": {
+          "en": "Super transformiste",
+          "fr": "Super transformiste",
+          "de": "Super transformiste",
+          "es": "Super transformiste"
+        }
+      }
+    ]
+  },
+  "xmbn": {
+    "id": "xmbn",
+    "name": {
+      "en": "Nombre de boules de Noël récupérées",
+      "fr": "Nombre de boules de Noël récupérées",
+      "de": "Nombre de boules de Noël récupérées",
+      "es": "Nombre de boules de Noël récupérées"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Alchimiste de Noël",
+          "fr": "Alchimiste de Noël",
+          "de": "Alchimiste de Noël",
+          "es": "Alchimiste de Noël"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "C'est joli ces petits machins",
+          "fr": "C'est joli ces petits machins",
+          "de": "C'est joli ces petits machins",
+          "es": "C'est joli ces petits machins"
+        }
+      },
+      {
+        "count": 300,
+        "points": 0,
+        "title": {
+          "en": "Quelqu'un aurait un très très gros sapin ? ",
+          "fr": "Quelqu'un aurait un très très gros sapin ? ",
+          "de": "Quelqu'un aurait un très très gros sapin ? ",
+          "es": "Quelqu'un aurait un très très gros sapin ? "
+        }
+      }
+    ]
+  },
+  "xmch": {
+    "id": "xmch",
+    "name": {
+      "en": "Nombre de chocolats avalés",
+      "fr": "Nombre de chocolats avalés",
+      "de": "Nombre de chocolats avalés",
+      "es": "Nombre de chocolats avalés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "Slurp Miam Crunch",
+          "fr": "Slurp Miam Crunch",
+          "de": "Slurp Miam Crunch",
+          "es": "Slurp Miam Crunch"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Ch'est gras mais ch'est bon",
+          "fr": "Ch'est gras mais ch'est bon",
+          "de": "Ch'est gras mais ch'est bon",
+          "es": "Ch'est gras mais ch'est bon"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Je... J'me sens pas super bien, là...",
+          "fr": "Je... J'me sens pas super bien, là...",
+          "de": "Je... J'me sens pas super bien, là...",
+          "es": "Je... J'me sens pas super bien, là..."
+        }
+      }
+    ]
+  },
+  "xmsm": {
+    "id": "xmsm",
+    "name": {
+      "en": "Nombre de transformations en bonhomme de neige",
+      "fr": "Nombre de transformations en bonhomme de neige",
+      "de": "Nombre de transformations en bonhomme de neige",
+      "es": "Nombre de transformations en bonhomme de neige"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Ah c'est malin. Très drôle. Très amusant...",
+          "fr": "Ah c'est malin. Très drôle. Très amusant...",
+          "de": "Ah c'est malin. Très drôle. Très amusant...",
+          "es": "Ah c'est malin. Très drôle. Très amusant..."
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "J'ai fffff-rrrr-fr froiiiid-d-d ! ",
+          "fr": "J'ai fffff-rrrr-fr froiiiid-d-d ! ",
+          "de": "J'ai fffff-rrrr-fr froiiiid-d-d ! ",
+          "es": "J'ai fffff-rrrr-fr froiiiid-d-d ! "
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "Vivement le printemps, c'est moi qui vous le dit !",
+          "fr": "Vivement le printemps, c'est moi qui vous le dit !",
+          "de": "Vivement le printemps, c'est moi qui vous le dit !",
+          "es": "Vivement le printemps, c'est moi qui vous le dit !"
+        }
+      }
+    ]
+  },
+  "rssch": {
+    "id": "rssch",
+    "name": {
+      "en": "Participations à la lutte des classes avec la même école",
+      "fr": "Participations à la lutte des classes avec la même école",
+      "de": "Participations à la lutte des classes avec la même école",
+      "es": "Participations à la lutte des classes avec la même école"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 0,
+        "title": {
+          "en": "Mon école, c'est ma grande passion.",
+          "fr": "Mon école, c'est ma grande passion.",
+          "de": "Mon école, c'est ma grande passion.",
+          "es": "Mon école, c'est ma grande passion."
+        }
+      }
+    ]
+  },
+  "rsjz": {
+    "id": "rsjz",
+    "name": {
+      "en": "Participations à la lutte des classes avec Jeezara",
+      "fr": "Participations à la lutte des classes avec Jeezara",
+      "de": "Participations à la lutte des classes avec Jeezara",
+      "es": "Participations à la lutte des classes avec Jeezara"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Jeezara, tu l'aimes ou tu la quittes.",
+          "fr": "Jeezara, tu l'aimes ou tu la quittes.",
+          "de": "Jeezara, tu l'aimes ou tu la quittes.",
+          "es": "Jeezara, tu l'aimes ou tu la quittes."
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Jeezara et moi, c'est pour la vie !",
+          "fr": "Jeezara et moi, c'est pour la vie !",
+          "de": "Jeezara et moi, c'est pour la vie !",
+          "es": "Jeezara et moi, c'est pour la vie !"
+        }
+      }
+    ]
+  },
+  "rsap": {
+    "id": "rsap",
+    "name": {
+      "en": "Participations à la lutte des classes avec Audepint",
+      "fr": "Participations à la lutte des classes avec Audepint",
+      "de": "Participations à la lutte des classes avec Audepint",
+      "es": "Participations à la lutte des classes avec Audepint"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Audepint, tu l'aimes ou tu la quittes.",
+          "fr": "Audepint, tu l'aimes ou tu la quittes.",
+          "de": "Audepint, tu l'aimes ou tu la quittes.",
+          "es": "Audepint, tu l'aimes ou tu la quittes."
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Audepint et moi, c'est pour la vie !",
+          "fr": "Audepint et moi, c'est pour la vie !",
+          "de": "Audepint et moi, c'est pour la vie !",
+          "es": "Audepint et moi, c'est pour la vie !"
+        }
+      }
+    ]
+  },
+  "rssk": {
+    "id": "rssk",
+    "name": {
+      "en": "Participations à la lutte des classes avec Shang-Kah",
+      "fr": "Participations à la lutte des classes avec Shang-Kah",
+      "de": "Participations à la lutte des classes avec Shang-Kah",
+      "es": "Participations à la lutte des classes avec Shang-Kah"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Shang-Kah, tu l'aimes ou tu la quittes.",
+          "fr": "Shang-Kah, tu l'aimes ou tu la quittes.",
+          "de": "Shang-Kah, tu l'aimes ou tu la quittes.",
+          "es": "Shang-Kah, tu l'aimes ou tu la quittes."
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Shang-Kah et moi, c'est pour la vie !",
+          "fr": "Shang-Kah et moi, c'est pour la vie !",
+          "de": "Shang-Kah et moi, c'est pour la vie !",
+          "es": "Shang-Kah et moi, c'est pour la vie !"
+        }
+      }
+    ]
+  },
+  "rsgm": {
+    "id": "rsgm",
+    "name": {
+      "en": "Participations à la lutte des classes avec Gemini",
+      "fr": "Participations à la lutte des classes avec Gemini",
+      "de": "Participations à la lutte des classes avec Gemini",
+      "es": "Participations à la lutte des classes avec Gemini"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Gemini, tu l'aimes ou tu la quittes.",
+          "fr": "Gemini, tu l'aimes ou tu la quittes.",
+          "de": "Gemini, tu l'aimes ou tu la quittes.",
+          "es": "Gemini, tu l'aimes ou tu la quittes."
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Gemini et moi, c'est pour la vie !",
+          "fr": "Gemini et moi, c'est pour la vie !",
+          "de": "Gemini et moi, c'est pour la vie !",
+          "es": "Gemini et moi, c'est pour la vie !"
+        }
+      }
+    ]
+  },
+  "rnbing": {
+    "id": "rnbing",
+    "name": {
+      "en": "Nombre d'ingrédients donnés au puits hermétique",
+      "fr": "Nombre d'ingrédients donnés au puits hermétique",
+      "de": "Nombre d'ingrédients donnés au puits hermétique",
+      "es": "Nombre d'ingrédients donnés au puits hermétique"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "J'ai fait un voeu, au cas où...",
+          "fr": "J'ai fait un voeu, au cas où...",
+          "de": "J'ai fait un voeu, au cas où...",
+          "es": "J'ai fait un voeu, au cas où..."
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "J'vais te sauver, royaume adoré !",
+          "fr": "J'vais te sauver, royaume adoré !",
+          "de": "J'vais te sauver, royaume adoré !",
+          "es": "J'vais te sauver, royaume adoré !"
+        }
+      },
+      {
+        "count": 20000,
+        "points": 0,
+        "title": {
+          "en": "On va bien finir par reboucher ce trou...",
+          "fr": "On va bien finir par reboucher ce trou...",
+          "de": "On va bien finir par reboucher ce trou...",
+          "es": "On va bien finir par reboucher ce trou..."
+        }
+      }
+    ]
+  },
+  "rnbobj": {
+    "id": "rnbobj",
+    "name": {
+      "en": "Nombre d'objectifs finalisés",
+      "fr": "Nombre d'objectifs finalisés",
+      "de": "Nombre d'objectifs finalisés",
+      "es": "Nombre d'objectifs finalisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "C'est moi qui l'ai fait ! ",
+          "fr": "C'est moi qui l'ai fait ! ",
+          "de": "C'est moi qui l'ai fait ! ",
+          "es": "C'est moi qui l'ai fait ! "
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Un petit pas pour moi, un grand pas pour mon école",
+          "fr": "Un petit pas pour moi, un grand pas pour mon école",
+          "de": "Un petit pas pour moi, un grand pas pour mon école",
+          "es": "Un petit pas pour moi, un grand pas pour mon école"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Un travail d'équipe, mais heureusement que je suis là. ",
+          "fr": "Un travail d'équipe, mais heureusement que je suis là. ",
+          "de": "Un travail d'équipe, mais heureusement que je suis là. ",
+          "es": "Un travail d'équipe, mais heureusement que je suis là. "
+        }
+      }
+    ]
+  },
+  "rbestc": {
+    "id": "rbestc",
+    "name": {
+      "en": "Nombre de fois 'meilleure classe de la lutte'",
+      "fr": "Nombre de fois 'meilleure classe de la lutte'",
+      "de": "Nombre de fois 'meilleure classe de la lutte'",
+      "es": "Nombre de fois 'meilleure classe de la lutte'"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "La planète peut nous dire merci ! ",
+          "fr": "La planète peut nous dire merci ! ",
+          "de": "La planète peut nous dire merci ! ",
+          "es": "La planète peut nous dire merci ! "
+        }
+      },
+      {
+        "count": 5,
+        "points": 0,
+        "title": {
+          "en": "La classe internationale",
+          "fr": "La classe internationale",
+          "de": "La classe internationale",
+          "es": "La classe internationale"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Anobli par la Guilde pour service rendu à la nation",
+          "fr": "Anobli par la Guilde pour service rendu à la nation",
+          "de": "Anobli par la Guilde pour service rendu à la nation",
+          "es": "Anobli par la Guilde pour service rendu à la nation"
+        }
+      }
+    ]
+  },
+  "rdonk": {
+    "id": "rdonk",
+    "name": {
+      "en": "Nombre de kubors donnés à la classe",
+      "fr": "Nombre de kubors donnés à la classe",
+      "de": "Nombre de kubors donnés à la classe",
+      "es": "Nombre de kubors donnés à la classe"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "T'as pas 2 kubors ? ",
+          "fr": "T'as pas 2 kubors ? ",
+          "de": "T'as pas 2 kubors ? ",
+          "es": "T'as pas 2 kubors ? "
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Fournisseur officiel de Kubors",
+          "fr": "Fournisseur officiel de Kubors",
+          "de": "Fournisseur officiel de Kubors",
+          "es": "Fournisseur officiel de Kubors"
+        }
+      },
+      {
+        "count": 100000,
+        "points": 0,
+        "title": {
+          "en": "Et hop, je déduis tout ça de mes impôts ! ",
+          "fr": "Et hop, je déduis tout ça de mes impôts ! ",
+          "de": "Et hop, je déduis tout ça de mes impôts ! ",
+          "es": "Et hop, je déduis tout ça de mes impôts ! "
+        }
+      }
+    ]
+  },
+  "rdonr": {
+    "id": "rdonr",
+    "name": {
+      "en": "Quantité de réputation donnée à la classe",
+      "fr": "Quantité de réputation donnée à la classe",
+      "de": "Quantité de réputation donnée à la classe",
+      "es": "Quantité de réputation donnée à la classe"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Trafiquant d'influence",
+          "fr": "Trafiquant d'influence",
+          "de": "Trafiquant d'influence",
+          "es": "Trafiquant d'influence"
+        }
+      },
+      {
+        "count": 1200,
+        "points": 0,
+        "title": {
+          "en": "Au village, sans prétention, j'ai mauvaise réputation",
+          "fr": "Au village, sans prétention, j'ai mauvaise réputation",
+          "de": "Au village, sans prétention, j'ai mauvaise réputation",
+          "es": "Au village, sans prétention, j'ai mauvaise réputation"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Gourou alchimique",
+          "fr": "Gourou alchimique",
+          "de": "Gourou alchimique",
+          "es": "Gourou alchimique"
+        }
+      }
+    ]
+  },
+  "rtp": {
+    "id": "rtp",
+    "name": {
+      "en": "Utilisation du téléporteur vers le puits hermétique",
+      "fr": "Utilisation du téléporteur vers le puits hermétique",
+      "de": "Utilisation du téléporteur vers le puits hermétique",
+      "es": "Utilisation du téléporteur vers le puits hermétique"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 0,
+        "title": {
+          "en": "J'arrive tout de suite, monsieur Spock ! ",
+          "fr": "J'arrive tout de suite, monsieur Spock ! ",
+          "de": "J'arrive tout de suite, monsieur Spock ! ",
+          "es": "J'arrive tout de suite, monsieur Spock ! "
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Shazam ! ",
+          "fr": "Shazam ! ",
+          "de": "Shazam ! ",
+          "es": "Shazam ! "
+        }
+      },
+      {
+        "count": 250,
+        "points": 0,
+        "title": {
+          "en": "M m mais non c c'est p-pas d-d-dangereux pour la s-santé",
+          "fr": "M m mais non c c'est p-pas d-d-dangereux pour la s-santé",
+          "de": "M m mais non c c'est p-pas d-d-dangereux pour la s-santé",
+          "es": "M m mais non c c'est p-pas d-d-dangereux pour la s-santé"
+        }
+      }
+    ]
+  },
+  "agrte": {
+    "id": "agrte",
+    "name": {
+      "en": "Charcleurs téléguidés utilisés",
+      "fr": "Charcleurs téléguidés utilisés",
+      "de": "Charcleurs téléguidés utilisés",
+      "es": "Charcleurs téléguidés utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Sans maîtrise, la puissance n'est rien",
+          "fr": "Sans maîtrise, la puissance n'est rien",
+          "de": "Sans maîtrise, la puissance n'est rien",
+          "es": "Sans maîtrise, la puissance n'est rien"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Prends-ça, pépite d'or ! Euh non, attendez...",
+          "fr": "Prends-ça, pépite d'or ! Euh non, attendez...",
+          "de": "Prends-ça, pépite d'or ! Euh non, attendez...",
+          "es": "Prends-ça, pépite d'or ! Euh non, attendez..."
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Ca ne marche pas avec les casse-pieds, dommage...",
+          "fr": "Ca ne marche pas avec les casse-pieds, dommage...",
+          "de": "Ca ne marche pas avec les casse-pieds, dommage...",
+          "es": "Ca ne marche pas avec les casse-pieds, dommage..."
+        }
+      }
+    ]
+  },
+  "apelu": {
+    "id": "apelu",
+    "name": {
+      "en": "Peluchards utilisés",
+      "fr": "Peluchards utilisés",
+      "de": "Peluchards utilisés",
+      "es": "Peluchards utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Ami des bêtes. Les skats hein, pas mes collègues.",
+          "fr": "Ami des bêtes. Les skats hein, pas mes collègues.",
+          "de": "Ami des bêtes. Les skats hein, pas mes collègues.",
+          "es": "Ami des bêtes. Les skats hein, pas mes collègues."
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "J'en fais des vidéos que je poste partout ! ",
+          "fr": "J'en fais des vidéos que je poste partout ! ",
+          "de": "J'en fais des vidéos que je poste partout ! ",
+          "es": "J'en fais des vidéos que je poste partout ! "
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "L'exterminateur me déteste",
+          "fr": "L'exterminateur me déteste",
+          "de": "L'exterminateur me déteste",
+          "es": "L'exterminateur me déteste"
+        }
+      }
+    ]
+  },
+  "aslid": {
+    "id": "aslid",
+    "name": {
+      "en": "Pendulors et Turbulors utilisés",
+      "fr": "Pendulors et Turbulors utilisés",
+      "de": "Pendulors et Turbulors utilisés",
+      "es": "Pendulors et Turbulors utilisés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Un peu plus à droite... Encore... Voilà",
+          "fr": "Un peu plus à droite... Encore... Voilà",
+          "de": "Un peu plus à droite... Encore... Voilà",
+          "es": "Un peu plus à droite... Encore... Voilà"
+        }
+      },
+      {
+        "count": 15,
+        "points": 0,
+        "title": {
+          "en": "Roi de la glissade",
+          "fr": "Roi de la glissade",
+          "de": "Roi de la glissade",
+          "es": "Roi de la glissade"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Je finis un rubik's cube les yeux fermés !",
+          "fr": "Je finis un rubik's cube les yeux fermés !",
+          "de": "Je finis un rubik's cube les yeux fermés !",
+          "es": "Je finis un rubik's cube les yeux fermés !"
+        }
+      }
+    ]
+  },
+  "wmiss": {
+    "id": "wmiss",
+    "name": {
+      "en": "Premier au classement de la semaine du mode 'Mission'",
+      "fr": "Premier au classement de la semaine du mode 'Mission'",
+      "de": "Premier au classement de la semaine du mode 'Mission'",
+      "es": "Premier au classement de la semaine du mode 'Mission'"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Je vois des jardiniers morts",
+          "fr": "Je vois des jardiniers morts",
+          "de": "Je vois des jardiniers morts",
+          "es": "Je vois des jardiniers morts"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Directeur du Climatex",
+          "fr": "Directeur du Climatex",
+          "de": "Directeur du Climatex",
+          "es": "Directeur du Climatex"
+        }
+      }
+    ]
+  },
+  "wdig": {
+    "id": "wdig",
+    "name": {
+      "en": "Premier au classement de la semaine du mode 'Tais-toi et creuse'",
+      "fr": "Premier au classement de la semaine du mode 'Tais-toi et creuse'",
+      "de": "Premier au classement de la semaine du mode 'Tais-toi et creuse'",
+      "es": "Premier au classement de la semaine du mode 'Tais-toi et creuse'"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Alchimiste des profondeurs",
+          "fr": "Alchimiste des profondeurs",
+          "de": "Alchimiste des profondeurs",
+          "es": "Alchimiste des profondeurs"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Just one more block...",
+          "fr": "Just one more block...",
+          "de": "Just one more block...",
+          "es": "Just one more block..."
+        }
+      }
+    ]
+  },
+  "wice": {
+    "id": "wice",
+    "name": {
+      "en": "Premier au classement de la semaine du mode 'Ice Attack'",
+      "fr": "Premier au classement de la semaine du mode 'Ice Attack'",
+      "de": "Premier au classement de la semaine du mode 'Ice Attack'",
+      "es": "Premier au classement de la semaine du mode 'Ice Attack'"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Ils sont pas frais, mes éléments ? ! ",
+          "fr": "Ils sont pas frais, mes éléments ? ! ",
+          "de": "Ils sont pas frais, mes éléments ? ! ",
+          "es": "Ils sont pas frais, mes éléments ? ! "
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Un petit glaçon ? - Juste un seau, merci. ",
+          "fr": "Un petit glaçon ? - Juste un seau, merci. ",
+          "de": "Un petit glaçon ? - Juste un seau, merci. ",
+          "es": "Un petit glaçon ? - Juste un seau, merci. "
+        }
+      }
+    ]
+  },
+  "wwind": {
+    "id": "wwind",
+    "name": {
+      "en": "Premier au classement de la semaine du mode 'Vents stellaires'",
+      "fr": "Premier au classement de la semaine du mode 'Vents stellaires'",
+      "de": "Premier au classement de la semaine du mode 'Vents stellaires'",
+      "es": "Premier au classement de la semaine du mode 'Vents stellaires'"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Mistral gagnant !",
+          "fr": "Mistral gagnant !",
+          "de": "Mistral gagnant !",
+          "es": "Mistral gagnant !"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "C'est moi, l'ouragan des éléments",
+          "fr": "C'est moi, l'ouragan des éléments",
+          "de": "C'est moi, l'ouragan des éléments",
+          "es": "C'est moi, l'ouragan des éléments"
+        }
+      }
+    ]
+  },
+  "wdflt": {
+    "id": "wdflt",
+    "name": {
+      "en": "Premier au classement général de la semaine",
+      "fr": "Premier au classement général de la semaine",
+      "de": "Premier au classement général de la semaine",
+      "es": "Premier au classement général de la semaine"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 3,
+        "title": {
+          "en": "Cette semaine, c'est moi l'chef ! ",
+          "fr": "Cette semaine, c'est moi l'chef ! ",
+          "de": "Cette semaine, c'est moi l'chef ! ",
+          "es": "Cette semaine, c'est moi l'chef ! "
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Moi, je fais partie du gratin des alchimistes",
+          "fr": "Moi, je fais partie du gratin des alchimistes",
+          "de": "Moi, je fais partie du gratin des alchimistes",
+          "es": "Moi, je fais partie du gratin des alchimistes"
+        }
+      },
+      {
+        "count": 30,
+        "points": 0,
+        "title": {
+          "en": "Etre le meilleur, c'est pas sorcier.",
+          "fr": "Etre le meilleur, c'est pas sorcier.",
+          "de": "Etre le meilleur, c'est pas sorcier.",
+          "es": "Etre le meilleur, c'est pas sorcier."
+        }
+      }
+    ]
+  },
+  "amanif": {
+    "id": "amanif",
+    "name": {
+      "en": "Participation à la manifestation",
+      "fr": "Participation à la manifestation",
+      "de": "Participation à la manifestation",
+      "es": "Participation à la manifestation"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Une seule solution, la manifestation",
+          "fr": "Une seule solution, la manifestation",
+          "de": "Une seule solution, la manifestation",
+          "es": "Une seule solution, la manifestation"
+        }
+      }
+    ]
+  }
+}

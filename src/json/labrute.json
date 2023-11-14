@@ -1,0 +1,311 @@
+{
+  "perfec": {
+    "id": "perfec",
+    "name": {
+      "en": "Perfect",
+      "fr": "Perfect!",
+      "de": "Perfekt!",
+      "es": "¡Perfecto!"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Flawless",
+          "fr": "sans accroc",
+          "de": "ohne Zwischenfälle",
+          "es": "Magnífico"
+        }
+      }
+    ]
+  },
+  "dodge": {
+    "id": "dodge",
+    "name": {
+      "en": "Dodge",
+      "fr": "Esquive",
+      "de": "Ausweichen",
+      "es": "Amago"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Into The Sky",
+          "fr": "into the sky",
+          "de": "am Himmel",
+          "es": "Veloz"
+        }
+      }
+    ]
+  },
+  "parade": {
+    "id": "parade",
+    "name": {
+      "en": "Show",
+      "fr": "Parade",
+      "de": "Show",
+      "es": "Parada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Falcon",
+          "fr": "faucon",
+          "de": "Falke",
+          "es": "Duro"
+        }
+      }
+    ]
+  },
+  "disarm": {
+    "id": "disarm",
+    "name": {
+      "en": "Disarmament",
+      "fr": "Désarmement",
+      "de": "Entwaffnung",
+      "es": "Desarme"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Peacemaker",
+          "fr": "pacificateur",
+          "de": "Friedensstifter",
+          "es": "Pacificador"
+        }
+      }
+    ]
+  },
+  "ripost": {
+    "id": "ripost",
+    "name": {
+      "en": "Replies",
+      "fr": "Rispostes",
+      "de": "Gegenschläge",
+      "es": "Réplica"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Avenger",
+          "fr": "vengeur",
+          "de": "voller Rachsucht",
+          "es": "Vengador"
+        }
+      }
+    ]
+  },
+  "countr": {
+    "id": "countr",
+    "name": {
+      "en": "Counter Attacks",
+      "fr": "Contre-Attaques",
+      "de": "Gegenangriffe",
+      "es": "Contrataques"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Damages",
+          "fr": "abimes",
+          "de": "am Abgrund",
+          "es": "Sin Piedad"
+        }
+      }
+    ]
+  },
+  "folfra": {
+    "id": "folfra",
+    "name": {
+      "en": "Animal Exterminator",
+      "fr": "Exterminateur d'Animaux",
+      "de": "Tierzerstörer",
+      "es": "Exterminador de animales"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Trapper",
+          "fr": "Trappeur",
+          "de": "Trapper",
+          "es": "Cazador"
+        }
+      }
+    ]
+  },
+  "barbar": {
+    "id": "barbar",
+    "name": {
+      "en": "Barbarian",
+      "fr": "Barbare",
+      "de": "Barbar",
+      "es": "Bárbaro"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Barbaric",
+          "fr": "Barbare",
+          "de": "Barbar",
+          "es": "Bárbaro"
+        }
+      }
+    ]
+  },
+  "brute": {
+    "id": "brute",
+    "name": {
+      "en": "Brute",
+      "fr": "Brute",
+      "de": "Brutalo",
+      "es": "Bruto"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Brutal",
+          "fr": "Brute",
+          "de": "Brutalo",
+          "es": "Bruto"
+        }
+      }
+    ]
+  },
+  "tornad": {
+    "id": "tornad",
+    "name": {
+      "en": "Tornado",
+      "fr": "Tornade",
+      "de": "Tornado",
+      "es": "Tornado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Whirlwind",
+          "fr": "Vol-au-vent",
+          "de": "Vom Winde verweht",
+          "es": "Genio"
+        }
+      }
+    ]
+  },
+  "dca": {
+    "id": "dca",
+    "name": {
+      "en": "Missile",
+      "fr": "Projectiles",
+      "de": "Projektile",
+      "es": "Proyectiles"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Ninja",
+          "fr": "Ninja",
+          "de": "Ninja",
+          "es": "Ninja"
+        }
+      }
+    ]
+  },
+  "legend": {
+    "id": "legend",
+    "name": {
+      "en": "Legendary",
+      "fr": "Légendaire",
+      "de": "Legendär",
+      "es": "Legendario"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 20,
+        "suffix": true,
+        "title": {
+          "en": "legendary",
+          "fr": "légendaire",
+          "de": "aus Legenden",
+          "es": "Legendario"
+        }
+      }
+    ]
+  },
+  "pro": {
+    "id": "pro",
+    "name": {
+      "en": "Severed Ears",
+      "fr": "Oreilles Coupées",
+      "de": "Ohrringe",
+      "es": "Orejas cortadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "oreille.gif"
+      },
+      {
+        "count": 3,
+        "points": 10,
+        "icon": "oreille_or.gif"
+      },
+      {
+        "count": 10,
+        "points": 15,
+        "prefix": true,
+        "title": {
+          "en": "Nero",
+          "fr": "Oreiller",
+          "de": "Nero",
+          "es": "Cortaorejas"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,4841 @@
+{
+  "signal_fire": {
+    "id": "signal_fire",
+    "name": {
+      "en": "Fire Reports",
+      "fr": "Signalements d'Incendies",
+      "de": "Fire Reports",
+      "es": "Señalamientos de incendios"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "win_nova": {
+    "id": "win_nova",
+    "name": {
+      "en": "Legendary Adventurer",
+      "fr": "Aventurier légendaire",
+      "de": "Legendary Adventurer",
+      "es": "Aventurero legendario"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/win_nova.png",
+        "title": {
+          "en": "Super Nova",
+          "fr": "Super Nova",
+          "de": "Super Nova",
+          "es": "Super Nova"
+        }
+      }
+    ]
+  },
+  "win_triumph": {
+    "id": "win_triumph",
+    "name": {
+      "en": "Legendary Hero",
+      "fr": "Héros légendaire",
+      "de": "Legendary Hero",
+      "es": "Héroe legendario"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/win_triumph.png",
+        "title": {
+          "en": "Super Héros",
+          "fr": "Super Héros",
+          "de": "Super Héros",
+          "es": "Super Héroe"
+        }
+      }
+    ]
+  },
+  "other_nova": {
+    "id": "other_nova",
+    "name": {
+      "en": "Space Adventurer",
+      "fr": "Aventurier de l'espace",
+      "de": "Space Adventurer",
+      "es": "Aventurero del Espacio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/other_nova.png",
+        "title": {
+          "en": "Nova-boy",
+          "fr": "Nova-boy",
+          "de": "Nova-boy",
+          "es": "Nova-boy"
+        }
+      }
+    ]
+  },
+  "other_triumph": {
+    "id": "other_triumph",
+    "name": {
+      "en": "Space Hero",
+      "fr": "Héros de l'espace",
+      "de": "Space Hero",
+      "es": "Héroe Espacial"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/other_triumph.png",
+        "title": {
+          "en": "Space Hero",
+          "fr": "Héros de l'espace",
+          "de": "Space Hero",
+          "es": "Héroe Espacial"
+        }
+      }
+    ]
+  },
+  "extinguish_fire": {
+    "id": "extinguish_fire",
+    "name": {
+      "en": "Fire Extinguisher",
+      "fr": "Extinction d'Incendies",
+      "de": "Fire Extinguisher",
+      "es": "Extinción de Incendios"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "signal_equip": {
+    "id": "signal_equip",
+    "name": {
+      "en": "Breakdown Reporter",
+      "fr": "Signalement de pannes",
+      "de": "Breakdown Reporter",
+      "es": "Señalamiento de averías"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/reported.png",
+        "title": {
+          "en": "Surface Agent",
+          "fr": "Agent de surface",
+          "de": "Surface Agent",
+          "es": "Tripulante observador"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "title": {
+          "en": "Maintenance Operative",
+          "fr": "Agent de maintenance",
+          "de": "Maintenance Operative",
+          "es": "Agente de mantenimiento"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Equipment Supervisor",
+          "fr": "Préposé aux équipements",
+          "de": "Equipment Supervisor",
+          "es": "Amigo de las máquinas"
+        }
+      },
+      {
+        "count": 200,
+        "points": 0,
+        "title": {
+          "en": "Equipmenteer",
+          "fr": "Equipementier",
+          "de": "Equipmenteer",
+          "es": "Experto en equipos"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Finished Product Inspector",
+          "fr": "inspecteur des travaux finis",
+          "de": "Finished Product Inspector",
+          "es": "Inspector técnico"
+        }
+      }
+    ]
+  },
+  "gagged": {
+    "id": "gagged",
+    "name": {
+      "en": "Gagged",
+      "fr": "Bailloné",
+      "de": "Gagged",
+      "es": "Amordazado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/status/gagged.png",
+        "title": {
+          "en": "Bailloné",
+          "fr": "Bailloné",
+          "de": "Bailloné",
+          "es": "Amordazado"
+        }
+      }
+    ]
+  },
+  "game_without_sleep": {
+    "id": "game_without_sleep",
+    "name": {
+      "en": "Days without sleep",
+      "fr": "Jours sans s'endormir",
+      "de": "Days without sleep",
+      "es": "Días sin dormir"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "ui/awake.png",
+        "title": {
+          "en": "Awakened",
+          "fr": "Eveillé",
+          "de": "Awakened",
+          "es": "Despierto"
+        }
+      },
+      {
+        "count": 20,
+        "points": 5,
+        "title": {
+          "en": "Insomniac",
+          "fr": "Insomniaque",
+          "de": "Insomniac",
+          "es": "Insomnio"
+        }
+      },
+      {
+        "count": 100,
+        "points": 5,
+        "title": {
+          "en": "Ultrawake",
+          "fr": "Extralucide",
+          "de": "Ultrawake",
+          "es": "Lúcido"
+        }
+      }
+    ]
+  },
+  "explorer": {
+    "id": "explorer",
+    "name": {
+      "en": "Explorer",
+      "fr": "Explorateur",
+      "de": "Explorer",
+      "es": "Explorador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ui/survival.png",
+        "title": {
+          "en": "Explorer",
+          "fr": "Explorateur",
+          "de": "Explorer",
+          "es": "Expedicionario"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "title": {
+          "en": "Great Explorer",
+          "fr": "Grand explorateur",
+          "de": "Great Explorer",
+          "es": "Gran Expedicionario"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Boundary Breaker",
+          "fr": "Repousseur de frontière",
+          "de": "Boundary Breaker",
+          "es": "Sin fronteras"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 5,
+        "title": {
+          "en": "Christopher Colon",
+          "fr": "Christophe Colomb",
+          "de": "Christopher Colon",
+          "es": "Starship Trooper"
+        }
+      }
+    ]
+  },
+  "triumph": {
+    "id": "triumph",
+    "name": {
+      "en": "Glory",
+      "fr": "Triomphe",
+      "de": "Glory",
+      "es": "Gloria"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ui/triumph.png",
+        "title": {
+          "en": "Acquaintance",
+          "fr": "Connaissance",
+          "de": "Acquaintance",
+          "es": "Pasante"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "title": {
+          "en": "Celebrity",
+          "fr": "Célébrité",
+          "de": "Celebrity",
+          "es": "Celebridad"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Historical Figure",
+          "fr": "Personnage Historique",
+          "de": "Historical Figure",
+          "es": "Personaje Histórico"
+        }
+      },
+      {
+        "count": 500,
+        "points": 20,
+        "title": {
+          "en": "Legend",
+          "fr": "Légende",
+          "de": "Legend",
+          "es": "Leyenda"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 0,
+        "title": {
+          "en": "Myth",
+          "fr": "Mythe",
+          "de": "Myth",
+          "es": "Mito"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Messiah",
+          "fr": "Messie",
+          "de": "Messiah",
+          "es": "Glorioso"
+        }
+      },
+      {
+        "count": 3000,
+        "points": 0,
+        "title": {
+          "en": "Creator",
+          "fr": "Demiurge",
+          "de": "Creator",
+          "es": "Ordenador del Mundo"
+        }
+      }
+    ]
+  },
+  "door_repaired": {
+    "id": "door_repaired",
+    "name": {
+      "en": "Doors repaired",
+      "fr": "Portes réparées",
+      "de": "Doors repaired",
+      "es": "Puertas reparadas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ui/door.png",
+        "title": {
+          "en": "Locksmith",
+          "fr": "Serrurier",
+          "de": "Locksmith",
+          "es": "Cerrajero"
+        }
+      }
+    ]
+  },
+  "planet_scanned": {
+    "id": "planet_scanned",
+    "name": {
+      "en": "Planets Detected",
+      "fr": "Planètes Détectées",
+      "de": "Planets Detected",
+      "es": "Planetas detectados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ui/planet.png",
+        "title": {
+          "en": "Navigator",
+          "fr": "Navigateur",
+          "de": "Navigator",
+          "es": "Navegante"
+        }
+      }
+    ]
+  },
+  "mushed": {
+    "id": "mushed",
+    "name": {
+      "en": "Infected",
+      "fr": "Infecté",
+      "de": "Infected",
+      "es": "Infectado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ui/mush.png",
+        "title": {
+          "en": "Infected",
+          "fr": "Infecté",
+          "de": "Infected",
+          "es": "Infectado"
+        }
+      }
+    ]
+  },
+  "has_mushed": {
+    "id": "has_mushed",
+    "name": {
+      "en": "Contaminator",
+      "fr": "Infecteur",
+      "de": "Contaminator",
+      "es": "Infectador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Infectious Agent",
+          "fr": "Agent infectieux",
+          "de": "Infectious Agent",
+          "es": "Mal bicho"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of times you have contaminated a member of the crew and this has become a generalized infection.",
+      "fr": "Nombre de fois où vous avez contaminé un membre de l'équipage jusqu'à l'infection totale.",
+      "de": "Number of times you have contaminated a member of the crew and this has become a generalized infection.",
+      "es": "Cantidad de veces que has contaminado a un miembro de la tripulación hasta la infección total."
+    }
+  },
+  "sleeper": {
+    "id": "sleeper",
+    "name": {
+      "en": "Siesta Time",
+      "fr": "Siestes",
+      "de": "Siesta Time",
+      "es": "Siestas"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ui/sleepy.png",
+        "title": {
+          "en": "Rip van Shroom",
+          "fr": "Ronfleur",
+          "de": "Rip van Shroom",
+          "es": "Roncador"
+        }
+      }
+    ]
+  },
+  "tutorial": {
+    "id": "tutorial",
+    "name": {
+      "en": "Apprenticeship Completed",
+      "fr": "Apprentissage Achevé",
+      "de": "Apprenticeship Completed",
+      "es": "Instrucción terminada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "ui/book.png",
+        "title": {
+          "en": "Equipier",
+          "fr": "Equipier",
+          "de": "Equipier",
+          "es": "Compañero"
+        }
+      }
+    ]
+  },
+  "explo_feed": {
+    "id": "explo_feed",
+    "name": {
+      "en": "Quartermaster",
+      "fr": "Approvisionneur",
+      "de": "Quartermaster",
+      "es": "Abastecedor"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "ui/stock.png",
+        "title": {
+          "en": "Berry Harvester",
+          "fr": "Cueilleur De Baie",
+          "de": "Berry Harvester",
+          "es": "Recolector de frutos"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "title": {
+          "en": "Hunter",
+          "fr": "Chasseur",
+          "de": "Hunter",
+          "es": "Cazador"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Safari Leader",
+          "fr": "Meneur De Safari",
+          "de": "Safari Leader",
+          "es": "Safari"
+        }
+      },
+      {
+        "count": 500,
+        "points": 20,
+        "title": {
+          "en": "Agent of Genocide",
+          "fr": "Génocideur de Monde",
+          "de": "Agent of Genocide",
+          "es": "Devastador"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 40,
+        "title": {
+          "en": "Grand Destroyer of Solar Systems",
+          "fr": "Grand Destructeur De Système Solaire",
+          "de": "Grand Destroyer of Solar Systems",
+          "es": "Arrazador"
+        }
+      }
+    ]
+  },
+  "new_plants": {
+    "id": "new_plants",
+    "name": {
+      "en": "Plantations",
+      "fr": "Plantations",
+      "de": "Plantations",
+      "es": "Plantaciones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Aphid",
+          "fr": "Puceron",
+          "de": "Aphid",
+          "es": "Sembrador"
+        }
+      }
+    ],
+    "description": {
+      "en": "Plants you have raised",
+      "fr": "Plantes que vous avez fait naître",
+      "de": "Plants you have raised",
+      "es": "Plantas a las que has dado vida"
+    }
+  },
+  "give_mission": {
+    "id": "give_mission",
+    "name": {
+      "en": "Missions",
+      "fr": "Missions",
+      "de": "Missions",
+      "es": "Misiones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Soldier",
+          "fr": "Troufion",
+          "de": "Soldier",
+          "es": "Jefe"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "Chief",
+          "fr": "Chef",
+          "de": "Chief",
+          "es": "Patrón"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "Captain",
+          "fr": "Capitaine",
+          "de": "Captain",
+          "es": "Autoridad"
+        }
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "title": {
+          "en": "Commandant",
+          "fr": "Commandant",
+          "de": "Commandant",
+          "es": "Capataz"
+        }
+      },
+      {
+        "count": 500,
+        "points": 1,
+        "title": {
+          "en": "General",
+          "fr": "Général",
+          "de": "General",
+          "es": "Dictador"
+        }
+      }
+    ],
+    "description": {
+      "en": "Missions you have delegated which have been accepted",
+      "fr": "Missions que vous avez données et qui ont été acceptées",
+      "de": "Missions you have delegated which have been accepted",
+      "es": "Misiones que has dado y que han sido aceptadas"
+    }
+  },
+  "daily_order": {
+    "id": "daily_order",
+    "name": {
+      "en": "General Announcement",
+      "fr": "Annonce Générale",
+      "de": "General Announcement",
+      "es": "Anuncio general"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Orator",
+          "fr": "Annonceur",
+          "de": "Orator",
+          "es": "Anunciante"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "Loudspeaker",
+          "fr": "Haut-Parleur",
+          "de": "Loudspeaker",
+          "es": "Bocina"
+        }
+      },
+      {
+        "count": 20,
+        "points": 1,
+        "title": {
+          "en": "Herald",
+          "fr": "Herault",
+          "de": "Herald",
+          "es": "Heraldo"
+        }
+      }
+    ],
+    "description": {
+      "en": "General Announcements sent",
+      "fr": "Annonces générales passées",
+      "de": "General Announcements sent",
+      "es": "Anuncios generales emitidos"
+    }
+  },
+  "hunter_down": {
+    "id": "hunter_down",
+    "name": {
+      "en": "Hunters Defeated",
+      "fr": "Hunters Abattus",
+      "de": "Hunters Defeated",
+      "es": "Hunters derribados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Cockroach",
+          "fr": "Cancrelat",
+          "de": "Cockroach",
+          "es": "Tirapiedras"
+        }
+      },
+      {
+        "count": 20,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Pilot",
+          "fr": "Pilote",
+          "de": "Pilot",
+          "es": "Piloto"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Hunter",
+          "fr": "Chasseur",
+          "de": "Hunter",
+          "es": "Piloto de caza"
+        }
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Elite Pilot",
+          "fr": "Pilote D'Elite",
+          "de": "Elite Pilot",
+          "es": "Artillero espacial"
+        }
+      },
+      {
+        "count": 500,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Fungal Flea",
+          "fr": "Fléau Fongique",
+          "de": "Fungal Flea",
+          "es": "Destroyer"
+        }
+      }
+    ],
+    "description": {
+      "en": "Hunters you have defeated",
+      "fr": "Hunters abattus par vos soins",
+      "de": "Hunters you have defeated",
+      "es": "Hunters derribados por ti"
+    }
+  },
+  "day_5_reached": {
+    "id": "day_5_reached",
+    "name": {
+      "en": "Day 5 Reached",
+      "fr": "Jour 5 Atteint",
+      "de": "Day 5 Reached",
+      "es": "Día 5 alcanzado"
+    },
+    "rare": 3,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Survivor",
+          "fr": "Survivant",
+          "de": "Survivor",
+          "es": "Superviviente"
+        }
+      }
+    ]
+  },
+  "day_10_reached": {
+    "id": "day_10_reached",
+    "name": {
+      "en": "Day 10 Reached",
+      "fr": "Jour 10 Atteint",
+      "de": "Day 10 Reached",
+      "es": "Día 10 alcanzado"
+    },
+    "rare": 4,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Hero",
+          "fr": "Héros",
+          "de": "Hero",
+          "es": "Héroe"
+        }
+      }
+    ]
+  },
+  "day_15_reached": {
+    "id": "day_15_reached",
+    "name": {
+      "en": "Day 15 Reached",
+      "fr": "Jour 15 Atteint",
+      "de": "Day 15 Reached",
+      "es": "Día 15 alcanzado"
+    },
+    "rare": 5,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Elder",
+          "fr": "Ancien",
+          "de": "Elder",
+          "es": "Antiguo"
+        }
+      }
+    ]
+  },
+  "day_20_reached": {
+    "id": "day_20_reached",
+    "name": {
+      "en": "Day 20 Reached",
+      "fr": "Jour 20 Atteint",
+      "de": "Day 20 Reached",
+      "es": "Día 20 alcanzado"
+    },
+    "rare": 6,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Divinity",
+          "fr": "Divinité",
+          "de": "Divinity",
+          "es": "Divinidad"
+        }
+      }
+    ]
+  },
+  "day_30_reached": {
+    "id": "day_30_reached",
+    "name": {
+      "en": "Day 30 Reached",
+      "fr": "Jour 30 Atteint",
+      "de": "Day 30 Reached",
+      "es": "Día 30 alcanzado"
+    },
+    "rare": 7,
+    "unlocks": []
+  },
+  "ration_cooked": {
+    "id": "ration_cooked",
+    "name": {
+      "en": "Dishes Cooked",
+      "fr": "Plats cuisinés",
+      "de": "Dishes Cooked",
+      "es": "Platos cocinados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Commis",
+          "fr": "Commis",
+          "de": "Commis",
+          "es": "Chef"
+        }
+      }
+    ]
+  },
+  "plasma_shield": {
+    "id": "plasma_shield",
+    "name": {
+      "en": "Plasma Shield",
+      "fr": "Bouclier Plasma",
+      "de": "Plasma Shield",
+      "es": "Escudo plasma"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Protector",
+          "fr": "Protecteur",
+          "de": "Protector",
+          "es": "Protector"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of times that the plasma shield has been used by your crew during a journey",
+      "fr": "Nombre de fois où le Bouclier Plasma a été mis en service par votre équipage durant un voyage",
+      "de": "Number of times that the plasma shield has been used by your crew during a journey",
+      "es": "Cantidad de veces que el Escudo Plasma ha sido activado por la tripulación durante el viaje"
+    }
+  },
+  "surgeon": {
+    "id": "surgeon",
+    "name": {
+      "en": "Surgeon",
+      "fr": "Chirurgien",
+      "de": "Surgeon",
+      "es": "Cirujano"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Surgeon",
+          "fr": "Chirurgien",
+          "de": "Surgeon",
+          "es": "Cirujano de Bergerac"
+        }
+      }
+    ],
+    "description": {
+      "en": "Surgical procedures carried out",
+      "fr": "Actes de chirurgie réussies",
+      "de": "Surgical procedures carried out",
+      "es": "Operaciones quirúrgicas exitosas"
+    }
+  },
+  "butcher": {
+    "id": "butcher",
+    "name": {
+      "en": "Butcher",
+      "fr": "Boucher",
+      "de": "Butcher",
+      "es": "Carnicero"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Butcher",
+          "fr": "Boucher",
+          "de": "Butcher",
+          "es": "Carnicero"
+        }
+      }
+    ],
+    "description": {
+      "en": "Surgical procedure fails",
+      "fr": "Actes de chirurgie ratés",
+      "de": "Surgical procedure fails",
+      "es": "Cirugías fallidas"
+    }
+  },
+  "shrinker": {
+    "id": "shrinker",
+    "name": {
+      "en": "Complete Psychoanalysis",
+      "fr": "Psychanalyse Totale",
+      "de": "Complete Psychoanalysis",
+      "es": "Psicoanálista"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Psychoanalyst",
+          "fr": "Psychanaliste",
+          "de": "Psychoanalyst",
+          "es": "Psicoanalista"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Psychiatrist",
+          "fr": "Psychiatre",
+          "de": "Psychiatrist",
+          "es": "Psiquiatra"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Guru",
+          "fr": "Gourou",
+          "de": "Guru",
+          "es": "Gurú"
+        }
+      }
+    ],
+    "description": {
+      "en": "Psychological Illnesses Treated",
+      "fr": "Maladies Psychologiques guéries",
+      "de": "Psychological Illnesses Treated",
+      "es": "Enfermedades psicológicas curadas"
+    }
+  },
+  "physicist": {
+    "id": "physicist",
+    "name": {
+      "en": "Physician's Core",
+      "fr": "Personnel Soignant",
+      "de": "Physician's Core",
+      "es": "Sanador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Nurse",
+          "fr": "Infirmier",
+          "de": "Nurse",
+          "es": "Practicante"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Intern",
+          "fr": "Interne",
+          "de": "Intern",
+          "es": "Enfermero"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Doctor",
+          "fr": "Docteur",
+          "de": "Doctor",
+          "es": "Doctor"
+        }
+      }
+    ],
+    "description": {
+      "en": "Physical Issues Healed",
+      "fr": "Maladies Physiques guéries",
+      "de": "Physical Issues Healed",
+      "es": "Enfermedades físicas curadas"
+    }
+  },
+  "politician": {
+    "id": "politician",
+    "name": {
+      "en": "Politician",
+      "fr": "Homme Politique",
+      "de": "Politician",
+      "es": "Político"
+    },
+    "rare": 4,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Town Counsellor",
+          "fr": "Conseiller Municipal",
+          "de": "Town Counsellor",
+          "es": "Parlanchín"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Mayor",
+          "fr": "Maire",
+          "de": "Mayor",
+          "es": "Charlatán"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Swindler",
+          "fr": "Escroc",
+          "de": "Swindler",
+          "es": "Embustero"
+        }
+      }
+    ],
+    "description": {
+      "en": "Speeches given in front of at least 8 Spectators",
+      "fr": "Discours prononcé avec plus de 8 Spectateurs.",
+      "de": "Speeches given in front of at least 8 Spectators",
+      "es": "Discurso dado a más de 8 espectadores."
+    }
+  },
+  "artefact_coll": {
+    "id": "artefact_coll",
+    "name": {
+      "en": "Artefacts collected",
+      "fr": "Artefacts collectés",
+      "de": "Artefacts collected",
+      "es": "Artefactos colectados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Unknown Archaeologist",
+          "fr": "Archéologue Inconnu",
+          "de": "Unknown Archaeologist",
+          "es": "Arqueólogo desconocido"
+        }
+      },
+      {
+        "count": 10,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Allan Grant",
+          "fr": "Allan Grant",
+          "de": "Allan Grant",
+          "es": "Buscatesoros"
+        }
+      },
+      {
+        "count": 15,
+        "points": 50,
+        "prefix": true,
+        "title": {
+          "en": "Indiana Jones",
+          "fr": "Indiana Jones",
+          "de": "Indiana Jones",
+          "es": "Coleccionista"
+        }
+      }
+    ],
+    "description": {
+      "en": "Artefacts recovered on expeditions throughout your career.",
+      "fr": "Artefacts collectés en expédition tout au long de votre carrière.",
+      "de": "Artefacts recovered on expeditions throughout your career.",
+      "es": "Artefactos colectados en expedición a lo largo de tu carrera."
+    }
+  },
+  "artefact_specialist": {
+    "id": "artefact_specialist",
+    "name": {
+      "en": "Artefact Specialist",
+      "fr": "Spécialiste en artefacts",
+      "de": "Artefact Specialist",
+      "es": "Especialista en artefactos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Sweeper",
+          "fr": "Balayeur",
+          "de": "Sweeper",
+          "es": "Barredor"
+        }
+      },
+      {
+        "count": 2,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Scavenger",
+          "fr": "Fouineur",
+          "de": "Scavenger",
+          "es": "Recogedor"
+        }
+      },
+      {
+        "count": 3,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Seeker",
+          "fr": "Chercheur",
+          "de": "Seeker",
+          "es": "Buscón"
+        }
+      },
+      {
+        "count": 4,
+        "points": 20,
+        "prefix": true,
+        "title": {
+          "en": "Explorer",
+          "fr": "Explorateur",
+          "de": "Explorer",
+          "es": "Pillo"
+        }
+      },
+      {
+        "count": 5,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Guardian",
+          "fr": "Gardien",
+          "de": "Guardian",
+          "es": "Guardián"
+        }
+      },
+      {
+        "count": 6,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Shaman",
+          "fr": "Shaman",
+          "de": "Shaman",
+          "es": "Brujo"
+        }
+      },
+      {
+        "count": 7,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Magician",
+          "fr": "Magicien",
+          "de": "Magician",
+          "es": "Mago"
+        }
+      },
+      {
+        "count": 8,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Prophet",
+          "fr": "Prophète",
+          "de": "Prophet",
+          "es": "Profeta"
+        }
+      }
+    ],
+    "description": {
+      "en": "The maximum number of different types of artefact collected by your crew on an expedition during a single game",
+      "fr": "Nombre maximal d'artefacts différents collectés en expédition par votre équipage au cours d'une seule partie.",
+      "de": "The maximum number of different types of artefact collected by your crew on an expedition during a single game",
+      "es": "Cantidad máxima de artefactos diferentes colectados en expedición por tu equipo durante una sola partida."
+    }
+  },
+  "tags_complete": {
+    "id": "tags_complete",
+    "name": {
+      "en": "Total Clearance",
+      "fr": "Balayages Complets",
+      "de": "Total Clearance",
+      "es": "Sectores revelados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Mad Scanner",
+          "fr": "Scanneur Fou",
+          "de": "Mad Scanner",
+          "es": "Loco del scanner"
+        }
+      }
+    ],
+    "description": {
+      "en": "The number of planets where all sectors have been revealed by your crew during a single game.",
+      "fr": "Nombre de planètes dont toutes les sections ont été révélées par votre équipage durant une partie.",
+      "de": "The number of planets where all sectors have been revealed by your crew during a single game.",
+      "es": "Cantidad de planetas cuyos sectores han sido revelados por tu equipo durante una partida."
+    }
+  },
+  "research_team": {
+    "id": "research_team",
+    "name": {
+      "en": "Research Team",
+      "fr": "Equipe De Chercheurs",
+      "de": "Research Team",
+      "es": "Equipo de investigadores"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Lab Rat",
+          "fr": "Rat De Laboratoire",
+          "de": "Lab Rat",
+          "es": "Rata de laboratorio"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "PhD Student",
+          "fr": "Doctorant",
+          "de": "PhD Student",
+          "es": "Auxiliar"
+        }
+      },
+      {
+        "count": 4,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Researcher",
+          "fr": "Chercheur",
+          "de": "Researcher",
+          "es": "Investigador"
+        }
+      },
+      {
+        "count": 8,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Professor",
+          "fr": "Professeur",
+          "de": "Professor",
+          "es": "Profesor"
+        }
+      },
+      {
+        "count": 16,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Omniscient",
+          "fr": "Omniscient",
+          "de": "Omniscient",
+          "es": "Científico loco"
+        }
+      }
+    ],
+    "description": {
+      "en": "Most research ever carried out by one of your crews.",
+      "fr": "Nombre maximal de Recherches jamais atteint par un de vos équipages.",
+      "de": "Most research ever carried out by one of your crews.",
+      "es": "Cantidad máxima de investigaciones científicas realizadas por uno de tus equipos."
+    }
+  },
+  "project_team": {
+    "id": "project_team",
+    "name": {
+      "en": "Technical Team",
+      "fr": "Equipe Technique",
+      "de": "Technical Team",
+      "es": "Equipo técnico"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Maintenance Tech",
+          "fr": "Agent de Maintenance",
+          "de": "Maintenance Tech",
+          "es": "Manutencionario"
+        }
+      },
+      {
+        "count": 2,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Technician",
+          "fr": "Technicien",
+          "de": "Technician",
+          "es": "Manitas"
+        }
+      },
+      {
+        "count": 4,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Mechanic",
+          "fr": "Mécanicien",
+          "de": "Mechanic",
+          "es": "Técnico"
+        }
+      },
+      {
+        "count": 8,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Engineer",
+          "fr": "Ingénieur",
+          "de": "Engineer",
+          "es": "Especialista"
+        }
+      },
+      {
+        "count": 16,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Omnipotent",
+          "fr": "Omnipotent",
+          "de": "Omnipotent",
+          "es": "Ingeniero"
+        }
+      }
+    ],
+    "description": {
+      "en": "Maximum number of projects ever carried out by one of your crews.",
+      "fr": "Nombre maximal de Projets jamais développés par un de vos équipages.",
+      "de": "Maximum number of projects ever carried out by one of your crews.",
+      "es": "Cantidad máxima de proyectos desarrollados por uno de tus equipos."
+    }
+  },
+  "team_all_rebels": {
+    "id": "team_all_rebels",
+    "name": {
+      "en": "Revolution!",
+      "fr": "Revolution !",
+      "de": "Revolution!",
+      "es": "¡Revolución!"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Commune",
+          "fr": "Commune",
+          "de": "Commune",
+          "es": "Insurrección"
+        }
+      },
+      {
+        "count": 5,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Revolution",
+          "fr": "Révolution",
+          "de": "Revolution",
+          "es": "Revolución"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Liberation",
+          "fr": "Libération",
+          "de": "Liberation",
+          "es": "Liberación"
+        }
+      }
+    ],
+    "description": {
+      "en": "Your team decoded all rebel transmissions during a voyage.",
+      "fr": "Votre équipe a décodé tous les signaux rebelles durant un voyage.",
+      "de": "Your team decoded all rebel transmissions during a voyage.",
+      "es": "Tu equipo ha descifrado todos los mensajes rebeldes durante un viaje."
+    }
+  },
+  "team_rebels": {
+    "id": "team_rebels",
+    "name": {
+      "en": "Rebellion!",
+      "fr": "Rébellion !",
+      "de": "Rebellion!",
+      "es": "¡Rebelión!"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Dissident",
+          "fr": "Dissident",
+          "de": "Dissident",
+          "es": "Disidente"
+        }
+      },
+      {
+        "count": 3,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Rebel",
+          "fr": "Rebelle",
+          "de": "Rebel",
+          "es": "Rebelde"
+        }
+      },
+      {
+        "count": 6,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Terrorist",
+          "fr": "Terroriste",
+          "de": "Terrorist",
+          "es": "Terrorista"
+        }
+      }
+    ],
+    "description": {
+      "en": "Maximum number of rebel transmissions decoded by your team during a voyage",
+      "fr": "Nombre maximal de signaux rebelles décodés par votre équipage durant un voyage.",
+      "de": "Maximum number of rebel transmissions decoded by your team during a voyage",
+      "es": "Cantidad máxima de señales rebeldes decodificadas por tu equipo durante un viaje."
+    }
+  },
+  "rebels": {
+    "id": "rebels",
+    "name": {
+      "en": "Read all about it!",
+      "fr": "5ème Colonne",
+      "de": "Read all about it!",
+      "es": "Contacto rebelde"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "Pirate Radio",
+          "fr": "Radio Pirate",
+          "de": "Pirate Radio",
+          "es": "Radio Pirata"
+        }
+      }
+    ],
+    "description": {
+      "en": "Rebel bases personally contacted",
+      "fr": "Bases rebelles contactées par vos soins.",
+      "de": "Rebel bases personally contacted",
+      "es": "Bases rebeldes contactadas por ti."
+    }
+  },
+  "kivanc_contacted": {
+    "id": "kivanc_contacted",
+    "name": {
+      "en": "Kivanç Terzi contacted",
+      "fr": "Kivanç Terzi contacté",
+      "de": "Kivanç Terzi contacted",
+      "es": "Kivanç Terzi contactado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Rebel Chief",
+          "fr": "Chef Rebelle",
+          "de": "Rebel Chief",
+          "es": "Cabecilla"
+        }
+      }
+    ],
+    "description": {
+      "en": "The ship's crew has managed to contact Kivanç Terzi",
+      "fr": "L'équipage du vaisseau a contacté Kivanç Terzi.",
+      "de": "The ship's crew has managed to contact Kivanç Terzi",
+      "es": "La tripulación ha contactado con Kivanç Terzi."
+    }
+  },
+  "nils_contacted": {
+    "id": "nils_contacted",
+    "name": {
+      "en": "Nils contacted",
+      "fr": "Nils contacté",
+      "de": "Nils contacted",
+      "es": "Nils contactado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Scientific Authority",
+          "fr": "Autorité Scientifique",
+          "de": "Scientific Authority",
+          "es": "Autoridad científica"
+        }
+      }
+    ],
+    "description": {
+      "en": "The ship's crew has successfully contacted Nils Carlsson",
+      "fr": "L'équipage du vaisseau a contacté Nils Carlsson.",
+      "de": "The ship's crew has successfully contacted Nils Carlsson",
+      "es": "La tripulación ha contactado con Nils Carlsson."
+    }
+  },
+  "mage_books_learned": {
+    "id": "mage_books_learned",
+    "name": {
+      "en": "Skill books",
+      "fr": "Apprentrons",
+      "de": "Skill books",
+      "es": "Librotrones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "Savant",
+          "fr": "Savant",
+          "de": "Savant",
+          "es": "Sabio"
+        }
+      }
+    ],
+    "description": {
+      "en": "Skill book",
+      "fr": "Apprentrons consultés",
+      "de": "Skill book",
+      "es": "Librotrones consultados"
+    }
+  },
+  "back_to_root": {
+    "id": "back_to_root",
+    "name": {
+      "en": "Sol",
+      "fr": "Sol",
+      "de": "Sol",
+      "es": "Sistema Solar"
+    },
+    "rare": 6,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Citizen of Sol",
+          "fr": "Citoyen de Sol",
+          "de": "Citizen of Sol",
+          "es": "Todos vuelven"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of return trips made to Sol. How was the trip?",
+      "fr": "Nombre de trajets de retour vers Sol effectués. Content du voyage ?",
+      "de": "Number of return trips made to Sol. How was the trip?",
+      "es": "Cantidad de viajes de vuelta al Sistema Solar realizados."
+    }
+  },
+  "pilgred_back_online": {
+    "id": "pilgred_back_online",
+    "name": {
+      "en": "PILGRED IS BACK!",
+      "fr": "PILGRED EST DE RETOUR !",
+      "de": "PILGRED IS BACK!",
+      "es": "¡PILGRED ESTÁ DE VUELTA!"
+    },
+    "rare": 8,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Next Generation Propulsion",
+          "fr": "Propulsion De Prochaine Génération",
+          "de": "Next Generation Propulsion",
+          "es": "Propulsión de Última Generación"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of trips on which you've managed to get PILGRED back online.",
+      "fr": "Nombre de voyages où votre équipage a réussi à remettre PILGRED en ligne.",
+      "de": "Number of trips on which you've managed to get PILGRED back online.",
+      "es": "Cantidad de viajes en los que la tripulación volvió a poner a PILGRED en línea."
+    }
+  },
+  "drugs_taken": {
+    "id": "drugs_taken",
+    "name": {
+      "en": "Little treats you've helped yourself to!",
+      "fr": "Laissez manger les petits cachets !",
+      "de": "Little treats you've helped yourself to!",
+      "es": "¡Las pastillitas son mías!"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "Pillhead",
+          "fr": "Cacheton",
+          "de": "Pillhead",
+          "es": "Automedicado"
+        }
+      }
+    ],
+    "description": {
+      "en": "Pills popped",
+      "fr": "Gourmandises avalées",
+      "de": "Pills popped",
+      "es": "Pastillas y otras sustancias consumidas"
+    }
+  },
+  "coffee_taken": {
+    "id": "coffee_taken",
+    "name": {
+      "en": "16 coffees please!",
+      "fr": "Un café pour la 16 !",
+      "de": "16 coffees please!",
+      "es": "¡Un cafecito por favor!"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "COFFEE!",
+          "fr": "CAFE !",
+          "de": "COFFEE!",
+          "es": "¡RÁPIDO, CAFÉ!"
+        }
+      },
+      {
+        "count": 500,
+        "points": 10,
+        "title": {
+          "en": "Caffeine-o-holic",
+          "fr": "Cafféinomae",
+          "de": "Caffeine-o-holic",
+          "es": "Cafeinómano"
+        }
+      }
+    ],
+    "description": {
+      "en": "Coffees you have had",
+      "fr": "Cafés avalés",
+      "de": "Coffees you have had",
+      "es": "Cafés consumidos"
+    }
+  },
+  "cooked_taken": {
+    "id": "cooked_taken",
+    "name": {
+      "en": "Cooked rations eaten",
+      "fr": "Rations cuisinées avalées",
+      "de": "Cooked rations eaten",
+      "es": "Raciones cocinadas consumidas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Max Nomnom",
+          "fr": "Morfal",
+          "de": "Max Nomnom",
+          "es": "Tragón"
+        }
+      }
+    ]
+  },
+  "ration_taken": {
+    "id": "ration_taken",
+    "name": {
+      "en": "Rations eaten",
+      "fr": "Rations avalées",
+      "de": "Rations eaten",
+      "es": "Raciones consumidas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Greedy Pig",
+          "fr": "Goinfre",
+          "de": "Greedy Pig",
+          "es": "Glotón"
+        }
+      }
+    ]
+  },
+  "frozen_taken": {
+    "id": "frozen_taken",
+    "name": {
+      "en": "Frozen food eaten",
+      "fr": "Aliments Congelés avalés",
+      "de": "Frozen food eaten",
+      "es": "Alimentos congelados consumidos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Yeti",
+          "fr": "Yéti",
+          "de": "Yeti",
+          "es": "Yeti"
+        }
+      }
+    ]
+  },
+  "grenadier": {
+    "id": "grenadier",
+    "name": {
+      "en": "Grenadier",
+      "fr": "Grenadier",
+      "de": "Grenadier",
+      "es": "Granadero"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Grenadier",
+          "fr": "Grenadier",
+          "de": "Grenadier",
+          "es": "Granadero"
+        }
+      }
+    ],
+    "description": {
+      "en": "Grenades used by your team on expeditions",
+      "fr": "Nombre de grenades utilisées en expédition par votre équipe.",
+      "de": "Grenades used by your team on expeditions",
+      "es": "Cantidad de granadas utilizadas en expedición por tu equipo."
+    }
+  },
+  "natamist": {
+    "id": "natamist",
+    "name": {
+      "en": "Natamist",
+      "fr": "Natamiste",
+      "de": "Natamist",
+      "es": "Fusilador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Rifleman",
+          "fr": "Lepiocidaire",
+          "de": "Rifleman",
+          "es": "Fusilador"
+        }
+      }
+    ],
+    "description": {
+      "en": "Represents ofstroyed with the Natamy Rifle",
+      "fr": "Représentant Mush détruit au Fusil Natamy",
+      "de": "Represents ofstroyed with the Natamy Rifle",
+      "es": "Mush destruido por un Fusil Natamy"
+    }
+  },
+  "mush_killed": {
+    "id": "mush_killed",
+    "name": {
+      "en": "Shroom Killer",
+      "fr": "Bourreau Des Mush",
+      "de": "Shroom Killer",
+      "es": "Verdugo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Sporophobe",
+          "fr": "Sporophobe",
+          "de": "Sporophobe",
+          "es": "Matamush"
+        }
+      }
+    ],
+    "description": {
+      "en": "You have wasted Mush with your own two hands!",
+      "fr": "Mush que vous avez tués de vos propres mains !",
+      "de": "You have wasted Mush with your own two hands!",
+      "es": "¡Mush que has matado con tus propias manos!"
+    }
+  },
+  "team_mush_killed": {
+    "id": "team_mush_killed",
+    "name": {
+      "en": "Soldier of Humanity",
+      "fr": "Soldat de l'Humanité",
+      "de": "Soldier of Humanity",
+      "es": "Defensor de la Humanidad"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "title": {
+          "en": "Agaric Eater",
+          "fr": "Mangeur D'Agaric",
+          "de": "Agaric Eater",
+          "es": "Miradas amenazadoras"
+        }
+      },
+      {
+        "count": 50,
+        "points": 8,
+        "title": {
+          "en": "Puffball Exploder",
+          "fr": "Exploseur De Vesse De Loup",
+          "de": "Puffball Exploder",
+          "es": "Matones"
+        }
+      },
+      {
+        "count": 100,
+        "points": 10,
+        "title": {
+          "en": "Boletus Crusher",
+          "fr": "Ecraseur de Bolet",
+          "de": "Boletus Crusher",
+          "es": "Pandillero"
+        }
+      },
+      {
+        "count": 200,
+        "points": 20,
+        "title": {
+          "en": "Shroom Broom",
+          "fr": "Ravageur Du Père Magotte",
+          "de": "Shroom Broom",
+          "es": "Gangster"
+        }
+      },
+      {
+        "count": 500,
+        "points": 30,
+        "title": {
+          "en": "Meadow Menace",
+          "fr": "Cauchemard Des Prés",
+          "de": "Meadow Menace",
+          "es": "Pesadilla"
+        }
+      },
+      {
+        "count": 750,
+        "points": 40,
+        "title": {
+          "en": "Great Myconian Plague",
+          "fr": "Grand Fléau Myconien",
+          "de": "Great Myconian Plague",
+          "es": "Cuadrilla"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 50,
+        "title": {
+          "en": "Great Tribal Leader of the Devourers of Phallic Amanite",
+          "fr": "Chef De Caste Des Dévoreurs D'Amanite Phalloïde",
+          "de": "Great Tribal Leader of the Devourers of Phallic Amanite",
+          "es": "Jefe de tropa antimushiana"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 30,
+        "title": {
+          "en": "Grand Temporal Rhizome Destroyer",
+          "fr": "Archi Déchireur Des Rhizomes Temporels",
+          "de": "Grand Temporal Rhizome Destroyer",
+          "es": "Archienemigo del Mush"
+        }
+      },
+      {
+        "count": 4000,
+        "points": 30,
+        "title": {
+          "en": "Great Ancient Purifier of Cheaters of Death",
+          "fr": "Purificateur Des Trompes De La Mort Des Grandes Anciennes",
+          "de": "Great Ancient Purifier of Cheaters of Death",
+          "es": "Aniquilador de Mush"
+        }
+      }
+    ],
+    "description": {
+      "en": "Mush invaders decimated by the crews with which you have travelled",
+      "fr": "Envahisseurs Mush décimés par les équipages avec lesquels vous avez voyagé.",
+      "de": "Mush invaders decimated by the crews with which you have travelled",
+      "es": "Invasores Mush aniquilados por el equipo con el que viajabas."
+    }
+  },
+  "camera_installed": {
+    "id": "camera_installed",
+    "name": {
+      "en": "Telegenius",
+      "fr": "Télégénie",
+      "de": "Telegenius",
+      "es": "Broadcaster"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "suffix": true,
+        "title": {
+          "en": "Telegenic",
+          "fr": "Télégénique",
+          "de": "Telegenic",
+          "es": "Mediático"
+        }
+      }
+    ],
+    "description": {
+      "en": "Cameras Installed",
+      "fr": "Caméras installées",
+      "de": "Cameras Installed",
+      "es": "Cámaras instaladas"
+    }
+  },
+  "cat_cuddled": {
+    "id": "cat_cuddled",
+    "name": {
+      "en": "Cat Cuddles",
+      "fr": "Chats câlinés",
+      "de": "Cat Cuddles",
+      "es": "Gatos acariciados"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "Felinophile",
+          "fr": "Felinophile",
+          "de": "Felinophile",
+          "es": "Gatubelo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of times you have caught Schrödinger",
+      "fr": "Nombre de fois où vous avez attrapé Schrödinger.",
+      "de": "Number of times you have caught Schrödinger",
+      "es": "Cantidad de veces en las que has atrapado a Schrödinger."
+    }
+  },
+  "disease_contracted": {
+    "id": "disease_contracted",
+    "name": {
+      "en": "Disease Contracted",
+      "fr": "Maladies contractées",
+      "de": "Disease Contracted",
+      "es": "Enfermedades contraídas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "Hypocondriac",
+          "fr": "Hypocondriaque",
+          "de": "Hypocondriac",
+          "es": "Hipocondríaco"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "suffix": true,
+        "title": {
+          "en": "Sicknote",
+          "fr": "Chétif",
+          "de": "Sicknote",
+          "es": "Bajas Defensas"
+        }
+      },
+      {
+        "count": 20,
+        "points": 0,
+        "prefix": true,
+        "title": {
+          "en": "Chronic Sufferer",
+          "fr": "Malade Chronique",
+          "de": "Chronic Sufferer",
+          "es": "Enfermo Crónico"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "prefix": true,
+        "title": {
+          "en": "Needs to man up",
+          "fr": "Grand Soufreteux",
+          "de": "Needs to man up",
+          "es": "Paciente de Oro"
+        }
+      }
+    ],
+    "description": {
+      "en": "Vomiting, coughs, colds and other complaints...",
+      "fr": "Vomissement, Toux, Grippe, et autres désagréments...",
+      "de": "Vomiting, coughs, colds and other complaints...",
+      "es": "Vómitos, Tos, Gripe, y demás..."
+    }
+  },
+  "venerian_disease": {
+    "id": "venerian_disease",
+    "name": {
+      "en": "Venereal Diseases Caught",
+      "fr": "Maladies vénériennes contractées",
+      "de": "Venereal Diseases Caught",
+      "es": "Enfermedades venéreas contraídas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "prefix": true,
+        "title": {
+          "en": "Hedonist",
+          "fr": "Hédoniste",
+          "de": "Hedonist",
+          "es": "Promiscuo"
+        }
+      }
+    ],
+    "description": {
+      "en": "...",
+      "fr": "...",
+      "de": "...",
+      "es": "..."
+    }
+  },
+  "mankarog_down": {
+    "id": "mankarog_down",
+    "name": {
+      "en": "Mankarogs Killed",
+      "fr": "Mankarogs Abattus",
+      "de": "Mankarogs Killed",
+      "es": "Mankarogs abatidos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Davy Crockett of Infinite Space",
+          "fr": "Davy Crockett De L'Infini ",
+          "de": "Davy Crockett of Infinite Space",
+          "es": "Cazador de lo Extremo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Mankarogs killed by your team during expeditions",
+      "fr": "Mankarogs tués par votre équipe en expédition",
+      "de": "Mankarogs killed by your team during expeditions",
+      "es": "Mankarogs abatidos por tu equipo en expedición"
+    }
+  },
+  "succeeded_inspection": {
+    "id": "succeeded_inspection",
+    "name": {
+      "en": "Successful Inspections",
+      "fr": "Inspections Réussies",
+      "de": "Successful Inspections",
+      "es": "Inspecciones exitosas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Elijah Baley",
+          "fr": "Elijah Baley",
+          "de": "Elijah Baley",
+          "es": "Elijah Baley"
+        }
+      }
+    ],
+    "description": {
+      "en": "He who searches, finds!",
+      "fr": "Qui cherche trouve !",
+      "de": "He who searches, finds!",
+      "es": "¡El que busca, encuentra!"
+    }
+  },
+  "kind_person": {
+    "id": "kind_person",
+    "name": {
+      "en": "Psychological Support",
+      "fr": "Soutiens Psychologiques",
+      "de": "Psychological Support",
+      "es": "Ayudas psicológicas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Psychologist of the ages",
+          "fr": "Psychologue Des Eons",
+          "de": "Psychologist of the ages",
+          "es": "Psicólogo Espacial"
+        }
+      }
+    ],
+    "description": {
+      "en": "On this occasion, you managed to find the perfect words...",
+      "fr": "A ce moment là, vous avez su trouvez les mots justes...",
+      "de": "On this occasion, you managed to find the perfect words...",
+      "es": "Todo comenzó una vez, cuando ..."
+    }
+  },
+  "coffee_man": {
+    "id": "coffee_man",
+    "name": {
+      "en": "Caffeine Junkie",
+      "fr": "Squatteur De Cafetière",
+      "de": "Caffeine Junkie",
+      "es": "Adicto al café"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Coffee Barprop",
+          "fr": "Pilier De Comptoir",
+          "de": "Coffee Barprop",
+          "es": "Bebedor Compulsivo"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of coffees taken from the machine.",
+      "fr": "Nombre de cafés retirés en machine.",
+      "de": "Number of coffees taken from the machine.",
+      "es": "Cantidad de cafés retirados de la máquina."
+    }
+  },
+  "commander_should_go_last": {
+    "id": "commander_should_go_last",
+    "name": {
+      "en": "Last Commandant",
+      "fr": "Dernier Commandant",
+      "de": "Last Commandant",
+      "es": "Último comandante"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 20,
+        "title": {
+          "en": "Last Commandant",
+          "fr": "Dernier Commandant",
+          "de": "Last Commandant",
+          "es": "Último Comandante"
+        }
+      },
+      {
+        "count": 2,
+        "points": 20,
+        "title": {
+          "en": "Last Commandant of the Ages",
+          "fr": "Dernier Commandant Des Abymes",
+          "de": "Last Commandant of the Ages",
+          "es": "Último Comandante del Bote"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Last Commandant of the Eons",
+          "fr": "Dernier Commandant Des Eons",
+          "de": "Last Commandant of the Eons",
+          "es": "Último Comandante del Barco"
+        }
+      },
+      {
+        "count": 10,
+        "points": 0,
+        "title": {
+          "en": "Last Galactic Commandant",
+          "fr": "Dernier Commandant De La Galaxie",
+          "de": "Last Galactic Commandant",
+          "es": "Último Comandante del Crucero"
+        }
+      },
+      {
+        "count": 50,
+        "points": 0,
+        "title": {
+          "en": "Last Warp Commandant",
+          "fr": "Dernier Commandant Des Cordes",
+          "de": "Last Warp Commandant",
+          "es": "Último Comandante del Navío"
+        }
+      },
+      {
+        "count": 100,
+        "points": 0,
+        "title": {
+          "en": "Last Universal Commandant",
+          "fr": "Dernier Commandant De L'Univers",
+          "de": "Last Universal Commandant",
+          "es": "Último Comandante del Espacio"
+        }
+      }
+    ],
+    "description": {
+      "en": "The Commandant must always be the last to leave the ship.",
+      "fr": "Le Commandant doit être le dernier à quitter le vaisseau.",
+      "de": "The Commandant must always be the last to leave the ship.",
+      "es": "El comandante siempre es el último en abandonar la nave."
+    }
+  },
+  "last_member": {
+    "id": "last_member",
+    "name": {
+      "en": "Last Man Standing",
+      "fr": "Dernier survivant",
+      "de": "Last Man Standing",
+      "es": "Último superviviente"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "title": {
+          "en": "Hero of Sol",
+          "fr": "Héros De Sol",
+          "de": "Hero of Sol",
+          "es": "Héroe de Esquina"
+        }
+      },
+      {
+        "count": 2,
+        "points": 10,
+        "title": {
+          "en": "Wrestling Champion",
+          "fr": "Champion De La Lutte",
+          "de": "Wrestling Champion",
+          "es": "Duro de Matar"
+        }
+      },
+      {
+        "count": 5,
+        "points": 20,
+        "title": {
+          "en": "Ultimate Martyr",
+          "fr": "Martyr Ultime",
+          "de": "Ultimate Martyr",
+          "es": "Mártir por Excelencia"
+        }
+      },
+      {
+        "count": 10,
+        "points": 5,
+        "title": {
+          "en": "Last Hope",
+          "fr": "Dernier Espoir",
+          "de": "Last Hope",
+          "es": "Última Esperanza"
+        }
+      },
+      {
+        "count": 50,
+        "points": 1,
+        "title": {
+          "en": "Infinite Warrior",
+          "fr": "Combattant De L'Infini",
+          "de": "Infinite Warrior",
+          "es": "Combatiente sin Igual"
+        }
+      },
+      {
+        "count": 100,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Immortal",
+          "fr": "Immortel",
+          "de": "Immortal",
+          "es": "Soy Inmortal"
+        }
+      }
+    ],
+    "description": {
+      "en": "You held out until the end. You have become part of History!",
+      "fr": "Vous avez tenu bon jusqu'à la fin. Vous faites partie de l'Histoire !",
+      "de": "You held out until the end. You have become part of History!",
+      "es": "¡Has sobrevivido hasta el final, eres parte de la historia!"
+    }
+  },
+  "communicator": {
+    "id": "communicator",
+    "name": {
+      "en": "Communications Expert",
+      "fr": "Responsable Des Communications",
+      "de": "Communications Expert",
+      "es": "Oficial de comunicaciones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Communications Officer",
+          "fr": "Responsable Des Communications",
+          "de": "Communications Officer",
+          "es": "Oficial de Comunicaciones"
+        }
+      },
+      {
+        "count": 5,
+        "points": 1,
+        "title": {
+          "en": "Head of Communications",
+          "fr": "Chef Des Communications",
+          "de": "Head of Communications",
+          "es": "Ministro de Comunicaciones"
+        }
+      }
+    ],
+    "description": {
+      "en": "During one of your voyages, your crew successfully completed a series of legendary tasks using the communications module.",
+      "fr": "Durant un de vos voyages, votre équipage a réussi à effectuer une quantité de tâches légendaire dans le module de Communication",
+      "de": "During one of your voyages, your crew successfully completed a series of legendary tasks using the communications module.",
+      "es": "Durante uno de tus viajes, tu equipo ha logrado realizar una gran cantidad de tareas en el módulo de comunicación"
+    }
+  },
+  "mush_genome": {
+    "id": "mush_genome",
+    "name": {
+      "en": "Enigma Decoder",
+      "fr": "Décrypteur de l'Enigme",
+      "de": "Enigma Decoder",
+      "es": "Revelador de enigmas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "title": {
+          "en": "Mush Authority",
+          "fr": "Expert En Mush",
+          "de": "Mush Authority",
+          "es": "Experto en Mush"
+        }
+      }
+    ],
+    "description": {
+      "en": "During one of your voyages, your team solved the Mush enigma.",
+      "fr": "Durant un de vos voyages, votre équipage a résolu l'énigme du Gênome Mush.",
+      "de": "During one of your voyages, your team solved the Mush enigma.",
+      "es": "Durante uno de tus viajes, tu equipo ha resuelto el enigma del genoma Mush."
+    }
+  },
+  "research_digged": {
+    "id": "research_digged",
+    "name": {
+      "en": "Researcher",
+      "fr": "Chercheur",
+      "de": "Researcher",
+      "es": "Investigador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "title": {
+          "en": "Laboratory Technician",
+          "fr": "Technicien De Laboratoire",
+          "de": "Laboratory Technician",
+          "es": "Laboratorista"
+        }
+      }
+    ],
+    "description": {
+      "en": "Research projects completed",
+      "fr": "Nombre de recherches achevées",
+      "de": "Research projects completed",
+      "es": "Cantidad de investigaciones científicas terminadas"
+    }
+  },
+  "project_digged": {
+    "id": "project_digged",
+    "name": {
+      "en": "Designer",
+      "fr": "Concepteur",
+      "de": "Designer",
+      "es": "Creador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "prefix": true,
+        "title": {
+          "en": "Designer",
+          "fr": "Concepteur",
+          "de": "Designer",
+          "es": "Inventor"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of projects completed",
+      "fr": "Nombre de Projets achevés",
+      "de": "Number of projects completed",
+      "es": "Cantidad de proyectos acabados"
+    }
+  },
+  "day_max": {
+    "id": "day_max",
+    "name": {
+      "en": "Longest Voyage",
+      "fr": "Voyage Le Plus Long",
+      "de": "Longest Voyage",
+      "es": "El viaje más largo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 3,
+        "points": 1,
+        "title": {
+          "en": "Day Of The Locusts",
+          "fr": "Day Of The Locusts",
+          "de": "Day Of The Locusts",
+          "es": "El día de la langosta"
+        }
+      },
+      {
+        "count": 4,
+        "points": 1,
+        "title": {
+          "en": "Hero Of The Day",
+          "fr": "Hero Of The Day",
+          "de": "Hero Of The Day",
+          "es": "Héroe del día"
+        }
+      },
+      {
+        "count": 5,
+        "points": 1,
+        "title": {
+          "en": "If Today Was Your Last Day",
+          "fr": "If Today Was Your Last Day",
+          "de": "If Today Was Your Last Day",
+          "es": "El día de mi suerte"
+        }
+      },
+      {
+        "count": 6,
+        "points": 1,
+        "title": {
+          "en": "One More Rainy Day",
+          "fr": "One More Rainy Day",
+          "de": "One More Rainy Day",
+          "es": "Días aquellos"
+        }
+      },
+      {
+        "count": 7,
+        "points": 1,
+        "title": {
+          "en": "Day Sleeper",
+          "fr": "Day Sleeper",
+          "de": "Day Sleeper",
+          "es": "El día trajo la oscuridad"
+        }
+      },
+      {
+        "count": 8,
+        "points": 1,
+        "title": {
+          "en": "Eight Days A Week",
+          "fr": "Eight Days A Week",
+          "de": "Eight Days A Week",
+          "es": "Un buen día para morir"
+        }
+      },
+      {
+        "count": 9,
+        "points": 1,
+        "title": {
+          "en": "Rainy Day Dream Away",
+          "fr": "Rainy Day Dream Away",
+          "de": "Rainy Day Dream Away",
+          "es": "Los últimos días"
+        }
+      },
+      {
+        "count": 10,
+        "points": 1,
+        "title": {
+          "en": "A Hard Day's Night",
+          "fr": "A Hard Day's Night",
+          "de": "A Hard Day's Night",
+          "es": "A Hard Day's Night"
+        }
+      },
+      {
+        "count": 11,
+        "points": 5,
+        "title": {
+          "en": "Perfect Day",
+          "fr": "Perfect Day",
+          "de": "Perfect Day",
+          "es": "Día perfecto"
+        }
+      },
+      {
+        "count": 12,
+        "points": 0,
+        "title": {
+          "en": "Glory Days",
+          "fr": "Glory Days",
+          "de": "Glory Days",
+          "es": "Días de gloria"
+        }
+      },
+      {
+        "count": 13,
+        "points": 0,
+        "title": {
+          "en": "Oh Happy Days",
+          "fr": "Oh Happy Days",
+          "de": "Oh Happy Days",
+          "es": "Días felices"
+        }
+      }
+    ],
+    "description": {
+      "en": "Number of days of your longest voyage aboard the Daedalus",
+      "fr": "Durée en jours de votre plus long voyage à bord du Daedalus.",
+      "de": "Number of days of your longest voyage aboard the Daedalus",
+      "es": "El viaje más largo en tiempo que has realizado a bordo del Daedalus."
+    }
+  },
+  "quasar_first": {
+    "id": "quasar_first",
+    "name": {
+      "en": "Golden Supernova",
+      "fr": "Super Nova d'Or",
+      "de": "Golden Supernova",
+      "es": "Super Nova de Oro"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [],
+    "description": {
+      "en": "You placed first in the Triumph rankings",
+      "fr": "Vous avez été premier au classement de Triomphe",
+      "de": "You placed first in the Triumph rankings",
+      "es": "Has sido el primero en la Clasificación de Gloria"
+    }
+  },
+  "quasar_second": {
+    "id": "quasar_second",
+    "name": {
+      "en": "Supernova of Excellence",
+      "fr": "Super Nova d'Excellence",
+      "de": "Supernova of Excellence",
+      "es": "Super Nova del Valor"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [],
+    "description": {
+      "en": "You placed second in the Triumph rankings",
+      "fr": "Vous avez été second au classement de Triomphe",
+      "de": "You placed second in the Triumph rankings",
+      "es": "Has sido el segundo en la Clasificación de Gloria"
+    }
+  },
+  "quasar_third": {
+    "id": "quasar_third",
+    "name": {
+      "en": "Honorable Supernova",
+      "fr": "Super Nova d'Honneur",
+      "de": "Honorable Supernova",
+      "es": "Super Nova de Honor"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [],
+    "description": {
+      "en": "You placed third in the Triumph rankings",
+      "fr": "Vous avez été troisième au classement de Triomphe",
+      "de": "You placed third in the Triumph rankings",
+      "es": "Has sido el tercero en la Clasificación de Gloria"
+    }
+  },
+  "quasar_fourth": {
+    "id": "quasar_fourth",
+    "name": {
+      "en": "Discovered Supernova",
+      "fr": "Super Nova Révélée",
+      "de": "Discovered Supernova",
+      "es": "Super Nova Sideral"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [],
+    "description": {
+      "en": "You placed fourth in the Triumph rankings",
+      "fr": "Vous avez été quatrième au classement de Triomphe",
+      "de": "You placed fourth in the Triumph rankings",
+      "es": "Has sido cuarto en la Clasificación de Gloria"
+    }
+  },
+  "quasar_special": {
+    "id": "quasar_special",
+    "name": {
+      "en": "Special Nova",
+      "fr": "Nova Spécial",
+      "de": "Special Nova",
+      "es": "Nova Especial"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [],
+    "description": {
+      "en": "You made it into the top 7 of the Triumph rankings",
+      "fr": "Vous avez fait partie des 7 premiers au classement de Triomphe",
+      "de": "You made it into the top 7 of the Triumph rankings",
+      "es": "Has sido uno de los 7 primeros en la Clasificación de Gloria"
+    }
+  },
+  "quasar_figurant": {
+    "id": "quasar_figurant",
+    "name": {
+      "en": "Nova",
+      "fr": "Nova",
+      "de": "Nova",
+      "es": "Nova"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [],
+    "description": {
+      "en": "Number of times you've made it into the last 9",
+      "fr": "Nombre de fois où vous avez fait partie des 9 derniers",
+      "de": "Number of times you've made it into the last 9",
+      "es": "Cantidad de veces en que has sido uno de los 9 últimos"
+    }
+  },
+  "mush_tease_EW": {
+    "id": "mush_tease_EW",
+    "name": {
+      "en": "Mini Mush Portrait of Eleesha",
+      "fr": "Mini Portrait Mush de Eleesha",
+      "de": "Mini Mush Portrait of Eleesha",
+      "es": "Miniretrato Mush de Eleesha"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_FK": {
+    "id": "mush_tease_FK",
+    "name": {
+      "en": "Mini Mush Portrait of Finola",
+      "fr": "Mini Portrait Mush de Finola",
+      "de": "Mini Mush Portrait of Finola",
+      "es": "Miniretrato Mush de Finola"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_FB": {
+    "id": "mush_tease_FB",
+    "name": {
+      "en": "Mini Mush Portrait of Frieda",
+      "fr": "Mini Portrait Mush de Frieda",
+      "de": "Mini Mush Portrait of Frieda",
+      "es": "Miniretrato Mush de Frieda"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_GR": {
+    "id": "mush_tease_GR",
+    "name": {
+      "en": "Mini Mush Portrait of Gioele",
+      "fr": "Mini Portrait Mush de Gioele",
+      "de": "Mini Mush Portrait of Gioele",
+      "es": "Miniretrato Mush de Gioele"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_IS": {
+    "id": "mush_tease_IS",
+    "name": {
+      "en": "Mini Mush Portrait of Ian",
+      "fr": "Mini Portrait Mush de Ian",
+      "de": "Mini Mush Portrait of Ian",
+      "es": "Miniretrato Mush de Ian"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_JK": {
+    "id": "mush_tease_JK",
+    "name": {
+      "en": "Mini Mush Portrait of Janice",
+      "fr": "Mini Portrait Mush de Janice",
+      "de": "Mini Mush Portrait of Janice",
+      "es": "Miniretrato Mush de Janice"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_JH": {
+    "id": "mush_tease_JH",
+    "name": {
+      "en": "Mini Mush Portrait of Hua",
+      "fr": "Mini Portrait Mush de Hua",
+      "de": "Mini Mush Portrait of Hua",
+      "es": "Miniretrato Mush de Hua"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_KJS": {
+    "id": "mush_tease_KJS",
+    "name": {
+      "en": "Mini Mush Portrait of Jin Su",
+      "fr": "Mini Portrait Mush de Jin Su",
+      "de": "Mini Mush Portrait of Jin Su",
+      "es": "Miniretrato Mush de Jin Su"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_LKT": {
+    "id": "mush_tease_LKT",
+    "name": {
+      "en": "Mini Mush Portrait of Kuan Ti",
+      "fr": "Mini Portrait Mush de Kuan Ti",
+      "de": "Mini Mush Portrait of Kuan Ti",
+      "es": "Miniretrato Mush de Kuan Ti"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_PR": {
+    "id": "mush_tease_PR",
+    "name": {
+      "en": "Mini Mush Portrait of Paola",
+      "fr": "Mini Portrait Mush de Paola",
+      "de": "Mini Mush Portrait of Paola",
+      "es": "Miniretrato Mush de Paola"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_RT": {
+    "id": "mush_tease_RT",
+    "name": {
+      "en": "Mini Mush Portrait of Raluca",
+      "fr": "Mini Portrait Mush de Raluca",
+      "de": "Mini Mush Portrait of Raluca",
+      "es": "Miniretrato Mush de Raluca"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_RZ": {
+    "id": "mush_tease_RZ",
+    "name": {
+      "en": "Mini Mush Portrait of Roland",
+      "fr": "Mini Portrait Mush de Roland",
+      "de": "Mini Mush Portrait of Roland",
+      "es": "Miniretrato Mush de Roland"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_SS": {
+    "id": "mush_tease_SS",
+    "name": {
+      "en": "Mini Mush Portrait of Stephen",
+      "fr": "Mini Portrait Mush de Stephen",
+      "de": "Mini Mush Portrait of Stephen",
+      "es": "Miniretrato Mush de Stephen"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_TA": {
+    "id": "mush_tease_TA",
+    "name": {
+      "en": "Mini Mush Portrait of Terrence",
+      "fr": "Mini Portrait Mush de Terrence",
+      "de": "Mini Mush Portrait of Terrence",
+      "es": "Miniretrato Mush de Terrence"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_WC": {
+    "id": "mush_tease_WC",
+    "name": {
+      "en": "Mini Mush Portrait of Chao",
+      "fr": "Mini Portrait Mush de Chao",
+      "de": "Mini Mush Portrait of Chao",
+      "es": "Miniretrato Mush de Chao"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_ZC": {
+    "id": "mush_tease_ZC",
+    "name": {
+      "en": "Mini Mush Portrait of Chun",
+      "fr": "Mini Portrait Mush de Chun",
+      "de": "Mini Mush Portrait of Chun",
+      "es": "Miniretrato Mush de Chun"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "mush_tease_SCH": {
+    "id": "mush_tease_SCH",
+    "name": {
+      "en": "Mini Mush Portrait of Schrödinger",
+      "fr": "Mini Portrait Mush de Schrödinger",
+      "de": "Mini Mush Portrait of Schrödinger",
+      "es": "Miniretrato Mush de Schrödinger"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": []
+  },
+  "jin_su": {
+    "id": "jin_su",
+    "name": {
+      "en": "Number of cycles won playing as the chief",
+      "fr": "Nombre de cycles passés à jouer au chef",
+      "de": "Number of cycles won playing as the chief",
+      "es": "Ciclos pasados jugando al jefe"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/jinsu.png",
+        "title": {
+          "en": "FDS Bootlicker",
+          "fr": "Fayot de la FDS",
+          "de": "FDS Bootlicker",
+          "es": "Yo no soy marinero..."
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Oye Oye! Captain Abandoned",
+          "fr": "Ohé, ohé, capitaine abandonné",
+          "de": "Oye Oye! Captain Abandoned",
+          "es": "Soy capitán, soy capitán... Bamba-bamba"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Admiral-ien",
+          "fr": "Amirâl'eur",
+          "de": "Admiral-ien",
+          "es": "Almirante"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "The boss",
+          "fr": "The boss",
+          "de": "The boss",
+          "es": "El jefe"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Supreme Commander-in-Chief",
+          "fr": "Commandant suprême en chef",
+          "de": "Supreme Commander-in-Chief",
+          "es": "Comandante supremo"
+        }
+      }
+    ]
+  },
+  "frieda": {
+    "id": "frieda",
+    "name": {
+      "en": "Number of cycles won reading the cards",
+      "fr": "Nombre de cycles passés à lire des cartes",
+      "de": "Number of cycles won reading the cards",
+      "es": "Ciclos pasados leyendo mapas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/frieda.png",
+        "title": {
+          "en": "Navigator-mented",
+          "fr": "Navi-gâteux",
+          "de": "Navigator-mented",
+          "es": "Timón de papel"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "After the nebula, take a right",
+          "fr": "Après la nebuleuse, tournez à droite",
+          "de": "After the nebula, take a right",
+          "es": "Más allá de la nebulosa"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Compass in the eye",
+          "fr": "Compas dans l'oeil",
+          "de": "Compass in the eye",
+          "es": "Ojo de astrolabio"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Astro-Physico-Navigato",
+          "fr": "Astro-Physico-Navigato",
+          "de": "Astro-Physico-Navigato",
+          "es": "Astronavegante"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Encyclopedia Universalo",
+          "fr": "Encyclopedia Universalis",
+          "de": "Encyclopedia Universalo",
+          "es": "GPS espacial"
+        }
+      }
+    ]
+  },
+  "kuan_ti": {
+    "id": "kuan_ti",
+    "name": {
+      "en": "Number of cycles won contemplating your work",
+      "fr": "Nombre de cycles à contempler son oeuvre",
+      "de": "Number of cycles won contemplating your work",
+      "es": "Ciclos pasados admirando tu obra"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/kuanti.png",
+        "title": {
+          "en": "Lego system",
+          "fr": "Lego system",
+          "de": "Lego system",
+          "es": "Campeón de Lego"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Steel plated and diamond studded",
+          "fr": "Blindé d'argent et d'acier",
+          "de": "Steel plated and diamond studded",
+          "es": "Diseñador de naves"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Space-iceberg proof",
+          "fr": "A l'épreuve des icebergs spatiaux",
+          "de": "Space-iceberg proof",
+          "es": "Yo construí esa nave, ¿y tu?"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Backwards-compatible Architect",
+          "fr": "Architecte retro-compatible",
+          "de": "Backwards-compatible Architect",
+          "es": "Noé moderno"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Universally Classy",
+          "fr": "La grande classe universelle",
+          "de": "Universally Classy",
+          "es": "Soy el padre del Daedalus"
+        }
+      }
+    ]
+  },
+  "janice": {
+    "id": "janice",
+    "name": {
+      "en": "Number of cycles won... listening to others",
+      "fr": "Nombre de cycles passés à allu...écouter les autres",
+      "de": "Number of cycles won... listening to others",
+      "es": "Ciclos pasados escuchando a los demás"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/janice.png",
+        "title": {
+          "en": "zZz....zZzz...",
+          "fr": "zZz....zZzz...",
+          "de": "zZz....zZzz...",
+          "es": "Amor cibernético"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Gnan Gnan Style",
+          "fr": "Gnan Gnan Style",
+          "de": "Gnan Gnan Style",
+          "es": "Psy Coreano"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "In the eyes, I read it in your eyes!",
+          "fr": "Dans les yeux, j'ai dit dans les yeux !",
+          "de": "In the eyes, I read it in your eyes!",
+          "es": "¡Mírame a los ojos cuando hablo!"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Psycho-Bimbo",
+          "fr": "Psycho-Bimbo",
+          "de": "Psycho-Bimbo",
+          "es": "Psyco-Bimbo"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Janice S. Freud",
+          "fr": "Janice S. Freud",
+          "de": "Janice S. Freud",
+          "es": "Janice S. Freud"
+        }
+      }
+    ]
+  },
+  "roland": {
+    "id": "roland",
+    "name": {
+      "en": "Number of cycles won running round in circles",
+      "fr": "Nombre de cycles à tourner en rond",
+      "de": "Number of cycles won running round in circles",
+      "es": "Ciclos en una nave de caza"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/roland.png",
+        "title": {
+          "en": "Choo choo!",
+          "fr": "Tchou tchou !",
+          "de": "Choo choo!",
+          "es": "¡Arranca!"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Full speed ahead!",
+          "fr": "Full speed !",
+          "de": "Full speed ahead!",
+          "es": "¡A toda velocidad!"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Ever further, ever faster!",
+          "fr": "Toujours plus vite, toujours plus loin !",
+          "de": "Ever further, ever faster!",
+          "es": "Vuelo low cost"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Spatio-temporal Interlooper",
+          "fr": "Interlooper spatio-temporel",
+          "de": "Spatio-temporal Interlooper",
+          "es": "Piloto chiflado"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Ace of all ace space-cases",
+          "fr": "As des As de l'esp-As",
+          "de": "Ace of all ace space-cases",
+          "es": "Top Gun del espacio"
+        }
+      }
+    ]
+  },
+  "hua": {
+    "id": "hua",
+    "name": {
+      "en": "Number of cycles won, spent with the others",
+      "fr": "Nombre de cycles passés à fréquenter des 3èmes types",
+      "de": "Number of cycles won, spent with the others",
+      "es": "Ciclos pasados con contactos del tercer tipo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/hua.png",
+        "title": {
+          "en": "A mars and we're off",
+          "fr": "Un mars et ça repart",
+          "de": "A mars and we're off",
+          "es": "Yo traigo las bebidas"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Dude, where's my ship?",
+          "fr": "Hé mec, Il est où mon vaisseau ?",
+          "de": "Dude, where's my ship?",
+          "es": "Cuando tu vas, yo ya volví"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "You don't exactly look like a lucky charm!",
+          "fr": "Toi, t'as pas une gueule de porte-bonheur !",
+          "de": "You don't exactly look like a lucky charm!",
+          "es": "Viajar conmigo es un placer"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Everyone is lost bar me?! ",
+          "fr": "Tout le monde est perdu sauf moi ?! ",
+          "de": "Everyone is lost bar me?! ",
+          "es": "Todos se pierden, menos yo"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "The Epic voyages of Jiang Hua",
+          "fr": "Les voyages de Jiang Hua",
+          "de": "The Epic voyages of Jiang Hua",
+          "es": "Jiang Hua Tours"
+        }
+      }
+    ]
+  },
+  "paola": {
+    "id": "paola",
+    "name": {
+      "en": "Number of cycles spent surfing the lowest frequencies",
+      "fr": "Nombre de cycles passés à surfer sur les basses fréquences",
+      "de": "Number of cycles spent surfing the lowest frequencies",
+      "es": "Ciclos pasados buscando en las bajas frecuencias"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/paola.png",
+        "title": {
+          "en": "bzzzz...Bzzztt!",
+          "fr": "bzzzz...Bzzzitt !",
+          "de": "bzzzz...Bzzztt!",
+          "es": "Shhhh... ¡Silencio!"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Purple tuft emitter",
+          "fr": "Purple touffe émettrice",
+          "de": "Purple tuft emitter",
+          "es": "Me quema el chisme"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Radiohead",
+          "fr": "Radiohead",
+          "de": "Radiohead",
+          "es": "Radiohead"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Video killed, radio star",
+          "fr": "Video killed, radio star",
+          "de": "Video killed, radio star",
+          "es": "Cuéntamelo todo y exagera"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "2.21 GigaHertz!",
+          "fr": "2,21 GigaHertz !",
+          "de": "2.21 GigaHertz!",
+          "es": "¡Lo sabía!"
+        }
+      }
+    ]
+  },
+  "chao": {
+    "id": "chao",
+    "name": {
+      "en": "Number of cycles spent taking stuff out",
+      "fr": "Nombre de cycles passés à dégommer des trucs",
+      "de": "Number of cycles spent taking stuff out",
+      "es": "Ciclos pasados disparándole a cosas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/chao.png",
+        "title": {
+          "en": "Boom! hahahaha...",
+          "fr": "Boom! héhéhé...",
+          "de": "Boom! hahahaha...",
+          "es": "¡Bim-Bam-BUUUM!"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Keep your griends close, and your enemies closer.",
+          "fr": "Garde tes amis près de toi, et tes ennemis encore plus près.",
+          "de": "Keep your griends close, and your enemies closer.",
+          "es": "¡Te tengo en la mira!"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "If you're asking the question, Doctor Caliber has the answer.",
+          "fr": "Si vous posez une question, monsieur calibre donne la réponse.",
+          "de": "If you're asking the question, Doctor Caliber has the answer.",
+          "es": "Ven con papi, eso es"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "If any of you move, I will execute every last one of you!",
+          "fr": "Le premier qui bouge, je lui fais frire la cervelle !",
+          "de": "If any of you move, I will execute every last one of you!",
+          "es": "¡Mi bala en tu frente!"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Last Action Weirdo",
+          "fr": "Last action barjo",
+          "de": "Last Action Weirdo",
+          "es": "Ya perdiste"
+        }
+      }
+    ]
+  },
+  "finola": {
+    "id": "finola",
+    "name": {
+      "en": "Number of cycles examining the infinitely small",
+      "fr": "Nombre de cycles passés à scruter l'infiniment petit",
+      "de": "Number of cycles examining the infinitely small",
+      "es": "Ciclos viendo la vida a través de un microscopio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/finola.png",
+        "title": {
+          "en": "What on earth am I doing?",
+          "fr": "Mais qu'est ce que je fais là ?",
+          "de": "What on earth am I doing?",
+          "es": "Quisiera ser un microbito"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Neutrino mutation detected",
+          "fr": "Neutrino crochu",
+          "de": "Neutrino mutation detected",
+          "es": "Bicho malo pillé"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "The universe in 10²²",
+          "fr": "L'univers en 10²²",
+          "de": "The universe in 10²²",
+          "es": "Friki de la ciencia"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Plancking in the labs again",
+          "fr": "Plancké dans le mur",
+          "de": "Plancking in the labs again",
+          "es": "Científico Geek"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Master of the universe",
+          "fr": "Master of the universe",
+          "de": "Master of the universe",
+          "es": "Quinto Elemento"
+        }
+      }
+    ]
+  },
+  "stephen": {
+    "id": "stephen",
+    "name": {
+      "en": "Number of cycles spent cooking up suspect dishes",
+      "fr": "Nombre de cycles passés à cuisiner des plats suspects",
+      "de": "Number of cycles spent cooking up suspect dishes",
+      "es": "Ciclos pasados cocinando platillos sospechosos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/stephen.png",
+        "title": {
+          "en": "Dinner's ready!",
+          "fr": "A table !",
+          "de": "Dinner's ready!",
+          "es": "¡A la mesa!"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "No, I also cook.",
+          "fr": "Non, je fais aussi la cuisine.",
+          "de": "No, I also cook.",
+          "es": "¡Ya deja de masticar y traga!"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Hokuto of the Kitchen",
+          "fr": "Maître du hokuto de cuisine",
+          "de": "Hokuto of the Kitchen",
+          "es": "¡Sabor a mí!"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Descendant of Casey Ryback",
+          "fr": "Descendant de Casey Ryback",
+          "de": "Descendant of Casey Ryback",
+          "es": "Al diablo la dieta"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Master chief",
+          "fr": "Master chef",
+          "de": "Master chief",
+          "es": "Master chef"
+        }
+      }
+    ]
+  },
+  "ian": {
+    "id": "ian",
+    "name": {
+      "en": "Number of cycles spent cultivating psychotropic plants",
+      "fr": "Nombre de cycles passés à cultiver des plantes hallucinogènes",
+      "de": "Number of cycles spent cultivating psychotropic plants",
+      "es": "Ciclos pasados cultivando plantas alucinógenas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/ian.png",
+        "title": {
+          "en": "She likes a little, a lot...",
+          "fr": "Elle m'aime un peu, beaucoup...",
+          "de": "She likes a little, a lot...",
+          "es": "Me quiere, no me quiere..."
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "The friend of Triffids",
+          "fr": "L'ami des monstroplantes",
+          "de": "The friend of Triffids",
+          "es": "Amigo de las plantas"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Fruitician",
+          "fr": "Fruti-magicien",
+          "de": "Fruitician",
+          "es": "Hierbamán"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Is that a banana in your pocket!",
+          "fr": "J'ai la banane !",
+          "de": "Is that a banana in your pocket!",
+          "es": "Apocalipto"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Flower power",
+          "fr": "Flower master",
+          "de": "Flower power",
+          "es": "Flower power"
+        }
+      }
+    ]
+  },
+  "chun": {
+    "id": "chun",
+    "name": {
+      "en": "Number of cycles you've spent providing blood samples",
+      "fr": "Nombre de cycles passés à se faire préléver des échantillons sanguins",
+      "de": "Number of cycles you've spent providing blood samples",
+      "es": "Ciclos pasados haciéndose sacar muestras de sangre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/chun.png",
+        "title": {
+          "en": "At... atmush!",
+          "fr": "At... atmush !",
+          "de": "At... atmush!",
+          "es": "Soy importante"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "You will not contaminate me!",
+          "fr": "Vous ne me contaminerez pas !",
+          "de": "You will not contaminate me!",
+          "es": "Espécimen raro"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Biological Reinforcements",
+          "fr": "Rempart biologique",
+          "de": "Biological Reinforcements",
+          "es": "Único en mi especie"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "DNA++ v2",
+          "fr": "ADN++ v2",
+          "de": "DNA++ v2",
+          "es": "ADN valioso"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Humanity's Last Hope",
+          "fr": "Dernier espoir de l'humanité",
+          "de": "Humanity's Last Hope",
+          "es": "La Última Esperanza"
+        }
+      }
+    ]
+  },
+  "raluca": {
+    "id": "raluca",
+    "name": {
+      "en": "Number of cycles spent stroking your cat",
+      "fr": "Nombre de cycles passés à passer son temps à caresser son chat",
+      "de": "Number of cycles spent stroking your cat",
+      "es": "Ciclos pasados acariciando al gato"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/raluca.png",
+        "title": {
+          "en": "Miaow Miaow",
+          "fr": "Miou miou",
+          "de": "Miaow Miaow",
+          "es": "Qué me miras"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Reverso-combustible-spatio-temporal convector functional",
+          "fr": "Convecteur combusto-réversiblo-spatio-temporel en marche",
+          "de": "Reverso-combustible-spatio-temporal convector functional",
+          "es": "¡A toda máquina!"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Bedtime NERON! You too Schrödinger!",
+          "fr": "Couché Néron ! Toi aussi Schrödinger !",
+          "de": "Bedtime NERON! You too Schrödinger!",
+          "es": "Forever alone"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Pilgred in love",
+          "fr": "Pilgred in love",
+          "de": "Pilgred in love",
+          "es": "Pilgred in love"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "In Pilgred we trust",
+          "fr": "In Pilgred we trust",
+          "de": "In Pilgred we trust",
+          "es": "Genio de la física"
+        }
+      }
+    ]
+  },
+  "gioele": {
+    "id": "gioele",
+    "name": {
+      "en": "Number of turns spent counting your cash",
+      "fr": "Nombre de cycles passés à compter ses billets",
+      "de": "Number of turns spent counting your cash",
+      "es": "Ciclos pasados contando billetes"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/gioele.png",
+        "title": {
+          "en": "Me first!",
+          "fr": "Moi d'abord !",
+          "de": "Me first!",
+          "es": "¡Yo primero!"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "There's nothing for people like you round here!",
+          "fr": "Cash toi de là !",
+          "de": "There's nothing for people like you round here!",
+          "es": "Money, money, money"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Are you talking to me?",
+          "fr": "C'est à moi que tu parles ?",
+          "de": "Are you talking to me?",
+          "es": "Tanto tienes, tanto vales"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "There's cash to be made here, I can smell it!",
+          "fr": "Y'a du fric à se faire, je le sens !",
+          "de": "There's cash to be made here, I can smell it!",
+          "es": "Te propongo un negocio"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "The guy's worth 3 billion and change!",
+          "fr": "L'homme qui valait 3 milliards et des brouettes",
+          "de": "The guy's worth 3 billion and change!",
+          "es": "Bling bling"
+        }
+      }
+    ]
+  },
+  "eleesha": {
+    "id": "eleesha",
+    "name": {
+      "en": "Number of cycles spent fixing your barnet fair.",
+      "fr": "Nombre de cycles passés à coiffer sa touffe.",
+      "de": "Number of cycles spent fixing your barnet fair.",
+      "es": "Ciclos pasados bailando música Disco"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/eleesha.png",
+        "title": {
+          "en": "Funk Soul Lover",
+          "fr": "Tardiflette",
+          "de": "Funk Soul Lover",
+          "es": "Sigue mi ritmo"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Daddy Cool",
+          "fr": "Daddy cool",
+          "de": "Daddy Cool",
+          "es": "Sexy dance"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "The tigress of the Daedalus",
+          "fr": "La tigresse du Daedalus",
+          "de": "The tigress of the Daedalus",
+          "es": "Daedalus party"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Live on Eleesha TV",
+          "fr": "En direct sur Eleesha TV",
+          "de": "Live on Eleesha TV",
+          "es": "Soy una estrella"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Undercover Lover",
+          "fr": "Au coeur de l'info",
+          "de": "Undercover Lover",
+          "es": "Pop Star"
+        }
+      }
+    ]
+  },
+  "terrence": {
+    "id": "terrence",
+    "name": {
+      "en": "Number of cycles spent sulking in a corner.",
+      "fr": "Nombre de cycles passés à bouder dans son coin.",
+      "de": "Number of cycles spent sulking in a corner.",
+      "es": "Ciclos pasados de mal humor"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/terrence.png",
+        "title": {
+          "en": "Rock n Roll!",
+          "fr": "Attendez que je passe la seconde !",
+          "de": "Rock n Roll!",
+          "es": "Habla con mi mano"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Roll with the punches!",
+          "fr": "Roule ma poule !",
+          "de": "Roll with the punches!",
+          "es": "Sin pelos en la lengua"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "The Downhill Don",
+          "fr": "La terreur des couloirs",
+          "de": "The Downhill Don",
+          "es": "El terror de los pasillos"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "T-4000 concept",
+          "fr": "T-4000 conceptor",
+          "de": "T-4000 concept",
+          "es": "Renegado"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "They see me rollin'",
+          "fr": "Maîtres des bots",
+          "de": "They see me rollin'",
+          "es": "Mente brillante"
+        }
+      }
+    ]
+  },
+  "derek": {
+    "id": "derek",
+    "name": {
+      "en": "Number of cycles spent as an intergalactic Don Juan.",
+      "fr": "Nombre de cycles passés à draguer à tout va.",
+      "de": "Number of cycles spent as an intergalactic Don Juan.",
+      "es": "Ciclos pasados seduciendo compañeros."
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/derek.png",
+        "title": {
+          "en": "Space Virgin",
+          "fr": "Puceau de l'espace",
+          "de": "Space Virgin",
+          "es": "Galán"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Who wants me?",
+          "fr": "Quelqu'un me demande ?",
+          "de": "Who wants me?",
+          "es": "Guapo"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Fire on anything that twitches!",
+          "fr": "Tire sur tout ce qui bouge !",
+          "de": "Fire on anything that twitches!",
+          "es": "Cachondo"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Eyes on the prize!",
+          "fr": "Les yeux revolvers",
+          "de": "Eyes on the prize!",
+          "es": "Adonis"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Zero-Gravity Casanova",
+          "fr": "Casanova intergalactique",
+          "de": "Zero-Gravity Casanova",
+          "es": "Casanova de las galaxias"
+        }
+      }
+    ]
+  },
+  "andie": {
+    "id": "andie",
+    "name": {
+      "en": "Number of cycles spent honoring the SDF.",
+      "fr": "Nombre de cycles passés à vénérer la fédération.",
+      "de": "Number of cycles spent honoring the SDF.",
+      "es": "Ciclos pasados gritando ¡Viva la Federación!"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/andie.png",
+        "title": {
+          "en": "I believe in the federation!",
+          "fr": "Dans la fédération je crois !",
+          "de": "I believe in the federation!",
+          "es": "¡Viva la FDS!"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Something strange is going on!",
+          "fr": "Y'a quelque chose de louche !",
+          "de": "Something strange is going on!",
+          "es": "¡Algo huele mal aquí!"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Did they lie to me?",
+          "fr": "On m'aurait menti(e) ?",
+          "de": "Did they lie to me?",
+          "es": "Super Agente"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Idol of the youth",
+          "fr": "L'idole des jeunes",
+          "de": "Idol of the youth",
+          "es": "Prodigio militar"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "A brilliant future awaits!",
+          "fr": "Promis à un brillant avenir !",
+          "de": "A brilliant future awaits!",
+          "es": "Brillante porvenir"
+        }
+      }
+    ]
+  },
+  "mushxp": {
+    "id": "mushxp",
+    "name": {
+      "en": "Number of cycles spent fungifying in a dark corner",
+      "fr": "Nombre de cycles passés à phongiférer dans son coin",
+      "de": "Number of cycles spent fungifying in a dark corner",
+      "es": "Ciclos pasados como el malo de la película"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 5,
+        "icon": "ui/mushxp.png",
+        "title": {
+          "en": "Mushi mushi?",
+          "fr": "Mushi mushi ?",
+          "de": "Mushi mushi?",
+          "es": "Te gusto, lo sé"
+        }
+      },
+      {
+        "count": 200,
+        "points": 10,
+        "title": {
+          "en": "Bright eyes and a bushy skin?!",
+          "fr": "L'oeil vif, le pelage rugeux !",
+          "de": "Bright eyes and a bushy skin?!",
+          "es": "Ser casi perfecto"
+        }
+      },
+      {
+        "count": 500,
+        "points": 5,
+        "title": {
+          "en": "Passenger 16",
+          "fr": "Le 16ème passager",
+          "de": "Passenger 16",
+          "es": "El 16º pasajero"
+        }
+      },
+      {
+        "count": 2000,
+        "points": 0,
+        "title": {
+          "en": "Day of the tentacle",
+          "fr": "Day of the tentacle",
+          "de": "Day of the tentacle",
+          "es": "Musho gusto"
+        }
+      },
+      {
+        "count": 10000,
+        "points": 0,
+        "title": {
+          "en": "Total Mushification",
+          "fr": "Total Mushisation",
+          "de": "Total Mushification",
+          "es": "El malo de la película"
+        }
+      }
+    ]
+  },
+  "beta": {
+    "id": "beta",
+    "name": {
+      "en": "Xyloph Pioneer",
+      "fr": "Pionnier de Xyloph",
+      "de": "Xyloph Pioneer",
+      "es": "Pionero beta-tester"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/beta.png",
+        "title": {
+          "en": "Xyloph Pioneer",
+          "fr": "Pionnier de Xyloph",
+          "de": "Xyloph Pioneer",
+          "es": "Pionero beta-tester"
+        }
+      }
+    ]
+  },
+  "avt_prems": {
+    "id": "avt_prems",
+    "name": {
+      "en": "Insider",
+      "fr": "Initié",
+      "de": "Insider",
+      "es": "Primero de la fila"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/medal.png",
+        "title": {
+          "en": "Insider",
+          "fr": "Initié",
+          "de": "Insider",
+          "es": "Primero de la fila"
+        }
+      }
+    ]
+  },
+  "neron_flu": {
+    "id": "neron_flu",
+    "name": {
+      "en": "NERON Flu",
+      "fr": "Grippe de NERON",
+      "de": "NERON Flu",
+      "es": "Gripe de NERON"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/neron_fluw.png",
+        "title": {
+          "en": "Flu Survivor",
+          "fr": "Grippé",
+          "de": "Flu Survivor",
+          "es": "Resistente"
+        }
+      }
+    ]
+  },
+  "eden": {
+    "id": "eden",
+    "name": {
+      "en": "Eden, the promised land",
+      "fr": "Eden, terre promise",
+      "de": "Eden, the promised land",
+      "es": "Edén, tierra prometida"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "ui/eden1.png",
+        "title": {
+          "en": "Don't hate the player!",
+          "fr": "Te''e à t'ibo'd !",
+          "de": "Don't hate the player!",
+          "es": "Vacacionista"
+        }
+      },
+      {
+        "count": 5,
+        "points": 5,
+        "title": {
+          "en": "Where's Eden?",
+          "fr": "Il où dédé'n ?",
+          "de": "Where's Eden?",
+          "es": "¡Yo estuve ahí!"
+        }
+      },
+      {
+        "count": 10,
+        "points": 5,
+        "title": {
+          "en": "Eden Pioneer",
+          "fr": "Pionnier d'Eden",
+          "de": "Eden Pioneer",
+          "es": "Pionero del Edén"
+        }
+      },
+      {
+        "count": 20,
+        "points": 5,
+        "title": {
+          "en": "Edenian",
+          "fr": "Edenien",
+          "de": "Edenian",
+          "es": "Privilegiado"
+        }
+      },
+      {
+        "count": 50,
+        "points": 5,
+        "title": {
+          "en": "Founder of the Order of Eden",
+          "fr": "Fondateur de l'ordre d'Eden",
+          "de": "Founder of the Order of Eden",
+          "es": "Paraíso prometido"
+        }
+      }
+    ]
+  },
+  "eden_contaminated": {
+    "id": "eden_contaminated",
+    "name": {
+      "en": "Eden, the contaminated land",
+      "fr": "Eden, terre contaminée",
+      "de": "Eden, the contaminated land",
+      "es": "Edén, tierra contaminada"
+    },
+    "rare": 2,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "ui/eden2.png",
+        "title": {
+          "en": "Devourer of worlds",
+          "fr": "Dévoreur des mondes",
+          "de": "Devourer of worlds",
+          "es": "Devorador de mundos"
+        }
+      }
+    ]
+  },
+  "likemush": {
+    "id": "likemush",
+    "name": {
+      "en": "Everybody loves you!",
+      "fr": "Tout le monde vous aime !",
+      "de": "Everybody loves you!",
+      "es": "¡Todo el mundo te ama!"
+    },
+    "rare": 0,
+    "unlocks": []
+  },
+  "no_mush": {
+    "id": "no_mush",
+    "name": {
+      "en": "Part Timer",
+      "fr": "Petit joueur",
+      "de": "Part Timer",
+      "es": "Pequeño jugador"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/no_mush.png",
+        "title": {
+          "en": "Part Timer",
+          "fr": "Petit joueur",
+          "de": "Part Timer",
+          "es": "Pequeño jugador"
+        }
+      }
+    ]
+  },
+  "three_mush": {
+    "id": "three_mush",
+    "name": {
+      "en": "Triple Victory",
+      "fr": "Triple Victoire",
+      "de": "Triple Victory",
+      "es": "Triple victoria"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/three_mush.png",
+        "title": {
+          "en": "Hat-trick",
+          "fr": "Pinuts",
+          "de": "Hat-trick",
+          "es": "Pinuts"
+        }
+      }
+    ]
+  },
+  "fungal_battle": {
+    "id": "fungal_battle",
+    "name": {
+      "en": "Fungal Survivor",
+      "fr": "Survivant Fongique",
+      "de": "Fungal Survivor",
+      "es": "Superviviente Mush"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/fungal_battle.png",
+        "title": {
+          "en": "Death Cup",
+          "fr": "Amanite",
+          "de": "Death Cup",
+          "es": "Hongo fuerte"
+        }
+      }
+    ]
+  },
+  "fast_cycle": {
+    "id": "fast_cycle",
+    "name": {
+      "en": "Precocious Mushroom",
+      "fr": "Champignon précoce",
+      "de": "Precocious Mushroom",
+      "es": "Hongo precoz"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/fast_cycle.png",
+        "title": {
+          "en": "'Stooled Up",
+          "fr": "Oronge mécanique",
+          "de": "'Stooled Up",
+          "es": "Hongo mecánico"
+        }
+      }
+    ]
+  },
+  "blitz_cycle": {
+    "id": "blitz_cycle",
+    "name": {
+      "en": "Mushroom Blitz",
+      "fr": "Champignon acidulé",
+      "de": "Mushroom Blitz",
+      "es": "Hongo ácido"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/blitz_cycle.png",
+        "title": {
+          "en": "Turboterror",
+          "fr": "Turboronge",
+          "de": "Turboterror",
+          "es": "Hongo mortal"
+        }
+      }
+    ]
+  },
+  "slow_cycle": {
+    "id": "slow_cycle",
+    "name": {
+      "en": "Mature Mushroom",
+      "fr": "Champignon mûre",
+      "de": "Mature Mushroom",
+      "es": "Hongo maduro"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/slow_cycle.png",
+        "title": {
+          "en": "Sequoia",
+          "fr": "Sequoia",
+          "de": "Sequoia",
+          "es": "Hongo macho"
+        }
+      }
+    ]
+  },
+  "no_mush_bar": {
+    "id": "no_mush_bar",
+    "name": {
+      "en": "Hidden Shroom",
+      "fr": "Champignon caché",
+      "de": "Hidden Shroom",
+      "es": "Hongo oculto"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/no_mush_bar.png",
+        "title": {
+          "en": "Nocturnum",
+          "fr": "Nocturnum",
+          "de": "Nocturnum",
+          "es": "Hongo bongo"
+        }
+      }
+    ]
+  },
+  "mush_progressive": {
+    "id": "mush_progressive",
+    "name": {
+      "en": "Bigger by the day",
+      "fr": "Peti champi deviendra grand",
+      "de": "Bigger by the day",
+      "es": "Honguito"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/mush_progressive.png",
+        "title": {
+          "en": "Agaric",
+          "fr": "Agaric",
+          "de": "Agaric",
+          "es": "Hongo en potencia"
+        }
+      }
+    ]
+  },
+  "chun_battle": {
+    "id": "chun_battle",
+    "name": {
+      "en": "You have survived a fungal battle as Chun!",
+      "fr": "Rempart de l'humanité",
+      "de": "You have survived a fungal battle as Chun!",
+      "es": "Has sobrevivido a una batalla mushiana siendo Chun"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/chun_battle.png",
+        "title": {
+          "en": "Last Bastion of Humanity",
+          "fr": "Rempart de l'humanité",
+          "de": "Last Bastion of Humanity",
+          "es": "Escudo humano"
+        }
+      }
+    ]
+  },
+  "ep1": {
+    "id": "ep1",
+    "name": {
+      "en": "All aboard the Daedalus!.",
+      "fr": "Embarquement sur le Daedalus",
+      "de": "All aboard the Daedalus!.",
+      "es": "Primer Episodio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/ep1.png",
+        "title": {
+          "en": "Episode 1: All Aboard the Daedalus",
+          "fr": "Episode 1 : Embarquement sur le Daedalus",
+          "de": "Episode 1: All Aboard the Daedalus",
+          "es": "Episodio 1"
+        }
+      }
+    ]
+  },
+  "ep2": {
+    "id": "ep2",
+    "name": {
+      "en": "Crystallite Shards",
+      "fr": "Cristallites aigus",
+      "de": "Crystallite Shards",
+      "es": "Segundo Episodio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/ep2.png",
+        "title": {
+          "en": "Episode 2 : Crystallite Shards",
+          "fr": "Episode 2 : Cristallites aigus",
+          "de": "Episode 2 : Crystallite Shards",
+          "es": "Episodio 2"
+        }
+      }
+    ]
+  },
+  "ep3": {
+    "id": "ep3",
+    "name": {
+      "en": "Neron is watching you",
+      "fr": "Sus aux parasites !",
+      "de": "Neron is watching you",
+      "es": "Tercer Episodio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/ep3.png",
+        "title": {
+          "en": "Episode 3 : Neron is watching you",
+          "fr": "Episode 3 : Neron vous regarde",
+          "de": "Episode 3 : Neron is watching you",
+          "es": "Episodio 3"
+        }
+      }
+    ]
+  },
+  "ep4": {
+    "id": "ep4",
+    "name": {
+      "en": "New Generations",
+      "fr": "Nouvelles générations",
+      "de": "New Generations",
+      "es": "Cuarto Episodio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/ep4.png",
+        "title": {
+          "en": "Episode 4 : New Generations",
+          "fr": "Episode 4 : Nouvelles générations",
+          "de": "Episode 4 : New Generations",
+          "es": "Episodio 4"
+        }
+      }
+    ]
+  },
+  "ep5": {
+    "id": "ep5",
+    "name": {
+      "en": "Old Friends",
+      "fr": "Vieilles connaissances",
+      "de": "Old Friends",
+      "es": "Quinto episodio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/ep5.png",
+        "title": {
+          "en": "Episode 5 : Vieilles connaissances",
+          "fr": "Episode 5 : Vieilles connaissances",
+          "de": "Episode 5 : Vieilles connaissances",
+          "es": "Episodio 5"
+        }
+      }
+    ]
+  },
+  "ep6": {
+    "id": "ep6",
+    "name": {
+      "en": "",
+      "fr": "Sommeil fongique",
+      "de": "",
+      "es": ""
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/ep6.png",
+        "title": {
+          "en": "",
+          "fr": "Episode 6 : Sommeil fongique",
+          "de": "",
+          "es": ""
+        }
+      }
+    ]
+  },
+  "ticket": {
+    "id": "ticket",
+    "name": {
+      "en": "Supporter",
+      "fr": "Supporter",
+      "de": "Supporter",
+      "es": "Has financiado el juego. ¡Gracias!"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/ticket.png",
+        "title": {
+          "en": "Supporter",
+          "fr": "Supporter",
+          "de": "Supporter",
+          "es": "Honoris causa"
+        }
+      }
+    ]
+  },
+  "altruisme": {
+    "id": "altruisme",
+    "name": {
+      "en": "You have already supported your community by sending a gift to another player, bravo!",
+      "fr": "Altruiste",
+      "de": "You have already supported your community by sending a gift to another player, bravo!",
+      "es": "Has sido generoso enviando un regalo a un jugador. ¡Bravo!"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 0,
+        "icon": "ui/gold.png",
+        "title": {
+          "en": "Altruist",
+          "fr": "Altruiste",
+          "de": "Altruist",
+          "es": "Altruista"
+        }
+      }
+    ]
+  }
+}

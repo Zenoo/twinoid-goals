@@ -1,0 +1,631 @@
+{
+  "bfacet": {
+    "id": "bfacet",
+    "name": {
+      "en": "Balle a Facettes",
+      "fr": "Balle a Facettes",
+      "de": "Balle a Facettes",
+      "es": "Balle a Facettes"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 10,
+        "icon": "6072e.gif"
+      }
+    ]
+  },
+  "bnorma": {
+    "id": "bnorma",
+    "name": {
+      "en": "Bumper Classique",
+      "fr": "Bumper Classique",
+      "de": "Bumper Classique",
+      "es": "Bumper Classique"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "2177c.gif"
+      }
+    ]
+  },
+  "btime": {
+    "id": "btime",
+    "name": {
+      "en": "Bumper Temps",
+      "fr": "Bumper Temps",
+      "de": "Bumper Temps",
+      "es": "Bumper Temps"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "e0f57.gif"
+      }
+    ]
+  },
+  "bdeath": {
+    "id": "bdeath",
+    "name": {
+      "en": "Bumper Mortel",
+      "fr": "Bumper Mortel",
+      "de": "Bumper Mortel",
+      "es": "Bumper Mortel"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "9e3f8.gif"
+      }
+    ]
+  },
+  "bmagne": {
+    "id": "bmagne",
+    "name": {
+      "en": "Bumper Magnetique",
+      "fr": "Bumper Magnetique",
+      "de": "Bumper Magnetique",
+      "es": "Bumper Magnetique"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "a1a82.gif"
+      }
+    ]
+  },
+  "bshado": {
+    "id": "bshado",
+    "name": {
+      "en": "Bumper Invisible",
+      "fr": "Bumper Invisible",
+      "de": "Bumper Invisible",
+      "es": "Bumper Invisible"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "b703b.gif"
+      }
+    ]
+  },
+  "oeil": {
+    "id": "oeil",
+    "name": {
+      "en": "Oeil du Poulpe",
+      "fr": "Oeil du Poulpe",
+      "de": "Oeil du Poulpe",
+      "es": "Oeil du Poulpe"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "84547.gif"
+      }
+    ]
+  },
+  "masque": {
+    "id": "masque",
+    "name": {
+      "en": "Masque de TourneBoule",
+      "fr": "Masque de TourneBoule",
+      "de": "Masque de TourneBoule",
+      "es": "Masque de TourneBoule"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "adfc0.gif"
+      }
+    ]
+  },
+  "ecaz": {
+    "id": "ecaz",
+    "name": {
+      "en": "Ecaille Eau",
+      "fr": "Ecaille Eau",
+      "de": "Ecaille Eau",
+      "es": "Ecaille Eau"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "22897.gif"
+      }
+    ]
+  },
+  "eca1": {
+    "id": "eca1",
+    "name": {
+      "en": "Ecaille Feu",
+      "fr": "Ecaille Feu",
+      "de": "Ecaille Feu",
+      "es": "Ecaille Feu"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "37028.gif"
+      }
+    ]
+  },
+  "eca2": {
+    "id": "eca2",
+    "name": {
+      "en": "Ecaille Air",
+      "fr": "Ecaille Air",
+      "de": "Ecaille Air",
+      "es": "Ecaille Air"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "3392c.gif"
+      }
+    ]
+  },
+  "eca3": {
+    "id": "eca3",
+    "name": {
+      "en": "Ecaille Terre",
+      "fr": "Ecaille Terre",
+      "de": "Ecaille Terre",
+      "es": "Ecaille Terre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "738a6.gif"
+      }
+    ]
+  },
+  "symbz": {
+    "id": "symbz",
+    "name": {
+      "en": "Symbole Eau",
+      "fr": "Symbole Eau",
+      "de": "Symbole Eau",
+      "es": "Symbole Eau"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "9a97b.gif"
+      }
+    ]
+  },
+  "symb1": {
+    "id": "symb1",
+    "name": {
+      "en": "Symbole Feu",
+      "fr": "Symbole Feu",
+      "de": "Symbole Feu",
+      "es": "Symbole Feu"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "2c118.gif"
+      }
+    ]
+  },
+  "symb2": {
+    "id": "symb2",
+    "name": {
+      "en": "Symbole Air",
+      "fr": "Symbole Air",
+      "de": "Symbole Air",
+      "es": "Symbole Air"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "47250.gif"
+      }
+    ]
+  },
+  "symb3": {
+    "id": "symb3",
+    "name": {
+      "en": "Symbole Terre",
+      "fr": "Symbole Terre",
+      "de": "Symbole Terre",
+      "es": "Symbole Terre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "5da73.gif"
+      }
+    ]
+  },
+  "c1": {
+    "id": "c1",
+    "name": {
+      "en": "Balle Jaune",
+      "fr": "Balle Jaune",
+      "de": "Balle Jaune",
+      "es": "Balle Jaune"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "37cb2.gif"
+      }
+    ]
+  },
+  "c1arge": {
+    "id": "c1arge",
+    "name": {
+      "en": "Balle Jaune Argent",
+      "fr": "Balle Jaune Argent",
+      "de": "Balle Jaune Argent",
+      "es": "Balle Jaune Argent"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "2d5a0.gif"
+      }
+    ]
+  },
+  "c1or": {
+    "id": "c1or",
+    "name": {
+      "en": "Balle Jaune Or",
+      "fr": "Balle Jaune Or",
+      "de": "Balle Jaune Or",
+      "es": "Balle Jaune Or"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 4,
+        "icon": "10e15.gif"
+      }
+    ]
+  },
+  "c2": {
+    "id": "c2",
+    "name": {
+      "en": "Balle Verte",
+      "fr": "Balle Verte",
+      "de": "Balle Verte",
+      "es": "Balle Verte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "6b072.gif"
+      }
+    ]
+  },
+  "c2arge": {
+    "id": "c2arge",
+    "name": {
+      "en": "Balle Verte Argent",
+      "fr": "Balle Verte Argent",
+      "de": "Balle Verte Argent",
+      "es": "Balle Verte Argent"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "46b34.gif"
+      }
+    ]
+  },
+  "c2or": {
+    "id": "c2or",
+    "name": {
+      "en": "Balle Verte Or",
+      "fr": "Balle Verte Or",
+      "de": "Balle Verte Or",
+      "es": "Balle Verte Or"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 4,
+        "icon": "9232a.gif"
+      }
+    ]
+  },
+  "c3": {
+    "id": "c3",
+    "name": {
+      "en": "Balle Rouge",
+      "fr": "Balle Rouge",
+      "de": "Balle Rouge",
+      "es": "Balle Rouge"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "1748a.gif"
+      }
+    ]
+  },
+  "c3arge": {
+    "id": "c3arge",
+    "name": {
+      "en": "Balle Rouge Argent",
+      "fr": "Balle Rouge Argent",
+      "de": "Balle Rouge Argent",
+      "es": "Balle Rouge Argent"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "3cacf.gif"
+      }
+    ]
+  },
+  "c3or": {
+    "id": "c3or",
+    "name": {
+      "en": "Balle Rouge Or",
+      "fr": "Balle Rouge Or",
+      "de": "Balle Rouge Or",
+      "es": "Balle Rouge Or"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 4,
+        "icon": "3a578.gif"
+      }
+    ]
+  },
+  "c4": {
+    "id": "c4",
+    "name": {
+      "en": "Balle Orange",
+      "fr": "Balle Orange",
+      "de": "Balle Orange",
+      "es": "Balle Orange"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "3d359.gif"
+      }
+    ]
+  },
+  "c4arge": {
+    "id": "c4arge",
+    "name": {
+      "en": "Balle Orange Argent",
+      "fr": "Balle Orange Argent",
+      "de": "Balle Orange Argent",
+      "es": "Balle Orange Argent"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "7f8c9.gif"
+      }
+    ]
+  },
+  "c4or": {
+    "id": "c4or",
+    "name": {
+      "en": "Balle Orange Or",
+      "fr": "Balle Orange Or",
+      "de": "Balle Orange Or",
+      "es": "Balle Orange Or"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 4,
+        "icon": "e6bbe.gif"
+      }
+    ]
+  },
+  "c5": {
+    "id": "c5",
+    "name": {
+      "en": "Balle Bleue",
+      "fr": "Balle Bleue",
+      "de": "Balle Bleue",
+      "es": "Balle Bleue"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "5cf7e.gif"
+      }
+    ]
+  },
+  "c5arge": {
+    "id": "c5arge",
+    "name": {
+      "en": "Balle Bleue Argent",
+      "fr": "Balle Bleue Argent",
+      "de": "Balle Bleue Argent",
+      "es": "Balle Bleue Argent"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "50c10.gif"
+      }
+    ]
+  },
+  "c5or": {
+    "id": "c5or",
+    "name": {
+      "en": "Balle Bleue Or",
+      "fr": "Balle Bleue Or",
+      "de": "Balle Bleue Or",
+      "es": "Balle Bleue Or"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 4,
+        "icon": "417db.gif"
+      }
+    ]
+  },
+  "ca": {
+    "id": "ca",
+    "name": {
+      "en": "Balle Metal",
+      "fr": "Balle Metal",
+      "de": "Balle Metal",
+      "es": "Balle Metal"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "c2a9e.gif"
+      }
+    ]
+  },
+  "caarge": {
+    "id": "caarge",
+    "name": {
+      "en": "Balle Metal Argent",
+      "fr": "Balle Metal Argent",
+      "de": "Balle Metal Argent",
+      "es": "Balle Metal Argent"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "3d7d6.gif"
+      }
+    ]
+  },
+  "caor": {
+    "id": "caor",
+    "name": {
+      "en": "Balle Metal Or",
+      "fr": "Balle Metal Or",
+      "de": "Balle Metal Or",
+      "es": "Balle Metal Or"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 4,
+        "icon": "36692.gif"
+      }
+    ]
+  },
+  "cb": {
+    "id": "cb",
+    "name": {
+      "en": "Balle Violette",
+      "fr": "Balle Violette",
+      "de": "Balle Violette",
+      "es": "Balle Violette"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "618c78.gif"
+      }
+    ]
+  },
+  "cbarge": {
+    "id": "cbarge",
+    "name": {
+      "en": "Balle Violette Argent",
+      "fr": "Balle Violette Argent",
+      "de": "Balle Violette Argent",
+      "es": "Balle Violette Argent"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "icon": "99502.gif"
+      }
+    ]
+  },
+  "cbor": {
+    "id": "cbor",
+    "name": {
+      "en": "Balle Violette Or",
+      "fr": "Balle Violette Or",
+      "de": "Balle Violette Or",
+      "es": "Balle Violette Or"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 4,
+        "icon": "3f7d9.gif"
+      }
+    ]
+  }
+}

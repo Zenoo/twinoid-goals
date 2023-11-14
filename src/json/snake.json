@@ -1,0 +1,5365 @@
+{
+  "questa": {
+    "id": "questa",
+    "name": {
+      "en": "Target Scores",
+      "fr": "Score à atteindre",
+      "de": "Zu erreichende Punktezahl",
+      "es": "Score a alcanzar"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 20000,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Serpentin",
+          "fr": "Serpentin",
+          "de": "Serpentine",
+          "es": "Serpentín"
+        }
+      },
+      {
+        "count": 100000,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "HippoGlouton",
+          "fr": "HippoGlouton",
+          "de": "HippoGlouton",
+          "es": "HipoGlotón"
+        }
+      }
+    ]
+  },
+  "questb": {
+    "id": "questb",
+    "name": {
+      "en": "Fruits To Discover",
+      "fr": "Fruits à découvrir ",
+      "de": "Zu entdeckende Früchte",
+      "es": "Frutas a descubrir"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Apprentice Fructologist",
+          "fr": "Apprenti fructologue",
+          "de": "Früchte-Azubi",
+          "es": "Aprendíz Frutólogo"
+        }
+      }
+    ]
+  },
+  "questc": {
+    "id": "questc",
+    "name": {
+      "en": "Exact Score Obtained",
+      "fr": "Score exact réalisé",
+      "de": "Exakte Punktzahl erreicht",
+      "es": "Score exacto realizado"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 30000,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Accountant",
+          "fr": "Comptable",
+          "de": "Buchhalter",
+          "es": "Contador"
+        }
+      }
+    ]
+  },
+  "questd": {
+    "id": "questd",
+    "name": {
+      "en": "Target Score",
+      "fr": "Score à atteindre",
+      "de": "Zu erreichender Score",
+      "es": "Score a alcanzar"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 300000,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "constrictor",
+          "fr": "constrictor",
+          "de": "Riesenschlange",
+          "es": "Constrictor"
+        }
+      }
+    ]
+  },
+  "queste": {
+    "id": "queste",
+    "name": {
+      "en": "More Fruits to Discover",
+      "fr": "Fruits à découvrir ",
+      "de": "Zu entdeckende Früchte",
+      "es": "Frutas a descubrir"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 300,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Fruitfiend",
+          "fr": "Frutivorace",
+          "de": "Früchteverschlinger",
+          "es": "Frutivoraz"
+        }
+      }
+    ]
+  },
+  "questf": {
+    "id": "questf",
+    "name": {
+      "en": "Pokarans Swallowed",
+      "fr": "Pokarans avalés",
+      "de": "Verschlungene Pokarans",
+      "es": "Pocaranes tragados"
+    },
+    "rare": 0,
+    "hidden": true,
+    "unlocks": [
+      {
+        "count": 1000,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Craving",
+          "fr": "obnubilé",
+          "de": "für alle Zeiten",
+          "es": "Obstinado"
+        }
+      }
+    ]
+  },
+  "lot": {
+    "id": "lot",
+    "name": {
+      "en": "Lottery Winner",
+      "fr": "Gagnant de la loterie",
+      "de": "Lotteriegewinner",
+      "es": "Ganador de la lotería"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "prefix": true,
+        "title": {
+          "en": "Lucky Sod",
+          "fr": "Gros chanceux",
+          "de": "Großer Glückspilz",
+          "es": "Gran Suertudo"
+        }
+      },
+      {
+        "count": 3,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "Outrageous Fortune",
+          "fr": "bordé de nouilles",
+          "de": "voller Glück",
+          "es": "Afortunado"
+        }
+      }
+    ]
+  },
+  "collec": {
+    "id": "collec",
+    "name": {
+      "en": "Holds all the cards",
+      "fr": "Possède toutes les cartes",
+      "de": "Besitzer aller Karten",
+      "es": "Poseedor de todas las cartas"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Cardsharp",
+          "fr": "Cartophile",
+          "de": "Kartenliebhaber",
+          "es": "Cartófilo"
+        }
+      }
+    ]
+  },
+  "wdraft": {
+    "id": "wdraft",
+    "name": {
+      "en": "Tournament Winner",
+      "fr": "Gagnant d'un tournoi",
+      "de": "Turniergewinner",
+      "es": "Ganador de torneo"
+    },
+    "rare": 1,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 2,
+        "suffix": true,
+        "title": {
+          "en": "The Brain",
+          "fr": "fortiche",
+          "de": "stolz wie Oskar",
+          "es": "Experto"
+        }
+      },
+      {
+        "count": 5,
+        "points": 1,
+        "suffix": true,
+        "title": {
+          "en": "Gifted",
+          "fr": "trop balèze",
+          "de": "allein auf weiter Flur",
+          "es": "Invencible"
+        }
+      }
+    ]
+  },
+  "a": {
+    "id": "a",
+    "name": {
+      "en": "Shampapple",
+      "fr": "pomme shampoing",
+      "de": "Shampooapfel",
+      "es": "Manzana shampoo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_001.gif"
+      }
+    ]
+  },
+  "b": {
+    "id": "b",
+    "name": {
+      "en": "Chokeberry",
+      "fr": "groudinasse de Jauret",
+      "de": "Flaschenbeere",
+      "es": "Grudinasia de Juárez"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_002.gif"
+      }
+    ]
+  },
+  "c": {
+    "id": "c",
+    "name": {
+      "en": "Pear",
+      "fr": "Perpendiculine survette",
+      "de": "Säuerliches Amulett",
+      "es": "Perpendiculina jugosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_003.gif"
+      }
+    ]
+  },
+  "d": {
+    "id": "d",
+    "name": {
+      "en": "Quindong",
+      "fr": "Gromarin silmonet",
+      "de": "Rosemarine",
+      "es": "Gromarín silmoneto"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_004.gif"
+      }
+    ]
+  },
+  "e": {
+    "id": "e",
+    "name": {
+      "en": "Aromapple",
+      "fr": "prunillo doré",
+      "de": "Goldzwetschki",
+      "es": "Prunillo dorado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_005.gif"
+      }
+    ]
+  },
+  "f": {
+    "id": "f",
+    "name": {
+      "en": "Persilemon",
+      "fr": "Bolange",
+      "de": "Lila Drops",
+      "es": "Bolanio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_006.gif"
+      }
+    ]
+  },
+  "g": {
+    "id": "g",
+    "name": {
+      "en": "Dazzleberry",
+      "fr": "frasile",
+      "de": "Erdbärchen",
+      "es": "Frasila"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_007.gif"
+      }
+    ]
+  },
+  "h": {
+    "id": "h",
+    "name": {
+      "en": "Sunfruit",
+      "fr": "Garnade",
+      "de": "Garnate",
+      "es": "Ganardia"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_008.gif"
+      }
+    ]
+  },
+  "i": {
+    "id": "i",
+    "name": {
+      "en": "Apricot",
+      "fr": "baltenaine",
+      "de": "Grummgurke",
+      "es": "Baltenana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_009.gif"
+      }
+    ]
+  },
+  "j": {
+    "id": "j",
+    "name": {
+      "en": "Cherry",
+      "fr": "goussiniere blanche d'erythree",
+      "de": "Weiße erithreische Schote",
+      "es": "Gusinaria blanca de Eritea"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_010.gif"
+      }
+    ]
+  },
+  "k": {
+    "id": "k",
+    "name": {
+      "en": "Chokecherry",
+      "fr": "casperole",
+      "de": "Karpfel",
+      "es": "Casperola"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_011.gif"
+      }
+    ]
+  },
+  "l": {
+    "id": "l",
+    "name": {
+      "en": "Grapple",
+      "fr": "boursine autrichienne",
+      "de": "Österreichische Herzfrucht",
+      "es": "Bursina austriaca"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_012.gif"
+      }
+    ]
+  },
+  "m": {
+    "id": "m",
+    "name": {
+      "en": "Peach",
+      "fr": "Kassenangue",
+      "de": "Flamango",
+      "es": "Kasenanga"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_013.gif"
+      }
+    ]
+  },
+  "n": {
+    "id": "n",
+    "name": {
+      "en": "Plumplumb",
+      "fr": "Berries de celine",
+      "de": "Celine-Beeren",
+      "es": "Cerecillas de Celina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_014.gif"
+      }
+    ]
+  },
+  "o": {
+    "id": "o",
+    "name": {
+      "en": "Boquila",
+      "fr": "abido",
+      "de": "Maracananas",
+      "es": "Abido"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_015.gif"
+      }
+    ]
+  },
+  "p": {
+    "id": "p",
+    "name": {
+      "en": "Goumi",
+      "fr": "chateignoux curieux",
+      "de": "Neugierige Astanie",
+      "es": "Castañuela curiosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_016.gif"
+      }
+    ]
+  },
+  "q": {
+    "id": "q",
+    "name": {
+      "en": "Keule",
+      "fr": "Berries satyres",
+      "de": "Waldgeistbeeren",
+      "es": "Cerecillas satiras"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_017.gif"
+      }
+    ]
+  },
+  "r": {
+    "id": "r",
+    "name": {
+      "en": "Zidanut",
+      "fr": "Poustillou",
+      "de": "Kaschote",
+      "es": "Ponahoria"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_018.gif"
+      }
+    ]
+  },
+  "s": {
+    "id": "s",
+    "name": {
+      "en": "Maquiqala",
+      "fr": "porêche ventura",
+      "de": "Bitschi",
+      "es": "Perilla ventura"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_019.gif"
+      }
+    ]
+  },
+  "t": {
+    "id": "t",
+    "name": {
+      "en": "Pawpaw",
+      "fr": "noix de zidoune",
+      "de": "Unreifel",
+      "es": "Nuez de Ziduna"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_020.gif"
+      }
+    ]
+  },
+  "u": {
+    "id": "u",
+    "name": {
+      "en": "Elasticocoa",
+      "fr": "kokalank",
+      "de": "Faschingsbeere",
+      "es": "Kokalank"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_021.gif"
+      }
+    ]
+  },
+  "v": {
+    "id": "v",
+    "name": {
+      "en": "Pinkpear",
+      "fr": "chaustigne",
+      "de": "Pfefferblüte",
+      "es": "Chistania"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_022.gif"
+      }
+    ]
+  },
+  "w": {
+    "id": "w",
+    "name": {
+      "en": "Almondice",
+      "fr": "pigneule cretoise",
+      "de": "Spitze Nuss",
+      "es": "Pinola creticia"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_023.gif"
+      }
+    ]
+  },
+  "x": {
+    "id": "x",
+    "name": {
+      "en": "Loganberry",
+      "fr": "poire",
+      "de": "Birne",
+      "es": "Pera"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_024.gif"
+      }
+    ]
+  },
+  "y": {
+    "id": "y",
+    "name": {
+      "en": "Raspberry",
+      "fr": "noix",
+      "de": "Nuss",
+      "es": "Nuez"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_025.gif"
+      }
+    ]
+  },
+  "z": {
+    "id": "z",
+    "name": {
+      "en": "Salmonberry",
+      "fr": "pilmaude",
+      "de": "Grüner Birnling",
+      "es": "Pilmuesa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_026.gif"
+      }
+    ]
+  },
+  "aa": {
+    "id": "aa",
+    "name": {
+      "en": "Thimbleberry",
+      "fr": "tramontine",
+      "de": "Windbeere",
+      "es": "Trimontina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_027.gif"
+      }
+    ]
+  },
+  "ab": {
+    "id": "ab",
+    "name": {
+      "en": "Snazzyberry",
+      "fr": "tasteraine siffulée",
+      "de": "Schleiffrucht",
+      "es": "Tastarina sifúnea"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_028.gif"
+      }
+    ]
+  },
+  "ac": {
+    "id": "ac",
+    "name": {
+      "en": "Blood Prune",
+      "fr": "sourire de lepreux",
+      "de": "Lepralächeln",
+      "es": "Sonrisa de leproso"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_029.gif"
+      }
+    ]
+  },
+  "ad": {
+    "id": "ad",
+    "name": {
+      "en": "Bileberry",
+      "fr": "frubillon",
+      "de": "Fruchtstrudel",
+      "es": "Frubillón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_030.gif"
+      }
+    ]
+  },
+  "ae": {
+    "id": "ae",
+    "name": {
+      "en": "Blueberry",
+      "fr": "prunelle de sangre",
+      "de": "Blutzwetschki",
+      "es": "Higo de sangría"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_031.gif"
+      }
+    ]
+  },
+  "af": {
+    "id": "af",
+    "name": {
+      "en": "Crowberry",
+      "fr": "fastecosse",
+      "de": "Luftballonfrucht",
+      "es": "Fastecosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_032.gif"
+      }
+    ]
+  },
+  "ag": {
+    "id": "ag",
+    "name": {
+      "en": "Puertorange",
+      "fr": "doucejarette",
+      "de": "Orangeose",
+      "es": "Dulcerillo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_033.gif"
+      }
+    ]
+  },
+  "ah": {
+    "id": "ah",
+    "name": {
+      "en": "Wangleberry",
+      "fr": "dorepion",
+      "de": "Grucuja",
+      "es": "Dorepión"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_034.gif"
+      }
+    ]
+  },
+  "ai": {
+    "id": "ai",
+    "name": {
+      "en": "Huckleberry",
+      "fr": "orange",
+      "de": "Orange",
+      "es": "Naranja"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_035.gif"
+      }
+    ]
+  },
+  "aj": {
+    "id": "aj",
+    "name": {
+      "en": "Lingonberry",
+      "fr": "Racteronce",
+      "de": "Bromtoffel",
+      "es": "Racteroncio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_036.gif"
+      }
+    ]
+  },
+  "ak": {
+    "id": "ak",
+    "name": {
+      "en": "Strawberry",
+      "fr": "mangrole",
+      "de": "Mangaya",
+      "es": "Mangerola"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_037.gif"
+      }
+    ]
+  },
+  "al": {
+    "id": "al",
+    "name": {
+      "en": "Barberry",
+      "fr": "petite disette",
+      "de": "Hungerfrucht",
+      "es": "Hambrunilla"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_038.gif"
+      }
+    ]
+  },
+  "am": {
+    "id": "am",
+    "name": {
+      "en": "Currant",
+      "fr": "cissenerve",
+      "de": "Tomapfel",
+      "es": "Reganillo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_039.gif"
+      }
+    ]
+  },
+  "an": {
+    "id": "an",
+    "name": {
+      "en": "Elderberry",
+      "fr": "maugruche",
+      "de": "Lianenpfirsich",
+      "es": "Mogroche"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_040.gif"
+      }
+    ]
+  },
+  "ao": {
+    "id": "ao",
+    "name": {
+      "en": "Gooseberry",
+      "fr": "gland",
+      "de": "Eichel",
+      "es": "Bellota"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_041.gif"
+      }
+    ]
+  },
+  "ap": {
+    "id": "ap",
+    "name": {
+      "en": "Hackberry",
+      "fr": "bolange geruvienne",
+      "de": "Gefleckter Drops",
+      "es": "Bolanio geruviano"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_042.gif"
+      }
+    ]
+  },
+  "aq": {
+    "id": "aq",
+    "name": {
+      "en": "Honeysuckle",
+      "fr": "olive",
+      "de": "Olive",
+      "es": "Oliva"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_043.gif"
+      }
+    ]
+  },
+  "ar": {
+    "id": "ar",
+    "name": {
+      "en": "Mildberry",
+      "fr": "courgestine",
+      "de": "Paradiesgurke",
+      "es": "Calabestina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_044.gif"
+      }
+    ]
+  },
+  "as": {
+    "id": "as",
+    "name": {
+      "en": "Mayapple",
+      "fr": "prunemate d'Abidjan",
+      "de": "Pflauge",
+      "es": "Ciruela de Abidján"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_045.gif"
+      }
+    ]
+  },
+  "at": {
+    "id": "at",
+    "name": {
+      "en": "Nannyberry",
+      "fr": "champoucte cruciere",
+      "de": "Bröselnuss",
+      "es": "Champucia crucina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_046.gif"
+      }
+    ]
+  },
+  "au": {
+    "id": "au",
+    "name": {
+      "en": "Ugliberry",
+      "fr": "mazoulette",
+      "de": "Baumtraube",
+      "es": "Mazuleta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_047.gif"
+      }
+    ]
+  },
+  "av": {
+    "id": "av",
+    "name": {
+      "en": "Wolfberry",
+      "fr": "pokaran",
+      "de": "Pokhaki",
+      "es": "Pocarán"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_048.gif"
+      }
+    ]
+  },
+  "aw": {
+    "id": "aw",
+    "name": {
+      "en": "Bearpear",
+      "fr": "petite-rave",
+      "de": "Rosrübe",
+      "es": "Ravinia"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_049.gif"
+      }
+    ]
+  },
+  "ax": {
+    "id": "ax",
+    "name": {
+      "en": "Fluffifig",
+      "fr": "pokaran granit",
+      "de": "Granitpokhaki",
+      "es": "Pocarán granito"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_050.gif"
+      }
+    ]
+  },
+  "ay": {
+    "id": "ay",
+    "name": {
+      "en": "Grape",
+      "fr": "ephemeruine",
+      "de": "Fliederbeere",
+      "es": "Efemerina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_051.gif"
+      }
+    ]
+  },
+  "az": {
+    "id": "az",
+    "name": {
+      "en": "Pomegranate",
+      "fr": "musillo",
+      "de": "Falterdbeere",
+      "es": "Musillo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_052.gif"
+      }
+    ]
+  },
+  "ba": {
+    "id": "ba",
+    "name": {
+      "en": "Sycamore",
+      "fr": "carrilude",
+      "de": "Microwassermelone",
+      "es": "Carriluda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_053.gif"
+      }
+    ]
+  },
+  "bb": {
+    "id": "bb",
+    "name": {
+      "en": "Blood Orange",
+      "fr": "frankepoise",
+      "de": "Berbse",
+      "es": "Frankeposa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_054.gif"
+      }
+    ]
+  },
+  "bc": {
+    "id": "bc",
+    "name": {
+      "en": "Citron",
+      "fr": "maltechat",
+      "de": "Grananas",
+      "es": "Maltecia"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_055.gif"
+      }
+    ]
+  },
+  "bd": {
+    "id": "bd",
+    "name": {
+      "en": "Clementhin",
+      "fr": "buiscuine",
+      "de": "Kiroge",
+      "es": "Biscuina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_056.gif"
+      }
+    ]
+  },
+  "be": {
+    "id": "be",
+    "name": {
+      "en": "Grapefruit",
+      "fr": "arcosse brune",
+      "de": "Hellbraune Gurke",
+      "es": "Arcosa morena"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_057.gif"
+      }
+    ]
+  },
+  "bf": {
+    "id": "bf",
+    "name": {
+      "en": "Deep Fried Fig",
+      "fr": "bidoulon cornu",
+      "de": "Hörnerschote",
+      "es": "Bidolón cornio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_058.gif"
+      }
+    ]
+  },
+  "bg": {
+    "id": "bg",
+    "name": {
+      "en": "Lemon",
+      "fr": "rupinio",
+      "de": "Robone",
+      "es": "Rupinio"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_059.gif"
+      }
+    ]
+  },
+  "bh": {
+    "id": "bh",
+    "name": {
+      "en": "Slime",
+      "fr": "ultrabricot",
+      "de": "Ultraprikose",
+      "es": "Ultradurazno"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_060.gif"
+      }
+    ]
+  },
+  "bi": {
+    "id": "bi",
+    "name": {
+      "en": "Key Lime",
+      "fr": "frozine",
+      "de": "Frostbeere",
+      "es": "Frozino"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_061.gif"
+      }
+    ]
+  },
+  "bj": {
+    "id": "bj",
+    "name": {
+      "en": "Persian Lime",
+      "fr": "palmanzor",
+      "de": "Palmenfrucht",
+      "es": "Palmanzor"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_062.gif"
+      }
+    ]
+  },
+  "bk": {
+    "id": "bk",
+    "name": {
+      "en": "Kaffir Lime",
+      "fr": "bastimolle d'octonante",
+      "de": "Affentomate",
+      "es": "Bastimolla de octona"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_063.gif"
+      }
+    ]
+  },
+  "bl": {
+    "id": "bl",
+    "name": {
+      "en": "Mandarin",
+      "fr": "sageprune",
+      "de": "Darmpflaume",
+      "es": "Sagepruna"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_064.gif"
+      }
+    ]
+  },
+  "bm": {
+    "id": "bm",
+    "name": {
+      "en": "Narrtjie",
+      "fr": "poirette sauvage",
+      "de": "Wildbirne",
+      "es": "Perilla salvaje"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_065.gif"
+      }
+    ]
+  },
+  "bn": {
+    "id": "bn",
+    "name": {
+      "en": "Pomelo",
+      "fr": "cissenerve orientale",
+      "de": "Orientalische Tomate",
+      "es": "Reganillo oriental"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_066.gif"
+      }
+    ]
+  },
+  "bo": {
+    "id": "bo",
+    "name": {
+      "en": "Liberaisin",
+      "fr": "gourmine du clerc",
+      "de": "Herzpapaya",
+      "es": "Gurmina del norte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_067.gif"
+      }
+    ]
+  },
+  "bp": {
+    "id": "bp",
+    "name": {
+      "en": "Kabosu",
+      "fr": "Epiphede de Tanzanie",
+      "de": "Litschimuschel aus Tansania",
+      "es": "Epífeda de Tanzania"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_068.gif"
+      }
+    ]
+  },
+  "bq": {
+    "id": "bq",
+    "name": {
+      "en": "Oroblanco",
+      "fr": "poire elite",
+      "de": "Premiumbirne",
+      "es": "Pera élite"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_069.gif"
+      }
+    ]
+  },
+  "br": {
+    "id": "br",
+    "name": {
+      "en": "Tangerine",
+      "fr": "chenibe",
+      "de": "Pustelmaroni",
+      "es": "Chenibí"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_070.gif"
+      }
+    ]
+  },
+  "bs": {
+    "id": "bs",
+    "name": {
+      "en": "Orangelo",
+      "fr": "i' d'oedipe",
+      "de": "Ödipus-Zucchini",
+      "es": "Idedipo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_071.gif"
+      }
+    ]
+  },
+  "bt": {
+    "id": "bt",
+    "name": {
+      "en": "Hamyam",
+      "fr": "grande geluge",
+      "de": "Große Erdölpflaume",
+      "es": "Gelania grande"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_072.gif"
+      }
+    ]
+  },
+  "bu": {
+    "id": "bu",
+    "name": {
+      "en": "Rangpur",
+      "fr": "chank-sar",
+      "de": "Chank-Sar",
+      "es": "Chankasar"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_073.gif"
+      }
+    ]
+  },
+  "bv": {
+    "id": "bv",
+    "name": {
+      "en": "Ugli",
+      "fr": "bolterouge",
+      "de": "Rote Nierenfrucht",
+      "es": "Bolteroja"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_074.gif"
+      }
+    ]
+  },
+  "bw": {
+    "id": "bw",
+    "name": {
+      "en": "Avacado",
+      "fr": "kouss-pouss",
+      "de": "Knubbelorange",
+      "es": "Kusposa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_075.gif"
+      }
+    ]
+  },
+  "bx": {
+    "id": "bx",
+    "name": {
+      "en": "Malakawa",
+      "fr": "abricot",
+      "de": "Aprikose",
+      "es": "Durazno"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_076.gif"
+      }
+    ]
+  },
+  "by": {
+    "id": "by",
+    "name": {
+      "en": "Arctic Apple",
+      "fr": "louki",
+      "de": "Loki",
+      "es": "Luki"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_077.gif"
+      }
+    ]
+  },
+  "bz": {
+    "id": "bz",
+    "name": {
+      "en": "Guava",
+      "fr": "manguerite",
+      "de": "Mangorita",
+      "es": "Manguerita"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_078.gif"
+      }
+    ]
+  },
+  "ca": {
+    "id": "ca",
+    "name": {
+      "en": "Longan",
+      "fr": "pomme grande gueule",
+      "de": "Großmaulapfel",
+      "es": "Manzana testaruda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_079.gif"
+      }
+    ]
+  },
+  "cb": {
+    "id": "cb",
+    "name": {
+      "en": "Lychee",
+      "fr": "citron",
+      "de": "Zitrone",
+      "es": "Limón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_080.gif"
+      }
+    ]
+  },
+  "cc": {
+    "id": "cc",
+    "name": {
+      "en": "Passionfruit",
+      "fr": "pulminost",
+      "de": "Tropfquitte",
+      "es": "Pulminosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_081.gif"
+      }
+    ]
+  },
+  "cd": {
+    "id": "cd",
+    "name": {
+      "en": "Peanut",
+      "fr": "loncourge siamoise",
+      "de": "Siamenische Langgurke",
+      "es": "Loncabaza siamesa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_082.gif"
+      }
+    ]
+  },
+  "ce": {
+    "id": "ce",
+    "name": {
+      "en": "Paleberry",
+      "fr": "glastouine",
+      "de": "Blutmandarine",
+      "es": "Golastina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_083.gif"
+      }
+    ]
+  },
+  "cf": {
+    "id": "cf",
+    "name": {
+      "en": "Strawberry Guava",
+      "fr": "faritiere",
+      "de": "Goldbierbirne",
+      "es": "Faritesa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_084.gif"
+      }
+    ]
+  },
+  "cg": {
+    "id": "cg",
+    "name": {
+      "en": "Tamarillo",
+      "fr": "Pastelite",
+      "de": "Icacopflaume",
+      "es": "Pastelita"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_085.gif"
+      }
+    ]
+  },
+  "ch": {
+    "id": "ch",
+    "name": {
+      "en": "Morococoa",
+      "fr": "bouverest",
+      "de": "Boverest",
+      "es": "Buveresta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_086.gif"
+      }
+    ]
+  },
+  "ci": {
+    "id": "ci",
+    "name": {
+      "en": "Blushberry",
+      "fr": "terropostule",
+      "de": "Tomatillo Vallisto",
+      "es": "Terropóstula"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_087.gif"
+      }
+    ]
+  },
+  "cj": {
+    "id": "cj",
+    "name": {
+      "en": "Nere",
+      "fr": "grosse grubine d'anniversaire",
+      "de": "Große Geburtstagsmelone",
+      "es": "Gran grubino de aniversario"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_088.gif"
+      }
+    ]
+  },
+  "ck": {
+    "id": "ck",
+    "name": {
+      "en": "Abiu",
+      "fr": "pamplemouk",
+      "de": "Pampelmuck",
+      "es": "Pamplimon"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_089.gif"
+      }
+    ]
+  },
+  "cl": {
+    "id": "cl",
+    "name": {
+      "en": "Stilacar",
+      "fr": "carcaoule",
+      "de": "Kakaoapfel",
+      "es": "Carcuelo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_090.gif"
+      }
+    ]
+  },
+  "cm": {
+    "id": "cm",
+    "name": {
+      "en": "Custard Apple",
+      "fr": "langue de vieille",
+      "de": "Katzenzunge",
+      "es": "Lengua de suegra"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_091.gif"
+      }
+    ]
+  },
+  "cn": {
+    "id": "cn",
+    "name": {
+      "en": "Nimblenip",
+      "fr": "kogredon",
+      "de": "Birnentraube",
+      "es": "Kogredón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_092.gif"
+      }
+    ]
+  },
+  "co": {
+    "id": "co",
+    "name": {
+      "en": "Cherry Orange",
+      "fr": "barsouine versicolore",
+      "de": "Regenbogenfenchel",
+      "es": "Barsulín versicolor"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_093.gif"
+      }
+    ]
+  },
+  "cp": {
+    "id": "cp",
+    "name": {
+      "en": "Allspice",
+      "fr": "sertoine",
+      "de": "Madagassische Dschungelquitte",
+      "es": "Sertón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_094.gif"
+      }
+    ]
+  },
+  "cq": {
+    "id": "cq",
+    "name": {
+      "en": "Almond",
+      "fr": "pacoblemide",
+      "de": "Mebohne",
+      "es": "Pacolemida"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_095.gif"
+      }
+    ]
+  },
+  "cr": {
+    "id": "cr",
+    "name": {
+      "en": "Ambarella",
+      "fr": "boteliane d'hygrone",
+      "de": "Hydrogerberium",
+      "es": "Boteliana de hygrona"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_096.gif"
+      }
+    ]
+  },
+  "cs": {
+    "id": "cs",
+    "name": {
+      "en": "Araza",
+      "fr": "chantegore",
+      "de": "Barockfrucht",
+      "es": "Chantegora"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_097.gif"
+      }
+    ]
+  },
+  "ct": {
+    "id": "ct",
+    "name": {
+      "en": "Limplime",
+      "fr": "mono-iote",
+      "de": "Mangomonobeere",
+      "es": "Mono-yote"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_098.gif"
+      }
+    ]
+  },
+  "cu": {
+    "id": "cu",
+    "name": {
+      "en": "Babaco",
+      "fr": "pankersh",
+      "de": "Pankersh",
+      "es": "Pancresh"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_099.gif"
+      }
+    ]
+  },
+  "cv": {
+    "id": "cv",
+    "name": {
+      "en": "Bacupari",
+      "fr": "vareche du malin",
+      "de": "Eiterapfel",
+      "es": "Varecha de Malín"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_100.gif"
+      }
+    ]
+  },
+  "cw": {
+    "id": "cw",
+    "name": {
+      "en": "Bacuri",
+      "fr": "raisin bordelais",
+      "de": "Bordeauxtraube",
+      "es": "Uva de Burdeos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_101.gif"
+      }
+    ]
+  },
+  "cx": {
+    "id": "cx",
+    "name": {
+      "en": "Bael",
+      "fr": "gorgonde de Molister",
+      "de": "Korgonenfrucht",
+      "es": "Gorgondo de Molister"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_102.gif"
+      }
+    ]
+  },
+  "cy": {
+    "id": "cy",
+    "name": {
+      "en": "Banana",
+      "fr": "gencive de truie",
+      "de": "Zahnfleischgranadilla",
+      "es": "Encia de marrana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_103.gif"
+      }
+    ]
+  },
+  "cz": {
+    "id": "cz",
+    "name": {
+      "en": "Barbadine",
+      "fr": "justeprune",
+      "de": "Prüde Pflaume",
+      "es": "Justaguinda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_104.gif"
+      }
+    ]
+  },
+  "da": {
+    "id": "da",
+    "name": {
+      "en": "Indicherry",
+      "fr": "crysto-mangue",
+      "de": "Lava-Mango",
+      "es": "Crysto-mango"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_105.gif"
+      }
+    ]
+  },
+  "db": {
+    "id": "db",
+    "name": {
+      "en": "Betel Nut",
+      "fr": "banane",
+      "de": "Banane",
+      "es": "Banana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_106.gif"
+      }
+    ]
+  },
+  "dc": {
+    "id": "dc",
+    "name": {
+      "en": "Bignay",
+      "fr": "dalinette",
+      "de": "Vampirbeete",
+      "es": "Dalineta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_107.gif"
+      }
+    ]
+  },
+  "dd": {
+    "id": "dd",
+    "name": {
+      "en": "Bilimbi",
+      "fr": "Goulumide",
+      "de": "Erdbeertraube",
+      "es": "Golumida"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_108.gif"
+      }
+    ]
+  },
+  "de": {
+    "id": "de",
+    "name": {
+      "en": "Biribi",
+      "fr": "taroudon",
+      "de": "Tennispomelo",
+      "es": "Tarudón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_109.gif"
+      }
+    ]
+  },
+  "df": {
+    "id": "df",
+    "name": {
+      "en": "Glumplum",
+      "fr": "vautrille",
+      "de": "Duftbirne",
+      "es": "Votrilla"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_110.gif"
+      }
+    ]
+  },
+  "dg": {
+    "id": "dg",
+    "name": {
+      "en": "Blazeball",
+      "fr": "bangalosh d'Akoupi",
+      "de": "Bengalesische Akalosch",
+      "es": "Bangalo de Akupi"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_111.gif"
+      }
+    ]
+  },
+  "dh": {
+    "id": "dh",
+    "name": {
+      "en": "Heaven Lemon",
+      "fr": "gonfle gelose",
+      "de": "Rosa Zwergbanane",
+      "es": "Hincha gelosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_112.gif"
+      }
+    ]
+  },
+  "di": {
+    "id": "di",
+    "name": {
+      "en": "Brazilberry",
+      "fr": "amande carnivore",
+      "de": "Fleischfressende Mandel",
+      "es": "Manda carnívora"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_113.gif"
+      }
+    ]
+  },
+  "dj": {
+    "id": "dj",
+    "name": {
+      "en": "Bedenfruit",
+      "fr": "noubab géant",
+      "de": "Riesennakub",
+      "es": "Nubab gigante"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_114.gif"
+      }
+    ]
+  },
+  "dk": {
+    "id": "dk",
+    "name": {
+      "en": "Bileberry",
+      "fr": "postichonne",
+      "de": "Gelbe Capsica",
+      "es": "Postichona"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_115.gif"
+      }
+    ]
+  },
+  "dl": {
+    "id": "dl",
+    "name": {
+      "en": "Burmese Grape",
+      "fr": "rupekt",
+      "de": "Bolivianische Affenbeere",
+      "es": "Rupe"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_116.gif"
+      }
+    ]
+  },
+  "dm": {
+    "id": "dm",
+    "name": {
+      "en": "Caimitron",
+      "fr": "fruit-du-grouin",
+      "de": "Libellenfrucht",
+      "es": "Fruta du grodín"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_117.gif"
+      }
+    ]
+  },
+  "dn": {
+    "id": "dn",
+    "name": {
+      "en": "Calablum",
+      "fr": "sac-a-bile",
+      "de": "Roter Gallensack",
+      "es": "Biliosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_118.gif"
+      }
+    ]
+  },
+  "do": {
+    "id": "do",
+    "name": {
+      "en": "Calamapple",
+      "fr": "tazerade geminite",
+      "de": "Riesencasheena",
+      "es": "Tazerada geminita"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_119.gif"
+      }
+    ]
+  },
+  "dp": {
+    "id": "dp",
+    "name": {
+      "en": "Cannooseberry",
+      "fr": "marron strié",
+      "de": "Gestreifte Maroni",
+      "es": "Marrón estriado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_120.gif"
+      }
+    ]
+  },
+  "dq": {
+    "id": "dq",
+    "name": {
+      "en": "Capucin Cherry",
+      "fr": "driane de Moss",
+      "de": "Mossfrucht",
+      "es": "Driana de moss"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_121.gif"
+      }
+    ]
+  },
+  "dr": {
+    "id": "dr",
+    "name": {
+      "en": "Carambola",
+      "fr": "noix de Gernide",
+      "de": "Karamellnuss",
+      "es": "Nuez de gernida"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_122.gif"
+      }
+    ]
+  },
+  "ds": {
+    "id": "ds",
+    "name": {
+      "en": "Caranda",
+      "fr": "poistule",
+      "de": "Fleckschote",
+      "es": "Puastula"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_123.gif"
+      }
+    ]
+  },
+  "dt": {
+    "id": "dt",
+    "name": {
+      "en": "Cardamom",
+      "fr": "bonzerone",
+      "de": "Toblorone",
+      "es": "Bonzerona"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_124.gif"
+      }
+    ]
+  },
+  "du": {
+    "id": "du",
+    "name": {
+      "en": "Carob",
+      "fr": "triangustine",
+      "de": "Pyramelone",
+      "es": "Triangustina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_125.gif"
+      }
+    ]
+  },
+  "dv": {
+    "id": "dv",
+    "name": {
+      "en": "Cashew",
+      "fr": "radoux",
+      "de": "Dombrowski-Pfirsisch",
+      "es": "Radú"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_126.gif"
+      }
+    ]
+  },
+  "dw": {
+    "id": "dw",
+    "name": {
+      "en": "Casablanana",
+      "fr": "sadentro",
+      "de": "Streifentraube",
+      "es": "Sadentro"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_127.gif"
+      }
+    ]
+  },
+  "dx": {
+    "id": "dx",
+    "name": {
+      "en": "Ghanapple",
+      "fr": "grogofurile",
+      "de": "Siamesische Orange",
+      "es": "Grogofurilo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_128.gif"
+      }
+    ]
+  },
+  "dy": {
+    "id": "dy",
+    "name": {
+      "en": "Ceriman",
+      "fr": "lookar chapelé",
+      "de": "Purpurunus",
+      "es": "Lukara castellana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_129.gif"
+      }
+    ]
+  },
+  "dz": {
+    "id": "dz",
+    "name": {
+      "en": "Gooseberry",
+      "fr": "sarsulene",
+      "de": "Nusskiwi",
+      "es": "Sarsulén"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_130.gif"
+      }
+    ]
+  },
+  "ea": {
+    "id": "ea",
+    "name": {
+      "en": "Puertopecan",
+      "fr": "auberlune",
+      "de": "Wilde Jaboticaba",
+      "es": "Oberluna"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_131.gif"
+      }
+    ]
+  },
+  "eb": {
+    "id": "eb",
+    "name": {
+      "en": "Graypefruit",
+      "fr": "fugione codeinée",
+      "de": "Codeinhaltige Wildkirsche",
+      "es": "Higona codínea"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_132.gif"
+      }
+    ]
+  },
+  "ec": {
+    "id": "ec",
+    "name": {
+      "en": "Fancitron",
+      "fr": "sabot d'Obyrinthe",
+      "de": "Violaine",
+      "es": "Zueco de obirinta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_133.gif"
+      }
+    ]
+  },
+  "ed": {
+    "id": "ed",
+    "name": {
+      "en": "Chupa-Chupa",
+      "fr": "fongiole purpide",
+      "de": "Herbeere",
+      "es": "Higona purpida"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_134.gif"
+      }
+    ]
+  },
+  "ee": {
+    "id": "ee",
+    "name": {
+      "en": "Cinnamon",
+      "fr": "boulange",
+      "de": "Brötchenmelone",
+      "es": "Bulanga"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_135.gif"
+      }
+    ]
+  },
+  "ef": {
+    "id": "ef",
+    "name": {
+      "en": "Clove",
+      "fr": "gorank-sakkar",
+      "de": "Gorank-Sakkar",
+      "es": "Goran-sakkar"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_136.gif"
+      }
+    ]
+  },
+  "eg": {
+    "id": "eg",
+    "name": {
+      "en": "Coco Plum",
+      "fr": "fourmalie",
+      "de": "Schmuckblatt-Calypso",
+      "es": "Furmalia"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_137.gif"
+      }
+    ]
+  },
+  "eh": {
+    "id": "eh",
+    "name": {
+      "en": "Coconut",
+      "fr": "coustoron",
+      "de": "Schnullerfrucht",
+      "es": "Custorón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_138.gif"
+      }
+    ]
+  },
+  "ei": {
+    "id": "ei",
+    "name": {
+      "en": "Cola Nut",
+      "fr": "sochon de Panurge",
+      "de": "Caushemesh Chili",
+      "es": "Sochon de panurga"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_139.gif"
+      }
+    ]
+  },
+  "ej": {
+    "id": "ej",
+    "name": {
+      "en": "Cupuassu",
+      "fr": "mouladre",
+      "de": "Edelrosette",
+      "es": "Muladra"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_140.gif"
+      }
+    ]
+  },
+  "ek": {
+    "id": "ek",
+    "name": {
+      "en": "Curry Leaf",
+      "fr": "sabirone craquelée",
+      "de": "Brüchiger Zabione",
+      "es": "Sabirona craquelada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_141.gif"
+      }
+    ]
+  },
+  "el": {
+    "id": "el",
+    "name": {
+      "en": "Cherimoya",
+      "fr": "langolfier",
+      "de": "Ongolfier",
+      "es": "Langolfier"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_142.gif"
+      }
+    ]
+  },
+  "em": {
+    "id": "em",
+    "name": {
+      "en": "Chili Pepper",
+      "fr": "pouladiche",
+      "de": "Dreieckige Anananaskirsche",
+      "es": "Puladicha"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_143.gif"
+      }
+    ]
+  },
+  "en": {
+    "id": "en",
+    "name": {
+      "en": "Chinese Jujube",
+      "fr": "tribaie de Mireillon",
+      "de": "Dreifaltige Mirabelle",
+      "es": "Tribaya de mireillon"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_144.gif"
+      }
+    ]
+  },
+  "eo": {
+    "id": "eo",
+    "name": {
+      "en": "Chinese Olive",
+      "fr": "sarule fraisière de synthèse",
+      "de": "Spanische synthetische Erdbeere",
+      "es": "Sarula fresia amazonica"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_145.gif"
+      }
+    ]
+  },
+  "ep": {
+    "id": "ep",
+    "name": {
+      "en": "Caimito",
+      "fr": "Marveloune",
+      "de": "Dunkle Kumquat",
+      "es": "Marveluna"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_146.gif"
+      }
+    ]
+  },
+  "eq": {
+    "id": "eq",
+    "name": {
+      "en": "Clove",
+      "fr": "joint-de-boise",
+      "de": "Klebrige Himbeere",
+      "es": "Arbolada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_147.gif"
+      }
+    ]
+  },
+  "er": {
+    "id": "er",
+    "name": {
+      "en": "Cosicoa",
+      "fr": "dolastige",
+      "de": "Tabaskina",
+      "es": "Dolastiga"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_148.gif"
+      }
+    ]
+  },
+  "es": {
+    "id": "es",
+    "name": {
+      "en": "Coffee Bean",
+      "fr": "sauf-kinède",
+      "de": "Zahnlose Dionaea",
+      "es": "Salvakinda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_149.gif"
+      }
+    ]
+  },
+  "et": {
+    "id": "et",
+    "name": {
+      "en": "Cupuaçu",
+      "fr": "personde de Bruges",
+      "de": "Uva coloniae",
+      "es": "Personda de brujas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_150.gif"
+      }
+    ]
+  },
+  "eu": {
+    "id": "eu",
+    "name": {
+      "en": "Custard Apple",
+      "fr": "picotoze",
+      "de": "Croissant-Satsuma",
+      "es": "Picotoza"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_151.gif"
+      }
+    ]
+  },
+  "ev": {
+    "id": "ev",
+    "name": {
+      "en": "Doodleberry",
+      "fr": "carotte bleue de jean-prune",
+      "de": "Blaue Karottenbeere",
+      "es": "Zanahora azul"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_152.gif"
+      }
+    ]
+  },
+  "ew": {
+    "id": "ew",
+    "name": {
+      "en": "Paraguava",
+      "fr": "boutignole",
+      "de": "Schottischer Pfirsich",
+      "es": "Butiniol"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_153.gif"
+      }
+    ]
+  },
+  "ex": {
+    "id": "ex",
+    "name": {
+      "en": "Plumb",
+      "fr": "mangrume",
+      "de": "Schamanentraum",
+      "es": "Mangruma"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_154.gif"
+      }
+    ]
+  },
+  "ey": {
+    "id": "ey",
+    "name": {
+      "en": "Dragonfruit",
+      "fr": "kiste",
+      "de": "Warzenfrucht",
+      "es": "Nistia"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_155.gif"
+      }
+    ]
+  },
+  "ez": {
+    "id": "ez",
+    "name": {
+      "en": "Dukudodd",
+      "fr": "pamplehue",
+      "de": "Pampel-hui",
+      "es": "Pamplegue"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_156.gif"
+      }
+    ]
+  },
+  "fa": {
+    "id": "fa",
+    "name": {
+      "en": "Klutzkawa",
+      "fr": "pangine corsée",
+      "de": "Potente Pangina",
+      "es": "Pangina corsa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_157.gif"
+      }
+    ]
+  },
+  "fb": {
+    "id": "fb",
+    "name": {
+      "en": "Elephant Apple",
+      "fr": "frulonque",
+      "de": "Eichelclementine",
+      "es": "Frulonca"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_158.gif"
+      }
+    ]
+  },
+  "fc": {
+    "id": "fc",
+    "name": {
+      "en": "Peach Pepino",
+      "fr": "griste veruleuse",
+      "de": "Bandwurmkirsche",
+      "es": "Grista verulosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_159.gif"
+      }
+    ]
+  },
+  "fd": {
+    "id": "fd",
+    "name": {
+      "en": "Fehnjoa",
+      "fr": "ballon d'Emiplegianne",
+      "de": "Kasachischer Ameisenbaloon",
+      "es": "Balón de emiplegiana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_160.gif"
+      }
+    ]
+  },
+  "fe": {
+    "id": "fe",
+    "name": {
+      "en": "Gambogey",
+      "fr": "Espigoune",
+      "de": "Meteorkokos",
+      "es": "Espigona"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_161.gif"
+      }
+    ]
+  },
+  "ff": {
+    "id": "ff",
+    "name": {
+      "en": "Gingernip",
+      "fr": "nonehime",
+      "de": "Sächsische Fruchtgurke",
+      "es": "Nonehima"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_162.gif"
+      }
+    ]
+  },
+  "fg": {
+    "id": "fg",
+    "name": {
+      "en": "Giant Granadilla",
+      "fr": "pourinade",
+      "de": "Danielfrucht",
+      "es": "Purinada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_163.gif"
+      }
+    ]
+  },
+  "fh": {
+    "id": "fh",
+    "name": {
+      "en": "Golden Apple",
+      "fr": "fessedange",
+      "de": "Engelpopo",
+      "es": "Pieldangel"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_164.gif"
+      }
+    ]
+  },
+  "fi": {
+    "id": "fi",
+    "name": {
+      "en": "Peach Tomato",
+      "fr": "parugraine",
+      "de": "Granatbeere",
+      "es": "Parugrana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_165.gif"
+      }
+    ]
+  },
+  "fj": {
+    "id": "fj",
+    "name": {
+      "en": "Granadilla",
+      "fr": "drigelon amer",
+      "de": "Bittere Schimmelnuss",
+      "es": "Drigelón amargo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_166.gif"
+      }
+    ]
+  },
+  "fk": {
+    "id": "fk",
+    "name": {
+      "en": "Grumichama",
+      "fr": "choux kibilien",
+      "de": "Malaischer Krabbenkohl",
+      "es": "Col kibiliana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_167.gif"
+      }
+    ]
+  },
+  "fl": {
+    "id": "fl",
+    "name": {
+      "en": "Guanabana",
+      "fr": "piligrone",
+      "de": "Limettenbirne",
+      "es": "Piligrona"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_168.gif"
+      }
+    ]
+  },
+  "fm": {
+    "id": "fm",
+    "name": {
+      "en": "Javuarana",
+      "fr": "Kramkram",
+      "de": "Afrikanische Schrumpelbeere",
+      "es": "Cramcram"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_169.gif"
+      }
+    ]
+  },
+  "fn": {
+    "id": "fn",
+    "name": {
+      "en": "Grittiuava",
+      "fr": "saunecosse",
+      "de": "Herbe Kelchkiwi",
+      "es": "Sonecosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_170.gif"
+      }
+    ]
+  },
+  "fo": {
+    "id": "fo",
+    "name": {
+      "en": "Rumberry",
+      "fr": "soucixte",
+      "de": "Schluftbaloon",
+      "es": "Sucixta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_171.gif"
+      }
+    ]
+  },
+  "fp": {
+    "id": "fp",
+    "name": {
+      "en": "Horned Melon",
+      "fr": "apophèse poreuse",
+      "de": "Aztekten-Ingwer",
+      "es": "Apopea porosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_172.gif"
+      }
+    ]
+  },
+  "fq": {
+    "id": "fq",
+    "name": {
+      "en": "Huitolive",
+      "fr": "kovak",
+      "de": "Kavok",
+      "es": "Kovac"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_173.gif"
+      }
+    ]
+  },
+  "fr": {
+    "id": "fr",
+    "name": {
+      "en": "Ice Cream Bean",
+      "fr": "bouton d'ame",
+      "de": "Sterntraube",
+      "es": "Botón de santo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_174.gif"
+      }
+    ]
+  },
+  "fs": {
+    "id": "fs",
+    "name": {
+      "en": "Indian Almond",
+      "fr": "chankor-pak",
+      "de": "Chankor-Pak",
+      "es": "Chancor-pak"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_175.gif"
+      }
+    ]
+  },
+  "ft": {
+    "id": "ft",
+    "name": {
+      "en": "Silkberry",
+      "fr": "albuzides",
+      "de": "Surinamikürbis",
+      "es": "Albúsides"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_176.gif"
+      }
+    ]
+  },
+  "fu": {
+    "id": "fu",
+    "name": {
+      "en": "Indian Gooseberry",
+      "fr": "courgeazur",
+      "de": "Paradieszucchini",
+      "es": "Calabazul"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_177.gif"
+      }
+    ]
+  },
+  "fv": {
+    "id": "fv",
+    "name": {
+      "en": "Perumari",
+      "fr": "grizline",
+      "de": "Camino",
+      "es": "Grizlina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_178.gif"
+      }
+    ]
+  },
+  "fw": {
+    "id": "fw",
+    "name": {
+      "en": "Indian Prune",
+      "fr": "atlanteole",
+      "de": "Atlantinische Tomate",
+      "es": "Atlanteola"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_179.gif"
+      }
+    ]
+  },
+  "fx": {
+    "id": "fx",
+    "name": {
+      "en": "Jaboticaba",
+      "fr": "baie d'octarus",
+      "de": "Octarusbeere",
+      "es": "Kiwi de octarus"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_180.gif"
+      }
+    ]
+  },
+  "fy": {
+    "id": "fy",
+    "name": {
+      "en": "Jackfruit",
+      "fr": "carion sylvain d'extripude",
+      "de": "Grasmimosa",
+      "es": "Almendro de extripuda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_181.gif"
+      }
+    ]
+  },
+  "fz": {
+    "id": "fz",
+    "name": {
+      "en": "Wineberry",
+      "fr": "prunasse nocturne golumine",
+      "de": "Saftige Nachtpflaume",
+      "es": "Albaricoque nocturno golumino"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_182.gif"
+      }
+    ]
+  },
+  "ga": {
+    "id": "ga",
+    "name": {
+      "en": "Jatobá",
+      "fr": "fonzyrave",
+      "de": "Rubiginosa monacensia",
+      "es": "Fonziravia"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_183.gif"
+      }
+    ]
+  },
+  "gb": {
+    "id": "gb",
+    "name": {
+      "en": "Jelly Plum",
+      "fr": "pochon verruleux de Cossemard",
+      "de": "Warziger Schokoladenwein",
+      "es": "Pochón veruloso de cosemar"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_184.gif"
+      }
+    ]
+  },
+  "gc": {
+    "id": "gc",
+    "name": {
+      "en": "Jocote",
+      "fr": "noix surimane",
+      "de": "Rousseau-Betelnuss",
+      "es": "Nuez surimana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_185.gif"
+      }
+    ]
+  },
+  "gd": {
+    "id": "gd",
+    "name": {
+      "en": "Kaffir Lime",
+      "fr": "baie-glande d'oursepoil",
+      "de": "Testiculi ursorum",
+      "es": "Caqui de ursepelo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_186.gif"
+      }
+    ]
+  },
+  "ge": {
+    "id": "ge",
+    "name": {
+      "en": "Kei Apple",
+      "fr": "fusillons gogremule",
+      "de": "Grogzwetschge",
+      "es": "Fusillones grómulos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_187.gif"
+      }
+    ]
+  },
+  "gf": {
+    "id": "gf",
+    "name": {
+      "en": "Keppel fruit",
+      "fr": "baie frokelone de Tanzanie",
+      "de": "Tansanesische Schlingbeere",
+      "es": "Guayabo de Tanzania"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_188.gif"
+      }
+    ]
+  },
+  "gg": {
+    "id": "gg",
+    "name": {
+      "en": "Kitembilla",
+      "fr": "goozblou",
+      "de": "Violette Nasenzwickfrucht",
+      "es": "Guzblú"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_189.gif"
+      }
+    ]
+  },
+  "gh": {
+    "id": "gh",
+    "name": {
+      "en": "Kiwano",
+      "fr": "noix de Gondomar",
+      "de": "Gondomarnuss",
+      "es": "Nuez de gondomar"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_190.gif"
+      }
+    ]
+  },
+  "gi": {
+    "id": "gi",
+    "name": {
+      "en": "Kiwifruit",
+      "fr": "piwi rose",
+      "de": "Rosa Piwi",
+      "es": "Piwi rosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_191.gif"
+      }
+    ]
+  },
+  "gj": {
+    "id": "gj",
+    "name": {
+      "en": "Guyanaguava",
+      "fr": "baie d'Ouen",
+      "de": "Majoquina",
+      "es": "Chirimoya de Guén"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_192.gif"
+      }
+    ]
+  },
+  "gk": {
+    "id": "gk",
+    "name": {
+      "en": "Kandis",
+      "fr": "saccarolme",
+      "de": "Rindzungenblüte",
+      "es": "Sacarolma"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_193.gif"
+      }
+    ]
+  },
+  "gl": {
+    "id": "gl",
+    "name": {
+      "en": "Korlan",
+      "fr": "oignon du Sahel",
+      "de": "Sahelzwiebel",
+      "es": "Cebolla de Sahel"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_194.gif"
+      }
+    ]
+  },
+  "gm": {
+    "id": "gm",
+    "name": {
+      "en": "Kundong",
+      "fr": "olivion confit",
+      "de": "Eingelegte Olive",
+      "es": "Olivón confite"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_195.gif"
+      }
+    ]
+  },
+  "gn": {
+    "id": "gn",
+    "name": {
+      "en": "Lablab",
+      "fr": "nouaztek",
+      "de": "Granatkiwi",
+      "es": "Nuaztek"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_196.gif"
+      }
+    ]
+  },
+  "go": {
+    "id": "go",
+    "name": {
+      "en": "Lakoocha",
+      "fr": "poustil",
+      "de": "Ohrpaprika",
+      "es": "Pustil"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_197.gif"
+      }
+    ]
+  },
+  "gp": {
+    "id": "gp",
+    "name": {
+      "en": "Oysterfruit",
+      "fr": "gramade",
+      "de": "Multibutte",
+      "es": "Gramado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_198.gif"
+      }
+    ]
+  },
+  "gq": {
+    "id": "gq",
+    "name": {
+      "en": "Uruguyabo",
+      "fr": "fraise feroce d'outre-sang",
+      "de": "Warmblutbeere",
+      "es": "Fresa feroz sanguínea"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_199.gif"
+      }
+    ]
+  },
+  "gr": {
+    "id": "gr",
+    "name": {
+      "en": "Leyssone",
+      "fr": "jacquelin bossu",
+      "de": "Jacqueline-Aprikose",
+      "es": "Jacquelin melón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_200.gif"
+      }
+    ]
+  },
+  "gs": {
+    "id": "gs",
+    "name": {
+      "en": "Lovinut",
+      "fr": "pêche papuleuse",
+      "de": "Prinzessinnenpfirsich",
+      "es": "Durzano papuloso"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_201.gif"
+      }
+    ]
+  },
+  "gt": {
+    "id": "gt",
+    "name": {
+      "en": "Lime",
+      "fr": "pelote ougandaise",
+      "de": "Fliederfarbene Aurelia",
+      "es": "Pelota ugandesa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_202.gif"
+      }
+    ]
+  },
+  "gu": {
+    "id": "gu",
+    "name": {
+      "en": "Limeberry",
+      "fr": "prune triomphante",
+      "de": "Ruhmvolle Mirabelle",
+      "es": "Ciruela triunfante"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_203.gif"
+      }
+    ]
+  },
+  "gv": {
+    "id": "gv",
+    "name": {
+      "en": "Limequatze",
+      "fr": "bogueraide",
+      "de": "Favo",
+      "es": "Bogueray"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_204.gif"
+      }
+    ]
+  },
+  "gw": {
+    "id": "gw",
+    "name": {
+      "en": "Longan",
+      "fr": "moltereaux",
+      "de": "Zwirne",
+      "es": "Molteró"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_205.gif"
+      }
+    ]
+  },
+  "gx": {
+    "id": "gx",
+    "name": {
+      "en": "Loquat",
+      "fr": "merangue crispée",
+      "de": "Madame Meringue",
+      "es": "Merengue crispado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_206.gif"
+      }
+    ]
+  },
+  "gy": {
+    "id": "gy",
+    "name": {
+      "en": "Jumboplum",
+      "fr": "paire de bolchevine",
+      "de": "Sowjetische Knorpelkirsche",
+      "es": "Bolchevina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_207.gif"
+      }
+    ]
+  },
+  "gz": {
+    "id": "gz",
+    "name": {
+      "en": "Lucuma",
+      "fr": "pruneau",
+      "de": "Backpflaume",
+      "es": "Ciruela pasa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_208.gif"
+      }
+    ]
+  },
+  "ha": {
+    "id": "ha",
+    "name": {
+      "en": "Lycheechee",
+      "fr": "cosse foraine",
+      "de": "Jahrmarktbeutel",
+      "es": "Vaina foranea"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_209.gif"
+      }
+    ]
+  },
+  "hb": {
+    "id": "hb",
+    "name": {
+      "en": "Mabolo",
+      "fr": "cerises guillaume géantes",
+      "de": "Wilhelminische Riesenkirschen",
+      "es": "Cerezas guillerminas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_210.gif"
+      }
+    ]
+  },
+  "hc": {
+    "id": "hc",
+    "name": {
+      "en": "Macadamia",
+      "fr": "tomates cireuses du Mexique",
+      "de": "Mexikanische Wachstomaten",
+      "es": "Tomates cerosos mexicanos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_211.gif"
+      }
+    ]
+  },
+  "hd": {
+    "id": "hd",
+    "name": {
+      "en": "Madrono",
+      "fr": "chavenagre",
+      "de": "Pappiger Hanfapfel",
+      "es": "Chevanagre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_212.gif"
+      }
+    ]
+  },
+  "he": {
+    "id": "he",
+    "name": {
+      "en": "Robustapple",
+      "fr": "citron velu d'escampette",
+      "de": "Haarige Tuvaluzitrone",
+      "es": "Limón escampado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_213.gif"
+      }
+    ]
+  },
+  "hf": {
+    "id": "hf",
+    "name": {
+      "en": "Milkyapple",
+      "fr": "gousse géante de camérile",
+      "de": "Riesige Caymanschote",
+      "es": "Vaina gigante de cameril"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_214.gif"
+      }
+    ]
+  },
+  "hg": {
+    "id": "hg",
+    "name": {
+      "en": "Mamey",
+      "fr": "polkine",
+      "de": "Schöne Petra",
+      "es": "Polquina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_215.gif"
+      }
+    ]
+  },
+  "hh": {
+    "id": "hh",
+    "name": {
+      "en": "Mamoncello",
+      "fr": "opalin des malouines",
+      "de": "Griechischer Bergfenchel",
+      "es": "Opalín de Malvinas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_216.gif"
+      }
+    ]
+  },
+  "hi": {
+    "id": "hi",
+    "name": {
+      "en": "Mandarin",
+      "fr": "regal de mirmelin",
+      "de": "Untrennbare Waschbärenolive",
+      "es": "Regal de mirmelín"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_217.gif"
+      }
+    ]
+  },
+  "hj": {
+    "id": "hj",
+    "name": {
+      "en": "Mangaba",
+      "fr": "coulemele géante",
+      "de": "Geheimnisvolle Hermine",
+      "es": "Columelo gigante"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_218.gif"
+      }
+    ]
+  },
+  "hk": {
+    "id": "hk",
+    "name": {
+      "en": "Meatmango",
+      "fr": "pranterase",
+      "de": "Glatte kanadische Pitaya",
+      "es": "Pranteresa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_219.gif"
+      }
+    ]
+  },
+  "hl": {
+    "id": "hl",
+    "name": {
+      "en": "Mangosteen",
+      "fr": "noix de coco géante",
+      "de": "Riesige Kokosnuss",
+      "es": "Coco gigante"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_220.gif"
+      }
+    ]
+  },
+  "hm": {
+    "id": "hm",
+    "name": {
+      "en": "Mintrang",
+      "fr": "malpanguede",
+      "de": "Augenkirsche",
+      "es": "Malpangueda"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_221.gif"
+      }
+    ]
+  },
+  "hn": {
+    "id": "hn",
+    "name": {
+      "en": "Maypop",
+      "fr": "larme de coquebin",
+      "de": "Harzige Koalaträne",
+      "es": "Lágrima de coquebino"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_222.gif"
+      }
+    ]
+  },
+  "ho": {
+    "id": "ho",
+    "name": {
+      "en": "Medlar",
+      "fr": "prunes totemiques d'Abigaël",
+      "de": "Erbsenförmige Pythagoras-Assai",
+      "es": "Ciruelas totem de Abigaíl"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_223.gif"
+      }
+    ]
+  },
+  "hp": {
+    "id": "hp",
+    "name": {
+      "en": "Sicksloe",
+      "fr": "calebasse du wigam",
+      "de": "Eleganter Flaschenkürbis",
+      "es": "Calabaza de Wigam"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_224.gif"
+      }
+    ]
+  },
+  "hq": {
+    "id": "hq",
+    "name": {
+      "en": "Melon Pear",
+      "fr": "touillebine",
+      "de": "Riesiger Frühlingscornichon",
+      "es": "Tejilla"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_225.gif"
+      }
+    ]
+  },
+  "hr": {
+    "id": "hr",
+    "name": {
+      "en": "Miracle Fruit",
+      "fr": "libernucle des songes",
+      "de": "Steinharte Leguanbeere",
+      "es": "Libernucla de sondas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_226.gif"
+      }
+    ]
+  },
+  "hs": {
+    "id": "hs",
+    "name": {
+      "en": "Mombin",
+      "fr": "navet sclereux de croche-poule",
+      "de": "Südafrikanische Hühnerrübe",
+      "es": "Navo escleroso"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_227.gif"
+      }
+    ]
+  },
+  "ht": {
+    "id": "ht",
+    "name": {
+      "en": "Monstera",
+      "fr": "fraîche espandille",
+      "de": "Vielfarbiges Pinselblatt",
+      "es": "Espandilla fresca"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_228.gif"
+      }
+    ]
+  },
+  "hu": {
+    "id": "hu",
+    "name": {
+      "en": "Morinda",
+      "fr": "i' d'oedipe congestipé",
+      "de": "Verstopfte Humboldtbirne",
+      "es": "Idedipo congestionado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_229.gif"
+      }
+    ]
+  },
+  "hv": {
+    "id": "hv",
+    "name": {
+      "en": "Mountain Mango",
+      "fr": "carotte de neptune",
+      "de": "Neptunkarotte",
+      "es": "Zanahoria de neptuno"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_230.gif"
+      }
+    ]
+  },
+  "hw": {
+    "id": "hw",
+    "name": {
+      "en": "Jackfruit",
+      "fr": "poirosang",
+      "de": "Blutbirne",
+      "es": "Puerrosangre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_231.gif"
+      }
+    ]
+  },
+  "hx": {
+    "id": "hx",
+    "name": {
+      "en": "Mundu",
+      "fr": "tomerote courbée",
+      "de": "Tomelone",
+      "es": "Tomarote curvo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_232.gif"
+      }
+    ]
+  },
+  "hy": {
+    "id": "hy",
+    "name": {
+      "en": "Tapiok",
+      "fr": "gousse-folle d'estrangulites",
+      "de": "Verrückte Brombeere",
+      "es": "Vaina loca de estrangulitas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_233.gif"
+      }
+    ]
+  },
+  "hz": {
+    "id": "hz",
+    "name": {
+      "en": "Muskmelon",
+      "fr": "tonce de Biscarosse",
+      "de": "Pinkfarbene Wolfsbeere",
+      "es": "Toncia de biscarosa"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_234.gif"
+      }
+    ]
+  },
+  "ia": {
+    "id": "ia",
+    "name": {
+      "en": "Nance",
+      "fr": "courgette souple d'andromède",
+      "de": "Weiche Andromedagurke",
+      "es": "Calabaza de andromada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_235.gif"
+      }
+    ]
+  },
+  "ib": {
+    "id": "ib",
+    "name": {
+      "en": "Naranjilla",
+      "fr": "prune vermillone",
+      "de": "Beaujolais-Zwetschge",
+      "es": "Ciruelo rojillón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_236.gif"
+      }
+    ]
+  },
+  "ic": {
+    "id": "ic",
+    "name": {
+      "en": "Jollijoba",
+      "fr": "navet marin d'iodefine",
+      "de": "Jodsalzrübe",
+      "es": "Navo marino de Yodefín"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_237.gif"
+      }
+    ]
+  },
+  "id": {
+    "id": "id",
+    "name": {
+      "en": "Jamjube",
+      "fr": "fruit du moine",
+      "de": "Mönchsfrucht",
+      "es": "Fruto de monje"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_238.gif"
+      }
+    ]
+  },
+  "ie": {
+    "id": "ie",
+    "name": {
+      "en": "Sugar Free Fig",
+      "fr": "apuron sauvage",
+      "de": "Wilde Bikina",
+      "es": "Apuron salvaje"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_239.gif"
+      }
+    ]
+  },
+  "if": {
+    "id": "if",
+    "name": {
+      "en": "Peach Husk",
+      "fr": "grenoule",
+      "de": "Dangrenschote",
+      "es": "Grenula"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_240.gif"
+      }
+    ]
+  },
+  "ig": {
+    "id": "ig",
+    "name": {
+      "en": "Palmnut",
+      "fr": "noix chicte de Boterang",
+      "de": "Chruselbeeri",
+      "es": "Nuez de Boteranga"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_241.gif"
+      }
+    ]
+  },
+  "ih": {
+    "id": "ih",
+    "name": {
+      "en": "Papaya",
+      "fr": "sar-kotolys",
+      "de": "Totemfrucht",
+      "es": "Sarkotolys"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_242.gif"
+      }
+    ]
+  },
+  "ii": {
+    "id": "ii",
+    "name": {
+      "en": "Passionfruit",
+      "fr": "germillante de Kor",
+      "de": "Chamäleonkeimling",
+      "es": "Germillante de kor"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_243.gif"
+      }
+    ]
+  },
+  "ij": {
+    "id": "ij",
+    "name": {
+      "en": "Pawsome",
+      "fr": "ficheloutre",
+      "de": "Knospenbeere der Verliebten",
+      "es": "Fichelutri"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_244.gif"
+      }
+    ]
+  },
+  "ik": {
+    "id": "ik",
+    "name": {
+      "en": "Peach Palm",
+      "fr": "moguechoucte",
+      "de": "Mugashuk",
+      "es": "Moguechucta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_245.gif"
+      }
+    ]
+  },
+  "il": {
+    "id": "il",
+    "name": {
+      "en": "Peanut Butter Fruit",
+      "fr": "Labsket brun",
+      "de": "Brauner Labsket",
+      "es": "Aguaje moreno"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_246.gif"
+      }
+    ]
+  },
+  "im": {
+    "id": "im",
+    "name": {
+      "en": "Pecan",
+      "fr": "pokaran boursoufflé",
+      "de": "Aufgeblähter Pokaran",
+      "es": "Pocarán ampuloso"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_247.gif"
+      }
+    ]
+  },
+  "in": {
+    "id": "in",
+    "name": {
+      "en": "Peripino",
+      "fr": "tenebiges feutrées",
+      "de": "Pustelige Strauchaprikose",
+      "es": "Tenebigas rotuladas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_248.gif"
+      }
+    ]
+  },
+  "io": {
+    "id": "io",
+    "name": {
+      "en": "Pequi",
+      "fr": "palmus",
+      "de": "Palmus",
+      "es": "Palmus"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_249.gif"
+      }
+    ]
+  },
+  "ip": {
+    "id": "ip",
+    "name": {
+      "en": "Persimmon",
+      "fr": "perle blanche",
+      "de": "Litschiperle",
+      "es": "Perla blanca"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_250.gif"
+      }
+    ]
+  },
+  "iq": {
+    "id": "iq",
+    "name": {
+      "en": "Potatome",
+      "fr": "perle dorée",
+      "de": "Goldperle",
+      "es": "Perla dorada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_251.gif"
+      }
+    ]
+  },
+  "ir": {
+    "id": "ir",
+    "name": {
+      "en": "Breadfruit",
+      "fr": "tolmine supre d'Astirmin",
+      "de": "ESCORP Astronautenorange",
+      "es": "Tolmina supra de astirmin"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_252.gif"
+      }
+    ]
+  },
+  "is": {
+    "id": "is",
+    "name": {
+      "en": "Pilinut",
+      "fr": "souffricine",
+      "de": "Braune Auberginenmarille",
+      "es": "Sufricina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_253.gif"
+      }
+    ]
+  },
+  "it": {
+    "id": "it",
+    "name": {
+      "en": "Pindo Palm",
+      "fr": "kiwi",
+      "de": "Kiwi",
+      "es": "Kiwi"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_254.gif"
+      }
+    ]
+  },
+  "iu": {
+    "id": "iu",
+    "name": {
+      "en": "Pinyapple",
+      "fr": "vulcanide",
+      "de": "Vulcanina",
+      "es": "Vulcánida"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_255.gif"
+      }
+    ]
+  },
+  "iv": {
+    "id": "iv",
+    "name": {
+      "en": "Picetacchio",
+      "fr": "sagipoine",
+      "de": "Dumbopflaume",
+      "es": "Sagipuana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_256.gif"
+      }
+    ]
+  },
+  "iw": {
+    "id": "iw",
+    "name": {
+      "en": "Pitomba",
+      "fr": "aubergigite",
+      "de": "Auberginenbirne",
+      "es": "Berengjilla"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_257.gif"
+      }
+    ]
+  },
+  "ix": {
+    "id": "ix",
+    "name": {
+      "en": "Beer Nut",
+      "fr": "tugeron",
+      "de": "Straffe Beerentomate",
+      "es": "Tugerón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_258.gif"
+      }
+    ]
+  },
+  "iy": {
+    "id": "iy",
+    "name": {
+      "en": "Ice Cream Bean",
+      "fr": "sanglepoire",
+      "de": "Saure Klappbirne",
+      "es": "Sanglepera"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_259.gif"
+      }
+    ]
+  },
+  "iz": {
+    "id": "iz",
+    "name": {
+      "en": "Pommegranite",
+      "fr": "doudeline",
+      "de": "Mariannen-Drachenfrucht",
+      "es": "Dudelina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_260.gif"
+      }
+    ]
+  },
+  "ja": {
+    "id": "ja",
+    "name": {
+      "en": "Pulasan",
+      "fr": "citrouillène de Brumes",
+      "de": "Tintenfischtomate",
+      "es": "Limonillo de brumas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_261.gif"
+      }
+    ]
+  },
+  "jb": {
+    "id": "jb",
+    "name": {
+      "en": "Pummelo",
+      "fr": "courgeveine",
+      "de": "Naga Jolokia",
+      "es": "Calabacelo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_262.gif"
+      }
+    ]
+  },
+  "jc": {
+    "id": "jc",
+    "name": {
+      "en": "Pupunha",
+      "fr": "loquepoire",
+      "de": "Kohlbirne",
+      "es": "Loquepera"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_263.gif"
+      }
+    ]
+  },
+  "jd": {
+    "id": "jd",
+    "name": {
+      "en": "Purple Mombin",
+      "fr": "frumille",
+      "de": "Hagebuttenbeere",
+      "es": "Frumilla"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_264.gif"
+      }
+    ]
+  },
+  "je": {
+    "id": "je",
+    "name": {
+      "en": "Satinapple",
+      "fr": "Gorgeron d'Ipenile",
+      "de": "Bohnenkirsche",
+      "es": "Gorgerón d'Ipenila"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_265.gif"
+      }
+    ]
+  },
+  "jf": {
+    "id": "jf",
+    "name": {
+      "en": "Riberry",
+      "fr": "tuline coeur-de-veau",
+      "de": "Kalbsherzfrucht",
+      "es": "Tulina corazon"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_266.gif"
+      }
+    ]
+  },
+  "jg": {
+    "id": "jg",
+    "name": {
+      "en": "Yummyucca",
+      "fr": "groseilles",
+      "de": "Johannisbeeren",
+      "es": "Grosellas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_267.gif"
+      }
+    ]
+  },
+  "jh": {
+    "id": "jh",
+    "name": {
+      "en": "Rollinapple",
+      "fr": "anqueponche",
+      "de": "Dreitaschenpaprika",
+      "es": "Anqueponche"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_268.gif"
+      }
+    ]
+  },
+  "ji": {
+    "id": "ji",
+    "name": {
+      "en": "Rose Apple",
+      "fr": "molderoche",
+      "de": "Moldosch",
+      "es": "Molderoche"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_269.gif"
+      }
+    ]
+  },
+  "jj": {
+    "id": "jj",
+    "name": {
+      "en": "Safounote",
+      "fr": "migrelon",
+      "de": "Bitterpapaya",
+      "es": "Migrelón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_270.gif"
+      }
+    ]
+  },
+  "jk": {
+    "id": "jk",
+    "name": {
+      "en": "Salakili",
+      "fr": "murion",
+      "de": "Bromkirsche",
+      "es": "Murino"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_271.gif"
+      }
+    ]
+  },
+  "jl": {
+    "id": "jl",
+    "name": {
+      "en": "Santolive",
+      "fr": "rabus bilevin",
+      "de": "Kinderrübe",
+      "es": "Rabus bilevino"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_272.gif"
+      }
+    ]
+  },
+  "jm": {
+    "id": "jm",
+    "name": {
+      "en": "Sapodilla",
+      "fr": "roblochone piquée",
+      "de": "Paprikose",
+      "es": "Roblochone picado"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_273.gif"
+      }
+    ]
+  },
+  "jn": {
+    "id": "jn",
+    "name": {
+      "en": "Sea Grape",
+      "fr": "korosan-ker",
+      "de": "Wasserfall-Zwetschge",
+      "es": "Korosan-ker"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_274.gif"
+      }
+    ]
+  },
+  "jo": {
+    "id": "jo",
+    "name": {
+      "en": "Soncoya",
+      "fr": "marleane d'execution",
+      "de": "Hochwald-Marlise",
+      "es": "Marleana de ejecución"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_275.gif"
+      }
+    ]
+  },
+  "jp": {
+    "id": "jp",
+    "name": {
+      "en": "Soursorb",
+      "fr": "cibouline",
+      "de": "Blaue Honigbeere",
+      "es": "Cebollina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_276.gif"
+      }
+    ]
+  },
+  "jq": {
+    "id": "jq",
+    "name": {
+      "en": "Diarapple",
+      "fr": "noix bruconite",
+      "de": "Maulwurfsnuss",
+      "es": "Nuez bruconita"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_277.gif"
+      }
+    ]
+  },
+  "jr": {
+    "id": "jr",
+    "name": {
+      "en": "Star Apple",
+      "fr": "biscuine sultane de Salatiba",
+      "de": "Sultankaki aus Salatiba",
+      "es": "Biscuina sultana de salatiba"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_278.gif"
+      }
+    ]
+  },
+  "js": {
+    "id": "js",
+    "name": {
+      "en": "Strawberry Guava",
+      "fr": "danzague",
+      "de": "Braune Sarrazinbohne",
+      "es": "Danzagua"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_279.gif"
+      }
+    ]
+  },
+  "jt": {
+    "id": "jt",
+    "name": {
+      "en": "Strawberry Pear",
+      "fr": "jardinianes pourpres",
+      "de": "Purpurrote Jardinia",
+      "es": "Jardinianas purpuras"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_280.gif"
+      }
+    ]
+  },
+  "ju": {
+    "id": "ju",
+    "name": {
+      "en": "Sugar Apple",
+      "fr": "meron",
+      "de": "Meron",
+      "es": "Merón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_281.gif"
+      }
+    ]
+  },
+  "jv": {
+    "id": "jv",
+    "name": {
+      "en": "Soulebean",
+      "fr": "boursouflette",
+      "de": "Cerebrale Paprika",
+      "es": "Bursufleta"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_282.gif"
+      }
+    ]
+  },
+  "jw": {
+    "id": "jw",
+    "name": {
+      "en": "Surinam Cherry",
+      "fr": "sagalte",
+      "de": "Miquelon Zuckerschote",
+      "es": "Sagalte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_283.gif"
+      }
+    ]
+  },
+  "jx": {
+    "id": "jx",
+    "name": {
+      "en": "Snappapple",
+      "fr": "bouton de ficheloutre",
+      "de": "Stachelknopf",
+      "es": "Botón de fichelutri"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_284.gif"
+      }
+    ]
+  },
+  "jy": {
+    "id": "jy",
+    "name": {
+      "en": "Pepperberry",
+      "fr": "sauf-kinède naine",
+      "de": "Zwergen-Dionaea",
+      "es": "Salvakinda enana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_285.gif"
+      }
+    ]
+  },
+  "jz": {
+    "id": "jz",
+    "name": {
+      "en": "Sweetsoap",
+      "fr": "coulemele",
+      "de": "Kulumele",
+      "es": "Culemelo"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_286.gif"
+      }
+    ]
+  },
+  "ka": {
+    "id": "ka",
+    "name": {
+      "en": "Toasted Tamarind",
+      "fr": "gorank-siksik",
+      "de": "Gorank-Siksik",
+      "es": "Gorank-siksik"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_287.gif"
+      }
+    ]
+  },
+  "kb": {
+    "id": "kb",
+    "name": {
+      "en": "Vanilla Pod",
+      "fr": "sugrelide docte de Burdelon",
+      "de": "Burdanesischer Sugrelid",
+      "es": "Sugrélida docte de burdelón"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_288.gif"
+      }
+    ]
+  },
+  "kc": {
+    "id": "kc",
+    "name": {
+      "en": "Wampee",
+      "fr": "sok-rok",
+      "de": "Thailändischer Sok-Rok",
+      "es": "Sok-rok"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_289.gif"
+      }
+    ]
+  },
+  "kd": {
+    "id": "kd",
+    "name": {
+      "en": "Water Apple",
+      "fr": "noizeuil",
+      "de": "Zyklopnuss",
+      "es": "Nuazil"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_290.gif"
+      }
+    ]
+  },
+  "ke": {
+    "id": "ke",
+    "name": {
+      "en": "Wax Jambu",
+      "fr": "noix grasse de Loporez",
+      "de": "Ölige Loporezwalnuss",
+      "es": "Nuez grasa de Loreto"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_291.gif"
+      }
+    ]
+  },
+  "kf": {
+    "id": "kf",
+    "name": {
+      "en": "Tenderlime",
+      "fr": "pomme lourde de sanctebuse",
+      "de": "Mandrabula",
+      "es": "Manzana de Arauco"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_292.gif"
+      }
+    ]
+  },
+  "kg": {
+    "id": "kg",
+    "name": {
+      "en": "White Sapote",
+      "fr": "glurinette amollie",
+      "de": "Weiche Paulette",
+      "es": "Glurineta amolada"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_293.gif"
+      }
+    ]
+  },
+  "kh": {
+    "id": "kh",
+    "name": {
+      "en": "Winged Bean",
+      "fr": "courge de gruyène",
+      "de": "Nobelzucchini",
+      "es": "Calabaza de guyana"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_294.gif"
+      }
+    ]
+  },
+  "ki": {
+    "id": "ki",
+    "name": {
+      "en": "Wood Apple",
+      "fr": "pursière revancharde",
+      "de": "Flamingoschalotte",
+      "es": "Pitanga revanchera"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_295.gif"
+      }
+    ]
+  },
+  "kj": {
+    "id": "kj",
+    "name": {
+      "en": "Monkeylime",
+      "fr": "tumerain",
+      "de": "Kikaki",
+      "es": "Tamarín"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_296.gif"
+      }
+    ]
+  },
+  "kk": {
+    "id": "kk",
+    "name": {
+      "en": "Wild Mangosteen",
+      "fr": "bolte de Gosh",
+      "de": "Mungo-Rhabarber",
+      "es": "Babaco de Cartagena"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_297.gif"
+      }
+    ]
+  },
+  "kl": {
+    "id": "kl",
+    "name": {
+      "en": "Sailor Berry",
+      "fr": "baie roses des Hydres",
+      "de": "Pferdejohannisbeere",
+      "es": "Baya rosa de hidras"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_298.gif"
+      }
+    ]
+  },
+  "km": {
+    "id": "km",
+    "name": {
+      "en": "Swazilemon",
+      "fr": "estrangulites en suspension",
+      "de": "Metroidbeere",
+      "es": "Estrangulitas en suspensión"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_299.gif"
+      }
+    ]
+  },
+  "kn": {
+    "id": "kn",
+    "name": {
+      "en": "Raspberry",
+      "fr": "pousse de barsouine",
+      "de": "Regenbogenpaprika",
+      "es": "Brote de barsuina"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_300.gif"
+      }
+    ]
+  },
+  "ko": {
+    "id": "ko",
+    "name": {
+      "en": "Apple",
+      "fr": "caca",
+      "de": "Kacka",
+      "es": "Excremento"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "fruits_301.gif"
+      }
+    ]
+  }
+}

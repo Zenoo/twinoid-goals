@@ -1,0 +1,2461 @@
+{
+  "compas": {
+    "id": "compas",
+    "name": {
+      "en": "Boussoles Obtenues",
+      "fr": "Boussoles Obtenues",
+      "de": "Boussoles Obtenues",
+      "es": "Boussoles Obtenues"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 20,
+        "points": 5,
+        "prefix": true,
+        "title": {
+          "en": "Navigateur",
+          "fr": "Navigateur",
+          "de": "Navigateur",
+          "es": "Navigateur"
+        }
+      },
+      {
+        "count": 100,
+        "points": 10,
+        "suffix": true,
+        "title": {
+          "en": "Olympe",
+          "fr": "Olympe",
+          "de": "Olympe",
+          "es": "Olympe"
+        }
+      },
+      {
+        "count": 1000,
+        "points": 10,
+        "prefix": true,
+        "title": {
+          "en": "Titan",
+          "fr": "Titan",
+          "de": "Titan",
+          "es": "Titan"
+        }
+      }
+    ]
+  },
+  "triton": {
+    "id": "triton",
+    "name": {
+      "en": "Conque des Tritons",
+      "fr": "Conque des Tritons",
+      "de": "Conque des Tritons",
+      "es": "Conque des Tritons"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_triton.png"
+      }
+    ]
+  },
+  "ring": {
+    "id": "ring",
+    "name": {
+      "en": "Bague de Mariage",
+      "fr": "Bague de Mariage",
+      "de": "Bague de Mariage",
+      "es": "Bague de Mariage"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_ring.png"
+      }
+    ]
+  },
+  "axe": {
+    "id": "axe",
+    "name": {
+      "en": "Hache Brisée d’Héphaïstos",
+      "fr": "Hache Brisée d’Héphaïstos",
+      "de": "Hache Brisée d’Héphaïstos",
+      "es": "Hache Brisée d’Héphaïstos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_axe.png"
+      }
+    ]
+  },
+  "axefor": {
+    "id": "axefor",
+    "name": {
+      "en": "Hache d’Héphaïstos",
+      "fr": "Hache d’Héphaïstos",
+      "de": "Hache d’Héphaïstos",
+      "es": "Hache d’Héphaïstos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_axeforge.png"
+      }
+    ]
+  },
+  "lotos": {
+    "id": "lotos",
+    "name": {
+      "en": "Feuilles de Lotos",
+      "fr": "Feuilles de Lotos",
+      "de": "Feuilles de Lotos",
+      "es": "Feuilles de Lotos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_lotos.png"
+      }
+    ]
+  },
+  "moly": {
+    "id": "moly",
+    "name": {
+      "en": "Racines de Moly",
+      "fr": "Racines de Moly",
+      "de": "Racines de Moly",
+      "es": "Racines de Moly"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_moly.png"
+      }
+    ]
+  },
+  "kmedal": {
+    "id": "kmedal",
+    "name": {
+      "en": "Médaille de Kabal",
+      "fr": "Médaille de Kabal",
+      "de": "Médaille de Kabal",
+      "es": "Médaille de Kabal"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_kmedal.png"
+      }
+    ]
+  },
+  "blaze": {
+    "id": "blaze",
+    "name": {
+      "en": "Blason d'Halberti",
+      "fr": "Blason d'Halberti",
+      "de": "Blason d'Halberti",
+      "es": "Blason d'Halberti"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_blaze.png"
+      }
+    ]
+  },
+  "crosto": {
+    "id": "crosto",
+    "name": {
+      "en": "Pierre de Cronos",
+      "fr": "Pierre de Cronos",
+      "de": "Pierre de Cronos",
+      "es": "Pierre de Cronos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_crostone.png"
+      }
+    ]
+  },
+  "savmap": {
+    "id": "savmap",
+    "name": {
+      "en": "Carte de la Mer Sauvage",
+      "fr": "Carte de la Mer Sauvage",
+      "de": "Carte de la Mer Sauvage",
+      "es": "Carte de la Mer Sauvage"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_savmap.png"
+      }
+    ]
+  },
+  "mirror": {
+    "id": "mirror",
+    "name": {
+      "en": "Miroir de Circé",
+      "fr": "Miroir de Circé",
+      "de": "Miroir de Circé",
+      "es": "Miroir de Circé"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_mirror.png"
+      }
+    ]
+  },
+  "hypmap": {
+    "id": "hypmap",
+    "name": {
+      "en": "Carte de la Mer d'Hypothésis",
+      "fr": "Carte de la Mer d'Hypothésis",
+      "de": "Carte de la Mer d'Hypothésis",
+      "es": "Carte de la Mer d'Hypothésis"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_hypmap.png"
+      }
+    ]
+  },
+  "galupi": {
+    "id": "galupi",
+    "name": {
+      "en": "Plume de Galupin",
+      "fr": "Plume de Galupin",
+      "de": "Plume de Galupin",
+      "es": "Plume de Galupin"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_galupin.png"
+      }
+    ]
+  },
+  "nstar": {
+    "id": "nstar",
+    "name": {
+      "en": "Étoile du Nord",
+      "fr": "Étoile du Nord",
+      "de": "Étoile du Nord",
+      "es": "Étoile du Nord"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_nstar.png"
+      }
+    ]
+  },
+  "rose": {
+    "id": "rose",
+    "name": {
+      "en": "Rose d'Airain",
+      "fr": "Rose d'Airain",
+      "de": "Rose d'Airain",
+      "es": "Rose d'Airain"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_rose.png"
+      }
+    ]
+  },
+  "ribon": {
+    "id": "ribon",
+    "name": {
+      "en": "Ruban de Flora",
+      "fr": "Ruban de Flora",
+      "de": "Ruban de Flora",
+      "es": "Ruban de Flora"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_ribon.png"
+      }
+    ]
+  },
+  "drod": {
+    "id": "drod",
+    "name": {
+      "en": "Baguette des Drünes",
+      "fr": "Baguette des Drünes",
+      "de": "Baguette des Drünes",
+      "es": "Baguette des Drünes"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_drod.png"
+      }
+    ]
+  },
+  "zlance": {
+    "id": "zlance",
+    "name": {
+      "en": "Lance de Zeus",
+      "fr": "Lance de Zeus",
+      "de": "Lance de Zeus",
+      "es": "Lance de Zeus"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_zlance.png"
+      }
+    ]
+  },
+  "zpenda": {
+    "id": "zpenda",
+    "name": {
+      "en": "Pendentif de Zeus",
+      "fr": "Pendentif de Zeus",
+      "de": "Pendentif de Zeus",
+      "es": "Pendentif de Zeus"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_zpendant.png"
+      }
+    ]
+  },
+  "pempty": {
+    "id": "pempty",
+    "name": {
+      "en": "Potions Vides",
+      "fr": "Potions Vides",
+      "de": "Potions Vides",
+      "es": "Potions Vides"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_pempty.png"
+      }
+    ]
+  },
+  "mcard": {
+    "id": "mcard",
+    "name": {
+      "en": "Carte de Marchand",
+      "fr": "Carte de Marchand",
+      "de": "Carte de Marchand",
+      "es": "Carte de Marchand"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_mcard.png"
+      }
+    ]
+  },
+  "scard": {
+    "id": "scard",
+    "name": {
+      "en": "Carte de Sommelier",
+      "fr": "Carte de Sommelier",
+      "de": "Carte de Sommelier",
+      "es": "Carte de Sommelier"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_scard.png"
+      }
+    ]
+  },
+  "cane1": {
+    "id": "cane1",
+    "name": {
+      "en": "Canne du Débutant",
+      "fr": "Canne du Débutant",
+      "de": "Canne du Débutant",
+      "es": "Canne du Débutant"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_cane1.png"
+      }
+    ]
+  },
+  "cane2": {
+    "id": "cane2",
+    "name": {
+      "en": "Canne Intermédiaire",
+      "fr": "Canne Intermédiaire",
+      "de": "Canne Intermédiaire",
+      "es": "Canne Intermédiaire"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_cane2.png"
+      }
+    ]
+  },
+  "cane3": {
+    "id": "cane3",
+    "name": {
+      "en": "Canne Professionnelle",
+      "fr": "Canne Professionnelle",
+      "de": "Canne Professionnelle",
+      "es": "Canne Professionnelle"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_cane3.png"
+      }
+    ]
+  },
+  "fish1": {
+    "id": "fish1",
+    "name": {
+      "en": "Girelle des Nuages",
+      "fr": "Girelle des Nuages",
+      "de": "Girelle des Nuages",
+      "es": "Girelle des Nuages"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_fish1.png"
+      }
+    ]
+  },
+  "fish2": {
+    "id": "fish2",
+    "name": {
+      "en": "Barracuda Zébré",
+      "fr": "Barracuda Zébré",
+      "de": "Barracuda Zébré",
+      "es": "Barracuda Zébré"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_fish2.png"
+      }
+    ]
+  },
+  "fish3": {
+    "id": "fish3",
+    "name": {
+      "en": "Rascasse Géante Arc-en-Ciel",
+      "fr": "Rascasse Géante Arc-en-Ciel",
+      "de": "Rascasse Géante Arc-en-Ciel",
+      "es": "Rascasse Géante Arc-en-Ciel"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_fish3.png"
+      }
+    ]
+  },
+  "alette": {
+    "id": "alette",
+    "name": {
+      "en": "Lettre Royale",
+      "fr": "Lettre Royale",
+      "de": "Lettre Royale",
+      "es": "Lettre Royale"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_aletter.png"
+      }
+    ]
+  },
+  "food1": {
+    "id": "food1",
+    "name": {
+      "en": "Fruit Appétissant",
+      "fr": "Fruit Appétissant",
+      "de": "Fruit Appétissant",
+      "es": "Fruit Appétissant"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_food1.png"
+      }
+    ]
+  },
+  "food2": {
+    "id": "food2",
+    "name": {
+      "en": "Gros Légume",
+      "fr": "Gros Légume",
+      "de": "Gros Légume",
+      "es": "Gros Légume"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_food2.png"
+      }
+    ]
+  },
+  "food3": {
+    "id": "food3",
+    "name": {
+      "en": "Viande Grillée",
+      "fr": "Viande Grillée",
+      "de": "Viande Grillée",
+      "es": "Viande Grillée"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_food3.png"
+      }
+    ]
+  },
+  "monste": {
+    "id": "monste",
+    "name": {
+      "en": "Monstre Étrange",
+      "fr": "Monstre Étrange",
+      "de": "Monstre Étrange",
+      "es": "Monstre Étrange"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_monster.png"
+      }
+    ]
+  },
+  "beche": {
+    "id": "beche",
+    "name": {
+      "en": "Bêche à Légumes",
+      "fr": "Bêche à Légumes",
+      "de": "Bêche à Légumes",
+      "es": "Bêche à Légumes"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_beche.png"
+      }
+    ]
+  },
+  "amadou": {
+    "id": "amadou",
+    "name": {
+      "en": "Amadou Allume-feu",
+      "fr": "Amadou Allume-feu",
+      "de": "Amadou Allume-feu",
+      "es": "Amadou Allume-feu"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_amadou.png"
+      }
+    ]
+  },
+  "coton": {
+    "id": "coton",
+    "name": {
+      "en": "Balle de Coton",
+      "fr": "Balle de Coton",
+      "de": "Balle de Coton",
+      "es": "Balle de Coton"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_coton.png"
+      }
+    ]
+  },
+  "sail": {
+    "id": "sail",
+    "name": {
+      "en": "Voile Antiphon",
+      "fr": "Voile Antiphon",
+      "de": "Voile Antiphon",
+      "es": "Voile Antiphon"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_sail.png"
+      }
+    ]
+  },
+  "oldham": {
+    "id": "oldham",
+    "name": {
+      "en": "Vieux Marteau Rouillé",
+      "fr": "Vieux Marteau Rouillé",
+      "de": "Vieux Marteau Rouillé",
+      "es": "Vieux Marteau Rouillé"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_oldham.png"
+      }
+    ]
+  },
+  "hammer": {
+    "id": "hammer",
+    "name": {
+      "en": "Marteau Hypypyx",
+      "fr": "Marteau Hypypyx",
+      "de": "Marteau Hypypyx",
+      "es": "Marteau Hypypyx"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_hammer.png"
+      }
+    ]
+  },
+  "flower": {
+    "id": "flower",
+    "name": {
+      "en": "Perce-sable",
+      "fr": "Perce-sable",
+      "de": "Perce-sable",
+      "es": "Perce-sable"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_flower.png"
+      }
+    ]
+  },
+  "crane": {
+    "id": "crane",
+    "name": {
+      "en": "Crâne de Ptéros",
+      "fr": "Crâne de Ptéros",
+      "de": "Crâne de Ptéros",
+      "es": "Crâne de Ptéros"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_crane.png"
+      }
+    ]
+  },
+  "scar": {
+    "id": "scar",
+    "name": {
+      "en": "Cicatrice Maloas",
+      "fr": "Cicatrice Maloas",
+      "de": "Cicatrice Maloas",
+      "es": "Cicatrice Maloas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_scar.png"
+      }
+    ]
+  },
+  "bsexta": {
+    "id": "bsexta",
+    "name": {
+      "en": "Sextant Brisé",
+      "fr": "Sextant Brisé",
+      "de": "Sextant Brisé",
+      "es": "Sextant Brisé"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_bsextant.png"
+      }
+    ]
+  },
+  "sextan": {
+    "id": "sextan",
+    "name": {
+      "en": "Sextant Réparé",
+      "fr": "Sextant Réparé",
+      "de": "Sextant Réparé",
+      "es": "Sextant Réparé"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_sextant.png"
+      }
+    ]
+  },
+  "helm": {
+    "id": "helm",
+    "name": {
+      "en": "Gouvernail Maloas",
+      "fr": "Gouvernail Maloas",
+      "de": "Gouvernail Maloas",
+      "es": "Gouvernail Maloas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_helm.png"
+      }
+    ]
+  },
+  "epi": {
+    "id": "epi",
+    "name": {
+      "en": "Épi de Blé",
+      "fr": "Épi de Blé",
+      "de": "Épi de Blé",
+      "es": "Épi de Blé"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_epi.png"
+      }
+    ]
+  },
+  "carot": {
+    "id": "carot",
+    "name": {
+      "en": "Carottes de Drüne",
+      "fr": "Carottes de Drüne",
+      "de": "Carottes de Drüne",
+      "es": "Carottes de Drüne"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_carot.png"
+      }
+    ]
+  },
+  "cabbag": {
+    "id": "cabbag",
+    "name": {
+      "en": "Choux de Kabal",
+      "fr": "Choux de Kabal",
+      "de": "Choux de Kabal",
+      "es": "Choux de Kabal"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_cabbage.png"
+      }
+    ]
+  },
+  "poem": {
+    "id": "poem",
+    "name": {
+      "en": "Page de Poème",
+      "fr": "Page de Poème",
+      "de": "Page de Poème",
+      "es": "Page de Poème"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_poem.png"
+      }
+    ]
+  },
+  "headac": {
+    "id": "headac",
+    "name": {
+      "en": "Mal à la Tête",
+      "fr": "Mal à la Tête",
+      "de": "Mal à la Tête",
+      "es": "Mal à la Tête"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_headache.png"
+      }
+    ]
+  },
+  "stones": {
+    "id": "stones",
+    "name": {
+      "en": "Petits Cailloux",
+      "fr": "Petits Cailloux",
+      "de": "Petits Cailloux",
+      "es": "Petits Cailloux"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_stones.png"
+      }
+    ]
+  },
+  "cocon": {
+    "id": "cocon",
+    "name": {
+      "en": "Cocon de Ver",
+      "fr": "Cocon de Ver",
+      "de": "Cocon de Ver",
+      "es": "Cocon de Ver"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_cocon.png"
+      }
+    ]
+  },
+  "fil": {
+    "id": "fil",
+    "name": {
+      "en": "Fil d'Ariane",
+      "fr": "Fil d'Ariane",
+      "de": "Fil d'Ariane",
+      "es": "Fil d'Ariane"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_fil.png"
+      }
+    ]
+  },
+  "coral": {
+    "id": "coral",
+    "name": {
+      "en": "Corail Arc-en-Ciel",
+      "fr": "Corail Arc-en-Ciel",
+      "de": "Corail Arc-en-Ciel",
+      "es": "Corail Arc-en-Ciel"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_coral.png"
+      }
+    ]
+  },
+  "rlette": {
+    "id": "rlette",
+    "name": {
+      "en": "Courrier Égaré",
+      "fr": "Courrier Égaré",
+      "de": "Courrier Égaré",
+      "es": "Courrier Égaré"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_rletter.png"
+      }
+    ]
+  },
+  "stamp": {
+    "id": "stamp",
+    "name": {
+      "en": "Timbres Royaux",
+      "fr": "Timbres Royaux",
+      "de": "Timbres Royaux",
+      "es": "Timbres Royaux"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_stamp.png"
+      }
+    ]
+  },
+  "oshiel": {
+    "id": "oshiel",
+    "name": {
+      "en": "Bouclier Rouillé",
+      "fr": "Bouclier Rouillé",
+      "de": "Bouclier Rouillé",
+      "es": "Bouclier Rouillé"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_oshield.png"
+      }
+    ]
+  },
+  "helmet": {
+    "id": "helmet",
+    "name": {
+      "en": "Casque d'Orichalque",
+      "fr": "Casque d'Orichalque",
+      "de": "Casque d'Orichalque",
+      "es": "Casque d'Orichalque"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_helmet.png"
+      }
+    ]
+  },
+  "shield": {
+    "id": "shield",
+    "name": {
+      "en": "Bouclier d'Orichalque",
+      "fr": "Bouclier d'Orichalque",
+      "de": "Bouclier d'Orichalque",
+      "es": "Bouclier d'Orichalque"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_shield.png"
+      }
+    ]
+  },
+  "sword": {
+    "id": "sword",
+    "name": {
+      "en": "Épée d'Orichalque",
+      "fr": "Épée d'Orichalque",
+      "de": "Épée d'Orichalque",
+      "es": "Épée d'Orichalque"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_sword.png"
+      }
+    ]
+  },
+  "armor": {
+    "id": "armor",
+    "name": {
+      "en": "Armure d'Orichalque",
+      "fr": "Armure d'Orichalque",
+      "de": "Armure d'Orichalque",
+      "es": "Armure d'Orichalque"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_armor.png"
+      }
+    ]
+  },
+  "mecha": {
+    "id": "mecha",
+    "name": {
+      "en": "Cristaux de Mecha",
+      "fr": "Cristaux de Mecha",
+      "de": "Cristaux de Mecha",
+      "es": "Cristaux de Mecha"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_mecha.png"
+      }
+    ]
+  },
+  "hmap": {
+    "id": "hmap",
+    "name": {
+      "en": "Carte des Mines",
+      "fr": "Carte des Mines",
+      "de": "Carte des Mines",
+      "es": "Carte des Mines"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_hmap.png"
+      }
+    ]
+  },
+  "paxos": {
+    "id": "paxos",
+    "name": {
+      "en": "Journal du bord du Cpt. Paxos",
+      "fr": "Journal du bord du Cpt. Paxos",
+      "de": "Journal du bord du Cpt. Paxos",
+      "es": "Journal du bord du Cpt. Paxos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_paxos.png"
+      }
+    ]
+  },
+  "pmap": {
+    "id": "pmap",
+    "name": {
+      "en": "Carte de Paxos",
+      "fr": "Carte de Paxos",
+      "de": "Carte de Paxos",
+      "es": "Carte de Paxos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_pmap.png"
+      }
+    ]
+  },
+  "memory": {
+    "id": "memory",
+    "name": {
+      "en": "Mémoires de Paxos",
+      "fr": "Mémoires de Paxos",
+      "de": "Mémoires de Paxos",
+      "es": "Mémoires de Paxos"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_memory.png"
+      }
+    ]
+  },
+  "cloche": {
+    "id": "cloche",
+    "name": {
+      "en": "Clochette Translucide",
+      "fr": "Clochette Translucide",
+      "de": "Clochette Translucide",
+      "es": "Clochette Translucide"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_clochet.png"
+      }
+    ]
+  },
+  "seal": {
+    "id": "seal",
+    "name": {
+      "en": "Sceau de la Maison Royale",
+      "fr": "Sceau de la Maison Royale",
+      "de": "Sceau de la Maison Royale",
+      "es": "Sceau de la Maison Royale"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_seal.png"
+      }
+    ]
+  },
+  "scisso": {
+    "id": "scisso",
+    "name": {
+      "en": "Ciseaux Fins",
+      "fr": "Ciseaux Fins",
+      "de": "Ciseaux Fins",
+      "es": "Ciseaux Fins"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_scissors.png"
+      }
+    ]
+  },
+  "plate": {
+    "id": "plate",
+    "name": {
+      "en": "Planche",
+      "fr": "Planche",
+      "de": "Planche",
+      "es": "Planche"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_plate.png"
+      }
+    ]
+  },
+  "starfi": {
+    "id": "starfi",
+    "name": {
+      "en": "Etoile de Mer à Sept Branches",
+      "fr": "Etoile de Mer à Sept Branches",
+      "de": "Etoile de Mer à Sept Branches",
+      "es": "Etoile de Mer à Sept Branches"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_starfish.png"
+      }
+    ]
+  },
+  "bmecha": {
+    "id": "bmecha",
+    "name": {
+      "en": "Cristaux Altérés",
+      "fr": "Cristaux Altérés",
+      "de": "Cristaux Altérés",
+      "es": "Cristaux Altérés"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_bmecha.png"
+      }
+    ]
+  },
+  "nectar": {
+    "id": "nectar",
+    "name": {
+      "en": "Nectar",
+      "fr": "Nectar",
+      "de": "Nectar",
+      "es": "Nectar"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_nectar.png"
+      }
+    ]
+  },
+  "harmo": {
+    "id": "harmo",
+    "name": {
+      "en": "Collier d'Harmonie",
+      "fr": "Collier d'Harmonie",
+      "de": "Collier d'Harmonie",
+      "es": "Collier d'Harmonie"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 1,
+        "icon": "icon_harmo.png"
+      }
+    ]
+  },
+  "heratu": {
+    "id": "heratu",
+    "name": {
+      "en": "Hératus",
+      "fr": "Hératus",
+      "de": "Hératus",
+      "es": "Hératus"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/heratus.png"
+      }
+    ]
+  },
+  "celeid": {
+    "id": "celeid",
+    "name": {
+      "en": "Céleïde",
+      "fr": "Céleïde",
+      "de": "Céleïde",
+      "es": "Céleïde"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/celeide.png"
+      }
+    ]
+  },
+  "gloria": {
+    "id": "gloria",
+    "name": {
+      "en": "Gloria",
+      "fr": "Gloria",
+      "de": "Gloria",
+      "es": "Gloria"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/gloria.png"
+      }
+    ]
+  },
+  "dolski": {
+    "id": "dolski",
+    "name": {
+      "en": "Dolskin",
+      "fr": "Dolskin",
+      "de": "Dolskin",
+      "es": "Dolskin"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/dolskin.png"
+      }
+    ]
+  },
+  "tiber": {
+    "id": "tiber",
+    "name": {
+      "en": "Tiber",
+      "fr": "Tiber",
+      "de": "Tiber",
+      "es": "Tiber"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/tiber.png"
+      }
+    ]
+  },
+  "epivon": {
+    "id": "epivon",
+    "name": {
+      "en": "Epivone",
+      "fr": "Epivone",
+      "de": "Epivone",
+      "es": "Epivone"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/epivone.png"
+      }
+    ]
+  },
+  "horas": {
+    "id": "horas",
+    "name": {
+      "en": "Horas",
+      "fr": "Horas",
+      "de": "Horas",
+      "es": "Horas"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/horas.png"
+      }
+    ]
+  },
+  "stiren": {
+    "id": "stiren",
+    "name": {
+      "en": "Stirenx",
+      "fr": "Stirenx",
+      "de": "Stirenx",
+      "es": "Stirenx"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/stirenx.png"
+      }
+    ]
+  },
+  "torkis": {
+    "id": "torkis",
+    "name": {
+      "en": "Torkish",
+      "fr": "Torkish",
+      "de": "Torkish",
+      "es": "Torkish"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/torkish.png"
+      }
+    ]
+  },
+  "antone": {
+    "id": "antone",
+    "name": {
+      "en": "Antones",
+      "fr": "Antones",
+      "de": "Antones",
+      "es": "Antones"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/antones.png"
+      }
+    ]
+  },
+  "egoine": {
+    "id": "egoine",
+    "name": {
+      "en": "Egoïne",
+      "fr": "Egoïne",
+      "de": "Egoïne",
+      "es": "Egoïne"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/egoine.png"
+      }
+    ]
+  },
+  "maugri": {
+    "id": "maugri",
+    "name": {
+      "en": "Maugrine",
+      "fr": "Maugrine",
+      "de": "Maugrine",
+      "es": "Maugrine"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/maugrine.png"
+      }
+    ]
+  },
+  "espiro": {
+    "id": "espiro",
+    "name": {
+      "en": "Espiroth",
+      "fr": "Espiroth",
+      "de": "Espiroth",
+      "es": "Espiroth"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/espiroth.png"
+      }
+    ]
+  },
+  "tasuly": {
+    "id": "tasuly",
+    "name": {
+      "en": "Tasulys",
+      "fr": "Tasulys",
+      "de": "Tasulys",
+      "es": "Tasulys"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/tasulys.png"
+      }
+    ]
+  },
+  "keperi": {
+    "id": "keperi",
+    "name": {
+      "en": "Keperi",
+      "fr": "Keperi",
+      "de": "Keperi",
+      "es": "Keperi"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/keperi.png"
+      }
+    ]
+  },
+  "tatsi": {
+    "id": "tatsi",
+    "name": {
+      "en": "Tatsi",
+      "fr": "Tatsi",
+      "de": "Tatsi",
+      "es": "Tatsi"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1,
+        "points": 5,
+        "icon": "heroes/tatsi.png"
+      }
+    ]
+  },
+  "balla": {
+    "id": "balla",
+    "name": {
+      "en": "Epée",
+      "fr": "Epée",
+      "de": "Epée",
+      "es": "Epée"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_0.png"
+      }
+    ]
+  },
+  "ballb": {
+    "id": "ballb",
+    "name": {
+      "en": "Masse",
+      "fr": "Masse",
+      "de": "Masse",
+      "es": "Masse"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_1.png"
+      }
+    ]
+  },
+  "ballc": {
+    "id": "ballc",
+    "name": {
+      "en": "Hache",
+      "fr": "Hache",
+      "de": "Hache",
+      "es": "Hache"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_2.png"
+      }
+    ]
+  },
+  "balld": {
+    "id": "balld",
+    "name": {
+      "en": "Epée rouge",
+      "fr": "Epée rouge",
+      "de": "Epée rouge",
+      "es": "Epée rouge"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_3.png"
+      }
+    ]
+  },
+  "balle": {
+    "id": "balle",
+    "name": {
+      "en": "Arc",
+      "fr": "Arc",
+      "de": "Arc",
+      "es": "Arc"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_4.png"
+      }
+    ]
+  },
+  "ballg": {
+    "id": "ballg",
+    "name": {
+      "en": "Bouclier",
+      "fr": "Bouclier",
+      "de": "Bouclier",
+      "es": "Bouclier"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_6.png"
+      }
+    ]
+  },
+  "ballh": {
+    "id": "ballh",
+    "name": {
+      "en": "Potion",
+      "fr": "Potion",
+      "de": "Potion",
+      "es": "Potion"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_7.png"
+      }
+    ]
+  },
+  "balli": {
+    "id": "balli",
+    "name": {
+      "en": "Navet",
+      "fr": "Navet",
+      "de": "Navet",
+      "es": "Navet"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_8.png"
+      }
+    ]
+  },
+  "ballj": {
+    "id": "ballj",
+    "name": {
+      "en": "Patate",
+      "fr": "Patate",
+      "de": "Patate",
+      "es": "Patate"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_9.png"
+      }
+    ]
+  },
+  "ballk": {
+    "id": "ballk",
+    "name": {
+      "en": "Carotte",
+      "fr": "Carotte",
+      "de": "Carotte",
+      "es": "Carotte"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_10.png"
+      }
+    ]
+  },
+  "balll": {
+    "id": "balll",
+    "name": {
+      "en": "Flamme",
+      "fr": "Flamme",
+      "de": "Flamme",
+      "es": "Flamme"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_11.png"
+      }
+    ]
+  },
+  "ballm": {
+    "id": "ballm",
+    "name": {
+      "en": "Glace",
+      "fr": "Glace",
+      "de": "Glace",
+      "es": "Glace"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_12.png"
+      }
+    ]
+  },
+  "balln": {
+    "id": "balln",
+    "name": {
+      "en": "Poison",
+      "fr": "Poison",
+      "de": "Poison",
+      "es": "Poison"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_13.png"
+      }
+    ]
+  },
+  "ballo": {
+    "id": "ballo",
+    "name": {
+      "en": "Cristal de Mecha",
+      "fr": "Cristal de Mecha",
+      "de": "Cristal de Mecha",
+      "es": "Cristal de Mecha"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_14.png"
+      }
+    ]
+  },
+  "ballp": {
+    "id": "ballp",
+    "name": {
+      "en": "Chaines",
+      "fr": "Chaines",
+      "de": "Chaines",
+      "es": "Chaines"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_15.png"
+      }
+    ]
+  },
+  "ballq": {
+    "id": "ballq",
+    "name": {
+      "en": "Pierre",
+      "fr": "Pierre",
+      "de": "Pierre",
+      "es": "Pierre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_16.png"
+      }
+    ]
+  },
+  "ballv": {
+    "id": "ballv",
+    "name": {
+      "en": "Souffle de glace",
+      "fr": "Souffle de glace",
+      "de": "Souffle de glace",
+      "es": "Souffle de glace"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_21.png"
+      }
+    ]
+  },
+  "ballw": {
+    "id": "ballw",
+    "name": {
+      "en": "Rage",
+      "fr": "Rage",
+      "de": "Rage",
+      "es": "Rage"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_22.png"
+      }
+    ]
+  },
+  "ballx": {
+    "id": "ballx",
+    "name": {
+      "en": "Solo de l'enfer",
+      "fr": "Solo de l'enfer",
+      "de": "Solo de l'enfer",
+      "es": "Solo de l'enfer"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 1000,
+        "points": 1,
+        "icon": "balls/ball_23.png"
+      }
+    ]
+  },
+  "bally": {
+    "id": "bally",
+    "name": {
+      "en": "Fleur",
+      "fr": "Fleur",
+      "de": "Fleur",
+      "es": "Fleur"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_24.png"
+      }
+    ]
+  },
+  "ballz": {
+    "id": "ballz",
+    "name": {
+      "en": "Coeur de la forêt",
+      "fr": "Coeur de la forêt",
+      "de": "Coeur de la forêt",
+      "es": "Coeur de la forêt"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_25.png"
+      }
+    ]
+  },
+  "ballaa": {
+    "id": "ballaa",
+    "name": {
+      "en": "Méditation",
+      "fr": "Méditation",
+      "de": "Méditation",
+      "es": "Méditation"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_26.png"
+      }
+    ]
+  },
+  "ballab": {
+    "id": "ballab",
+    "name": {
+      "en": "Dart empoisonné",
+      "fr": "Dart empoisonné",
+      "de": "Dart empoisonné",
+      "es": "Dart empoisonné"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "balls/ball_27.png"
+      }
+    ]
+  },
+  "ballac": {
+    "id": "ballac",
+    "name": {
+      "en": "Sedatifs",
+      "fr": "Sedatifs",
+      "de": "Sedatifs",
+      "es": "Sedatifs"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "balls/ball_28.png"
+      }
+    ]
+  },
+  "ballad": {
+    "id": "ballad",
+    "name": {
+      "en": "Courage",
+      "fr": "Courage",
+      "de": "Courage",
+      "es": "Courage"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 50,
+        "points": 1,
+        "icon": "balls/ball_29.png"
+      }
+    ]
+  },
+  "ballae": {
+    "id": "ballae",
+    "name": {
+      "en": "Analyse",
+      "fr": "Analyse",
+      "de": "Analyse",
+      "es": "Analyse"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_30.png"
+      }
+    ]
+  },
+  "ballag": {
+    "id": "ballag",
+    "name": {
+      "en": "Folie",
+      "fr": "Folie",
+      "de": "Folie",
+      "es": "Folie"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_32.png"
+      }
+    ]
+  },
+  "ballah": {
+    "id": "ballah",
+    "name": {
+      "en": "Mélange-tout",
+      "fr": "Mélange-tout",
+      "de": "Mélange-tout",
+      "es": "Mélange-tout"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "balls/ball_33.png"
+      }
+    ]
+  },
+  "ballai": {
+    "id": "ballai",
+    "name": {
+      "en": "Pilule",
+      "fr": "Pilule",
+      "de": "Pilule",
+      "es": "Pilule"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "balls/ball_34.png"
+      }
+    ]
+  },
+  "ballaj": {
+    "id": "ballaj",
+    "name": {
+      "en": "Kunai",
+      "fr": "Kunai",
+      "de": "Kunai",
+      "es": "Kunai"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_35.png"
+      }
+    ]
+  },
+  "ballak": {
+    "id": "ballak",
+    "name": {
+      "en": "Botte secrète",
+      "fr": "Botte secrète",
+      "de": "Botte secrète",
+      "es": "Botte secrète"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "balls/ball_36.png"
+      }
+    ]
+  },
+  "ballal": {
+    "id": "ballal",
+    "name": {
+      "en": "Piège explosif",
+      "fr": "Piège explosif",
+      "de": "Piège explosif",
+      "es": "Piège explosif"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "balls/ball_37.png"
+      }
+    ]
+  },
+  "ballam": {
+    "id": "ballam",
+    "name": {
+      "en": "Vol à la tire",
+      "fr": "Vol à la tire",
+      "de": "Vol à la tire",
+      "es": "Vol à la tire"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_38.png"
+      }
+    ]
+  },
+  "ballan": {
+    "id": "ballan",
+    "name": {
+      "en": "Bombe fumigène",
+      "fr": "Bombe fumigène",
+      "de": "Bombe fumigène",
+      "es": "Bombe fumigène"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "balls/ball_39.png"
+      }
+    ]
+  },
+  "ballao": {
+    "id": "ballao",
+    "name": {
+      "en": "Jarre",
+      "fr": "Jarre",
+      "de": "Jarre",
+      "es": "Jarre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_40.png"
+      }
+    ]
+  },
+  "ballaq": {
+    "id": "ballaq",
+    "name": {
+      "en": "Jarre de poison",
+      "fr": "Jarre de poison",
+      "de": "Jarre de poison",
+      "es": "Jarre de poison"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 200,
+        "points": 1,
+        "icon": "balls/ball_42.png"
+      }
+    ]
+  },
+  "ballar": {
+    "id": "ballar",
+    "name": {
+      "en": "Frénésie",
+      "fr": "Frénésie",
+      "de": "Frénésie",
+      "es": "Frénésie"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_43.png"
+      }
+    ]
+  },
+  "ballas": {
+    "id": "ballas",
+    "name": {
+      "en": "Maîtrise de Soi",
+      "fr": "Maîtrise de Soi",
+      "de": "Maîtrise de Soi",
+      "es": "Maîtrise de Soi"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_44.png"
+      }
+    ]
+  },
+  "ballat": {
+    "id": "ballat",
+    "name": {
+      "en": "Brise",
+      "fr": "Brise",
+      "de": "Brise",
+      "es": "Brise"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_45.png"
+      }
+    ]
+  },
+  "ballau": {
+    "id": "ballau",
+    "name": {
+      "en": "Harmattan",
+      "fr": "Harmattan",
+      "de": "Harmattan",
+      "es": "Harmattan"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "icon": "balls/ball_46.png"
+      }
+    ]
+  },
+  "ballav": {
+    "id": "ballav",
+    "name": {
+      "en": "Bourgeon",
+      "fr": "Bourgeon",
+      "de": "Bourgeon",
+      "es": "Bourgeon"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 200,
+        "points": 1,
+        "icon": "balls/ball_47.png"
+      }
+    ]
+  },
+  "ballax": {
+    "id": "ballax",
+    "name": {
+      "en": "Bombe de Mecha",
+      "fr": "Bombe de Mecha",
+      "de": "Bombe de Mecha",
+      "es": "Bombe de Mecha"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "balls/ball_49.png"
+      }
+    ]
+  },
+  "ballaz": {
+    "id": "ballaz",
+    "name": {
+      "en": "Goutte magique",
+      "fr": "Goutte magique",
+      "de": "Goutte magique",
+      "es": "Goutte magique"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "balls/ball_51.png"
+      }
+    ]
+  },
+  "ballba": {
+    "id": "ballba",
+    "name": {
+      "en": "Trident",
+      "fr": "Trident",
+      "de": "Trident",
+      "es": "Trident"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 100,
+        "points": 1,
+        "icon": "balls/ball_52.png"
+      }
+    ]
+  },
+  "ballbb": {
+    "id": "ballbb",
+    "name": {
+      "en": "Colère",
+      "fr": "Colère",
+      "de": "Colère",
+      "es": "Colère"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "balls/ball_53.png"
+      }
+    ]
+  },
+  "ballbc": {
+    "id": "ballbc",
+    "name": {
+      "en": "Marteau de guerre",
+      "fr": "Marteau de guerre",
+      "de": "Marteau de guerre",
+      "es": "Marteau de guerre"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "icon": "balls/ball_54.png"
+      }
+    ]
+  },
+  "ballbd": {
+    "id": "ballbd",
+    "name": {
+      "en": "Couronne",
+      "fr": "Couronne",
+      "de": "Couronne",
+      "es": "Couronne"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "icon": "balls/ball_55.png"
+      }
+    ]
+  },
+  "ballbe": {
+    "id": "ballbe",
+    "name": {
+      "en": "Echarde de Mecha",
+      "fr": "Echarde de Mecha",
+      "de": "Echarde de Mecha",
+      "es": "Echarde de Mecha"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_56.png"
+      }
+    ]
+  },
+  "ballbf": {
+    "id": "ballbf",
+    "name": {
+      "en": "Espoir",
+      "fr": "Espoir",
+      "de": "Espoir",
+      "es": "Espoir"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_57.png"
+      }
+    ]
+  },
+  "ballbk": {
+    "id": "ballbk",
+    "name": {
+      "en": "Mirroir",
+      "fr": "Mirroir",
+      "de": "Mirroir",
+      "es": "Mirroir"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 500,
+        "points": 1,
+        "icon": "balls/ball_62.png"
+      }
+    ]
+  },
+  "ballbl": {
+    "id": "ballbl",
+    "name": {
+      "en": "Oeil du cyclope",
+      "fr": "Oeil du cyclope",
+      "de": "Oeil du cyclope",
+      "es": "Oeil du cyclope"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10,
+        "points": 1,
+        "icon": "balls/ball_63.png"
+      }
+    ]
+  },
+  "bfroze": {
+    "id": "bfroze",
+    "name": {
+      "en": "Rune Gelée",
+      "fr": "Rune Gelée",
+      "de": "Rune Gelée",
+      "es": "Rune Gelée"
+    },
+    "rare": 0,
+    "unlocks": [
+      {
+        "count": 10000,
+        "points": 1,
+        "icon": "balls/ball_frozen.png"
+      }
+    ]
+  }
+}

@@ -36,7 +36,7 @@ export interface Goal {
   name: Record<Language, string>;
   description?: Record<Language, string>;
   rare: number;
-  hidden?: true;
+  hidden?: boolean;
   unlocks: Unlock[];
 }
 
@@ -45,8 +45,8 @@ export interface Unlock {
   points: number;
   icon?: string;
   title?: Record<Language, string>;
-  prefix?: true;
-  suffix?: true;
+  prefix?: boolean;
+  suffix?: boolean;
 }
 
 /**
