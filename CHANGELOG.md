@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/Zenoo/twinoid-goals/compare/v1.1.0...v1.2.0) (2023-11-14)
+
+
+### Features
+
+* Automate XML parsing ([e943b4f](https://github.com/Zenoo/twinoid-goals/commit/e943b4fe042f1ac94ad13d49bf2b35f20c4197b3))
+
+
+### Bug Fixes
+
+* Remove unused files + Build with new automated parsing ([2618201](https://github.com/Zenoo/twinoid-goals/commit/26182016fa32915199cae2678721224e78fa8007))
+* Rollup declarations too ([3ddc738](https://github.com/Zenoo/twinoid-goals/commit/3ddc738c85577288423dcd7bc0e83145ace1e156))
+
 ## [1.1.0](https://github.com/Zenoo/twinoid-goals/compare/v1.0.0...v1.1.0) (2023-11-04)
 
 
