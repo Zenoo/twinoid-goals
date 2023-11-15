@@ -19,6 +19,12 @@
           "fr": "Serpentin",
           "de": "Serpentine",
           "es": "Serpentín"
+        },
+        "description": {
+          "en": "Reach 20000 points in the arena",
+          "fr": "Dépasser 20000 points dans l'arène",
+          "de": "Erspiele ueber 20.000 Punkte in der Arena",
+          "es": "Logra mas de 20000 puntos en la arena"
         }
       },
       {
@@ -30,6 +36,12 @@
           "fr": "HippoGlouton",
           "de": "HippoGlouton",
           "es": "HipoGlotón"
+        },
+        "description": {
+          "en": "Reach 100000 points in the arena",
+          "fr": "Dépasser 100000 points dans l'arène",
+          "de": "Erspiele ueber 100.000 Punkte in der Arena",
+          "es": "Logra mas de 100000 puntos en la arena"
         }
       }
     ]
@@ -54,6 +66,12 @@
           "fr": "Apprenti fructologue",
           "de": "Früchte-Azubi",
           "es": "Aprendíz Frutólogo"
+        },
+        "description": {
+          "en": "Discover 100 fruits in the encyclopefruit",
+          "fr": "Découvrir 100 fruits dans l'encyclopéfruit",
+          "de": "Entdecke 100 Fruechte vom Fruchtlexikon",
+          "es": "Descubre 100 frutas en la Enciclofruta"
         }
       }
     ]
@@ -78,6 +96,12 @@
           "fr": "Comptable",
           "de": "Buchhalter",
           "es": "Contador"
+        },
+        "description": {
+          "en": "Score exactly 30000 points",
+          "fr": "Obtenir un score exact de 30000 points",
+          "de": "Erreiche genau 30.000 Punkte",
+          "es": "Haz un score exacto de 30000 puntos"
         }
       }
     ]
@@ -102,6 +126,12 @@
           "fr": "constrictor",
           "de": "Riesenschlange",
           "es": "Constrictor"
+        },
+        "description": {
+          "en": "Get more than 300000 points in the arena",
+          "fr": "Dépasser 300000 points dans l'arène",
+          "de": "Erspiele ueber 300.000 Punkte in der Arena",
+          "es": "Logra mas 300000 puntos en la arena"
         }
       }
     ]
@@ -126,6 +156,12 @@
           "fr": "Frutivorace",
           "de": "Früchteverschlinger",
           "es": "Frutivoraz"
+        },
+        "description": {
+          "en": "Discover 300 fruits in the Encyclopefruit",
+          "fr": "Découvrir 300 fruits dans l'encyclopéfruit",
+          "de": "Entdecke 300 Fruechte vom Fruchtlexikon",
+          "es": "Descubre 300 frutas en la Enciclofruta"
         }
       }
     ]
@@ -150,6 +186,12 @@
           "fr": "obnubilé",
           "de": "für alle Zeiten",
           "es": "Obstinado"
+        },
+        "description": {
+          "en": "Swallow 1000 Pokarans",
+          "fr": "Avaler 1000 Pokarans",
+          "de": "Friss 1.000 Pokarans",
+          "es": "Traga 1000 pocaranes"
         }
       }
     ]

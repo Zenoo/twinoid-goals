@@ -12,7 +12,13 @@
       {
         "count": 1,
         "points": 10,
-        "icon": "boxe_01.png"
+        "icon": "boxe_01.png",
+        "description": {
+          "en": "Plus de 3 perfects en salon Megaquiz",
+          "fr": "Plus de 3 perfects en salon Megaquiz",
+          "de": "Plus de 3 perfects en salon Megaquiz",
+          "es": "Plus de 3 perfects en salon Megaquiz"
+        }
       }
     ],
     "description": {
@@ -35,7 +41,13 @@
       {
         "count": 1,
         "points": 10,
-        "icon": "boxe_02.png"
+        "icon": "boxe_02.png",
+        "description": {
+          "en": "Plus de 3 perfects en salon Culture",
+          "fr": "Plus de 3 perfects en salon Culture",
+          "de": "Plus de 3 perfects en salon Culture",
+          "es": "Plus de 3 perfects en salon Culture"
+        }
       }
     ],
     "description": {
@@ -58,7 +70,13 @@
       {
         "count": 1,
         "points": 10,
-        "icon": "boxe_03.png"
+        "icon": "boxe_03.png",
+        "description": {
+          "en": "Plus de 3 perfects en salon Spectacle",
+          "fr": "Plus de 3 perfects en salon Spectacle",
+          "de": "Plus de 3 perfects en salon Spectacle",
+          "es": "Plus de 3 perfects en salon Spectacle"
+        }
       }
     ],
     "description": {

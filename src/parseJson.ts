@@ -10,6 +10,10 @@ type Json = {
       elements?: {
         name: string;
         attributes: Record<string, string>;
+        elements?: {
+          type: string;
+          text: string;
+        }[];
       }[];
     }[];
   }[];
@@ -110,6 +114,21 @@ export const parseJson = (result: Record<string, Goal>, jsonString: string, lang
         }
 
         existingUnlock.title[language] = unlock.attributes.name;
+      }
+
+      // Add unlock description for current language
+      const descriptionNode = unlock.elements?.find((element) => element.type === 'text');
+      if (descriptionNode) {
+        if (!existingUnlock.description) {
+          existingUnlock.description = {
+            en: '',
+            fr: '',
+            de: '',
+            es: '',
+          };
+        }
+
+        existingUnlock.description[language] = descriptionNode.text.trim();
       }
     }
   }

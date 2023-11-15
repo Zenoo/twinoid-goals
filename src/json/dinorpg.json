@@ -523,6 +523,12 @@
           "fr": "Touriste",
           "de": "Tourist",
           "es": "Turista"
+        },
+        "description": {
+          "en": "What kind of adventurer are you?",
+          "fr": "Quel type d'aventurier êtes-vous ?",
+          "de": "So ein Typ Abenteurer bist du",
+          "es": "¿Qué tipo de aventurero eres?"
         }
       },
       {
@@ -689,6 +695,12 @@
           "fr": "Revenant de loin",
           "de": "Wiedergänger",
           "es": "Mala Hierba"
+        },
+        "description": {
+          "en": "How many times have you died in combat?",
+          "fr": "Combien de fois êtes-vous mort au combat ?",
+          "de": "So oft bist du im Kampf gefallen",
+          "es": "Cantidad de veces que has muerto en combate"
         }
       },
       {
@@ -758,6 +770,12 @@
           "fr": "Elève attentif",
           "de": "Geduldiger Schüler",
           "es": "Alumno Atento"
+        },
+        "description": {
+          "en": "Number of days spent on the site.",
+          "fr": "Nombre de jours de présence sur le site.",
+          "de": "Anzahl der in Dinoland verbrachten Tage",
+          "es": "Cantidad de días presente en el sitio."
         }
       },
       {
@@ -847,6 +865,12 @@
           "fr": "Entraîneur du dimanche",
           "de": "Freizeit-Trainer",
           "es": "Entrenador Dominguero"
+        },
+        "description": {
+          "en": "Number of Level-ups carried out.",
+          "fr": "Nombre de level-up réalisés.",
+          "de": "Anzahl der Level-Ups",
+          "es": "Cantidad de subida de niveles que has realizado."
         }
       },
       {
@@ -936,6 +960,12 @@
           "fr": "Balayeur de restes",
           "de": "Freizeit-Jäger",
           "es": "Barredor de Restos"
+        },
+        "description": {
+          "en": "Number of monsters killed on your adventures.",
+          "fr": "Nombre de monstres tués durant vos aventures.",
+          "de": "Anzahl der von dir getöteten Monster",
+          "es": "Cantidad de monstruos que mataste en tus aventuras."
         }
       },
       {
@@ -1045,6 +1075,12 @@
           "fr": "Combattant timide",
           "de": "Schüchterner Kämpfer",
           "es": "Combatiente Tímido"
+        },
+        "description": {
+          "en": "Number of Dinoz defeated in events.",
+          "fr": "Nombre de Dinoz vaincus durant les évènements",
+          "de": "Anzahl der während Events besiegter Dinoz",
+          "es": "Cantidad de Dinos vencidos en los eventos"
         }
       },
       {
@@ -1124,6 +1160,12 @@
           "fr": "Infirmière sexy",
           "de": "Sexy Krankenschwester",
           "es": "Enfermero"
+        },
+        "description": {
+          "en": "How many HP have you regained?",
+          "fr": "Combien de pv avez vous regagné ?",
+          "de": "Soviele Lebenspunkte hast du wiedergewonnen",
+          "es": "La cantidad de puntos de vida que has recuperado"
         }
       },
       {
@@ -1203,6 +1245,12 @@
           "fr": "Jeune pi-mousse",
           "de": "Jungspund",
           "es": "Oledor de Madera"
+        },
+        "description": {
+          "en": "Number of Wood level-ups.",
+          "fr": "Nombre de up réalisés sur l'élément bois.",
+          "de": "Anzahl der Level-Ups beim Holz-Element",
+          "es": "Cantidad de subidas de nivel realizadas en elemento madera"
         }
       },
       {
@@ -1272,6 +1320,12 @@
           "fr": "Flammèche",
           "de": "Flämmchen",
           "es": "Chispa"
+        },
+        "description": {
+          "en": "Number of Fire level-ups.",
+          "fr": "Nombre de up réalisés sur l'élément feu.",
+          "de": "Anzahl der Level-Ups beim Feuer-Element",
+          "es": "Cantidad de subidas de nivel realizadas en elemento fuego"
         }
       },
       {
@@ -1341,6 +1395,12 @@
           "fr": "Triton grillé",
           "de": "Kurzschluss",
           "es": "Luciérnaga"
+        },
+        "description": {
+          "en": "Number of Lightning level-ups.",
+          "fr": "Nombre de up réalisés sur l'élément foudre.",
+          "de": "Anzahl der Level-Ups beim Blitz-Element",
+          "es": "Cantidad de subidas de nivel realizadas en elemento rayo"
         }
       },
       {
@@ -1410,6 +1470,12 @@
           "fr": "Gaz incolore",
           "de": "Morgenhauch",
           "es": "Gas"
+        },
+        "description": {
+          "en": "Number of Air level-ups.",
+          "fr": "Nombre de up réalisés sur l'élément air.",
+          "de": "Anzahl der Level-Ups beim Luft-Element",
+          "es": "Cantidad de subidas de nivel realizadas en elemento aire."
         }
       },
       {
@@ -1479,6 +1545,12 @@
           "fr": "Canard de bain",
           "de": "Gummiente",
           "es": "Pez"
+        },
+        "description": {
+          "en": "Number of Water level-ups.",
+          "fr": "Nombre de up réalisés sur l'élément eau.",
+          "de": "Anzahl der Level-Ups beim Wasser-Element",
+          "es": "Cantidad de subidas de nivel realizadas en elemento agua"
         }
       },
       {
@@ -1548,6 +1620,12 @@
           "fr": "Ver de terre",
           "de": "Regenwurm",
           "es": "Gusano"
+        },
+        "description": {
+          "en": "Number of broken shovels.",
+          "fr": "Nombre de pelles cassées.",
+          "de": "Anzahl der von dir zerbrochenen Schaufeln",
+          "es": "Cantidad de palas rotas."
         }
       },
       {
@@ -1647,6 +1725,12 @@
           "fr": "Galinette Cendrée",
           "de": "Frischling",
           "es": "Colocador de Trampas"
+        },
+        "description": {
+          "en": "Nombre d'actions de chasses réalisées.",
+          "fr": "Nombre d'actions de chasses réalisées.",
+          "de": "Anzahl der durchgeführten Jagden",
+          "es": "Cantidad de cazas realizadas."
         }
       },
       {
@@ -1736,6 +1820,12 @@
           "fr": "Cueilleur romantique",
           "de": "Blumenpflücker",
           "es": "Recolector Romántico"
+        },
+        "description": {
+          "en": "Number of harvesting operations carried out.",
+          "fr": "Nombre d'actions de cueillette réalisées.",
+          "de": "Anzahl der von dir durchgeführten Ernten",
+          "es": "Cantidad de recolecciones realizadas."
         }
       },
       {
@@ -1825,6 +1915,12 @@
           "fr": "Pêcheur à la ligne",
           "de": "Kescher",
           "es": "Ayudante de Pescador"
+        },
+        "description": {
+          "en": "Number of fishing trips.",
+          "fr": "Nombre d'actions de pêche réalisées.",
+          "de": "Anzahl deiner Angelausflüge",
+          "es": "Cantidad de pescas realizadas."
         }
       },
       {
@@ -1914,6 +2010,12 @@
           "fr": "Energétiser, je n'ose pas trop",
           "de": "Energizen? Also ich weiß nicht...",
           "es": "Pila AAA"
+        },
+        "description": {
+          "en": "Number of actions carried out which regenerate energy.",
+          "fr": "Nombre d'actions d'énergétisation réalisées.",
+          "de": "Anzahl der Energizer-Aktionen",
+          "es": "Cantidad de energizaciones realizadas."
         }
       },
       {
@@ -2003,6 +2105,12 @@
           "fr": "Ramasseur de cailloux",
           "de": "Kieswühler",
           "es": "Recogedor de piedritas"
+        },
+        "description": {
+          "en": "Number of scavenges carried out.",
+          "fr": "Nombre d'actions de fouilles réalisées.",
+          "de": "Anzahl der von dir ausgeführten Grabungen",
+          "es": "Cantidad de excavaciones realizadas."
         }
       },
       {
@@ -2092,6 +2200,12 @@
           "fr": "Âme de camelot",
           "de": "Seele von Camelot",
           "es": "Vendedor Debutante"
+        },
+        "description": {
+          "en": "Number of sales made at the market.",
+          "fr": "Nombre de ventes conclues au marché.",
+          "de": "Anzahl der auf dem Markt verkauften Artikel",
+          "es": "Cantidad de ventas en el Mercado."
         }
       },
       {
@@ -2181,6 +2295,12 @@
           "fr": "Chineur du dimanche",
           "de": "Schnäppchenjäger",
           "es": "Comprador Ocasional"
+        },
+        "description": {
+          "en": "Number of purchases made in the shop",
+          "fr": "Nombre d'objet acquis en boutique",
+          "de": "Anzahl der in Geschäften gekauften Artikel",
+          "es": "Cantidad de objetos adquiridos en la tienda"
         }
       },
       {
@@ -2271,6 +2391,12 @@
           "fr": "Vagabond",
           "de": "Vagabund",
           "es": "Vagabundo"
+        },
+        "description": {
+          "en": "Number of clans this player has appeared in.",
+          "fr": "Nombre de clans dans lequel le joueur a été aperçu.",
+          "de": "Anzahl der Klans, in denen du schon einmal warst",
+          "es": "Cantidad de clanes en los que has sido identificado."
         }
       },
       {
@@ -2322,6 +2448,12 @@
           "fr": "Toiletteur doué",
           "de": "Begabter Friseur",
           "es": "Ojos lindos"
+        },
+        "description": {
+          "en": "Number of Beauty Contest titles won by this player's dinoz.",
+          "fr": "Nombre de titres de beautés remportés par les Dinoz du joueur.",
+          "de": "Anzahl der von deinen Dinoz gewonnenen Schönheitstitel",
+          "es": "Cantidad de títulos de belleza."
         }
       },
       {
@@ -2391,6 +2523,12 @@
           "fr": "Nain des champs de bataille",
           "de": "Kampfzwerg",
           "es": "Duende"
+        },
+        "description": {
+          "en": "Number of attacks carried out against enemy castles.",
+          "fr": "Nombre d'attaques menées contre un château adverse.",
+          "de": "So oft hast du ein gegnerisches Schloss angegriffen",
+          "es": "Cantidad de atacantes enviados al castillo enemigo."
         }
       },
       {
@@ -2490,6 +2628,12 @@
           "fr": "Epine dans le pied",
           "de": "Splitter im Fuß",
           "es": "Vigilante"
+        },
+        "description": {
+          "en": "Number of times you have defended your castle.",
+          "fr": "Nombre de fois où vous avez défendu votre château.",
+          "de": "So viele Male hast du dein Schloss verteidigt",
+          "es": "Cantidad de veces que has defendido tu castillo."
         }
       },
       {
@@ -2589,6 +2733,12 @@
           "fr": "Bisou Cool™",
           "de": "Lotse",
           "es": "Simpático™"
+        },
+        "description": {
+          "en": "For those who are committed to making Dinoland an even better place!",
+          "fr": "Vous oeuvrez pour rendre le monde de Dinoland encore meilleur !",
+          "de": "Du bist ein aktives Mitglieder der Dinoland-Community!",
+          "es": "¡Maestros como tú hacen que Dinoland sea cada vez mejor!"
         }
       },
       {
@@ -2698,6 +2848,12 @@
           "fr": "Médaille d'or",
           "de": "Goldmedaille",
           "es": "Medallista olímpico de oro"
+        },
+        "description": {
+          "en": "You finished first! Congratulations!",
+          "fr": "Vous avez fini premier ! Félicitations !",
+          "de": "Herzlichen Glückwunsch, ihr seid erster!",
+          "es": "¡Eres el Número 1 en los juegos Dinolímpicos! ¡Hurraa!"
         }
       }
     ],
@@ -2727,6 +2883,12 @@
           "fr": "Médaille d'argent",
           "de": "Silbermedaille",
           "es": "Medallista olímpico de plata"
+        },
+        "description": {
+          "en": "You finished second! Bravo!",
+          "fr": "Vous avez fini second ! Bravo !",
+          "de": "Bravo, ihr seid zweiter!",
+          "es": "¡Segundo lugar en los 1ros. Juegos Dinolímpicos Internacionales!"
         }
       }
     ],
@@ -2756,6 +2918,12 @@
           "fr": "Médaille de bronze",
           "de": "Bronzemedaille",
           "es": "Medallista olímpico de bronce"
+        },
+        "description": {
+          "en": "You finished third! Great performance!",
+          "fr": "Vous avez fini troisième ! C'est une très belle performance !",
+          "de": "Ihr seid auf Rang drei. Super Leistung!",
+          "es": "¡Tercer lugar en los 1ros. Juegos Dinolímpicos Internacionales!"
         }
       }
     ],
@@ -2785,6 +2953,12 @@
           "fr": "Médaille de participation",
           "de": "Teilnahmemedaille",
           "es": "Atleta olímpico"
+        },
+        "description": {
+          "en": "Dinolympic Athlete - be proud of your achievements!",
+          "fr": "Vous avez réussi à vous classer parmi les meilleurs participants !",
+          "de": "Ihr gehört zu den besten Teilnehmern!!",
+          "es": "¡Te colocaste en el Top 10 de nuestro servidor en los 1ros. Juegos Dinolímpicos!"
         }
       }
     ],
@@ -2814,6 +2988,12 @@
           "fr": "1ère limite brisée",
           "de": "2nd Limit Broken",
           "es": "1er limite roto"
+        },
+        "description": {
+          "en": "Your dinoz have evolved and reached level 60!",
+          "fr": "Vous avez fait évoluer vos dinoz jusqu'au niveau 60 !",
+          "de": "Your dinoz have evolved and reached level 60!",
+          "es": "¡Has hecho evolucionar tus Dinos hasta el nivel 60!"
         }
       }
     ],
@@ -2843,6 +3023,12 @@
           "fr": "2ème limite brisée",
           "de": "2nd Limit Broken",
           "es": "2do limite roto"
+        },
+        "description": {
+          "en": "Your dinoz have evolved and reached level 70!",
+          "fr": "Vous avez fait évoluer vos dinoz jusqu'au niveau 70 !",
+          "de": "Your dinoz have evolved and reached level 70!",
+          "es": "¡Has hecho evolucionar tus Dinos hasta el nivel 70!"
         }
       }
     ],

@@ -12,7 +12,13 @@
       {
         "count": 1,
         "points": 0,
-        "icon": "EA_GrandBeta.gif"
+        "icon": "EA_GrandBeta.gif",
+        "description": {
+          "en": "Grand Fever Betas!",
+          "fr": "Grands bêtas de Fever !",
+          "de": "Große BETA-Phase auf Fever!",
+          "es": "¡Gran Beta de Fever!"
+        }
       }
     ]
   },
@@ -29,7 +35,13 @@
       {
         "count": 4,
         "points": 5,
-        "icon": "rec/pheart.gif"
+        "icon": "rec/pheart.gif",
+        "description": {
+          "en": "Get an extra heart!",
+          "fr": "Obtenu un coeur supplémentaire !",
+          "de": "Du hast ein zusätzliches Herz erhalten!",
+          "es": "Ha ganado un corazón adicional."
+        }
       },
       {
         "count": 40,
@@ -40,6 +52,12 @@
           "fr": "plein de vie !",
           "de": "voller Energie!",
           "es": "lleno de vida"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "40 Herzen gesammelt",
+          "es": ""
         }
       }
     ]
@@ -57,17 +75,35 @@
       {
         "count": 10,
         "points": 3,
-        "icon": "rec/chest_0.gif"
+        "icon": "rec/chest_0.gif",
+        "description": {
+          "en": "10 chests opened",
+          "fr": "10 coffres ouverts",
+          "de": "10 Truhen geöffnet",
+          "es": "10 cofres abiertos"
+        }
       },
       {
         "count": 60,
         "points": 2,
-        "icon": "rec/chest_1.gif"
+        "icon": "rec/chest_1.gif",
+        "description": {
+          "en": "60 chests opened",
+          "fr": "60 coffres ouverts",
+          "de": "60 Truhen geöffnet",
+          "es": "60 cofres abiertos"
+        }
       },
       {
         "count": 600,
         "points": 1,
-        "icon": "rec/chest_2.gif"
+        "icon": "rec/chest_2.gif",
+        "description": {
+          "en": "600 chests opened",
+          "fr": "600 coffres ouverts",
+          "de": "600 Truhen geöffnet",
+          "es": "600 cofres abiertos"
+        }
       }
     ]
   },
@@ -90,6 +126,12 @@
           "fr": "Pingouin",
           "de": "Pinguin",
           "es": "Pingüino"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "10 Monster besiegt",
+          "es": ""
         }
       },
       {
@@ -653,7 +695,13 @@
       {
         "count": 5,
         "points": 2,
-        "icon": "rec/cart.gif"
+        "icon": "rec/cart.gif",
+        "description": {
+          "en": "5 Cartridges found",
+          "fr": "5 cartouches trouvées",
+          "de": "5 Kassetten gefunden",
+          "es": "5 cartuchos encontrados"
+        }
       },
       {
         "count": 100,
@@ -664,6 +712,12 @@
           "fr": "Consoleux",
           "de": "Consolero",
           "es": "Consolero"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "100 Kassetten gefunden",
+          "es": ""
         }
       }
     ]
@@ -681,7 +735,13 @@
       {
         "count": 10,
         "points": 1,
-        "icon": "rec/rainbow.gif"
+        "icon": "rec/rainbow.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "10 Regenbögen benutzt",
+          "es": ""
+        }
       },
       {
         "count": 150,
@@ -692,6 +752,12 @@
           "fr": "Globe-trotter",
           "de": "Globetrotter",
           "es": "Trotamundos"
+        },
+        "description": {
+          "en": "150 Rainbows used",
+          "fr": "150 Arcs-en-ciel utilisés",
+          "de": "150 Regenbögen benutzt",
+          "es": "150 arco iris utilizados"
         }
       }
     ]
@@ -716,22 +782,46 @@
           "fr": "fiévreux",
           "de": "im Fieber",
           "es": "Febril"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "1 Archipel bereist",
+          "es": ""
         }
       },
       {
         "count": 2,
         "points": 1,
-        "icon": "rec/pousty_1.gif"
+        "icon": "rec/pousty_1.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "2 Archipele bereist",
+          "es": ""
+        }
       },
       {
         "count": 3,
         "points": 1,
-        "icon": "rec/pousty_2.gif"
+        "icon": "rec/pousty_2.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "3 Archipele bereist",
+          "es": ""
+        }
       },
       {
         "count": 4,
         "points": 1,
-        "icon": "rec/pousty_3.gif"
+        "icon": "rec/pousty_3.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "4 Archipele bereist",
+          "es": ""
+        }
       }
     ]
   },
@@ -748,7 +838,13 @@
       {
         "count": 28,
         "points": 2,
-        "icon": "rec/bag.gif"
+        "icon": "rec/bag.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "28 Objekte eingesammelt",
+          "es": ""
+        }
       }
     ]
   },
@@ -771,12 +867,24 @@
           "fr": "foudroyant",
           "de": "mit Blitzen",
           "es": "Fulminante"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "3 Fulgos verbraucht",
+          "es": ""
         }
       },
       {
         "count": 100,
         "points": 2,
-        "icon": "rec/element_0.gif"
+        "icon": "rec/element_0.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "100 Fulgos verbraucht",
+          "es": ""
+        }
       }
     ]
   },
@@ -799,12 +907,24 @@
           "fr": "bouillant",
           "de": "aus Dampf",
           "es": "Hirviente"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "3 Igniks verbraucht",
+          "es": ""
         }
       },
       {
         "count": 60,
         "points": 2,
-        "icon": "rec/element_1.gif"
+        "icon": "rec/element_1.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "60 Igniks verbraucht",
+          "es": ""
+        }
       }
     ]
   },
@@ -827,12 +947,24 @@
           "fr": "voltigeur",
           "de": "Luftakrobat",
           "es": "Acróbata"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "3 Rasen gebraucht",
+          "es": ""
         }
       },
       {
         "count": 85,
         "points": 2,
-        "icon": "rec/element_2.gif"
+        "icon": "rec/element_2.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "85 Rasen gebraucht",
+          "es": ""
+        }
       }
     ]
   },
@@ -849,7 +981,13 @@
       {
         "count": 3,
         "points": 2,
-        "icon": "rec/bonus_0.gif"
+        "icon": "rec/bonus_0.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "3 Camenwürgs geschluckt",
+          "es": ""
+        }
       },
       {
         "count": 100,
@@ -860,6 +998,12 @@
           "fr": "Crémier",
           "de": "Milchhändler",
           "es": "Quesero"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "100 Camenwürgs geschluckt",
+          "es": ""
         }
       }
     ]
@@ -877,7 +1021,13 @@
       {
         "count": 3,
         "points": 2,
-        "icon": "rec/bonus_1.gif"
+        "icon": "rec/bonus_1.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "3 Pasteten gegessen",
+          "es": ""
+        }
       },
       {
         "count": 100,
@@ -888,6 +1038,12 @@
           "fr": "sylvestre",
           "de": "Sylvester",
           "es": "Silvestre"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "100 Pasteten gegessen",
+          "es": ""
         }
       }
     ]
@@ -905,7 +1061,13 @@
       {
         "count": 3,
         "points": 2,
-        "icon": "rec/bonus_2.gif"
+        "icon": "rec/bonus_2.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "3 Burilams verwendet",
+          "es": ""
+        }
       },
       {
         "count": 100,
@@ -916,6 +1078,12 @@
           "fr": "Lanceur de couteaux",
           "de": "Messerwerfer",
           "es": "Lanzacuchillos"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "100 Burilams verwendet",
+          "es": ""
         }
       }
     ]
@@ -939,12 +1107,24 @@
           "fr": "Palmipède",
           "de": "Ruderfüßer",
           "es": "Palmípedo"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "10 Inseln befreit",
+          "es": ""
         }
       },
       {
         "count": 5000,
         "points": 2,
-        "icon": "rec/island_1.gif"
+        "icon": "rec/island_1.gif",
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "5000 Inseln befreit",
+          "es": ""
+        }
       }
     ]
   },
@@ -967,6 +1147,12 @@
           "fr": "Hibernatus",
           "de": "Hibernatus",
           "es": "Hibernatus"
+        },
+        "description": {
+          "en": "",
+          "fr": "",
+          "de": "5 Partien gefunden",
+          "es": ""
         }
       },
       {

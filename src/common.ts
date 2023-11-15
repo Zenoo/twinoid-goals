@@ -45,6 +45,7 @@ export interface Unlock {
   points: number;
   icon?: string;
   title?: Record<Language, string>;
+  description?: Record<Language, string>;
   prefix?: boolean;
   suffix?: boolean;
 }

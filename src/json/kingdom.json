@@ -12,7 +12,13 @@
       {
         "count": 1,
         "points": 20,
-        "icon": "l_emperor.png"
+        "icon": "l_emperor.png",
+        "description": {
+          "en": "Become an Emperor!",
+          "fr": "Obtenu le titre d'Empereur !",
+          "de": "Du wurdest zum Kaiser gekrönt!",
+          "es": "Lleva el título de Emperador."
+        }
       }
     ]
   },
@@ -29,7 +35,13 @@
       {
         "count": 1,
         "points": 10,
-        "icon": "l_king.png"
+        "icon": "l_king.png",
+        "description": {
+          "en": "Become a King!",
+          "fr": "Obtenu le titre de Roi !",
+          "de": "Du wurdest zum König gekrönt!",
+          "es": "Lleva el título de Rey."
+        }
       }
     ]
   },
