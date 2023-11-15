@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/Zenoo/twinoid-goals/compare/v1.2.0...v1.2.1) (2023-11-15)
+
+
+### Bug Fixes
+
+* Added optional icon description ([5bbf1b1](https://github.com/Zenoo/twinoid-goals/commit/5bbf1b1baaaffb6adebbf347c4a17cfcefa44474))
+
 ## [1.2.0](https://github.com/Zenoo/twinoid-goals/compare/v1.1.0...v1.2.0) (2023-11-14)
 
 
