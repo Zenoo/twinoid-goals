@@ -1,5 +1,7 @@
 'use strict';
 
+Object.defineProperty(exports, '__esModule', { value: true });
+
 /******************************************************************************
 Copyright (c) Microsoft Corporation.
 
@@ -563,7 +565,7 @@ var furi = {
 		}
 	]
 };
-var alphabounce = {
+var alphabounceJson = {
 	planets: planets,
 	earth: earth,
 	mission: mission,
@@ -1024,7 +1026,7 @@ var lab = {
 		}
 	]
 };
-var croquemotel = {
+var croquemotelJson = {
 	hosted: hosted,
 	okbase: okbase,
 	okvip: okvip,
@@ -1562,6 +1564,12 @@ var moves = {
 				fr: "Touriste",
 				de: "Tourist",
 				es: "Turista"
+			},
+			description: {
+				en: "What kind of adventurer are you?",
+				fr: "Quel type d'aventurier êtes-vous ?",
+				de: "So ein Typ Abenteurer bist du",
+				es: "¿Qué tipo de aventurero eres?"
 			}
 		},
 		{
@@ -1728,6 +1736,12 @@ var deaths = {
 				fr: "Revenant de loin",
 				de: "Wiedergänger",
 				es: "Mala Hierba"
+			},
+			description: {
+				en: "How many times have you died in combat?",
+				fr: "Combien de fois êtes-vous mort au combat ?",
+				de: "So oft bist du im Kampf gefallen",
+				es: "Cantidad de veces que has muerto en combate"
 			}
 		},
 		{
@@ -1797,6 +1811,12 @@ var pdays = {
 				fr: "Elève attentif",
 				de: "Geduldiger Schüler",
 				es: "Alumno Atento"
+			},
+			description: {
+				en: "Number of days spent on the site.",
+				fr: "Nombre de jours de présence sur le site.",
+				de: "Anzahl der in Dinoland verbrachten Tage",
+				es: "Cantidad de días presente en el sitio."
 			}
 		},
 		{
@@ -1886,6 +1906,12 @@ var lvlup = {
 				fr: "Entraîneur du dimanche",
 				de: "Freizeit-Trainer",
 				es: "Entrenador Dominguero"
+			},
+			description: {
+				en: "Number of Level-ups carried out.",
+				fr: "Nombre de level-up réalisés.",
+				de: "Anzahl der Level-Ups",
+				es: "Cantidad de subida de niveles que has realizado."
 			}
 		},
 		{
@@ -1975,6 +2001,12 @@ var killm = {
 				fr: "Balayeur de restes",
 				de: "Freizeit-Jäger",
 				es: "Barredor de Restos"
+			},
+			description: {
+				en: "Number of monsters killed on your adventures.",
+				fr: "Nombre de monstres tués durant vos aventures.",
+				de: "Anzahl der von dir getöteten Monster",
+				es: "Cantidad de monstruos que mataste en tus aventuras."
 			}
 		},
 		{
@@ -2084,6 +2116,12 @@ var killd = {
 				fr: "Combattant timide",
 				de: "Schüchterner Kämpfer",
 				es: "Combatiente Tímido"
+			},
+			description: {
+				en: "Number of Dinoz defeated in events.",
+				fr: "Nombre de Dinoz vaincus durant les évènements",
+				de: "Anzahl der während Events besiegter Dinoz",
+				es: "Cantidad de Dinos vencidos en los eventos"
 			}
 		},
 		{
@@ -2163,6 +2201,12 @@ var healpv = {
 				fr: "Infirmière sexy",
 				de: "Sexy Krankenschwester",
 				es: "Enfermero"
+			},
+			description: {
+				en: "How many HP have you regained?",
+				fr: "Combien de pv avez vous regagné ?",
+				de: "Soviele Lebenspunkte hast du wiedergewonnen",
+				es: "La cantidad de puntos de vida que has recuperado"
 			}
 		},
 		{
@@ -2242,6 +2286,12 @@ var upwood = {
 				fr: "Jeune pi-mousse",
 				de: "Jungspund",
 				es: "Oledor de Madera"
+			},
+			description: {
+				en: "Number of Wood level-ups.",
+				fr: "Nombre de up réalisés sur l'élément bois.",
+				de: "Anzahl der Level-Ups beim Holz-Element",
+				es: "Cantidad de subidas de nivel realizadas en elemento madera"
 			}
 		},
 		{
@@ -2311,6 +2361,12 @@ var upfire = {
 				fr: "Flammèche",
 				de: "Flämmchen",
 				es: "Chispa"
+			},
+			description: {
+				en: "Number of Fire level-ups.",
+				fr: "Nombre de up réalisés sur l'élément feu.",
+				de: "Anzahl der Level-Ups beim Feuer-Element",
+				es: "Cantidad de subidas de nivel realizadas en elemento fuego"
 			}
 		},
 		{
@@ -2380,6 +2436,12 @@ var upthun = {
 				fr: "Triton grillé",
 				de: "Kurzschluss",
 				es: "Luciérnaga"
+			},
+			description: {
+				en: "Number of Lightning level-ups.",
+				fr: "Nombre de up réalisés sur l'élément foudre.",
+				de: "Anzahl der Level-Ups beim Blitz-Element",
+				es: "Cantidad de subidas de nivel realizadas en elemento rayo"
 			}
 		},
 		{
@@ -2449,6 +2511,12 @@ var upair = {
 				fr: "Gaz incolore",
 				de: "Morgenhauch",
 				es: "Gas"
+			},
+			description: {
+				en: "Number of Air level-ups.",
+				fr: "Nombre de up réalisés sur l'élément air.",
+				de: "Anzahl der Level-Ups beim Luft-Element",
+				es: "Cantidad de subidas de nivel realizadas en elemento aire."
 			}
 		},
 		{
@@ -2518,6 +2586,12 @@ var upwatr = {
 				fr: "Canard de bain",
 				de: "Gummiente",
 				es: "Pez"
+			},
+			description: {
+				en: "Number of Water level-ups.",
+				fr: "Nombre de up réalisés sur l'élément eau.",
+				de: "Anzahl der Level-Ups beim Wasser-Element",
+				es: "Cantidad de subidas de nivel realizadas en elemento agua"
 			}
 		},
 		{
@@ -2587,6 +2661,12 @@ var brkpel = {
 				fr: "Ver de terre",
 				de: "Regenwurm",
 				es: "Gusano"
+			},
+			description: {
+				en: "Number of broken shovels.",
+				fr: "Nombre de pelles cassées.",
+				de: "Anzahl der von dir zerbrochenen Schaufeln",
+				es: "Cantidad de palas rotas."
 			}
 		},
 		{
@@ -2686,6 +2766,12 @@ var chasse = {
 				fr: "Galinette Cendrée",
 				de: "Frischling",
 				es: "Colocador de Trampas"
+			},
+			description: {
+				en: "Nombre d'actions de chasses réalisées.",
+				fr: "Nombre d'actions de chasses réalisées.",
+				de: "Anzahl der durchgeführten Jagden",
+				es: "Cantidad de cazas realizadas."
 			}
 		},
 		{
@@ -2775,6 +2861,12 @@ var cueill = {
 				fr: "Cueilleur romantique",
 				de: "Blumenpflücker",
 				es: "Recolector Romántico"
+			},
+			description: {
+				en: "Number of harvesting operations carried out.",
+				fr: "Nombre d'actions de cueillette réalisées.",
+				de: "Anzahl der von dir durchgeführten Ernten",
+				es: "Cantidad de recolecciones realizadas."
 			}
 		},
 		{
@@ -2864,6 +2956,12 @@ var peche = {
 				fr: "Pêcheur à la ligne",
 				de: "Kescher",
 				es: "Ayudante de Pescador"
+			},
+			description: {
+				en: "Number of fishing trips.",
+				fr: "Nombre d'actions de pêche réalisées.",
+				de: "Anzahl deiner Angelausflüge",
+				es: "Cantidad de pescas realizadas."
 			}
 		},
 		{
@@ -2953,6 +3051,12 @@ var energy = {
 				fr: "Energétiser, je n'ose pas trop",
 				de: "Energizen? Also ich weiß nicht...",
 				es: "Pila AAA"
+			},
+			description: {
+				en: "Number of actions carried out which regenerate energy.",
+				fr: "Nombre d'actions d'énergétisation réalisées.",
+				de: "Anzahl der Energizer-Aktionen",
+				es: "Cantidad de energizaciones realizadas."
 			}
 		},
 		{
@@ -3042,6 +3146,12 @@ var fouill = {
 				fr: "Ramasseur de cailloux",
 				de: "Kieswühler",
 				es: "Recogedor de piedritas"
+			},
+			description: {
+				en: "Number of scavenges carried out.",
+				fr: "Nombre d'actions de fouilles réalisées.",
+				de: "Anzahl der von dir ausgeführten Grabungen",
+				es: "Cantidad de excavaciones realizadas."
 			}
 		},
 		{
@@ -3131,6 +3241,12 @@ var market = {
 				fr: "Âme de camelot",
 				de: "Seele von Camelot",
 				es: "Vendedor Debutante"
+			},
+			description: {
+				en: "Number of sales made at the market.",
+				fr: "Nombre de ventes conclues au marché.",
+				de: "Anzahl der auf dem Markt verkauften Artikel",
+				es: "Cantidad de ventas en el Mercado."
 			}
 		},
 		{
@@ -3220,6 +3336,12 @@ var sbuyer = {
 				fr: "Chineur du dimanche",
 				de: "Schnäppchenjäger",
 				es: "Comprador Ocasional"
+			},
+			description: {
+				en: "Number of purchases made in the shop",
+				fr: "Nombre d'objet acquis en boutique",
+				de: "Anzahl der in Geschäften gekauften Artikel",
+				es: "Cantidad de objetos adquiridos en la tienda"
 			}
 		},
 		{
@@ -3310,6 +3432,12 @@ var clans = {
 				fr: "Vagabond",
 				de: "Vagabund",
 				es: "Vagabundo"
+			},
+			description: {
+				en: "Number of clans this player has appeared in.",
+				fr: "Nombre de clans dans lequel le joueur a été aperçu.",
+				de: "Anzahl der Klans, in denen du schon einmal warst",
+				es: "Cantidad de clanes en los que has sido identificado."
 			}
 		},
 		{
@@ -3361,6 +3489,12 @@ var beauty = {
 				fr: "Toiletteur doué",
 				de: "Begabter Friseur",
 				es: "Ojos lindos"
+			},
+			description: {
+				en: "Number of Beauty Contest titles won by this player's dinoz.",
+				fr: "Nombre de titres de beautés remportés par les Dinoz du joueur.",
+				de: "Anzahl der von deinen Dinoz gewonnenen Schönheitstitel",
+				es: "Cantidad de títulos de belleza."
 			}
 		},
 		{
@@ -3430,6 +3564,12 @@ var gdcatt = {
 				fr: "Nain des champs de bataille",
 				de: "Kampfzwerg",
 				es: "Duende"
+			},
+			description: {
+				en: "Number of attacks carried out against enemy castles.",
+				fr: "Nombre d'attaques menées contre un château adverse.",
+				de: "So oft hast du ein gegnerisches Schloss angegriffen",
+				es: "Cantidad de atacantes enviados al castillo enemigo."
 			}
 		},
 		{
@@ -3529,6 +3669,12 @@ var gdcdef = {
 				fr: "Epine dans le pied",
 				de: "Splitter im Fuß",
 				es: "Vigilante"
+			},
+			description: {
+				en: "Number of times you have defended your castle.",
+				fr: "Nombre de fois où vous avez défendu votre château.",
+				de: "So viele Male hast du dein Schloss verteidigt",
+				es: "Cantidad de veces que has defendido tu castillo."
 			}
 		},
 		{
@@ -3628,6 +3774,12 @@ var bgum$1 = {
 				fr: "Bisou Cool™",
 				de: "Lotse",
 				es: "Simpático™"
+			},
+			description: {
+				en: "For those who are committed to making Dinoland an even better place!",
+				fr: "Vous oeuvrez pour rendre le monde de Dinoland encore meilleur !",
+				de: "Du bist ein aktives Mitglieder der Dinoland-Community!",
+				es: "¡Maestros como tú hacen que Dinoland sea cada vez mejor!"
 			}
 		},
 		{
@@ -3737,6 +3889,12 @@ var medgol = {
 				fr: "Médaille d'or",
 				de: "Goldmedaille",
 				es: "Medallista olímpico de oro"
+			},
+			description: {
+				en: "You finished first! Congratulations!",
+				fr: "Vous avez fini premier ! Félicitations !",
+				de: "Herzlichen Glückwunsch, ihr seid erster!",
+				es: "¡Eres el Número 1 en los juegos Dinolímpicos! ¡Hurraa!"
 			}
 		}
 	],
@@ -3766,6 +3924,12 @@ var medsil = {
 				fr: "Médaille d'argent",
 				de: "Silbermedaille",
 				es: "Medallista olímpico de plata"
+			},
+			description: {
+				en: "You finished second! Bravo!",
+				fr: "Vous avez fini second ! Bravo !",
+				de: "Bravo, ihr seid zweiter!",
+				es: "¡Segundo lugar en los 1ros. Juegos Dinolímpicos Internacionales!"
 			}
 		}
 	],
@@ -3795,6 +3959,12 @@ var medbro = {
 				fr: "Médaille de bronze",
 				de: "Bronzemedaille",
 				es: "Medallista olímpico de bronce"
+			},
+			description: {
+				en: "You finished third! Great performance!",
+				fr: "Vous avez fini troisième ! C'est une très belle performance !",
+				de: "Ihr seid auf Rang drei. Super Leistung!",
+				es: "¡Tercer lugar en los 1ros. Juegos Dinolímpicos Internacionales!"
 			}
 		}
 	],
@@ -3824,6 +3994,12 @@ var medpla = {
 				fr: "Médaille de participation",
 				de: "Teilnahmemedaille",
 				es: "Atleta olímpico"
+			},
+			description: {
+				en: "Dinolympic Athlete - be proud of your achievements!",
+				fr: "Vous avez réussi à vous classer parmi les meilleurs participants !",
+				de: "Ihr gehört zu den besten Teilnehmern!!",
+				es: "¡Te colocaste en el Top 10 de nuestro servidor en los 1ros. Juegos Dinolímpicos!"
 			}
 		}
 	],
@@ -3853,6 +4029,12 @@ var lvlup1 = {
 				fr: "1ère limite brisée",
 				de: "2nd Limit Broken",
 				es: "1er limite roto"
+			},
+			description: {
+				en: "Your dinoz have evolved and reached level 60!",
+				fr: "Vous avez fait évoluer vos dinoz jusqu'au niveau 60 !",
+				de: "Your dinoz have evolved and reached level 60!",
+				es: "¡Has hecho evolucionar tus Dinos hasta el nivel 60!"
 			}
 		}
 	],
@@ -3882,6 +4064,12 @@ var lvlup2 = {
 				fr: "2ème limite brisée",
 				de: "2nd Limit Broken",
 				es: "2do limite roto"
+			},
+			description: {
+				en: "Your dinoz have evolved and reached level 70!",
+				fr: "Vous avez fait évoluer vos dinoz jusqu'au niveau 70 !",
+				de: "Your dinoz have evolved and reached level 70!",
+				es: "¡Has hecho evolucionar tus Dinos hasta el nivel 70!"
 			}
 		}
 	],
@@ -3892,7 +4080,7 @@ var lvlup2 = {
 		es: "¡Tus dinos han evolucionado!"
 	}
 };
-var dinorpg = {
+var dinorpgJson = {
 	perle: perle,
 	pteroz: pteroz,
 	hippo: hippo,
@@ -3960,7 +4148,13 @@ var fbetaa = {
 		{
 			count: 1,
 			points: 0,
-			icon: "EA_GrandBeta.gif"
+			icon: "EA_GrandBeta.gif",
+			description: {
+				en: "Grand Fever Betas!",
+				fr: "Grands bêtas de Fever !",
+				de: "Große BETA-Phase auf Fever!",
+				es: "¡Gran Beta de Fever!"
+			}
 		}
 	]
 };
@@ -3977,7 +4171,13 @@ var fheart = {
 		{
 			count: 4,
 			points: 5,
-			icon: "rec/pheart.gif"
+			icon: "rec/pheart.gif",
+			description: {
+				en: "Get an extra heart!",
+				fr: "Obtenu un coeur supplémentaire !",
+				de: "Du hast ein zusätzliches Herz erhalten!",
+				es: "Ha ganado un corazón adicional."
+			}
 		},
 		{
 			count: 40,
@@ -3988,6 +4188,12 @@ var fheart = {
 				fr: "plein de vie !",
 				de: "voller Energie!",
 				es: "lleno de vida"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "40 Herzen gesammelt",
+				es: ""
 			}
 		}
 	]
@@ -4005,17 +4211,35 @@ var fchest = {
 		{
 			count: 10,
 			points: 3,
-			icon: "rec/chest_0.gif"
+			icon: "rec/chest_0.gif",
+			description: {
+				en: "10 chests opened",
+				fr: "10 coffres ouverts",
+				de: "10 Truhen geöffnet",
+				es: "10 cofres abiertos"
+			}
 		},
 		{
 			count: 60,
 			points: 2,
-			icon: "rec/chest_1.gif"
+			icon: "rec/chest_1.gif",
+			description: {
+				en: "60 chests opened",
+				fr: "60 coffres ouverts",
+				de: "60 Truhen geöffnet",
+				es: "60 cofres abiertos"
+			}
 		},
 		{
 			count: 600,
 			points: 1,
-			icon: "rec/chest_2.gif"
+			icon: "rec/chest_2.gif",
+			description: {
+				en: "600 chests opened",
+				fr: "600 coffres ouverts",
+				de: "600 Truhen geöffnet",
+				es: "600 cofres abiertos"
+			}
 		}
 	]
 };
@@ -4038,6 +4262,12 @@ var fmonst = {
 				fr: "Pingouin",
 				de: "Pinguin",
 				es: "Pingüino"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "10 Monster besiegt",
+				es: ""
 			}
 		},
 		{
@@ -4601,7 +4831,13 @@ var fcart = {
 		{
 			count: 5,
 			points: 2,
-			icon: "rec/cart.gif"
+			icon: "rec/cart.gif",
+			description: {
+				en: "5 Cartridges found",
+				fr: "5 cartouches trouvées",
+				de: "5 Kassetten gefunden",
+				es: "5 cartuchos encontrados"
+			}
 		},
 		{
 			count: 100,
@@ -4612,6 +4848,12 @@ var fcart = {
 				fr: "Consoleux",
 				de: "Consolero",
 				es: "Consolero"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "100 Kassetten gefunden",
+				es: ""
 			}
 		}
 	]
@@ -4629,7 +4871,13 @@ var frbow = {
 		{
 			count: 10,
 			points: 1,
-			icon: "rec/rainbow.gif"
+			icon: "rec/rainbow.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "10 Regenbögen benutzt",
+				es: ""
+			}
 		},
 		{
 			count: 150,
@@ -4640,6 +4888,12 @@ var frbow = {
 				fr: "Globe-trotter",
 				de: "Globetrotter",
 				es: "Trotamundos"
+			},
+			description: {
+				en: "150 Rainbows used",
+				fr: "150 Arcs-en-ciel utilisés",
+				de: "150 Regenbögen benutzt",
+				es: "150 arco iris utilizados"
 			}
 		}
 	]
@@ -4664,22 +4918,46 @@ var fworld = {
 				fr: "fiévreux",
 				de: "im Fieber",
 				es: "Febril"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "1 Archipel bereist",
+				es: ""
 			}
 		},
 		{
 			count: 2,
 			points: 1,
-			icon: "rec/pousty_1.gif"
+			icon: "rec/pousty_1.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "2 Archipele bereist",
+				es: ""
+			}
 		},
 		{
 			count: 3,
 			points: 1,
-			icon: "rec/pousty_2.gif"
+			icon: "rec/pousty_2.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "3 Archipele bereist",
+				es: ""
+			}
 		},
 		{
 			count: 4,
 			points: 1,
-			icon: "rec/pousty_3.gif"
+			icon: "rec/pousty_3.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "4 Archipele bereist",
+				es: ""
+			}
 		}
 	]
 };
@@ -4696,7 +4974,13 @@ var fbag = {
 		{
 			count: 28,
 			points: 2,
-			icon: "rec/bag.gif"
+			icon: "rec/bag.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "28 Objekte eingesammelt",
+				es: ""
+			}
 		}
 	]
 };
@@ -4719,12 +5003,24 @@ var fvolt = {
 				fr: "foudroyant",
 				de: "mit Blitzen",
 				es: "Fulminante"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "3 Fulgos verbraucht",
+				es: ""
 			}
 		},
 		{
 			count: 100,
 			points: 2,
-			icon: "rec/element_0.gif"
+			icon: "rec/element_0.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "100 Fulgos verbraucht",
+				es: ""
+			}
 		}
 	]
 };
@@ -4747,12 +5043,24 @@ var ffire = {
 				fr: "bouillant",
 				de: "aus Dampf",
 				es: "Hirviente"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "3 Igniks verbraucht",
+				es: ""
 			}
 		},
 		{
 			count: 60,
 			points: 2,
-			icon: "rec/element_1.gif"
+			icon: "rec/element_1.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "60 Igniks verbraucht",
+				es: ""
+			}
 		}
 	]
 };
@@ -4775,12 +5083,24 @@ var frasen = {
 				fr: "voltigeur",
 				de: "Luftakrobat",
 				es: "Acróbata"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "3 Rasen gebraucht",
+				es: ""
 			}
 		},
 		{
 			count: 85,
 			points: 2,
-			icon: "rec/element_2.gif"
+			icon: "rec/element_2.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "85 Rasen gebraucht",
+				es: ""
+			}
 		}
 	]
 };
@@ -4797,7 +5117,13 @@ var fcam = {
 		{
 			count: 3,
 			points: 2,
-			icon: "rec/bonus_0.gif"
+			icon: "rec/bonus_0.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "3 Camenwürgs geschluckt",
+				es: ""
+			}
 		},
 		{
 			count: 100,
@@ -4808,6 +5134,12 @@ var fcam = {
 				fr: "Crémier",
 				de: "Milchhändler",
 				es: "Quesero"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "100 Camenwürgs geschluckt",
+				es: ""
 			}
 		}
 	]
@@ -4825,7 +5157,13 @@ var ffeuil = {
 		{
 			count: 3,
 			points: 2,
-			icon: "rec/bonus_1.gif"
+			icon: "rec/bonus_1.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "3 Pasteten gegessen",
+				es: ""
+			}
 		},
 		{
 			count: 100,
@@ -4836,6 +5174,12 @@ var ffeuil = {
 				fr: "sylvestre",
 				de: "Sylvester",
 				es: "Silvestre"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "100 Pasteten gegessen",
+				es: ""
 			}
 		}
 	]
@@ -4853,7 +5197,13 @@ var fcut = {
 		{
 			count: 3,
 			points: 2,
-			icon: "rec/bonus_2.gif"
+			icon: "rec/bonus_2.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "3 Burilams verwendet",
+				es: ""
+			}
 		},
 		{
 			count: 100,
@@ -4864,6 +5214,12 @@ var fcut = {
 				fr: "Lanceur de couteaux",
 				de: "Messerwerfer",
 				es: "Lanzacuchillos"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "100 Burilams verwendet",
+				es: ""
 			}
 		}
 	]
@@ -4887,12 +5243,24 @@ var fisl = {
 				fr: "Palmipède",
 				de: "Ruderfüßer",
 				es: "Palmípedo"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "10 Inseln befreit",
+				es: ""
 			}
 		},
 		{
 			count: 5000,
 			points: 2,
-			icon: "rec/island_1.gif"
+			icon: "rec/island_1.gif",
+			description: {
+				en: "",
+				fr: "",
+				de: "5000 Inseln befreit",
+				es: ""
+			}
 		}
 	]
 };
@@ -4915,6 +5283,12 @@ var fcube = {
 				fr: "Hibernatus",
 				de: "Hibernatus",
 				es: "Hibernatus"
+			},
+			description: {
+				en: "",
+				fr: "",
+				de: "5 Partien gefunden",
+				es: ""
 			}
 		},
 		{
@@ -4929,7 +5303,7 @@ var fcube = {
 		}
 	]
 };
-var fever = {
+var feverJson = {
 	fbetaa: fbetaa,
 	fheart: fheart,
 	fchest: fchest,
@@ -4995,6 +5369,12 @@ var killz = {
 				fr: "Grosse brute",
 				de: "Brutalo",
 				es: "Brutal"
+			},
+			description: {
+				en: "Total number of the living-dead that you have sent back underground by whatever means.",
+				fr: "Total de créatures mort-vivantes que vous avez renvoyées sous terre par n'importe quel moyen.",
+				de: "Gesamtanzahl der von dir umgebrachten Zombies. Jede Tötungsmethode wird gezählt.",
+				es: "Total de zombies que volviste a enviar bajo tierra de cualquier manera."
 			}
 		},
 		{
@@ -5130,6 +5510,12 @@ var dinfec = {
 				fr: "Partiellement putréfié",
 				de: "Teilweise verrottet",
 				es: "Me duele la panza..."
+			},
+			description: {
+				en: "Number of deaths from generalised infection.",
+				fr: "Nombre d'extinctions des suites d'une infection virulente.",
+				de: "Anzahl der Infektionen, die dich das Leben gekostet haben.",
+				es: "Cantidad de fallecimientos por infecciones."
 			}
 		},
 		{
@@ -5199,6 +5585,12 @@ var doutsd = {
 				fr: "Randonneur égaré",
 				de: "Verirrter Ausflügler",
 				es: "Caminante perdido"
+			},
+			description: {
+				en: "Little walks you took outside from which you never returned.",
+				fr: "Petites promenades dehors dont vous n'êtes jamais revenu(e).",
+				de: "Die Auszeichnung spiegelt die Anzahl der Wüstenausflüge wider, von denen du nicht mehr zurückgekehrt bist.",
+				es: "Veces en las que saliste a pasear fuera del pueblo y nunca más volviste."
 			}
 		},
 		{
@@ -5284,6 +5676,12 @@ var dnucl = {
 				fr: "De la fumée ? Quelle fumée ?",
 				de: "Rauch? Was für Rauch?",
 				es: "¿Humo? ¿Qué humo?"
+			},
+			description: {
+				en: "Number of existences entirely vaporized by the all-powerful atom..",
+				fr: "Nombre d'existences vaporisées par la toute puissance de l'atome.",
+				de: "Gibt an, wie oft du unter dem Einfluß von Radioaktivität das Zeitliche gesegnet hast.",
+				es: "Cantidad de muertes por el gran poder del átomo."
 			}
 		},
 		{
@@ -5421,6 +5819,12 @@ var healed = {
 				fr: "Dur à cuire",
 				de: "Harter Brocken",
 				es: "Duro de matar"
+			},
+			description: {
+				en: "Illnesses or injuries which you have been saved from, in-extremis.",
+				fr: "Maladies ou blessures dont vous avez été sauvé(e) in-extremis.",
+				de: "Anzahl der Krankheiten und schweren Verwundungen, die du in letzter Sekunde überlebt hast.",
+				es: "Enfermedades o heridas que casi te costaron la vida."
 			}
 		},
 		{
@@ -5470,6 +5874,12 @@ var cannib = {
 				fr: "Amateur de viande humaine",
 				de: "Menschenfleischliebhaber",
 				es: "Devorador de hombres"
+			},
+			description: {
+				en: "Number of times you have dined on human flesh...",
+				fr: "Nombre de repas à base de viande humaine...",
+				de: "Die Anzahl der Stücke Menschenfleisch, die von dir verzehrt wurden...",
+				es: "Cantidad de veces que tragaste carne humana..."
 			}
 		},
 		{
@@ -5587,6 +5997,12 @@ var theft = {
 				fr: "Petite frappe",
 				de: "Maulheld",
 				es: "Cleptómano"
+			},
+			description: {
+				en: "Number of objects you have stolen from your fellow residents (alive).",
+				fr: "Nombre d'objets volés chez vos voisins (en vie).",
+				de: "Anzahl der Gegenstände, die du bei deinen (lebenden) Nachbarn geklaut hast.",
+				es: "Cantidad de objetos robados a tus vecinos (en vida)."
 			}
 		},
 		{
@@ -5696,6 +6112,12 @@ var plundr = {
 				fr: "Pillard",
 				de: "Plünderer",
 				es: "Robamuertos"
+			},
+			description: {
+				en: "Objects prised from the still-warm clutches of your former friends.",
+				fr: "Objets arrachés au corps encore chaud de vos anciens amis.",
+				de: "Anzahl der Gegenstände, die du deinen verblichenen Freunden entrissen hast.",
+				es: "Objetos arrancados del cuerpo aún tibio de tus vecinos."
 			}
 		},
 		{
@@ -5803,6 +6225,12 @@ var heroac = {
 				fr: "Fan des X-men",
 				de: "X-Men Leser",
 				es: "Fan de X-Men"
+			},
+			description: {
+				en: "Number of truly extraordinary things you've done.",
+				fr: "Nombre de choses vraiment hors du commun que vous avez faites.",
+				de: "Anzahl deiner wirklich außergewöhnlichen Heldentaten.",
+				es: "Cantidad de acciones extraordinarias que has realizado."
 			}
 		},
 		{
@@ -5932,6 +6360,12 @@ var explor = {
 				fr: "Explorateur impétueux",
 				de: "Stürmischer Kundschafter",
 				es: "Explorador Impetuoso"
+			},
+			description: {
+				en: "Number of buildings you have explored in far-flung zones.",
+				fr: "Nombre de bâtiments dans des zones éloignées que vous avez explorés.",
+				de: "Anzahl der entfernten Gebäude, die von dir erkundet wurden.",
+				es: "Cantidad de edificios en zonas alejadas que has explorado."
 			}
 		},
 		{
@@ -6041,6 +6475,12 @@ var explo2 = {
 				fr: "Explorateur vraiment impétueux",
 				de: "Lebensmüder Kundschafter",
 				es: "Caminante del Horizonte"
+			},
+			description: {
+				en: "Number of buildings explored in EXTREMELY far away places.",
+				fr: "Nombre de bâtiments dans des zones éloignées que vous avez explorés.",
+				de: "Anzahl SEHR WEIT entfernter Gebäude, die von dir erkundet wurden.",
+				es: "Cantidad de edificios que has explorado en zonas REALMENTE muy alejadas."
 			}
 		},
 		{
@@ -6120,6 +6560,12 @@ var jrangr = {
 				fr: "Furtif",
 				de: "Pfadfinder",
 				es: "Furtivo"
+			},
+			description: {
+				en: "Days spent in the shadows as a Scout.",
+				fr: "Jours passés dans les ombres en tant qu'Éclaireur.",
+				de: "Anzahl der Tage, die du als Aufklärer gespielt hast.",
+				es: "Días pasados en la oscuridad como Explorador."
 			}
 		},
 		{
@@ -6209,6 +6655,12 @@ var jguard = {
 				fr: "Défenseur",
 				de: "Die Mauer",
 				es: "Defensor"
+			},
+			description: {
+				en: "Days spent behind your shield as a guardian.",
+				fr: "Jours passés avec votre bouclier en tant que Gardien.",
+				de: "Anzahl der Tage, die du als Wächter gespielt hast.",
+				es: "Días pasados con tu escudo como Guardián."
 			}
 		},
 		{
@@ -6298,6 +6750,12 @@ var jcolle = {
 				fr: "Trouveur",
 				de: "Sandarbeiter",
 				es: "Husmeador"
+			},
+			description: {
+				en: "Days spent as a scavenger, foraging around.",
+				fr: "Jours passés à gratter le sol en tant que Fouineur.",
+				de: "Anzahl der Tage, die du als Buddler gespielt hast.",
+				es: "Días pasados escarbando el suelo como Excavador."
 			}
 		},
 		{
@@ -6387,6 +6845,12 @@ var jermit = {
 				fr: "Dégoteur de vers",
 				de: "Wurmfresser",
 				es: "Comegusanos"
+			},
+			description: {
+				en: "Days spent as a survivalist, eating anything that comes to hand.",
+				fr: "Jours passés à manger n'importe quoi en tant qu'Ermite.",
+				de: "Anzahl der Tage, an denen du dich mit irgendetwas aus der Wüste ernährt hast.\"",
+				es: "Días pasados comiendo cualquier cosa como Ermitaño."
 			}
 		},
 		{
@@ -6476,6 +6940,12 @@ var jtamer = {
 				fr: "Ami des bêtes",
 				de: "Tierliebhaber",
 				es: "Amigo de los Animales"
+			},
+			description: {
+				en: "Days spent as a Tamer, torturing Labradoodles.",
+				fr: "Jours passés à torturer des bichons maltais.",
+				de: "Anzahl der Tage, an denen du kleine Malteserhunde malträtiert hast.",
+				es: "Días pasados torturando perritos."
 			}
 		},
 		{
@@ -6565,6 +7035,12 @@ var jtech = {
 				fr: "Bricol' girl travesti",
 				de: "Yo, wir schaffen das!",
 				es: "Bricoloco"
+			},
+			description: {
+				en: "The number of days you've spent jiggling and fiddling with pointy tools.",
+				fr: "Jours passés à jouer avec des outils pointus.",
+				de: "Anzahl der Tage, die du als Techniker gespielt hast.",
+				es: "Días pasados jugando con herramientas."
 			}
 		},
 		{
@@ -6654,6 +7130,12 @@ var jsham = {
 				fr: "Aborigène curieux",
 				de: "Diplomierter Scharlatan",
 				es: "Aborigen curioso"
+			},
+			description: {
+				en: "Days spent trafficking the souls of the dead.",
+				fr: "Jours passés à trafiquer l'âme des morts.",
+				de: "Anzahl der Tage, die du als Schamane gespielt hast.",
+				es: "Días pasados jugando con almas de muertos."
 			}
 		},
 		{
@@ -6743,6 +7225,12 @@ var chstxl = {
 				fr: "Spécialiste en aubaine",
 				de: "Hans im Glück",
 				es: "Golpe de Suerte"
+			},
+			description: {
+				en: "Number of large metal chests you have found in the World Beyond.",
+				fr: "Nombre de gros coffres en métal que vous avez dégotés dans l'Outre-Monde.",
+				de: "Anzahl der Großen Metallkoffer, die du in der Außenwelt ausgegraben hast.",
+				es: "Cantidad de grandes cofres de metal que has encontrado en el Ultramundo."
 			}
 		},
 		{
@@ -6822,6 +7310,12 @@ var tronco = {
 				fr: "Massacre à la tronçonneuse",
 				de: "Kettensägenmassaker",
 				es: "Masacre Mecánica"
+			},
+			description: {
+				en: "The number of chainsaws you have built.",
+				fr: "Nombre de tronçonneuses que vous avez assemblées.",
+				de: "Anzahl der Kettensägen, die du zusammengebaut hast.",
+				es: "Cantidad de sierras eléctricas que has armado."
 			}
 		},
 		{
@@ -6871,6 +7365,12 @@ var watgun = {
 				fr: "Pistolereau",
 				de: "Super Soaker",
 				es: "Pistolero de agua"
+			},
+			description: {
+				en: "The number of water-based toys you have built.",
+				fr: "Nombre de gros jouets à base d'eau que vous avez fabriqués.",
+				de: "Anzahl an großen Wasserwaffen, die du gebaut hast.",
+				es: "Cantidad de grandes juguetes de agua que has fabricado."
 			}
 		},
 		{
@@ -6930,6 +7430,12 @@ var batgun = {
 				fr: "Gardien de la Pile",
 				de: "Durazell",
 				es: "Lanzador de Pilas"
+			},
+			description: {
+				en: "The number of Battery Launchers you have built.",
+				fr: "Nombre de puissants lance-piles que vous avez fabriqués.",
+				de: "Anzahl der Batteriewerfer, die du gebaut hast.",
+				es: "Cantidad de lanza-pilas que has fabricado."
 			}
 		},
 		{
@@ -7009,6 +7515,12 @@ var repair = {
 				fr: "Bricoleur du dimanche",
 				de: "Hobby-Heimwerker",
 				es: "Reparador Dominguero"
+			},
+			description: {
+				en: "Number of broken items that you've repaired.",
+				fr: "Objets cassés que vous avez remis en état de marche.",
+				de: "Anzahl kaputter Gegenstände, die du wieder repariert hast.",
+				es: "Objetos rotos que has reparado."
 			}
 		},
 		{
@@ -7078,6 +7590,12 @@ var cobaye = {
 				fr: "Cobaye de laboratoire",
 				de: "Medikamentetester",
 				es: "Conejillo de Indias"
+			},
+			description: {
+				en: "The number of times you have tested dangerous drugs... on yourself.",
+				fr: "Drogues aux effets dangereux que vous avez avalées.",
+				de: "Anzahl der gefährlichen Drogen, die du genommen hast.",
+				es: "Estimulantes con efectos peligrosos que has probado."
 			}
 		},
 		{
@@ -7147,6 +7665,12 @@ var ebuild = {
 				fr: "Bâtisseur du non-sens",
 				de: "Bauherr ohne Sinn und Verstand",
 				es: "Albañil Dominguero"
+			},
+			description: {
+				en: "The number of wonders you have constructed.",
+				fr: "Nombre de Merveilles que vous avez réussi à construire.",
+				de: "Anzahl der Wunderwerke, an deren Bau du mitgewirkt hast.",
+				es: "Cantidad de maravillas que has logrado construir."
 			}
 		},
 		{
@@ -7316,6 +7840,12 @@ var ebcrow = {
 				fr: "Gloire au Corbeau !",
 				de: "Huldigt den Raben!",
 				es: "¡Gloria al Cuervo!"
+			},
+			description: {
+				en: "The Crow is good, the Crow is all-powerful. [edited by the Crow]",
+				fr: "Le Corbeau est bon, le Corbeau est bienfaisant. [édité par Corbilla Fortuna]",
+				de: "Der Rabe ist gut, der Rabe ist ein Segen für die Stadt. [editiert vom Raben]",
+				es: "El Cuervo es un tipazo, el Cuervo es bondadoso. [Firmado: El Cuervo]"
 			}
 		},
 		{
@@ -7435,6 +7965,12 @@ var ebgros = {
 				fr: "Oh on voit les zombies d'ici",
 				de: "Ich sehe von hier oben die Zombies",
 				es: "Oh, desde aquí puedo ver muchos zombies"
+			},
+			description: {
+				en: "Look, I can see the zeds from up here!",
+				fr: "Regardez, on voit les zombies de là haut !",
+				de: "Sieh nur, man kann von da oben die Zombies sehen!",
+				es: "Increíble, ¡desde aquí los zombies se ven como hormiguitas!"
 			}
 		},
 		{
@@ -7542,6 +8078,12 @@ var ebpmv = {
 			title: {
 				en: "BRDs for everyone! The people demand BRDs",
 				fr: "Gloire au PMV !",
+				de: "Huldigt den riesigen KVF!",
+				es: "¡Gloria a la COSA!"
+			},
+			description: {
+				en: "BRDs for everyone! The people demand BRDs!",
+				fr: "Gloire au PMV géant !",
 				de: "Huldigt den riesigen KVF!",
 				es: "¡Gloria a la COSA!"
 			}
@@ -7663,6 +8205,12 @@ var ebcstl = {
 				fr: "Summum de l'inutile",
 				de: "Gipfel des Nutzlosen",
 				es: "Lo más inútil que se haya visto"
+			},
+			description: {
+				en: "You really built that?",
+				fr: "Vous avez vraiment construit ça ?",
+				de: "Das hast du nicht wirklich gebaut?",
+				es: "¿Realmente has construido eso?"
 			}
 		},
 		{
@@ -7916,6 +8464,12 @@ var maso = {
 				fr: "Adepte SM",
 				de: "SM-Anhänger",
 				es: "Adepto del SM"
+			},
+			description: {
+				en: "The number of joyous moments in all this suffering.",
+				fr: "Moments de bonheur dans la souffrance la plus totale.",
+				de: "Anzahl der Glücksmomente, die du leidend oder schmerzgeplagt genossen hast.",
+				es: "Momentos de felicidad en el sufrimiento más profundo."
 			}
 		},
 		{
@@ -7975,6 +8529,12 @@ var animal = {
 				fr: "30 millions d'ennemis",
 				de: "Stadtmetzger",
 				es: "Amigo de los animales"
+			},
+			description: {
+				en: "The number of animals you have exterminated (by hand, with a mixer, with a saniflow macerator...).",
+				fr: "Nombre d'animaux que vous avez exterminés (à la main, au mixer, au sani-broyeur...).",
+				de: "Anzahl der Tiere, die du umgebracht hast (mit deinen Händen, im Mixer, in der Fäkalienhebeanlage...).",
+				es: "Cantidad de animales que has exterminado (con las manos, con un machete, con una batidora...)"
 			}
 		},
 		{
@@ -8034,6 +8594,12 @@ var deco = {
 				fr: "Coquet",
 				de: "Ästhet",
 				es: "Detallista"
+			},
+			description: {
+				en: "The number of decoration points you have taken the trouble to add to your dwelling place.",
+				fr: "Nombre de pointss de décoration que vous avez pris la peine d'ajouter à votre habitat.",
+				de: "Anzahl der Punkte, die du durch sinnlose Einrichtungsverschönerungen gewonnen hast",
+				es: "Cantidad de puntos de decoración que has agregado a tu hogar."
 			}
 		},
 		{
@@ -8123,6 +8689,12 @@ var digger = {
 				fr: "Forçat du désert",
 				de: "Archäologielehrling",
 				es: "Fuerzudo del desierto"
+			},
+			description: {
+				en: "The number of action points you have invested in excavating ruins in the World Beyond.",
+				fr: "points d'action investis dans le déblaiement d'un bâtiment dans l'Outre-Monde.",
+				de: "Anzahl der Aktionspunkte, die du verbraucht hast, um eine Gebäuderuine in der Außenwelt freizulegen.",
+				es: "Puntos de acción invertidos en despejar un edificio en el Ultramundo."
 			}
 		},
 		{
@@ -8192,6 +8764,12 @@ var buildr = {
 				fr: "Ouvrier",
 				de: "Maurerlehrling",
 				es: "Obrero"
+			},
+			description: {
+				en: "The number of action / construction points you have invested in the construction projects in town.",
+				fr: "points d'action et/ou de chantier investis dans l'avancement d'un chantier en ville.",
+				de: "Anzahl der Aktionspunkte, die du für den Bau neuer Konstruktionen und Stadtgebäude verwendet hast.",
+				es: "Puntos de acción o de construcción invertidos en el avance de una obra en el pueblo."
 			}
 		},
 		{
@@ -8331,6 +8909,12 @@ var wondrs = {
 				fr: "Grand bâtisseur",
 				de: "Großer Baumeister",
 				es: "Constructor idealista"
+			},
+			description: {
+				en: "The number of extreme projects you have carried out.",
+				fr: "Nombre de projets insensés achevés de votre vivant.",
+				de: "Anzahl der Absurden Projekte, deren Fertigstellung du noch erlebt hast.",
+				es: "Cantidad de proyectos delirantes terminados durante tu triste vida."
 			}
 		},
 		{
@@ -8430,6 +9014,12 @@ var wondr2 = {
 				fr: "Grand Ordonnateur",
 				de: "Großer Organisator",
 				es: "Creatividad demencial"
+			},
+			description: {
+				en: "The number of truly ludicrous projects you've carried out.",
+				fr: "Nombre de projets vraiment absurdes achevés de votre vivant.",
+				de: "Anzahl der Lächerlichen Projekte, deren Fertigstellung du noch erlebt hast.",
+				es: "Cantidad de construcciones sin ningún sentido que realizaste en tu vida."
 			}
 		},
 		{
@@ -8499,6 +9089,12 @@ var beta$1 = {
 				fr: "Grand ancien",
 				de: "Alter Hase",
 				es: "Beta-tester"
+			},
+			description: {
+				en: "An extremely rare distinction, awarded only to the very earliest citizens of Die2Nite.",
+				fr: "Distinction rarissime réservée aux tout premiers citoyens de Hordes.",
+				de: "Dies ist eine äußerst seltene Auszeichnung, die den ersten Spielern von 'Die Verdammten' vorbehalten ist.",
+				es: "Distinción rarísima otorgada a quienes participaron en la fase Beta, los primeros jugadores de Zombinoia."
 			}
 		}
 	],
@@ -8528,6 +9124,12 @@ var cgarb = {
 				fr: "Eboueur",
 				de: "Müllmann",
 				es: "Basurero"
+			},
+			description: {
+				en: "The number of dead friends you've dragged out of the town.",
+				fr: "Nombre d'amis morts que vous avez tirés hors de la ville.",
+				de: "Anzahl deiner toten Freunde, die du außerhalb der Stadt entsorgt hast.",
+				es: "Cantidad de amigos muertos que has tirado fuera del pueblo."
 			}
 		},
 		{
@@ -8587,6 +9189,12 @@ var cwater = {
 				fr: "Grand arroseur",
 				de: "Nein, das Ding fasse ich nicht an.",
 				es: "Regador Ocasional"
+			},
+			description: {
+				en: "Ceremonial showers given to corpses of citizens to ensure their non-return.",
+				fr: "Cérémonies d'arrosage pratiquées sur des cadavres de citoyens.",
+				de: "Anzahl der Leichenwaschzeremonien, die du mit den Körpern deiner verstorbenen Mitbürger durchgeführt hast.",
+				es: "Veces que has regado con agua los cadáveres del pueblo."
 			}
 		},
 		{
@@ -8636,6 +9244,12 @@ var wrestl = {
 				fr: "Promeneur désespéré",
 				de: "Ultimate Fighter",
 				es: "Golpeador de zombies"
+			},
+			description: {
+				en: "Zombies you have killed with your bare hands, using no weapons or special abilities. Wow!",
+				fr: "Zombies éliminés de vos propres mains, sans arme ni capacité spéciale. Wahou.",
+				de: "Anzahl der Zombies, die du mit den bloßen Händen umgebracht hast. Wow!",
+				es: "Zombies que mataste con tus propias manos, sin armas ni competencias especiales. ¡Eso macho!"
 			}
 		},
 		{
@@ -8723,6 +9337,12 @@ var surlst = {
 				fr: "Favori des zombies",
 				de: "Zombieliebling",
 				es: "Salvado por la campana"
+			},
+			description: {
+				en: "You were the last to die ! Very few citizens have accomplished this feat!",
+				fr: "Vous êtes le ou la dernière à mourir ! Très peu de citoyens ont réalisé cet exploit !",
+				de: "Du bist der oder die Letzte, die draufgeht. Diese Ehre wird nur ganz wenigen Bürgern zuteil.",
+				es: "Fuiste el último en morir en tu pueblo. ¡Muy pocos jugadores han logrado esta hazaña!"
 			}
 		},
 		{
@@ -8792,6 +9412,12 @@ var suhard = {
 				fr: "L'enfer, c'est mon quotidien.",
 				de: "Ich bin in der Hölle aufgewachsen.",
 				es: "El infierno es mi hogar"
+			},
+			description: {
+				en: "You were the last to bite the bullet in a Hardcore town!",
+				fr: "Vous êtes le ou la dernière à mourir au cours d'une ville du Pandémonium !",
+				de: "Du bist der oder die Letzte, die in einer Pandämoniumsstadt draufgeht!",
+				es: "¡Fuiste el último en morir en un pueblo del Pandemonio!"
 			}
 		},
 		{
@@ -8995,6 +9621,12 @@ var rp = {
 				fr: "Lecteur curieux",
 				de: "Neugieriger Leser",
 				es: "Lector curioso"
+			},
+			description: {
+				en: "The number of documents and other uncovered 'roleplay' items.",
+				fr: "Documents et autres découvertes 'roleplay'.",
+				de: "Anzahl der Dokumente und Texte, die du in der Wüste gefunden hast.",
+				es: "Documentos y otros descubrimientos en el juego de rol."
 			}
 		},
 		{
@@ -9102,6 +9734,12 @@ var drgmkr = {
 				fr: "Laborantin amateur",
 				de: "Amateur-Laborratte",
 				es: "Laboratorista amateur"
+			},
+			description: {
+				en: "The number of little pills created in your personal laboratory.",
+				fr: "Cachets de Twinoïd produits dans votre Laboratoire personnel.",
+				de: "Anzahl der kleinen bunten Pillen aus deinem  privaten Labor.",
+				es: "Pastillas de Twinoid elaboradas en tu laboratorio personal"
 			}
 		},
 		{
@@ -9201,6 +9839,12 @@ var cookr = {
 				fr: "Cuistot de cantine",
 				de: "Kantinenkoch",
 				es: "Ayudante de cocina"
+			},
+			description: {
+				en: "The number of delicious meals you have prepared from dubious ingredients.",
+				fr: "Délicieux mets que vous avez concoctés avec des ingrédients douteux.",
+				de: "Anzahl köstlicher Speisen, die du in der Küche gezaubert hast.",
+				es: "Platillos preparados con ingredientes de procedencia dudosa."
 			}
 		},
 		{
@@ -9300,6 +9944,12 @@ var fjv$1 = {
 				fr: "Chair à canon du FJV'08",
 				de: "Chair à canon du FJV'08",
 				es: "Chair à canon du FJV'08"
+			},
+			description: {
+				en: "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008.",
+				fr: "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008.",
+				de: "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008.",
+				es: "Le porteur de cette marque a participé à la grande chasse organisée au Festival du Jeu Vidéo 2008."
 			}
 		}
 	],
@@ -9329,6 +9979,12 @@ var fjvani = {
 				fr: "Traqueur de geeks",
 				de: "Verdammt in Saarbrücken",
 				es: "Traqueur de geeks"
+			},
+			description: {
+				en: "A rare distinction reserved for organisers of the Video Games festival 2008 who were at the Motion Twin stand!",
+				fr: "Marque rarissime réservée aux animateurs présents au stand Motion Twin du Festival du Jeu Vidéo 2008 à Paris !",
+				de: "Teilnehmer beim Community-Treffen in Saarbrücken am 6. November 2011.",
+				es: "Marque rarissime réservée aux animateurs présents au stand Motion Twin du Festival du Jeu Vidéo 2008 à Paris !"
 			}
 		}
 	],
@@ -9358,6 +10014,12 @@ var armag = {
 				fr: "Témoin de l'Armageddon",
 				de: "Zeuge des Armageddon",
 				es: "Testigo del Armagedón"
+			},
+			description: {
+				en: "A rare distinction only awarded to thos citizens who experienced the Armageddon!",
+				fr: "Marque rarissime réservée aux âmes qui ont vécu le grand Armageddon de l'univers de Hordes !",
+				de: "Eine seltene Auszeichnung für jene, die den Armageddon erlebt haben!",
+				es: "¡Distinción rarísima reservada a las almas que han vivido el gran Armagedón en Zombionoia!"
 			}
 		}
 	],
@@ -9385,6 +10047,12 @@ var ginfec = {
 			title: {
 				en: "",
 				fr: "Témoin de la Grande Contamination",
+				de: "",
+				es: ""
+			},
+			description: {
+				en: "",
+				fr: "Marque rarissime réservée aux âmes qui ont vécu la Grande Contamination Hordienne !",
 				de: "",
 				es: ""
 			}
@@ -9416,6 +10084,12 @@ var solban = {
 				fr: "Fouineur de décharge",
 				de: "Abstauber",
 				es: "Buscatesoros"
+			},
+			description: {
+				en: "The number of lucky finds you have stumbled across while rummaging in the town's garbage. You must be shunned to earn this distinction.",
+				fr: "Nombre d'objets de fortune confectionnés à partir de débris trouvés dans les poubelles de la ville. Il faut être banni(e) pour recevoir cette distinction.",
+				de: "Anzahl noch brauchbarer Gegenstände, die du in der Mülldeponie vor der Stadt gefunden hast. Nur Verbannte können diese Auszeichnung erhalten.",
+				es: "Cantidad de objetos de fortuna fabricado con desechos encontrados en la basura del pueblo. Solo los desterrados pueden recibir este reconocimiento"
 			}
 		},
 		{
@@ -9515,6 +10189,12 @@ var share = {
 				fr: "Ame noble",
 				de: "Nobler Spender",
 				es: "Buena gente"
+			},
+			description: {
+				en: "The number of Hero days that you have given to another citizen in need.",
+				fr: "Nombre de jours de mode héros que vous avez offert à un autre citoyen dans le besoin.",
+				de: "Anzahl der Heldentage, die du einem anderem Bürger in Not geschenkt hast.",
+				es: "Cantidad de días de Modo Héroe que regalaste a otro habitante necesitado."
 			}
 		},
 		{
@@ -9584,6 +10264,12 @@ var nodrug = {
 				fr: "La twinoïde, c'est tabou",
 				de: "Twinoid ist tabu",
 				es: "Me siento bien"
+			},
+			description: {
+				en: "Your capacity to stay clean (take no drugs) during a lifetime.",
+				fr: "Capacité à rester Clair(e) (aucune drogue consommée) au cours de toute une vie.",
+				de: "Anzahl der Punkte, die du erworben hast, indem du in einer Stadt komplett clean geblieben bist.",
+				es: "Capacidad de rechazar el consumo de todo estimulante en tu vida."
 			}
 		},
 		{
@@ -9653,6 +10339,12 @@ var santac = {
 				fr: "Le Père Noël est un coquin",
 				de: "Der Weihnachtsmann ist ein Schlawiner",
 				es: "Papá Noel no existe"
+			},
+			description: {
+				en: "The number of presents you have stolen from your friends.",
+				fr: "Nombre de cadeaux volés à vos amis.",
+				de: "Anzahl der Geschenke, die du deinen Freunden geklaut hast.",
+				es: "Cantidad de regalos robados a amigos."
 			}
 		},
 		{
@@ -9722,6 +10414,12 @@ var lepre = {
 				fr: "Le Père Noël est un coquin",
 				de: "Le Père Noël est un coquin",
 				es: "Gnomo"
+			},
+			description: {
+				en: "Number of your friends' items you have stolen.",
+				fr: "Nombre de cadeaux volés à vos amis.",
+				de: "Nombre de cadeaux volés à vos amis.",
+				es: "Parece que le has robado algo a un amigo."
 			}
 		},
 		{
@@ -9791,6 +10489,12 @@ var camp = {
 				fr: "Dormeur suicidaire",
 				de: "Außenweltschläfer",
 				es: "Campista suicida"
+			},
+			description: {
+				en: "The number of nights you have spent in the World Beyond... and survived!",
+				fr: "Nombre de nuits passées dehors et auxquelles vous avez survécu.",
+				de: "Anzahl der Nächte, die du draußen geschlafen und überlebt hast.",
+				es: "Cantidad de noches pasadas fuera del pueblo y que has sobrevivido."
 			}
 		},
 		{
@@ -9910,6 +10614,12 @@ var cmplst = {
 				fr: "Campeur inébranlable",
 				de: "Furchtloser Camper",
 				es: "Campista inquebrantable"
+			},
+			description: {
+				en: "Number of nights survived after the town has been devastated!",
+				fr: "Nombre de nuits survécues tandis que la ville était dévastée !",
+				de: "Anzahl der Nächte, die du draußen überlebt hast als die Stadt schon zerstört war!",
+				es: "Cantidad de noches sobrevividas mientras que el pueblo estaba devastado."
 			}
 		},
 		{
@@ -9989,6 +10699,12 @@ var kohlmb = {
 				fr: "Citoyen Koh-Lambdais",
 				de: "Citoyen Koh-Lambdais",
 				es: "Aventurero Zombinoiano"
+			},
+			description: {
+				en: "This citizen was involved in the Reunification (last round) of the Koh-Lambda tournament!",
+				fr: "Ce citoyen était présent lors de la Réunification (dernier round) du Koh-Lambda !",
+				de: "Ce citoyen était présent lors de la Réunification (dernier round) du Koh-Lambda !",
+				es: "Premio en evento especial"
 			}
 		},
 		{
@@ -10048,6 +10764,12 @@ var rrefer = {
 				fr: "Détourneur de fonds",
 				de: "Kleiner Guru",
 				es: "Engañador"
+			},
+			description: {
+				en: "The number of new citizens you have convinced to come to die2nite.com AND to pay for the privilege.",
+				fr: "Nombre de nouveaux citoyens que vous avez convaincu de mourir ET de payer pour ça.",
+				de: "Anzahl der Bürger, die du dazu bringen konntest, bei 'Die Verdammten' zu sterben UND dafür zu bezahlen.",
+				es: "Cantidad de nuevos habitantes a los que has convencido de morir y han pagado por ello."
 			}
 		},
 		{
@@ -10167,6 +10889,12 @@ var fjv2 = {
 				fr: "Festivalier hordien motivé",
 				de: "Motivierter Messebesucher",
 				es: "Festivalier hordien motivé"
+			},
+			description: {
+				en: "You were at the Paris Video Game festival 2010: Thanks!",
+				fr: "Vous étiez présent(e) au Festival du Jeu Vidéo à Paris en 2010 : merci !",
+				de: "Du hast uns 2010 auf dem 'Festival du Jeu Vidéo' in Paris besucht - Vielen Dank!",
+				es: "Vous étiez présent(e) au Festival du Jeu Vidéo à Paris en 2010 : merci !"
 			}
 		}
 	],
@@ -10194,6 +10922,12 @@ var winthi = {
 			title: {
 				en: "Cadavre débutant",
 				fr: "Cadavre débutant",
+				de: "",
+				es: ""
+			},
+			description: {
+				en: "The number of towns ranked in the top 35 of a previous season.",
+				fr: "Nombre de villes présentes dans le classement top 35 d'une saison précédente.",
 				de: "",
 				es: ""
 			}
@@ -10265,6 +10999,12 @@ var winbas = {
 				fr: "Concitoyen de confiance",
 				de: "Vertrauenswürdiger Bürger",
 				es: "Compañero de confianza"
+			},
+			description: {
+				en: "Number of towns which figured in last season's rankings.",
+				fr: "Nombre de villes présentes dans le classement top 15 d'une saison précédente.",
+				de: "Anzahl der Städte, in denen Du mitgespielt hast und die es in einer vergangenen Saison ins Ranking geschafft haben.",
+				es: "Cantidad de veces en que has participado en pueblos presentes en una clasificación anterior."
 			}
 		},
 		{
@@ -10334,6 +11074,12 @@ var wintop = {
 				fr: "Mythe vivant",
 				de: "Lebender Mythos",
 				es: "Héroe urbano"
+			},
+			description: {
+				en: "Number of towns which made the number one spot from previous seasons.",
+				fr: "Nombre de villes arrivées en première place du classement d'une saison précédente.",
+				de: "Anzahl der Städte, in denen Du mitgespielt hast und die in einer vergangenen Saison als Erste abgeschnitten haben.",
+				es: "Cantidad de pueblos colocados en el primer lugar en una clasificación anterior."
 			}
 		},
 		{
@@ -10383,6 +11129,12 @@ var sandb = {
 				fr: "Ensableur",
 				de: "Passionierter Sandballwerfer",
 				es: "Lanzador de arena"
+			},
+			description: {
+				en: "\"Number of sand balls successfully thrown at another citizen's chevy chase.",
+				fr: "Nombre de boules de sable envoyées au visage d'autres joueurs.",
+				de: "Anzahl der Sandbälle, die du deinen Mitspielern ins Gesicht geworfen hast. Kicher, kicher...",
+				es: "Cantidad de bolas de arena lanzadas a la cara de otros jugadores."
 			}
 		},
 		{
@@ -10442,6 +11194,12 @@ var brep = {
 				fr: "Plâtrier de la ville",
 				de: "Spachtler",
 				es: "Manitas hábiles"
+			},
+			description: {
+				en: "Action Points invested in the ongoing repairs of buildings.",
+				fr: "points d'action investis dans les réparations sans fin des chantiers.",
+				de: "Anzahl der Aktionspunkte, die du in Reparaturen auf der Baustelle gesteckt hast.",
+				es: "Puntos de acción invertidos en reparaciones interminables."
 			}
 		},
 		{
@@ -10551,6 +11309,12 @@ var bgum = {
 				fr: "Compagnon de la communauté",
 				de: "Jedes Los gewinnt",
 				es: "Ganador"
+			},
+			description: {
+				en: "Rewards earned through working with the community.",
+				fr: "Récompenses obtenues dans le cadre d'animations communautaires.",
+				de: "Auszeichnung für die Teilnahme an Events bei 'Die Verdammten'.",
+				es: "Recompensas obtenidas en los eventos comunitarios."
 			}
 		},
 		{
@@ -10660,6 +11424,12 @@ var paques = {
 				fr: "Membre de la Croix Rouge",
 				de: "Mitglied des Roten Kreuzes",
 				es: "Crucificator"
+			},
+			description: {
+				en: "Rejoice! You don't need to walk any more.",
+				fr: "Réjouissez vous, vous n'aurez pas eu à marcher.",
+				de: "Freut euch, ihr braucht nie wieder zu Fuß gehen!",
+				es: "No te quejes, desde allí tienes una buena vista."
 			}
 		}
 	],
@@ -10689,6 +11459,12 @@ var door = {
 				fr: "Un p'tit Bricard ?",
 				de: "Wo klemmt's?",
 				es: "Ganzúa"
+			},
+			description: {
+				en: "The number of doors you've unlocked while exploring ruin",
+				fr: "Nombre de portes dévérouillées par vos soins dans les ruines.",
+				de: "Anzahl der verschlossenen Türen, die du in verlassenen Gebäuden geöffnet hast.",
+				es: "Cantidad de puertas abiertas en las ruinas"
 			}
 		},
 		{
@@ -10788,6 +11564,12 @@ var ruine = {
 				fr: "Si j'aurais su, j'aurais po v'nu",
 				de: "Wenn ich das nur vorher gewusst hätte...",
 				es: "¡Mamá, no me dejes aquí!"
+			},
+			description: {
+				en: "The number of times you've dared to go inside an abandoned ruin.",
+				fr: "Nombre de fois où vous avez osé pénétrer dans une ruine abandonnée.",
+				de: "Anzahl der verlassenen Gebäude, die du untersucht hast.",
+				es: "Cantidad de veces que has osado entrar en una ruina abandonada"
 			}
 		},
 		{
@@ -10897,6 +11679,12 @@ var guide = {
 				fr: "Lanterne de jour",
 				de: "Laterne des Tages",
 				es: "Linterna mental"
+			},
+			description: {
+				en: "The number of days spent shepherding the newbs through the valleys of small maps and finding lost children.",
+				fr: "Jours passés en tant que guide pour les noobs en Région non éloignée.",
+				de: "Anzahl der Tage, die du als Führer von Anfängern in den Kleinen Regionen verbracht hast.",
+				es: "Días pasados como guía en las regiones amateur."
 			}
 		},
 		{
@@ -10986,6 +11774,12 @@ var collec$1 = {
 				fr: "Rencontre du 4ème type",
 				de: "Treffen der 4. Art",
 				es: "Encuentros de otro mundo"
+			},
+			description: {
+				en: "The number of dead citizens' souls collected in the World Beyond",
+				fr: "Nombres d'âmes de citoyens décédés collectées dans l'outre-monde.",
+				de: "Anzahl der in der Außenwelt gesammelten Seelen verschiedener Einwohner.",
+				es: "Cantidad de almas recolectadas de habitantes fallecidos en el Ultramundo."
 			}
 		},
 		{
@@ -11095,6 +11889,12 @@ var mystic = {
 				fr: "Septicis-mite aïgu",
 				de: "Verrückter Skeptiker",
 				es: "Capataz"
+			},
+			description: {
+				en: "The number of souls your town has managed to recycle",
+				fr: "Nombre d'âmes que votre ville a pu recycler en chantier.",
+				de: "Anzahl der Seelen, die deine Stadt auf der Baustelle umwandeln konnte.",
+				es: "Cantidad de almas que tu pueblo pudo reciclar en las construcciones."
 			}
 		},
 		{
@@ -11184,6 +11984,12 @@ var ptame = {
 				fr: "Leerd'âmeur nauséabond",
 				de: "Bei meiner Seel",
 				es: "Carne débil"
+			},
+			description: {
+				en: "The number of soul points you have accumulated in the course of your many lives.",
+				fr: "Nombres de points d'âme que vous avez obtenu au cours de vos incarnations.",
+				de: "Anzahl der Seelenpunkte, die du durch deine Inkarnationen erhalten hast.",
+				es: "Cantidad de Puntos de Alma que has ganado en tus reencarnaciones."
 			}
 		},
 		{
@@ -11293,6 +12099,12 @@ var guard = {
 				fr: "Un Oeil ouvert",
 				de: "Immer ein Auge offen",
 				es: "Un ojo abierto"
+			},
+			description: {
+				en: "The number of nights survived as a watchman.",
+				fr: "Nombre de nuits survécues en tant que Veilleur.",
+				de: "Anzahl der Nächte, die du als Stadtwächter überlebt hast.",
+				es: "Cantidad de noches que sobreviviste como Centinela."
 			}
 		},
 		{
@@ -11400,6 +12212,12 @@ var cdhwin = {
 				fr: "Chef-Pelleteur",
 				de: "Chef-Pelleteur",
 				es: "¡Nada me detiene!"
+			},
+			description: {
+				en: "Victoire en tant que Fouineur lors du Choc des Héros 2010 !",
+				fr: "Victoire en tant que Fouineur lors du Choc des Héros !",
+				de: "Victoire en tant que Fouineur lors du Choc des Héros !",
+				es: "Victoria como Excavador en el Choque de Héroes."
 			}
 		}
 	],
@@ -11429,6 +12247,12 @@ var ermwin = {
 				fr: "Chef-Ascète",
 				de: "Ich bin ein Gott! Ich werde ewig leben!",
 				es: "¡Aquí mando yo!"
+			},
+			description: {
+				en: "Awarded to the Survivalists who won the Clash of the Titans.",
+				fr: "Victoire en tant qu'Ermite lors du Choc des Héros !",
+				de: "Diese seltene Auszeichnung wurde den Einsiedler verliehen, die mit ihrer Stadt die Schlacht der Berufe gewonnen haben.",
+				es: "Distinción entregada a los miembros del pueblo de Ermitaños que ganó el Choque de Héroes."
 			}
 		}
 	],
@@ -11458,6 +12282,12 @@ var shawin = {
 				fr: "Chef-Vaudou",
 				de: "Voodoo Chief",
 				es: "Chef-Vaudou"
+			},
+			description: {
+				en: "Awarded to the Shamans who won the Clash of the Titans!",
+				fr: "Victoire en tant que Chaman lors du Choc des Héros !",
+				de: "Zugesprochen an Schamane, der das Clash Of The Titans gewonnen hat!",
+				es: "Victoire en tant que Chaman lors du Choc des Héros !"
 			}
 		}
 	],
@@ -11487,6 +12317,12 @@ var tecwin = {
 				fr: "Chef-Ouvrier",
 				de: "Tech Wizard",
 				es: "Chef-Ouvrier"
+			},
+			description: {
+				en: "Awarded to the Technicians who won the Clash of the Titans!",
+				fr: "Victoire en tant que Technicien lors du Choc des Héros !",
+				de: "Zugesprochen an Techniker, der das Clash Of The Titans gewonnen hat!",
+				es: "Victoire en tant que Technicien lors du Choc des Héros !"
 			}
 		}
 	],
@@ -11516,6 +12352,12 @@ var defwin = {
 				fr: "Chef-Rempart",
 				de: "Guardian Chief",
 				es: "Chef-Rempart"
+			},
+			description: {
+				en: "Awarded to the Guardians who won the Clash of the Titans!",
+				fr: "Victoire en tant que Gardien lors du Choc des Héros !",
+				de: "Zugesprochen an Wächter, der das Clash Of The Titans gewonnen hat!",
+				es: "Victoire en tant que Gardien lors du Choc des Héros !"
 			}
 		}
 	],
@@ -11545,6 +12387,12 @@ var rngwin = {
 				fr: "Chef-Capuche",
 				de: "Scout Master",
 				es: "Chef-Capuche"
+			},
+			description: {
+				en: "Awarded to the Scouts who won the Clash of the Titans!",
+				fr: "Victoire en tant qu'Eclaireur lors du Choc des Héros !",
+				de: "Zugesprochen an Aufklärer, der das Clash Of The Titans gewonnen hat!",
+				es: "Victoire en tant qu'Eclaireur lors du Choc des Héros !"
 			}
 		}
 	],
@@ -11574,6 +12422,12 @@ var tamwin = {
 				fr: "Chef-Bêbête",
 				de: "Chief Tamer",
 				es: "¡Soy una fiera!"
+			},
+			description: {
+				en: "Awarded to the Tamers who won the Clash of the Titans!",
+				fr: "Victoire en tant qu'Apprivoiseur lors du Choc des Héros !",
+				de: "Zugesprochen an Dompteur, der das Clash Of The Titans gewonnen hat!",
+				es: "Distinción entregada a los miembros del pueblo de Domadaores que ganó el Choque de Héroes."
 			}
 		}
 	],
@@ -11603,6 +12457,12 @@ var derwin = {
 				fr: "La mort a peur de moi !",
 				de: "Angst vor dem Tod? Der Sensenmann sollte MICH fürchten!",
 				es: "¡No le temo a nada!"
+			},
+			description: {
+				en: "This distinction was awarded only to only one man. A man who did what he was trained to do, what he was bred to do, what he was born to do. The last man standing out of the hundreds who participated in the first Clash of the Titans: the one and only cjmUK",
+				fr: "Distinction du plus grand héros ayant survécu le plus longtemps lors du choc des héros, vous faîtes désormais parti de la légende de l'outre-monde !",
+				de: "Nur ein Bürger besitzt diese Auszeichnung. Und zwar jene verdammte Seele, die als letzer Überlebender in der Stadt die Zombiehorden in der Schlacht der Berufe empfangen hat. Eine Legende!",
+				es: "Esta distinción es entregada a un solo hombre, aquel que cumplió con su destino legendario y mantuvo a la muerte fuera de su camino en el Choque de Héroes."
 			}
 		}
 	],
@@ -11632,6 +12492,12 @@ var comu = {
 				fr: "Dedans jusqu'au cou !",
 				de: "Held der Community!",
 				es: "Dedans jusqu'au cou !"
+			},
+			description: {
+				en: "Awarded for being part of the event team in the Clash of the Titans. Reporters, Video Makers, Town Leaders, we salute you.",
+				fr: "Votre organisation sans faille lors du choc des héros a permis de créer un évènement dont on parlera encore longtemps !",
+				de: "Auszeichnung für außergewöhnliche Verdienste um die Community von 'Die Verdammten.",
+				es: "Votre organisation sans faille lors du choc des héros a permis de créer un évènement dont on parlera encore longtemps !"
 			}
 		}
 	],
@@ -11679,6 +12545,12 @@ var ufcwin = {
 				fr: "UFC",
 				de: "",
 				es: "UFC"
+			},
+			description: {
+				en: "Victory during the UFC !",
+				fr: "Victoire lors de l'UFC !",
+				de: "",
+				es: "¡Gloriosa victoria del UFC!"
 			}
 		}
 	],
@@ -11708,6 +12580,12 @@ var cott = {
 				fr: "One town to rule them all!",
 				de: "Eine Stadt sie zu knechten!",
 				es: "Mi vida, mi pueblo"
+			},
+			description: {
+				en: "A very rare distinction, awarded only to the intrepid few who participated in the very first Clash of the Titans.",
+				fr: "A very rare distinction, awarded only to the intrepid few who participated in the very first Clash of the Titans.",
+				de: "Diese seltene Auszeichnung haben nur jene Verdammten erhalten, die an der Schlacht der Berufe teilgenommen haben.",
+				es: "Una distinción muy rara, entregada a los pocos intrépidos participantes en el primer Choque de Héroes."
 			}
 		}
 	],
@@ -11737,6 +12615,12 @@ var comu2 = {
 				fr: "Making things happen!",
 				de: "Making things happen!",
 				es: "Making things happen!"
+			},
+			description: {
+				en: "Awarded to the community organizers and developers involved at the cutting edge of the Clash of the Titans. Our community thanks you!",
+				fr: "Awarded to the community organizers and developers involved at the cutting edge of the Clash of the Titans. Our community thanks you!",
+				de: "Awarded to the community organizers and developers involved at the cutting edge of the Clash of the Titans. Our community thanks you!",
+				es: "Awarded to the community organizers and developers involved at the cutting edge of the Clash of the Titans. Our community thanks you!"
 			}
 		}
 	],
@@ -11766,6 +12650,12 @@ var goodg = {
 				fr: "Good guy",
 				de: "Good Guy",
 				es: "Good guy"
+			},
+			description: {
+				en: "You are amongst the most upstanding players in Die2Nite. For you, fair-play is more than a theory, it's a state of mind.",
+				fr: "Vous faites parti des joueurs les plus intègres de Hordes, le fair-play, plus qu'un principe, c'est votre état d'esprit.",
+				de: "You are amongst the most upstanding players in Die2Nite. For you, fair-play is more than a theory, it's a state of mind.",
+				es: "Vous faites parti des joueurs les plus intègres de Hordes, le fair-play, plus qu'un principe, c'est votre état d'esprit."
 			}
 		}
 	],
@@ -11793,6 +12683,12 @@ var pande = {
 			title: {
 				en: "",
 				fr: "L'enfer, j'en mange un peu chaque matin",
+				de: "",
+				es: ""
+			},
+			description: {
+				en: "",
+				fr: "Vous êtes vraiment chez vous dans le mode Pandémonium !",
 				de: "",
 				es: ""
 			}
@@ -11845,7 +12741,7 @@ var pande = {
 		es: ""
 	}
 };
-var hordes = {
+var hordesJson = {
 	killz: killz,
 	dhang: dhang,
 	dwater: dwater,
@@ -12664,7 +13560,7 @@ var rank1 = {
 		}
 	]
 };
-var intrusion = {
+var intrusionJson = {
 	mextra: mextra,
 	eextra: eextra,
 	av: av$1,
@@ -19499,331 +20395,7 @@ var game77 = {
 		}
 	]
 };
-var kadokado = {
-	"1": {
-	id: "1",
-	name: {
-		en: "Aqua Splash Icon",
-		fr: "Icône Aqua Splash",
-		de: "Icon Aqua Splash",
-		es: "Icono Aqua Splash"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"2": {
-	id: "2",
-	name: {
-		en: "Atlanteine Icon",
-		fr: "Icône Atlanteine",
-		de: "Icon Atlanteine",
-		es: "Icono Atlanteine"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"3": {
-	id: "3",
-	name: {
-		en: "Bactery Icon",
-		fr: "Icône Bactery",
-		de: "Icon Bactery",
-		es: "Icono Bactery"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"4": {
-	id: "4",
-	name: {
-		en: "Piou builder Icon",
-		fr: "Icône Piou builder",
-		de: "Icon Piou builder",
-		es: "Icono Piou builder"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"5": {
-	id: "5",
-	name: {
-		en: "Cooking Lili Icon",
-		fr: "Icône Cooking Lili",
-		de: "Icon Cooking Lili",
-		es: "Icono Cooking Lili"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"6": {
-	id: "6",
-	name: {
-		en: "Interwheel Icon",
-		fr: "Icône Interwheel",
-		de: "Icon Interwheel",
-		es: "Icono Interwheel"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"7": {
-	id: "7",
-	name: {
-		en: "Iron Chouquette Icon",
-		fr: "Icône Iron Chouquette",
-		de: "Icon Iron Chouquette",
-		es: "Icono Iron Chouquette"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"8": {
-	id: "8",
-	name: {
-		en: "Kanji Icon",
-		fr: "Icône Kanji",
-		de: "Icon Kanji",
-		es: "Icono Kanji"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"9": {
-	id: "9",
-	name: {
-		en: "Kanji 2 Icon",
-		fr: "Icône Kanji 2",
-		de: "Icon Kanji 2",
-		es: "Icono Kanji 2"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"10": {
-	id: "10",
-	name: {
-		en: "Lili Icon",
-		fr: "Icône Lili",
-		de: "Icon Lili",
-		es: "Icono Lili"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"11": {
-	id: "11",
-	name: {
-		en: "Piou cute Icon",
-		fr: "Icône Piou cute",
-		de: "Icon Piou cute",
-		es: "Icono Piou cute"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"12": {
-	id: "12",
-	name: {
-		en: "Piou sad Icon",
-		fr: "Icône Piou sad",
-		de: "Icon Piou sad",
-		es: "Icono Piou sad"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"13": {
-	id: "13",
-	name: {
-		en: "Piou shy Icon",
-		fr: "Icône Piou shy",
-		de: "Icon Piou shy",
-		es: "Icono Piou shy"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"14": {
-	id: "14",
-	name: {
-		en: "Piou smile Icon",
-		fr: "Icône Piou smile",
-		de: "Icon Piou smile",
-		es: "Icono Piou smile"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"15": {
-	id: "15",
-	name: {
-		en: "Zipzap Icon",
-		fr: "Icône Zipzap",
-		de: "Icon Zipzap",
-		es: "Icono Zipzap"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"16": {
-	id: "16",
-	name: {
-		en: "Beer Icon",
-		fr: "Icône Bière",
-		de: "Icon Bier",
-		es: "Icono Bière"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"17": {
-	id: "17",
-	name: {
-		en: "Coffee Icon",
-		fr: "Icône Café",
-		de: "Icon Cafe",
-		es: "Icono Café"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"18": {
-	id: "18",
-	name: {
-		en: "Cola Icon",
-		fr: "Icône Cola",
-		de: "Icon Cola",
-		es: "Icono Cola"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"19": {
-	id: "19",
-	name: {
-		en: "Ice tea Icon",
-		fr: "Icône Ice tea",
-		de: "Icon Ice tea",
-		es: "Icono Ice tea"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"20": {
-	id: "20",
-	name: {
-		en: "Orange Icon",
-		fr: "Icône Orange",
-		de: "Icon Orange",
-		es: "Icono Orange"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"21": {
-	id: "21",
-	name: {
-		en: "Redcow Icon",
-		fr: "Icône Redcow",
-		de: "Icon Redcow",
-		es: "Icono Redcow"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"22": {
-	id: "22",
-	name: {
-		en: "Snow cool Icon",
-		fr: "Icône Snow cool",
-		de: "Icon Snow cool",
-		es: "Icono Snow cool"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"23": {
-	id: "23",
-	name: {
-		en: "Snow hu Icon",
-		fr: "Icône Snow hu",
-		de: "Icon Snow hu",
-		es: "Icono Snow hu"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"24": {
-	id: "24",
-	name: {
-		en: "Snow yeah Icon",
-		fr: "Icône Snow yeah",
-		de: "Icon Snow yeah",
-		es: "Icono Snow yeah"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"25": {
-	id: "25",
-	name: {
-		en: "Kado gift Icon",
-		fr: "Icône cadeau",
-		de: "Icon Geschenk",
-		es: "Icono cadeau"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"26": {
-	id: "26",
-	name: {
-		en: "Golden Heart Icon",
-		fr: "Icône Amour en or",
-		de: "Icon Herz aus Gold",
-		es: "Icono Amour en or"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
-	"27": {
-	id: "27",
-	name: {
-		en: "Chrono Icon",
-		fr: "Icône Chrono",
-		de: "Icon Chrono",
-		es: "Icono Chrono"
-	},
-	rare: 0,
-	unlocks: [
-	]
-},
+var kadokadoJson = {
 	unlockedGames: unlockedGames,
 	wonGift: wonGift,
 	missionSteps: missionSteps,
@@ -19920,7 +20492,13 @@ var empero = {
 		{
 			count: 1,
 			points: 20,
-			icon: "l_emperor.png"
+			icon: "l_emperor.png",
+			description: {
+				en: "Become an Emperor!",
+				fr: "Obtenu le titre d'Empereur !",
+				de: "Du wurdest zum Kaiser gekrönt!",
+				es: "Lleva el título de Emperador."
+			}
 		}
 	]
 };
@@ -19937,7 +20515,13 @@ var king = {
 		{
 			count: 1,
 			points: 10,
-			icon: "l_king.png"
+			icon: "l_king.png",
+			description: {
+				en: "Become a King!",
+				fr: "Obtenu le titre de Roi !",
+				de: "Du wurdest zum König gekrönt!",
+				es: "Lleva el título de Rey."
+			}
 		}
 	]
 };
@@ -20127,7 +20711,7 @@ var horse = {
 		}
 	]
 };
-var kingdom = {
+var kingdomJson = {
 	empero: empero,
 	king: king,
 	food: food,
@@ -20399,7 +20983,7 @@ var action = {
 		}
 	]
 };
-var kube = {
+var kubeJson = {
 	lava: lava,
 	water: water,
 	swim: swim,
@@ -20723,7 +21307,7 @@ var pro = {
 		}
 	]
 };
-var labrute = {
+var labruteJson = {
 	perfec: perfec,
 	dodge: dodge,
 	parade: parade,
@@ -21020,7 +21604,7 @@ var alone = {
 		}
 	]
 };
-var majority = {
+var majorityJson = {
 	plays: plays,
 	wins: wins,
 	pchelm: pchelm,
@@ -21668,7 +22252,7 @@ var cbor = {
 		}
 	]
 };
-var montionball2 = {
+var montionball2Json = {
 	bfacet: bfacet,
 	bnorma: bnorma,
 	btime: btime,
@@ -21739,6 +22323,12 @@ var win_nova = {
 				fr: "Super Nova",
 				de: "Super Nova",
 				es: "Super Nova"
+			},
+			description: {
+				en: "You were the greatest adventurer in the universe during a season of Mush.",
+				fr: "Vous avez été le plus grand aventurier de l'univers durant un épisode de Mush.",
+				de: "You were the greatest adventurer in the universe during a season of Mush.",
+				es: "Has sido el mayor aventurero del universo durante un episodio de Mush."
 			}
 		}
 	]
@@ -21762,6 +22352,12 @@ var win_triumph = {
 				fr: "Super Héros",
 				de: "Super Héros",
 				es: "Super Héroe"
+			},
+			description: {
+				en: "You were the greatest hero of all time... during a season of Mush.",
+				fr: "Vous avez été le plus grand héros de tous les temps... durant un épisode de Mush.",
+				de: "You were the greatest hero of all time... during a season of Mush.",
+				es: "Has sido el mayor héroe de todos los tiempos durante un episodio de Mush."
 			}
 		}
 	]
@@ -21785,6 +22381,12 @@ var other_nova = {
 				fr: "Nova-boy",
 				de: "Nova-boy",
 				es: "Nova-boy"
+			},
+			description: {
+				en: "You were a great space adventurer in an episode of Mush.",
+				fr: "Vous avez été un grand aventurier de l'univers durant un épisode de Mush.",
+				de: "You were a great space adventurer in an episode of Mush.",
+				es: "Has sido un gran aventurero espacial durante un episodio de Mush."
 			}
 		}
 	]
@@ -21808,6 +22410,12 @@ var other_triumph = {
 				fr: "Héros de l'espace",
 				de: "Space Hero",
 				es: "Héroe Espacial"
+			},
+			description: {
+				en: "You were one of the universe's great heroes... during an episode of Mush.",
+				fr: "Vous avez été un grand héros de l'univers... durant un épisode de Mush.",
+				de: "You were one of the universe's great heroes... during an episode of Mush.",
+				es: "Has sido un gran héroe durante un episodio de Mush."
 			}
 		}
 	]
@@ -21843,6 +22451,12 @@ var signal_equip = {
 				fr: "Agent de surface",
 				de: "Surface Agent",
 				es: "Tripulante observador"
+			},
+			description: {
+				en: "The number of broken pieces of equipment you have reported.",
+				fr: "Nombre d'équipements endommagés que vous avez signalés.",
+				de: "The number of broken pieces of equipment you have reported.",
+				es: "Cantidad de equipos averiados que has señalado."
 			}
 		},
 		{
@@ -21906,6 +22520,12 @@ var gagged = {
 				fr: "Bailloné",
 				de: "Bailloné",
 				es: "Amordazado"
+			},
+			description: {
+				en: "The number of times you have been gagged.",
+				fr: "Nombre de fois où vous avez été baillonés.",
+				de: "The number of times you have been gagged.",
+				es: "Cantidad de veces que has sido amordazado(a)."
 			}
 		}
 	]
@@ -21929,6 +22549,12 @@ var game_without_sleep = {
 				fr: "Eveillé",
 				de: "Awakened",
 				es: "Despierto"
+			},
+			description: {
+				en: "Number of trips you have completed without sleep.\r\n\t\t\tThis trophy is only awarded if you survive beyond day 6.",
+				fr: "Nombre de voyages que vous avez effectués sans jamais vous endormir.\r\n\t\t\tCe trophée n'est accordé que si vous survivez au delà du jour 6.",
+				de: "Number of trips you have completed without sleep.\r\n\t\t\tThis trophy is only awarded if you survive beyond day 6.",
+				es: "Cantidad de viajes que has realizado sin dormir.\r\n\t\t\tEste trofeo es otorgado solo si sobrevives después del día 6."
 			}
 		},
 		{
@@ -21972,6 +22598,12 @@ var explorer = {
 				fr: "Explorateur",
 				de: "Explorer",
 				es: "Expedicionario"
+			},
+			description: {
+				en: "Number of times you have explored a planet and come back alive.",
+				fr: "Nombre de fois où vous avez exploré une planète et en êtes revenu vivant.",
+				de: "Number of times you have explored a planet and come back alive.",
+				es: "Cantidad de veces que has explorado un planeta y has vuelto vivo(a)."
 			}
 		},
 		{
@@ -22026,6 +22658,12 @@ var triumph = {
 				fr: "Connaissance",
 				de: "Acquaintance",
 				es: "Pasante"
+			},
+			description: {
+				en: "Triomphe total.",
+				fr: "Triomphe total.",
+				de: "Triomphe total.",
+				es: "Gloria total."
 			}
 		},
 		{
@@ -22109,6 +22747,12 @@ var door_repaired = {
 				fr: "Serrurier",
 				de: "Locksmith",
 				es: "Cerrajero"
+			},
+			description: {
+				en: "Doors you have repaired with TLC.",
+				fr: "Portes que vous avez amoureusement réparées.",
+				de: "Doors you have repaired with TLC.",
+				es: "Puertas que has reparado con mucho amor."
 			}
 		}
 	]
@@ -22132,6 +22776,12 @@ var planet_scanned = {
 				fr: "Navigateur",
 				de: "Navigator",
 				es: "Navegante"
+			},
+			description: {
+				en: "Planets Detected.",
+				fr: "Planètes détectées.",
+				de: "Planets Detected.",
+				es: "Planetas detectados."
 			}
 		}
 	]
@@ -22155,6 +22805,12 @@ var mushed = {
 				fr: "Infecté",
 				de: "Infected",
 				es: "Infectado"
+			},
+			description: {
+				en: "Number of times you have been infected and this has become a generalized infection.",
+				fr: "Nombre de fois où vous avez été contaminé jusqu'à l'infection totale.",
+				de: "Number of times you have been infected and this has become a generalized infection.",
+				es: "Cantidad de veces que has sido contaminado(a) hasta la infección total."
 			}
 		}
 	]
@@ -22207,6 +22863,12 @@ var sleeper = {
 				fr: "Ronfleur",
 				de: "Rip van Shroom",
 				es: "Roncador"
+			},
+			description: {
+				en: "Number of times you have fallen asleep...",
+				fr: "Nombre de fois où vous vous êtes endormi...",
+				de: "Number of times you have fallen asleep...",
+				es: "Cantidad de veces que has dormido..."
 			}
 		}
 	]
@@ -22230,6 +22892,12 @@ var tutorial = {
 				fr: "Equipier",
 				de: "Equipier",
 				es: "Compañero"
+			},
+			description: {
+				en: "Number of times you have completed training mode.",
+				fr: "Nombre de fois où vous avez accompli le mode Apprentissage.",
+				de: "Number of times you have completed training mode.",
+				es: "Cantidad de veces que has completado el Modo Instrucción."
 			}
 		}
 	]
@@ -22253,6 +22921,12 @@ var explo_feed = {
 				fr: "Cueilleur De Baie",
 				de: "Berry Harvester",
 				es: "Recolector de frutos"
+			},
+			description: {
+				en: "Food brought back from expeditions.\r\n\t\t\tYou must have survived...",
+				fr: "Nourriture Rapportée D'Expédition.\r\n\t\t\tVous devez avoir survécu...",
+				de: "Food brought back from expeditions.\r\n\t\t\tYou must have survived...",
+				es: "Alimentos traídos durante una expedición.\r\n\t\t\tDebes haber sobrevivido..."
 			}
 		},
 		{
@@ -24838,6 +25512,12 @@ var jin_su = {
 				fr: "Fayot de la FDS",
 				de: "FDS Bootlicker",
 				es: "Yo no soy marinero..."
+			},
+			description: {
+				en: "You were the captain of the Daedalus, so... how did it feel? All-powerful?",
+				fr: "Vous avez été dans la peau du commandant du Daedalus, alors... comment on se sent, tout puissant ?",
+				de: "You were the captain of the Daedalus, so... how did it feel? All-powerful?",
+				es: "Has estado en los zapatos del comandante del Daedalus. ¿Qué se siente tener el poder?"
 			}
 		},
 		{
@@ -24901,6 +25581,12 @@ var frieda = {
 				fr: "Navi-gâteux",
 				de: "Navigator-mented",
 				es: "Timón de papel"
+			},
+			description: {
+				en: "You were the navigator of the Daedalus, so... how did it feel? Dizzying?",
+				fr: "Vous avez été dans la peau de la navigatrice du Daedalus, alors... comment on se sent, désorienté ?",
+				de: "You were the navigator of the Daedalus, so... how did it feel? Dizzying?",
+				es: "Has estado en el puesto de la experta en navegación del Daedalus, ¿qué se siente perderse?"
 			}
 		},
 		{
@@ -24964,6 +25650,12 @@ var kuan_ti = {
 				fr: "Lego system",
 				de: "Lego system",
 				es: "Campeón de Lego"
+			},
+			description: {
+				en: "You were the designer of the Daedalus, so... how did you feel? Proud?",
+				fr: "Vous avez été dans la peau du concepteur du Daedalus, alors... comment on se sent, fier ?",
+				de: "You were the designer of the Daedalus, so... how did you feel? Proud?",
+				es: "Has estado en el lugar de un creador Daedalus. ¿Orgulloso?"
 			}
 		},
 		{
@@ -25027,6 +25719,12 @@ var janice = {
 				fr: "zZz....zZzz...",
 				de: "zZz....zZzz...",
 				es: "Amor cibernético"
+			},
+			description: {
+				en: "You were the psychologist of the Daedalus, so... how did you feel? Mad?",
+				fr: "Vous avez été dans la peau de la psychologue du Daedalus, alors... comment on se sent, folle ?",
+				de: "You were the psychologist of the Daedalus, so... how did you feel? Mad?",
+				es: "Has sido psicólogo(a) en el Daedalus. ¿De verdad están todos locos?"
 			}
 		},
 		{
@@ -25090,6 +25788,12 @@ var roland = {
 				fr: "Tchou tchou !",
 				de: "Choo choo!",
 				es: "¡Arranca!"
+			},
+			description: {
+				en: "You were the most feared hunter aboard the Daedalus... In saying that, there weren't that many hunters...",
+				fr: "Vous avez été dans la peau d'un des plus redoutable chasseur du Daedalus... Bon, vous n'êtes pas très nombreux non plus...",
+				de: "You were the most feared hunter aboard the Daedalus... In saying that, there weren't that many hunters...",
+				es: "Has sido un piloto de caza en el Daedalus... ¡Bam, bam, BUUUUM!"
 			}
 		},
 		{
@@ -25153,6 +25857,12 @@ var hua = {
 				fr: "Un mars et ça repart",
 				de: "A mars and we're off",
 				es: "Yo traigo las bebidas"
+			},
+			description: {
+				en: "You were a legendary explorer, how did it go... were you disappointed not to have 3 eyes?",
+				fr: "Vous avez été dans la peau d'une exploratrice légendaire, alors... déçu de ne pas avoir 3 yeux ?",
+				de: "You were a legendary explorer, how did it go... were you disappointed not to have 3 eyes?",
+				es: "Has sido una exploradora legendaria. Te hubiese gustado tener 3 ojos, ¿verdad?"
 			}
 		},
 		{
@@ -25216,6 +25926,12 @@ var paola = {
 				fr: "bzzzz...Bzzzitt !",
 				de: "bzzzz...Bzzztt!",
 				es: "Shhhh... ¡Silencio!"
+			},
+			description: {
+				en: "You have been an intrepid system rebel, nothing and nobody can distract you from the truth!",
+				fr: "Vous avez été dans la peau d'une intrépide rebelle au système, rien ni personne ne peut vous détourner de la vérité !",
+				de: "You have been an intrepid system rebel, nothing and nobody can distract you from the truth!",
+				es: "Has sido una rebelde intrépida. Un modelo a seguir en las próximas misiones."
 			}
 		},
 		{
@@ -25279,6 +25995,12 @@ var chao = {
 				fr: "Boom! héhéhé...",
 				de: "Boom! hahahaha...",
 				es: "¡Bim-Bam-BUUUM!"
+			},
+			description: {
+				en: "You have been a galactic sharp-shooter, are you still as trigger-happy?",
+				fr: "Vous avez été dans la peau d'un franc-tireur de l'espace, vous avez encore la gachette facile ?",
+				de: "You have been a galactic sharp-shooter, are you still as trigger-happy?",
+				es: "Has sido un francotirador del espacio. ¡Ya deja de apuntarme!"
 			}
 		},
 		{
@@ -25342,6 +26064,12 @@ var finola = {
 				fr: "Mais qu'est ce que je fais là ?",
 				de: "What on earth am I doing?",
 				es: "Quisiera ser un microbito"
+			},
+			description: {
+				en: "You were a renowned scientist, could you be persuaded to refute that for a tasty bonus?",
+				fr: "Vous avez été dans la peau d'une scientifique de renom, vous ne diriez pas non pour un petit prélévement de plus ?",
+				de: "You were a renowned scientist, could you be persuaded to refute that for a tasty bonus?",
+				es: "Has sido un científico de renombre intergaláctico. Nunca pensaste ser tan inteligente, ¿verdad?"
 			}
 		},
 		{
@@ -25405,6 +26133,12 @@ var stephen = {
 				fr: "A table !",
 				de: "Dinner's ready!",
 				es: "¡A la mesa!"
+			},
+			description: {
+				en: "Lesson 1, Act 1 : Where is Stephen ? Stephen is ... in the kitchen !",
+				fr: "Leçon 1, Acte 1 : Where is Stephen ? Stephen is ... in the kitchen !",
+				de: "Lesson 1, Act 1 : Where is Stephen ? Stephen is ... in the kitchen !",
+				es: "Has sido el mejor cocinero del espacio, pero... ¿por qué nunca comes lo que cocinas?"
 			}
 		},
 		{
@@ -25468,6 +26202,12 @@ var ian = {
 				fr: "Elle m'aime un peu, beaucoup...",
 				de: "She likes a little, a lot...",
 				es: "Me quiere, no me quiere..."
+			},
+			description: {
+				en: "You were once a nature lover, at the end of your days you'll surely make good fertilizer.",
+				fr: "Vous avez été dans la peau d'un amoureux de la nature, à la fin de votre existence vous ferez sûrement du bon engrais.",
+				de: "You were once a nature lover, at the end of your days you'll surely make good fertilizer.",
+				es: "Has sido un amante de la naturaleza, cuando mueras serás un buen abono."
 			}
 		},
 		{
@@ -25531,6 +26271,12 @@ var chun = {
 				fr: "At... atmush !",
 				de: "At... atmush!",
 				es: "Soy importante"
+			},
+			description: {
+				en: "You lived in the body of the most popular of human guinea pigs, although this wasn't exactly the type of celebrity you dreamed of becoming!",
+				fr: "Vous avez vécu dans la peau du cobaye humain le plus prisé ces derniers temps, pas le genre de célébrité dont vous réviez !",
+				de: "You lived in the body of the most popular of human guinea pigs, although this wasn't exactly the type of celebrity you dreamed of becoming!",
+				es: "Siempre quisiste aportar a la ciencia, ¡pero no de esa manera!"
 			}
 		},
 		{
@@ -25594,6 +26340,12 @@ var raluca = {
 				fr: "Miou miou",
 				de: "Miaow Miaow",
 				es: "Qué me miras"
+			},
+			description: {
+				en: "Yeah, nobody pretends to understand a single word you say, maybe now would be a good time to come back to the land of the mortals.",
+				fr: "Oui, personne ne comprend un traître mot de ce que vous dîtes, peut-être serait'il bon de revenir parmi le commun des mortels.",
+				de: "Yeah, nobody pretends to understand a single word you say, maybe now would be a good time to come back to the land of the mortals.",
+				es: "Eres un personaje tan inteligente pero tan misterioso..."
 			}
 		},
 		{
@@ -25657,6 +26409,12 @@ var gioele = {
 				fr: "Moi d'abord !",
 				de: "Me first!",
 				es: "¡Yo primero!"
+			},
+			description: {
+				en: "Being a billionaire is a dream on Earth... But in space, with a Mush on board...",
+				fr: "Etre milliardaire, c'est le rêve de tout homme sur terre... Mais dans l'espace, et avec un Mush à bord...",
+				de: "Being a billionaire is a dream on Earth... But in space, with a Mush on board...",
+				es: "En la tierra tus billetes valen mucho... pero en el espacio, y con un Mush a bordo..."
 			}
 		},
 		{
@@ -25720,6 +26478,12 @@ var eleesha = {
 				fr: "Tardiflette",
 				de: "Funk Soul Lover",
 				es: "Sigue mi ritmo"
+			},
+			description: {
+				en: "You've been bopping round the corridors to the rhythm of disco-pop, it's a shame this costume doesn't have sequins...",
+				fr: "Vous avez arpenté les couloirs du Daedalus sur le rythme du disco-pop, dommage que ce costume manque de paillette...",
+				de: "You've been bopping round the corridors to the rhythm of disco-pop, it's a shame this costume doesn't have sequins...",
+				es: "Fuiste quien le puso ritmo a la travesía espacial."
 			}
 		},
 		{
@@ -25783,6 +26547,12 @@ var terrence = {
 				fr: "Attendez que je passe la seconde !",
 				de: "Rock n Roll!",
 				es: "Habla con mi mano"
+			},
+			description: {
+				en: "You lived as a brilliant engineer, and those who underestimated you regret it bitterly!",
+				fr: "Vous avez vécu dans la peau d'un brillant ingénieur, ceux qui vous ont sous-estimé le regrette encore amèrement !",
+				de: "You lived as a brilliant engineer, and those who underestimated you regret it bitterly!",
+				es: "Felizmente fuiste ingeniero y no un animador de fiestas infantiles."
 			}
 		},
 		{
@@ -25846,6 +26616,12 @@ var derek = {
 				fr: "Puceau de l'espace",
 				de: "Space Virgin",
 				es: "Galán"
+			},
+			description: {
+				en: "You lived as a self-proclaimed intergalactic super hero, and those who mocked you will be reminded of it one day!",
+				fr: "Vous avez vécu dans la peau d'un super héros intergalactique auto-proclamé, ceux qui se moque de vous s'en souviendront un jour !",
+				de: "You lived as a self-proclaimed intergalactic super hero, and those who mocked you will be reminded of it one day!",
+				es: "Fuiste un héroe intergaláctico, ¡con una reputación dudosa pero famoso al fin!"
 			}
 		},
 		{
@@ -25909,6 +26685,12 @@ var andie = {
 				fr: "Dans la fédération je crois !",
 				de: "I believe in the federation!",
 				es: "¡Viva la FDS!"
+			},
+			description: {
+				en: "You have lived as a pawn of the Federation. It's time to change teams!",
+				fr: "Vous avez vécu dans la peau d'un pion de la fédération, il serait temps de changer de bord !",
+				de: "You have lived as a pawn of the Federation. It's time to change teams!",
+				es: "Fuiste un peón de la FDS en el Daedalus, ¿de qué lado estás?"
 			}
 		},
 		{
@@ -25972,6 +26754,12 @@ var mushxp = {
 				fr: "Mushi mushi ?",
 				de: "Mushi mushi?",
 				es: "Te gusto, lo sé"
+			},
+			description: {
+				en: "Gnarf, shnarf... brarf... Reproduction... Mushhhh!",
+				fr: "Gnouarf, shnarf... beuarf... Reproduction... Mushhhh !",
+				de: "Gnarf, shnarf... brarf... Reproduction... Mushhhh!",
+				es: "Fuiste uno de los villanos más temidos del espacio. Es más, el juego lleva tu nombre."
 			}
 		},
 		{
@@ -26035,6 +26823,12 @@ var beta = {
 				fr: "Pionnier de Xyloph",
 				de: "Xyloph Pioneer",
 				es: "Pionero beta-tester"
+			},
+			description: {
+				en: "Title uniquely awarded to Mush beta testers.",
+				fr: "Titre uniquement décerné aux beta-testeurs de Mush.",
+				de: "Title uniquely awarded to Mush beta testers.",
+				es: "Título exclusivo para los beta-testers de Mush."
 			}
 		}
 	]
@@ -26058,6 +26852,12 @@ var avt_prems = {
 				fr: "Initié",
 				de: "Insider",
 				es: "Primero de la fila"
+			},
+			description: {
+				en: "Title uniquely awarded to players in the sneak preview of Mush.",
+				fr: "Titre uniquement décerné aux joueurs de l'avant-première de Mush.",
+				de: "Title uniquely awarded to players in the sneak preview of Mush.",
+				es: "Título exclusivo para los participantes en el Pre-Estreno de Mush."
 			}
 		}
 	]
@@ -26081,6 +26881,12 @@ var neron_flu = {
 				fr: "Grippé",
 				de: "Flu Survivor",
 				es: "Resistente"
+			},
+			description: {
+				en: "Title uniquely awarded to survivers of the NERON Flu epidemic.",
+				fr: "Titre réservé aux survivants de l'épisode grippal de NERON.",
+				de: "Title uniquely awarded to survivers of the NERON Flu epidemic.",
+				es: "Título reservado a los supervivientes del ataque gripal de NERON."
 			}
 		}
 	]
@@ -26104,6 +26910,12 @@ var eden = {
 				fr: "Te''e à t'ibo'd !",
 				de: "Don't hate the player!",
 				es: "Vacacionista"
+			},
+			description: {
+				en: "Title uniquely awarded to survivors of the Daedalus who reached Eden, the promised land.",
+				fr: "Titre réservé aux survivants du Daedalus ayant atteint Eden, la terre promise.",
+				de: "Title uniquely awarded to survivors of the Daedalus who reached Eden, the promised land.",
+				es: "Título exclusivo para los supervivientes del Daedalus que llegaron a Edén, la tierra prometida."
 			}
 		},
 		{
@@ -26167,6 +26979,12 @@ var eden_contaminated = {
 				fr: "Dévoreur des mondes",
 				de: "Devourer of worlds",
 				es: "Devorador de mundos"
+			},
+			description: {
+				en: "Title uniquely awarded to Mush agents who infested Eden, the contaminated land.",
+				fr: "Titre réservé aux Mush ayant infesté Eden, la terre contaminée !",
+				de: "Title uniquely awarded to Mush agents who infested Eden, the contaminated land.",
+				es: "Título reservado a los Mush que contaminaron el Edén."
 			}
 		}
 	]
@@ -26202,6 +27020,12 @@ var no_mush = {
 				fr: "Petit joueur",
 				de: "Part Timer",
 				es: "Pequeño jugador"
+			},
+			description: {
+				en: "Title reserved for thosewho don't like to be disturbed while they're growing radishes or whatever it is they do.",
+				fr: "Titre réservé à ceux qui n'aime pas qu'on les embêtent pendant qu'ils cultivent leurs radis.",
+				de: "Title reserved for thosewho don't like to be disturbed while they're growing radishes or whatever it is they do.",
+				es: "Título reservado a quienes no les gusta ser molestados cuando juegan."
 			}
 		}
 	]
@@ -26225,6 +27049,12 @@ var three_mush = {
 				fr: "Pinuts",
 				de: "Hat-trick",
 				es: "Pinuts"
+			},
+			description: {
+				en: "One more, one less, I take care of business!",
+				fr: "Un de plus, un de moins, j'en fais mon affaire !",
+				de: "One more, one less, I take care of business!",
+				es: "Uno más, uno menos, igual ya gané."
 			}
 		}
 	]
@@ -26248,6 +27078,12 @@ var fungal_battle = {
 				fr: "Amanite",
 				de: "Death Cup",
 				es: "Hongo fuerte"
+			},
+			description: {
+				en: "You have emerged victorious from a fungal battle.",
+				fr: "Vous avez triomphé lors d'une bataille fongique.",
+				de: "You have emerged victorious from a fungal battle.",
+				es: "Has vencido en una batalla mushiana."
 			}
 		}
 	]
@@ -26271,6 +27107,12 @@ var fast_cycle = {
 				fr: "Oronge mécanique",
 				de: "'Stooled Up",
 				es: "Hongo mecánico"
+			},
+			description: {
+				en: "Done and dusted. Job's a good one.",
+				fr: "Vite fait, bien fait, emballé c'est pesé.",
+				de: "Done and dusted. Job's a good one.",
+				es: "Fue rápido y sin dolor."
 			}
 		}
 	]
@@ -26294,6 +27136,12 @@ var blitz_cycle = {
 				fr: "Turboronge",
 				de: "Turboterror",
 				es: "Hongo mortal"
+			},
+			description: {
+				en: "I'm quick as bro. 1 winner, 16 losers. Quick smart",
+				fr: "Je suis rapide. 1 gagnant, 16 perdants. Rapide",
+				de: "I'm quick as bro. 1 winner, 16 losers. Quick smart",
+				es: "Solo hubo un ganador y fuiste tú."
 			}
 		}
 	]
@@ -26317,6 +27165,12 @@ var slow_cycle = {
 				fr: "Sequoia",
 				de: "Sequoia",
 				es: "Hongo macho"
+			},
+			description: {
+				en: "You're here for the long game. Good work!",
+				fr: "Vous les préférez bien longues vos parties. Super !",
+				de: "You're here for the long game. Good work!",
+				es: "Prefieres las partidas largas, como los grandes."
 			}
 		}
 	]
@@ -26340,6 +27194,12 @@ var no_mush_bar = {
 				fr: "Nocturnum",
 				de: "Nocturnum",
 				es: "Hongo bongo"
+			},
+			description: {
+				en: "You never saw this one coming...",
+				fr: "Vous l'avez pas vu venir celui là...",
+				de: "You never saw this one coming...",
+				es: "Ese que no se deja ver..."
 			}
 		}
 	]
@@ -26363,6 +27223,12 @@ var mush_progressive = {
 				fr: "Agaric",
 				de: "Agaric",
 				es: "Hongo en potencia"
+			},
+			description: {
+				en: "Little by little!",
+				fr: "Tu quoque mi fungi !",
+				de: "Little by little!",
+				es: "¿Qué quieres ser cuando seas grande?"
 			}
 		}
 	]
@@ -26386,6 +27252,12 @@ var chun_battle = {
 				fr: "Rempart de l'humanité",
 				de: "Last Bastion of Humanity",
 				es: "Escudo humano"
+			},
+			description: {
+				en: "You have survived a fungal battle as Chun!",
+				fr: "Vous avez survécu à une bataille fongique en étant Chun !",
+				de: "You have survived a fungal battle as Chun!",
+				es: "Has sobrevivido a una batalla mushiana siendo Chun."
 			}
 		}
 	]
@@ -26409,6 +27281,12 @@ var ep1 = {
 				fr: "Episode 1 : Embarquement sur le Daedalus",
 				de: "Episode 1: All Aboard the Daedalus",
 				es: "Episodio 1"
+			},
+			description: {
+				en: "You' were strolling around the Deadalus in Episode 1 of Mush",
+				fr: "Vous avez arpenté le Daedalus durant le premier épisode de Mush.",
+				de: "You' were strolling around the Deadalus in Episode 1 of Mush",
+				es: "Participaste en el primer episodio de Mush."
 			}
 		}
 	]
@@ -26432,6 +27310,12 @@ var ep2 = {
 				fr: "Episode 2 : Cristallites aigus",
 				de: "Episode 2 : Crystallite Shards",
 				es: "Episodio 2"
+			},
+			description: {
+				en: "You' were strolling around the Deadalus during Episode 2 of Mush",
+				fr: "Vous avez arpenté le Daedalus durant le deuxième épisode de Mush.",
+				de: "You' were strolling around the Deadalus during Episode 2 of Mush",
+				es: "Participaste en el segundo episodio de Mush."
 			}
 		}
 	]
@@ -26455,6 +27339,12 @@ var ep3 = {
 				fr: "Episode 3 : Neron vous regarde",
 				de: "Episode 3 : Neron is watching you",
 				es: "Episodio 3"
+			},
+			description: {
+				en: "You' were strolling around the Deadalus during Episode 3 of Mush",
+				fr: "Vous avez arpenté le Daedalus durant le troisième épisode de Mush.",
+				de: "You' were strolling around the Deadalus during Episode 3 of Mush",
+				es: "Participaste en el tercer episodio de Mush."
 			}
 		}
 	]
@@ -26478,6 +27368,12 @@ var ep4 = {
 				fr: "Episode 4 : Nouvelles générations",
 				de: "Episode 4 : New Generations",
 				es: "Episodio 4"
+			},
+			description: {
+				en: "You' were strolling around the Deadalus during Episode 4 of Mush.",
+				fr: "Vous avez arpenté le Daedalus durant le quatrième épisode de Mush.",
+				de: "You' were strolling around the Deadalus during Episode 4 of Mush.",
+				es: "Participaste en el cuarto episodio de Mush."
 			}
 		}
 	]
@@ -26501,6 +27397,12 @@ var ep5 = {
 				fr: "Episode 5 : Vieilles connaissances",
 				de: "Episode 5 : Vieilles connaissances",
 				es: "Episodio 5"
+			},
+			description: {
+				en: "You were aboard the Daedalus during Episode 5 of Mush.",
+				fr: "Vous avez erré sur le Daedalus durant le cinquième épisode de Mush.",
+				de: "You were aboard the Daedalus during Episode 5 of Mush.",
+				es: "Participaste en el quinto episodio de Mush."
 			}
 		}
 	]
@@ -26522,6 +27424,12 @@ var ep6 = {
 			title: {
 				en: "",
 				fr: "Episode 6 : Sommeil fongique",
+				de: "",
+				es: ""
+			},
+			description: {
+				en: "",
+				fr: "Vous avez erré sur le Daedalus durant le sixième épisode de Mush.",
 				de: "",
 				es: ""
 			}
@@ -26547,6 +27455,12 @@ var ticket = {
 				fr: "Supporter",
 				de: "Supporter",
 				es: "Honoris causa"
+			},
+			description: {
+				en: "You have supported Mush and with your help, it has evolved. Thank you!",
+				fr: "Vous avez soutenu Mush et grâce à vous on l'a fait avancer, merci !",
+				de: "You have supported Mush and with your help, it has evolved. Thank you!",
+				es: "Has apoyado al desarrollo del juego. ¡Gracias!"
 			}
 		}
 	]
@@ -26570,11 +27484,17 @@ var altruisme = {
 				fr: "Altruiste",
 				de: "Altruist",
 				es: "Altruista"
+			},
+			description: {
+				en: "You have already supported your community by sending a gift to another player, bravo!",
+				fr: "Vous avez déjà soutenu votre communauté en envoyant un cadeau à un joueur, bravo !",
+				de: "You have already supported your community by sending a gift to another player, bravo!",
+				es: "Has sido generoso enviando un regalo a un jugador. ¡Bravo!"
 			}
 		}
 	]
 };
-var mush = {
+var mushJson = {
 	signal_fire: signal_fire,
 	win_nova: win_nova,
 	win_triumph: win_triumph,
@@ -30225,7 +31145,7 @@ var amanif = {
 		}
 	]
 };
-var naturalchimie2 = {
+var naturalchimie2Json = {
 	ccl: ccl,
 	cmm: cmm,
 	cnaz: cnaz,
@@ -32794,7 +33714,7 @@ var bfroze = {
 		}
 	]
 };
-var odyssey = {
+var odysseyJson = {
 	compas: compas,
 	triton: triton,
 	ring: ring$1,
@@ -32960,6 +33880,12 @@ var questa = {
 				fr: "Serpentin",
 				de: "Serpentine",
 				es: "Serpentín"
+			},
+			description: {
+				en: "Reach 20000 points in the arena",
+				fr: "Dépasser 20000 points dans l'arène",
+				de: "Erspiele ueber 20.000 Punkte in der Arena",
+				es: "Logra mas de 20000 puntos en la arena"
 			}
 		},
 		{
@@ -32971,6 +33897,12 @@ var questa = {
 				fr: "HippoGlouton",
 				de: "HippoGlouton",
 				es: "HipoGlotón"
+			},
+			description: {
+				en: "Reach 100000 points in the arena",
+				fr: "Dépasser 100000 points dans l'arène",
+				de: "Erspiele ueber 100.000 Punkte in der Arena",
+				es: "Logra mas de 100000 puntos en la arena"
 			}
 		}
 	]
@@ -32995,6 +33927,12 @@ var questb = {
 				fr: "Apprenti fructologue",
 				de: "Früchte-Azubi",
 				es: "Aprendíz Frutólogo"
+			},
+			description: {
+				en: "Discover 100 fruits in the encyclopefruit",
+				fr: "Découvrir 100 fruits dans l'encyclopéfruit",
+				de: "Entdecke 100 Fruechte vom Fruchtlexikon",
+				es: "Descubre 100 frutas en la Enciclofruta"
 			}
 		}
 	]
@@ -33019,6 +33957,12 @@ var questc = {
 				fr: "Comptable",
 				de: "Buchhalter",
 				es: "Contador"
+			},
+			description: {
+				en: "Score exactly 30000 points",
+				fr: "Obtenir un score exact de 30000 points",
+				de: "Erreiche genau 30.000 Punkte",
+				es: "Haz un score exacto de 30000 puntos"
 			}
 		}
 	]
@@ -33043,6 +33987,12 @@ var questd = {
 				fr: "constrictor",
 				de: "Riesenschlange",
 				es: "Constrictor"
+			},
+			description: {
+				en: "Get more than 300000 points in the arena",
+				fr: "Dépasser 300000 points dans l'arène",
+				de: "Erspiele ueber 300.000 Punkte in der Arena",
+				es: "Logra mas 300000 puntos en la arena"
 			}
 		}
 	]
@@ -33067,6 +34017,12 @@ var queste = {
 				fr: "Frutivorace",
 				de: "Früchteverschlinger",
 				es: "Frutivoraz"
+			},
+			description: {
+				en: "Discover 300 fruits in the Encyclopefruit",
+				fr: "Découvrir 300 fruits dans l'encyclopéfruit",
+				de: "Entdecke 300 Fruechte vom Fruchtlexikon",
+				es: "Descubre 300 frutas en la Enciclofruta"
 			}
 		}
 	]
@@ -33091,6 +34047,12 @@ var questf = {
 				fr: "obnubilé",
 				de: "für alle Zeiten",
 				es: "Obstinado"
+			},
+			description: {
+				en: "Swallow 1000 Pokarans",
+				fr: "Avaler 1000 Pokarans",
+				de: "Friss 1.000 Pokarans",
+				es: "Traga 1000 pocaranes"
 			}
 		}
 	]
@@ -38252,7 +39214,7 @@ var ko = {
 		}
 	]
 };
-var snake = {
+var snakeJson = {
 	questa: questa,
 	questb: questb,
 	questc: questc,
@@ -39397,7 +40359,7 @@ var w_letter_z = {
 		}
 	]
 };
-var streetwriter = {
+var streetwriterJson = {
 	wapp: wapp,
 	wgames: wgames,
 	wquests: wquests,
@@ -39471,7 +40433,13 @@ var mega = {
 		{
 			count: 1,
 			points: 10,
-			icon: "boxe_01.png"
+			icon: "boxe_01.png",
+			description: {
+				en: "Plus de 3 perfects en salon Megaquiz",
+				fr: "Plus de 3 perfects en salon Megaquiz",
+				de: "Plus de 3 perfects en salon Megaquiz",
+				es: "Plus de 3 perfects en salon Megaquiz"
+			}
 		}
 	],
 	description: {
@@ -39494,7 +40462,13 @@ var cult = {
 		{
 			count: 1,
 			points: 10,
-			icon: "boxe_02.png"
+			icon: "boxe_02.png",
+			description: {
+				en: "Plus de 3 perfects en salon Culture",
+				fr: "Plus de 3 perfects en salon Culture",
+				de: "Plus de 3 perfects en salon Culture",
+				es: "Plus de 3 perfects en salon Culture"
+			}
 		}
 	],
 	description: {
@@ -39517,7 +40491,13 @@ var spect = {
 		{
 			count: 1,
 			points: 10,
-			icon: "boxe_03.png"
+			icon: "boxe_03.png",
+			description: {
+				en: "Plus de 3 perfects en salon Spectacle",
+				fr: "Plus de 3 perfects en salon Spectacle",
+				de: "Plus de 3 perfects en salon Spectacle",
+				es: "Plus de 3 perfects en salon Spectacle"
+			}
 		}
 	],
 	description: {
@@ -41167,7 +42147,7 @@ var fraise = {
 		es: "Vous avez été invité au banquet spécial présenté par Charlotte ! Elle vous préparé une Charlotte aux fraises personnalisée au chocolat et à la mayonnaise. Vous pouvez soit consommer ce picto en le postant UNE SEULE FOIS sur un espace communautaire de Twinoïd, soit le conserver dans votre inventaire. En cas de maux d'estomac, veuillez consulter votre médecin."
 	}
 };
-var studioquiz = {
+var studioquizJson = {
 	mega: mega,
 	cult: cult,
 	spect: spect,
@@ -48384,7 +49364,7 @@ var hat11 = {
 		es: "Félicitation ! Vous avez trouvé un chapeau en forme de tête de bonhomme de neige."
 	}
 };
-var teacherstory = {
+var teacherstoryJson = {
 	colec: colec,
 	allcolec: allcolec,
 	betats: betats,
@@ -48680,26 +49660,64 @@ var generateGameStructure = function (goals) { return ({
     get: getGoal(goals),
     getUnlocked: getUnlockedGoals(goals)
 }); };
+var alphabounce = generateGameStructure(adjustGoals(alphabounceJson));
+var croquemotel = generateGameStructure(adjustGoals(croquemotelJson));
+var dinorpg = generateGameStructure(adjustGoals(dinorpgJson));
+var fever = generateGameStructure(adjustGoals(feverJson));
+var hordes = generateGameStructure(adjustGoals(hordesJson));
+var intrusion = generateGameStructure(adjustGoals(intrusionJson));
+var kadokado = generateGameStructure(adjustGoals(kadokadoJson));
+var kingdom = generateGameStructure(adjustGoals(kingdomJson));
+var kube = generateGameStructure(adjustGoals(kubeJson));
+var labrute = generateGameStructure(adjustGoals(labruteJson));
+var majority = generateGameStructure(adjustGoals(majorityJson));
+var motionball2 = generateGameStructure(adjustGoals(montionball2Json));
+var mush = generateGameStructure(adjustGoals(mushJson));
+var naturalchimie2 = generateGameStructure(adjustGoals(naturalchimie2Json));
+var odyssey = generateGameStructure(adjustGoals(odysseyJson));
+var snake = generateGameStructure(adjustGoals(snakeJson));
+var streetwriter = generateGameStructure(adjustGoals(streetwriterJson));
+var studioquiz = generateGameStructure(adjustGoals(studioquizJson));
+var teacherstory = generateGameStructure(adjustGoals(teacherstoryJson));
 var TwinoidGoals = {
-    alphabounce: generateGameStructure(adjustGoals(alphabounce)),
-    croquemotel: generateGameStructure(adjustGoals(croquemotel)),
-    dinorpg: generateGameStructure(adjustGoals(dinorpg)),
-    fever: generateGameStructure(adjustGoals(fever)),
-    hordes: generateGameStructure(adjustGoals(hordes)),
-    intrusion: generateGameStructure(adjustGoals(intrusion)),
-    kadokado: generateGameStructure(adjustGoals(kadokado)),
-    kingdom: generateGameStructure(adjustGoals(kingdom)),
-    kube: generateGameStructure(adjustGoals(kube)),
-    labrute: generateGameStructure(adjustGoals(labrute)),
-    majority: generateGameStructure(adjustGoals(majority)),
-    motionball2: generateGameStructure(adjustGoals(montionball2)),
-    mush: generateGameStructure(adjustGoals(mush)),
-    naturalchimie2: generateGameStructure(adjustGoals(naturalchimie2)),
-    odyssey: generateGameStructure(adjustGoals(odyssey)),
-    snake: generateGameStructure(adjustGoals(snake)),
-    streetwriter: generateGameStructure(adjustGoals(streetwriter)),
-    studioquiz: generateGameStructure(adjustGoals(studioquiz)),
-    teacherstory: generateGameStructure(adjustGoals(teacherstory))
+    alphabounce: alphabounce,
+    croquemotel: croquemotel,
+    dinorpg: dinorpg,
+    fever: fever,
+    hordes: hordes,
+    intrusion: intrusion,
+    kadokado: kadokado,
+    kingdom: kingdom,
+    kube: kube,
+    labrute: labrute,
+    majority: majority,
+    motionball2: motionball2,
+    mush: mush,
+    naturalchimie2: naturalchimie2,
+    odyssey: odyssey,
+    snake: snake,
+    streetwriter: streetwriter,
+    studioquiz: studioquiz,
+    teacherstory: teacherstory
 };
 
-module.exports = TwinoidGoals;
+exports.alphabounce = alphabounce;
+exports.croquemotel = croquemotel;
+exports.default = TwinoidGoals;
+exports.dinorpg = dinorpg;
+exports.fever = fever;
+exports.hordes = hordes;
+exports.intrusion = intrusion;
+exports.kadokado = kadokado;
+exports.kingdom = kingdom;
+exports.kube = kube;
+exports.labrute = labrute;
+exports.majority = majority;
+exports.motionball2 = motionball2;
+exports.mush = mush;
+exports.naturalchimie2 = naturalchimie2;
+exports.odyssey = odyssey;
+exports.snake = snake;
+exports.streetwriter = streetwriter;
+exports.studioquiz = studioquiz;
+exports.teacherstory = teacherstory;
