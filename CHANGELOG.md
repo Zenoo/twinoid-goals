@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.2](https://github.com/Zenoo/twinoid-goals/compare/v1.2.1...v1.2.2) (2024-04-25)
+
+
+### Bug Fixes
+
+* Export independent games ([13d1fdb](https://github.com/Zenoo/twinoid-goals/commit/13d1fdbe47864e3988fdd0157cac0c0d98c4d08b))
+
 ## [1.2.1](https://github.com/Zenoo/twinoid-goals/compare/v1.2.0...v1.2.1) (2023-11-15)
 
 
